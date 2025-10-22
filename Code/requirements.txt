@@ -1,0 +1,5 @@
+stanza
+conllu
+pandas
+nltk
+spacy
