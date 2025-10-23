@@ -3034,8 +3034,7 @@
 1	pool	pool	NOUN	NN	Number=Sing	0	root	_	_
 
 
-1	2048	2048	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	_	_
-2	dimensional	dimensional	NOUN	NN	Number=Sing	0	root	_	_
+1	2048dimensional	2048dimensional	PROPN	ADD	Number=Sing	0	root	_	_
 
 
 1	feature	feature	NOUN	NN	Number=Sing	0	root	_	_
@@ -5991,8 +5990,7 @@
 1	nvidia	nvidia	PROPN	NNP	Number=Sing	0	root	_	_
 
 
-1	a	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_
-2	100	100	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	_
+1	a100	a100	NUM	CD	NumForm=Digit|NumType=Card	0	root	_	_
 
 
 1	gpu	gpu	NOUN	NN	Number=Sing	0	root	_	_
@@ -8203,8 +8201,7 @@
 1	positive	positive	ADJ	JJ	Degree=Pos	0	root	_	_
 
 
-1	correlation	correlation	NOUN	NN	Number=Sing	0	root	_	_
-2	.we	.we	PUNCT	.	_	1	punct	_	_
+1	correlation.we	correlation.we	PROPN	ADD	Number=Sing	0	root	_	_
 
 
 1	observe	observe	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
