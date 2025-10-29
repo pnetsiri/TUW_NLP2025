@@ -1,1 +1,1 @@
-
+This folder contains the plain-text (.txt) versions of all academic papers, with one file per paper.
