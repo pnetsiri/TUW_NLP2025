@@ -1,0 +1,6036 @@
+1	spectroscopy	spectroscopy	NOUN	NN	_	0	root	_	_
+
+
+1	represent	represent	VERB	VB	_	0	root	_	_
+
+
+1	ideal	ideal	ADJ	JJ	_	0	root	_	_
+
+
+1	observational	observational	ADJ	JJ	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	maximally	maximally	ADV	RB	_	0	root	_	_
+
+
+1	extract	extract	NOUN	NN	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	regard	regard	VERB	VB	_	0	root	_	_
+
+
+1	star	star	NOUN	NN	_	0	root	_	_
+
+
+1	formation	formation	NOUN	NN	_	0	root	_	_
+
+
+1	chemical	chemical	ADJ	JJ	_	0	root	_	_
+
+
+1	enrichment	enrichment	NOUN	NN	_	0	root	_	_
+
+
+1	history	history	NOUN	NN	_	0	root	_	_
+
+
+1	however	however	ADV	RB	_	0	root	_	_
+
+
+1	absorption	absorption	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	prove	prove	VERB	VB	_	0	root	_	_
+
+
+1	rather	rather	ADV	RB	_	0	root	_	_
+
+
+1	challenge	challenge	VERB	VB	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	redshift	redshift	NOUN	NN	_	0	root	_	_
+
+
+1	low	low	ADJ	JJ	_	0	root	_	_
+
+
+1	mass	mass	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	due	due	ADJ	JJ	_	0	root	_	_
+
+
+1	need	need	VERB	VB	_	0	root	_	_
+
+
+1	spread	spread	NOUN	NN	_	0	root	_	_
+
+
+1	photon	photon	NOUN	NN	_	0	root	_	_
+
+
+1	relatively	relatively	ADV	RB	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	set	set	VERB	VB	_	0	root	_	_
+
+
+1	spectral	spectral	ADJ	JJ	_	0	root	_	_
+
+
+1	bin	bin	PROPN	NNP	_	0	root	_	_
+
+
+1	reason	reason	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	many	many	ADJ	JJ	_	0	root	_	_
+
+
+1	state	state	NOUN	NN	_	0	root	_	_
+
+
+1	art	art	NOUN	NN	_	0	root	_	_
+
+
+1	spectroscopic	spectroscopic	NOUN	NN	_	0	root	_	_
+
+
+1	survey	survey	NOUN	NN	_	0	root	_	_
+
+
+1	suffer	suffer	VERB	VB	_	0	root	_	_
+
+
+1	low	low	ADJ	JJ	_	0	root	_	_
+
+
+1	signal	signal	VERB	VB	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	ratio	ratio	NOUN	NN	_	0	root	_	_
+
+
+1	prevent	prevent	VERB	VB	_	0	root	_	_
+
+
+1	accurate	accurate	ADJ	JJ	_	0	root	_	_
+
+
+1	estimate	estimate	VERB	VB	_	0	root	_	_
+
+
+1	stellar	stellar	ADJ	JJ	_	0	root	_	_
+
+
+1	population	population	NOUN	NN	_	0	root	_	_
+
+
+1	parameter	parameter	NOUN	NN	_	0	root	_	_
+
+
+1	paper	paper	NOUN	NN	_	0	root	_	_
+
+
+1	tackle	tackle	NOUN	NN	_	0	root	_	_
+
+
+1	issue	issue	NOUN	NN	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	ensemble	ensemble	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	unsupervised	unsupervised	ADJ	JJ	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	technique	technique	NOUN	NN	_	0	root	_	_
+
+
+1	train	train	NOUN	NN	_	0	root	_	_
+
+
+1	homogeneous	homogeneous	ADJ	JJ	_	0	root	_	_
+
+
+1	sample	sample	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	wide	wide	ADJ	JJ	_	0	root	_	_
+
+
+1	range	range	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	reconstruct	reconstruct	VERB	VB	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	allow	allow	VERB	VB	_	0	root	_	_
+
+
+1	investigate	investigate	VERB	VB	_	0	root	_	_
+
+
+1	potential	potential	ADJ	JJ	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	faithfully	faithfully	ADV	RB	_	0	root	_	_
+
+
+1	reproduce	reproduce	VERB	VB	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	incomplete	incomplete	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	methodology	methodology	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	line	line	NOUN	NN	_	0	root	_	_
+
+
+1	strength	strength	NOUN	NN	_	0	root	_	_
+
+
+1	compare	compare	VERB	VB	_	0	root	_	_
+
+
+1	synthetic	synthetic	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	assess	assess	VERB	VB	_	0	root	_	_
+
+
+1	retrieval	retrieval	NOUN	NN	_	0	root	_	_
+
+
+1	bias	bias	NOUN	NN	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	suggest	suggest	VERB	VB	_	0	root	_	_
+
+
+1	standard	standard	ADJ	JJ	_	0	root	_	_
+
+
+1	autoencoder	autoencoder	PROPN	NNP	_	0	root	_	_
+
+
+1	powerful	powerful	ADJ	JJ	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	introduce	introduce	VERB	VB	_	0	root	_	_
+
+
+1	systematic	systematic	ADJ	JJ	_	0	root	_	_
+
+
+1	reconstruction	reconstruction	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	note	note	NOUN	NN	_	0	root	_	_
+
+
+1	work	work	NOUN	NN	_	0	root	_	_
+
+
+1	careful	careful	ADJ	JJ	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	need	need	VERB	VB	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	quick	quick	ADJ	JJ	_	0	root	_	_
+
+
+1	check	check	VERB	VB	_	0	root	_	_
+
+
+1	produce	produce	VERB	VB	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	appear	appear	VERB	VB	_	0	root	_	_
+
+
+1	noiseless	noiseless	ADJ	JJ	_	0	root	_	_
+
+
+1	fact	fact	NOUN	NN	_	0	root	_	_
+
+
+1	strongly	strongly	ADV	RB	_	0	root	_	_
+
+
+1	biased	biased	ADJ	JJ	_	0	root	_	_
+
+
+1	towards	towards	ADP	IN	_	0	root	_	_
+
+
+1	simple	simple	ADJ	JJ	_	0	root	_	_
+
+
+1	overfitte	overfitte	NOUN	NN	_	0	root	_	_
+
+
+1	noisy	noisy	ADJ	JJ	_	0	root	_	_
+
+
+1	input	input	NOUN	NN	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	minimal	minimal	ADJ	JJ	_	0	root	_	_
+
+
+1	bias	bias	NOUN	NN	_	0	root	_	_
+
+
+1	maximise	maximise	VERB	VB	_	0	root	_	_
+
+
+1	quality	quality	NOUN	NN	_	0	root	_	_
+
+
+1	ongoe	ongoe	INTJ	UH	_	0	root	_	_
+
+
+1	future	future	NOUN	NN	_	0	root	_	_
+
+
+1	spectral	spectral	ADJ	JJ	_	0	root	_	_
+
+
+1	survey	survey	NOUN	NN	_	0	root	_	_
+
+
+1	desi	desi	NOUN	NN	_	0	root	_	_
+
+
+1	weave	weave	NOUN	NN	_	0	root	_	_
+
+
+1	wave	wave	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	word	word	NOUN	NN	_	0	root	_	_
+
+
+1	technique	technique	NOUN	NN	_	0	root	_	_
+
+
+1	spectroscopic	spectroscopic	NOUN	NN	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	statistic	statistic	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	evolution	evolution	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	stellar	stellar	ADJ	JJ	_	0	root	_	_
+
+
+1	content	content	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	fundamental	fundamental	ADJ	JJ	_	0	root	_	_
+
+
+1	parameter	parameter	NOUN	NN	_	0	root	_	_
+
+
+1	lation	lation	NOUN	NN	_	0	root	_	_
+
+
+1	synthesis	synthesis	NOUN	NN	_	0	root	_	_
+
+
+1	see	see	VERB	VB	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	walcher	walcher	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2011	2011	NUM	CD	_	0	root	_	_
+
+
+1	conroy	conroy	PROPN	NNP	_	0	root	_	_
+
+
+1	2013	2013	NUM	CD	_	0	root	_	_
+
+
+1	regard	regard	VERB	VB	_	0	root	_	_
+
+
+1	uncommon	uncommon	ADJ	JJ	_	0	root	_	_
+
+
+1	need	need	VERB	VB	_	0	root	_	_
+
+
+1	value	value	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	per	per	ADP	IN	_	0	root	_	_
+
+
+1	resolution	resolution	NOUN	NN	_	0	root	_	_
+
+
+1	element	element	NOUN	NN	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	30	30	NUM	LS	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	de	de	PROPN	NNP	_	0	root	_	_
+
+
+1	tail	tail	NOUN	NN	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	subtle	subtle	ADJ	JJ	_	0	root	_	_
+
+
+1	difference	difference	NOUN	NN	_	0	root	_	_
+
+
+1	population	population	NOUN	NN	_	0	root	_	_
+
+
+1	variation	variation	NOUN	NN	_	0	root	_	_
+
+
+1	chemical	chemical	ADJ	JJ	_	0	root	_	_
+
+
+1	abundance	abundance	NOUN	NN	_	0	root	_	_
+
+
+1	initial	initial	ADJ	JJ	_	0	root	_	_
+
+
+1	mass	mass	NOUN	NN	_	0	root	_	_
+
+
+1	func	func	NOUN	NN	_	0	root	_	_
+
+
+1	tion	tion	INTJ	UH	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	la	la	PROPN	NNP	_	0	root	_	_
+
+
+1	barbera	barbera	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2013	2013	NUM	CD	_	0	root	_	_
+
+
+1	2017	2017	NUM	CD	_	0	root	_	_
+
+
+1	ferrera	ferrera	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2019	2019	NUM	CD	_	0	root	_	_
+
+
+1	regard	regard	VERB	VB	_	0	root	_	_
+
+
+1	spectroscopic	spectroscopic	NOUN	NN	_	0	root	_	_
+
+
+1	survey	survey	NOUN	NN	_	0	root	_	_
+
+
+1	tend	tend	VERB	VB	_	0	root	_	_
+
+
+1	optimise	optimise	VERB	VB	_	0	root	_	_
+
+
+1	produce	produce	VERB	VB	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	volume	volume	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	cost	cost	NOUN	NN	_	0	root	_	_
+
+
+1	low	low	ADJ	JJ	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	aim	aim	NOUN	NN	_	0	root	_	_
+
+
+1	increase	increase	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	prove	prove	VERB	VB	_	0	root	_	_
+
+
+1	valuable	valuable	ADJ	JJ	_	0	root	_	_
+
+
+1	tool	tool	NOUN	NN	_	0	root	_	_
+
+
+1	especially	especially	ADV	RB	_	0	root	_	_
+
+
+1	ongoe	ongoe	INTJ	UH	_	0	root	_	_
+
+
+1	upcome	upcome	NOUN	NN	_	0	root	_	_
+
+
+1	survey	survey	NOUN	NN	_	0	root	_	_
+
+
+1	desi	desi	NOUN	NN	_	0	root	_	_
+
+
+1	desi	desi	NOUN	NN	_	0	root	_	_
+
+
+1	collaboration	collaboration	NOUN	NN	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2025	2025	NUM	CD	_	0	root	_	_
+
+
+1	weave	weave	NOUN	NN	_	0	root	_	_
+
+
+1	jin	jin	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2024	2024	NUM	CD	_	0	root	_	_
+
+
+1	wave	wave	NOUN	NN	_	0	root	_	_
+
+
+1	driver	driver	NOUN	NN	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2019	2019	NUM	CD	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	wavelength	wavelength	NOUN	NN	_	0	root	_	_
+
+
+1	interval	interval	NOUN	NN	_	0	root	_	_
+
+
+1	near	near	ADV	RB	_	0	root	_	_
+
+
+1	ultra	ultra	NOUN	NN	_	0	root	_	_
+
+
+1	violet	violet	NOUN	NN	_	0	root	_	_
+
+
+1	near	near	ADV	RB	_	0	root	_	_
+
+
+1	infrare	infrare	NOUN	NN	_	0	root	_	_
+
+
+1	encode	encode	VERB	VB	_	0	root	_	_
+
+
+1	vast	vast	ADJ	JJ	_	0	root	_	_
+
+
+1	amount	amount	NOUN	NN	_	0	root	_	_
+
+
+1	informa	informa	PROPN	NNP	_	0	root	_	_
+
+
+1	tion	tion	INTJ	UH	_	0	root	_	_
+
+
+1	regard	regard	VERB	VB	_	0	root	_	_
+
+
+1	property	property	NOUN	NN	_	0	root	_	_
+
+
+1	underlie	underlie	VERB	VB	_	0	root	_	_
+
+
+1	stellar	stellar	ADJ	JJ	_	0	root	_	_
+
+
+1	pop	pop	NOUN	NN	_	0	root	_	_
+
+
+1	ulation	ulation	NOUN	NN	_	0	root	_	_
+
+
+1	continuum	continuum	NOUN	NN	_	0	root	_	_
+
+
+1	absorption	absorption	NOUN	NN	_	0	root	_	_
+
+
+1	line	line	NOUN	NN	_	0	root	_	_
+
+
+1	photo	photo	NOUN	NN	_	0	root	_	_
+
+
+1	sphere	sphere	NOUN	NN	_	0	root	_	_
+
+
+1	constituent	constituent	NOUN	NN	_	0	root	_	_
+
+
+1	star	star	NOUN	NN	_	0	root	_	_
+
+
+1	leave	leave	VERB	VB	_	0	root	_	_
+
+
+1	imprint	imprint	NOUN	NN	_	0	root	_	_
+
+
+1	inte	inte	INTJ	UH	_	0	root	_	_
+
+
+1	grate	grate	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	represent	represent	VERB	VB	_	0	root	_	_
+
+
+1	workhorse	workhorse	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	forma	forma	PROPN	NNP	_	0	root	_	_
+
+
+1	tion	tion	INTJ	UH	_	0	root	_	_
+
+
+1	study	study	NOUN	NN	_	0	root	_	_
+
+
+1	concern	concern	NOUN	NN	_	0	root	_	_
+
+
+1	star	star	NOUN	NN	_	0	root	_	_
+
+
+1	formation	formation	NOUN	NN	_	0	root	_	_
+
+
+1	chemical	chemical	ADJ	JJ	_	0	root	_	_
+
+
+1	en	en	PROPN	NNP	_	0	root	_	_
+
+
+1	richment	richment	NOUN	NN	_	0	root	_	_
+
+
+1	history	history	NOUN	NN	_	0	root	_	_
+
+
+1	spectroscopic	spectroscopic	NOUN	NN	_	0	root	_	_
+
+
+1	survey	survey	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	sloan	sloan	PROPN	NNP	_	0	root	_	_
+
+
+1	digital	digital	ADJ	JJ	_	0	root	_	_
+
+
+1	sky	sky	NOUN	NN	_	0	root	_	_
+
+
+1	survey	survey	NOUN	NN	_	0	root	_	_
+
+
+1	york	york	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2000	2000	NUM	CD	_	0	root	_	_
+
+
+1	greatly	greatly	ADV	RB	_	0	root	_	_
+
+
+1	help	help	VERB	VB	_	0	root	_	_
+
+
+1	deepen	deepen	VERB	VB	_	0	root	_	_
+
+
+1	understand	understand	VERB	VB	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	formation	formation	NOUN	NN	_	0	root	_	_
+
+
+1	ever	ever	ADV	RB	_	0	root	_	_
+
+
+1	spectroscopy	spectroscopy	NOUN	NN	_	0	root	_	_
+
+
+1	require	require	VERB	VB	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	integration	integration	NOUN	NN	_	0	root	_	_
+
+
+1	time	time	NOUN	NN	_	0	root	_	_
+
+
+1	faint	faint	ADJ	JJ	_	0	root	_	_
+
+
+1	light	light	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	spread	spread	NOUN	NN	_	0	root	_	_
+
+
+1	respect	respect	NOUN	NN	_	0	root	_	_
+
+
+1	wavelength	wavelength	NOUN	NN	_	0	root	_	_
+
+
+1	often	often	ADV	RB	_	0	root	_	_
+
+
+1	time	time	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	mainly	mainly	ADV	RB	_	0	root	_	_
+
+
+1	cosmologist	cosmologist	NOUN	NN	_	0	root	_	_
+
+
+1	tool	tool	NOUN	NN	_	0	root	_	_
+
+
+1	derive	derive	VERB	VB	_	0	root	_	_
+
+
+1	redshift	redshift	NOUN	NN	_	0	root	_	_
+
+
+1	thus	thus	ADV	RB	_	0	root	_	_
+
+
+1	determine	determine	VERB	VB	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	scale	scale	NOUN	NN	_	0	root	_	_
+
+
+1	distribution	distribution	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	however	however	ADV	RB	_	0	root	_	_
+
+
+1	explore	explore	VERB	VB	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	stellar	stellar	ADJ	JJ	_	0	root	_	_
+
+
+1	population	population	NOUN	NN	_	0	root	_	_
+
+
+1	require	require	VERB	VB	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	signal	signal	VERB	VB	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	ratio	ratio	NOUN	NN	_	0	root	_	_
+
+
+1	order	order	NOUN	NN	_	0	root	_	_
+
+
+1	com	com	NOUN	NN	_	0	root	_	_
+
+
+1	pare	pare	NOUN	NN	_	0	root	_	_
+
+
+1	observation	observation	NOUN	NN	_	0	root	_	_
+
+
+1	detailed	detailed	ADJ	JJ	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	stellar	stellar	ADJ	JJ	_	0	root	_	_
+
+
+1	popu	popu	NOUN	NN	_	0	root	_	_
+
+
+1	actual	actual	ADJ	JJ	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	observation	observation	NOUN	NN	_	0	root	_	_
+
+
+1	bear	bear	NOUN	NN	_	0	root	_	_
+
+
+1	com	com	NOUN	NN	_	0	root	_	_
+
+
+1	petition	petition	NOUN	NN	_	0	root	_	_
+
+
+1	photon	photon	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	spurious	spurious	ADJ	JJ	_	0	root	_	_
+
+
+1	photon	photon	NOUN	NN	_	0	root	_	_
+
+
+1	count	count	NOUN	NN	_	0	root	_	_
+
+
+1	come	come	VERB	VB	_	0	root	_	_
+
+
+1	unwanted	unwanted	ADJ	JJ	_	0	root	_	_
+
+
+1	source	source	NOUN	NN	_	0	root	_	_
+
+
+1	background	background	NOUN	NN	_	0	root	_	_
+
+
+1	sky	sky	NOUN	NN	_	0	root	_	_
+
+
+1	airglow	airglow	NOUN	NN	_	0	root	_	_
+
+
+1	detector	detector	NOUN	NN	_	0	root	_	_
+
+
+1	reduction	reduction	NOUN	NN	_	0	root	_	_
+
+
+1	artifact	artifact	NOUN	NN	_	0	root	_	_
+
+
+1	etc	etc	NOUN	FW	_	0	root	_	_
+
+
+1	increase	increase	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	single	single	ADJ	JJ	_	0	root	_	_
+
+
+1	spectrum	spectrum	NOUN	NN	_	0	root	_	_
+
+
+1	typically	typically	ADV	RB	_	0	root	_	_
+
+
+1	feasible	feasible	ADJ	JJ	_	0	root	_	_
+
+
+1	unless	unless	SCONJ	IN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	therefore	therefore	ADV	RB	_	0	root	_	_
+
+
+1	introduce	introduce	VERB	VB	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	systematic	systematic	ADJ	JJ	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	problem	problem	NOUN	NN	_	0	root	_	_
+
+
+1	start	start	VERB	VB	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	ensemble	ensemble	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	take	take	VERB	VB	_	0	root	_	_
+
+
+1	instrument	instrument	NOUN	NN	_	0	root	_	_
+
+
+1	fol	fol	INTJ	UH	_	0	root	_	_
+
+
+1	low	low	ADJ	JJ	_	0	root	_	_
+
+
+1	reduction	reduction	NOUN	NN	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	ensemble	ensemble	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	include	include	VERB	VB	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	amount	amount	NOUN	NN	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	quality	quality	NOUN	NN	_	0	root	_	_
+
+
+1	i.e	i.e	SYM	NFP	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	e	e	PROPN	NNP	_	0	root	_	_
+
+
+1	mail	mail	NOUN	NN	_	0	root	_	_
+
+
+1	correspond	correspond	VERB	VB	_	0	root	_	_
+
+
+1	author	author	NOUN	NN	_	0	root	_	_
+
+
+1	2025	2025	NUM	CD	_	0	root	_	_
+
+
+1	author	author	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	camilleri	camilleri	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	somehow	somehow	ADV	RB	_	0	root	_	_
+
+
+1	interpolate	interpolate	VERB	VB	_	0	root	_	_
+
+
+1	among	among	ADP	IN	_	0	root	_	_
+
+
+1	en	en	PROPN	NNP	_	0	root	_	_
+
+
+1	semble	semble	X	FW	_	0	root	_	_
+
+
+1	member	member	NOUN	NN	_	0	root	_	_
+
+
+1	produce	produce	VERB	VB	_	0	root	_	_
+
+
+1	optimise	optimise	VERB	VB	_	0	root	_	_
+
+
+1	version	version	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	traditional	traditional	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	drive	drive	VERB	VB	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	principal	principal	NOUN	NN	_	0	root	_	_
+
+
+1	compo	compo	NOUN	NN	_	0	root	_	_
+
+
+1	nent	nent	INTJ	UH	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	stellar	stellar	ADJ	JJ	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	spec	spec	NOUN	NN	_	0	root	_	_
+
+
+1	tra	tra	NOUN	NN	_	0	root	_	_
+
+
+1	instance	instance	NOUN	NN	_	0	root	_	_
+
+
+1	remove	remove	VERB	VB	_	0	root	_	_
+
+
+1	emission	emission	NOUN	NN	_	0	root	_	_
+
+
+1	line	line	NOUN	NN	_	0	root	_	_
+
+
+1	airglow	airglow	NOUN	NN	_	0	root	_	_
+
+
+1	wild	wild	ADJ	JJ	_	0	root	_	_
+
+
+1	hewett	hewett	PROPN	NNP	_	0	root	_	_
+
+
+1	2005	2005	NUM	CD	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	commonly	commonly	ADV	RB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	classification	classification	NOUN	NN	_	0	root	_	_
+
+
+1	purpose	purpose	NOUN	NN	_	0	root	_	_
+
+
+1	madgwick	madgwick	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2003	2003	NUM	CD	_	0	root	_	_
+
+
+1	mc	mc	PROPN	NNP	_	0	root	_	_
+
+
+1	gurk	gurk	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2010	2010	NUM	CD	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	help	help	VERB	VB	_	0	root	_	_
+
+
+1	interpretability	interpretability	NOUN	NN	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	content	content	NOUN	NN	_	0	root	_	_
+
+
+1	instance	instance	NOUN	NN	_	0	root	_	_
+
+
+1	explore	explore	VERB	VB	_	0	root	_	_
+
+
+1	resultant	resultant	ADJ	JJ	_	0	root	_	_
+
+
+1	latent	latent	ADJ	JJ	_	0	root	_	_
+
+
+1	space	space	NOUN	NN	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	sharbaf	sharbaf	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2023	2023	NUM	CD	_	0	root	_	_
+
+
+1	2025	2025	NUM	CD	_	0	root	_	_
+
+
+1	however	however	ADV	RB	_	0	root	_	_
+
+
+1	linear	linear	ADJ	JJ	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	pca	pca	NOUN	NN	_	0	root	_	_
+
+
+1	less	less	ADJ	JJR	_	0	root	_	_
+
+
+1	versatile	versatile	ADJ	JJ	_	0	root	_	_
+
+
+1	encode	encode	VERB	VB	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	many	many	ADJ	JJ	_	0	root	_	_
+
+
+1	intricacy	intricacy	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	ensemble	ensemble	NOUN	NN	_	0	root	_	_
+
+
+1	present	present	ADJ	JJ	_	0	root	_	_
+
+
+1	5	5	NUM	LS	_	0	root	_	_
+
+
+1	finally	finally	ADV	RB	_	0	root	_	_
+
+
+1	conclude	conclude	VERB	VB	_	0	root	_	_
+
+
+1	remark	remark	NOUN	NN	_	0	root	_	_
+
+
+1	give	give	VERB	VB	_	0	root	_	_
+
+
+1	6	6	NUM	LS	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	sloan	sloan	PROPN	NNP	_	0	root	_	_
+
+
+1	digital	digital	ADJ	JJ	_	0	root	_	_
+
+
+1	sky	sky	NOUN	NN	_	0	root	_	_
+
+
+1	survey	survey	NOUN	NN	_	0	root	_	_
+
+
+1	york	york	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2000	2000	NUM	CD	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	include	include	VERB	VB	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	number	number	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	order	order	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	mil	mil	NOUN	NN	_	0	root	_	_
+
+
+1	lion	lion	NOUN	NN	_	0	root	_	_
+
+
+1	importantly	importantly	ADV	RB	_	0	root	_	_
+
+
+1	cover	cover	VERB	VB	_	0	root	_	_
+
+
+1	wide	wide	ADJ	JJ	_	0	root	_	_
+
+
+1	range	range	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	number	number	NOUN	NN	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	quality	quality	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	many	many	ADJ	JJ	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	low	low	ADJ	JJ	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	represent	represent	VERB	VB	_	0	root	_	_
+
+
+1	ideal	ideal	ADJ	JJ	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	sample	sample	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	processing	processing	NOUN	NN	_	0	root	_	_
+
+
+1	homoge	homoge	NOUN	NN	_	0	root	_	_
+
+
+1	neously	neously	ADV	RB	_	0	root	_	_
+
+
+1	perform	perform	VERB	VB	_	0	root	_	_
+
+
+1	minimise	minimise	VERB	VB	_	0	root	_	_
+
+
+1	bias	bias	NOUN	NN	_	0	root	_	_
+
+
+1	cover	cover	VERB	VB	_	0	root	_	_
+
+
+1	type	type	NOUN	NN	_	0	root	_	_
+
+
+1	evolutionary	evolutionary	ADJ	JJ	_	0	root	_	_
+
+
+1	stage	stage	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	mass	mass	NOUN	NN	_	0	root	_	_
+
+
+1	morphology	morphology	NOUN	NN	_	0	root	_	_
+
+
+1	etc	etc	NOUN	FW	_	0	root	_	_
+
+
+1	moreover	moreover	ADV	RB	_	0	root	_	_
+
+
+1	observation	observation	NOUN	NN	_	0	root	_	_
+
+
+1	include	include	VERB	VB	_	0	root	_	_
+
+
+1	addition	addition	NOUN	NN	_	0	root	_	_
+
+
+1	ac	ac	INTJ	UH	_	0	root	_	_
+
+
+1	tual	tual	INTJ	UH	_	0	root	_	_
+
+
+1	spectrum	spectrum	NOUN	NN	_	0	root	_	_
+
+
+1	good	good	ADJ	JJ	_	0	root	_	_
+
+
+1	fit	fit	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	adopt	adopt	VERB	VB	_	0	root	_	_
+
+
+1	synthetic	synthetic	NOUN	NN	_	0	root	_	_
+
+
+1	case	case	NOUN	NN	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	add	add	VERB	VB	_	0	root	_	_
+
+
+1	show	show	VERB	VB	_	0	root	_	_
+
+
+1	low	low	ADJ	JJ	_	0	root	_	_
+
+
+1	sample	sample	NOUN	NN	_	0	root	_	_
+
+
+1	one	one	NUM	CD	_	0	root	_	_
+
+
+1	present	present	ADJ	JJ	_	0	root	_	_
+
+
+1	sharbaf	sharbaf	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2023	2023	NUM	CD	_	0	root	_	_
+
+
+1	motivation	motivation	NOUN	NN	_	0	root	_	_
+
+
+1	behind	behind	ADP	IN	_	0	root	_	_
+
+
+1	constraint	constraint	NOUN	NN	_	0	root	_	_
+
+
+1	garde	garde	NOUN	NN	_	0	root	_	_
+
+
+1	quality	quality	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	ensemble	ensemble	NOUN	NN	_	0	root	_	_
+
+
+1	identical	identical	ADJ	JJ	_	0	root	_	_
+
+
+1	instance	instance	NOUN	NN	_	0	root	_	_
+
+
+1	order	order	NOUN	NN	_	0	root	_	_
+
+
+1	set	set	VERB	VB	_	0	root	_	_
+
+
+1	exercise	exercise	NOUN	NN	_	0	root	_	_
+
+
+1	good	good	ADJ	JJ	_	0	root	_	_
+
+
+1	de	de	PROPN	NNP	_	0	root	_	_
+
+
+1	fine	fine	ADJ	JJ	_	0	root	_	_
+
+
+1	scenario	scenario	NOUN	NN	_	0	root	_	_
+
+
+1	include	include	VERB	VB	_	0	root	_	_
+
+
+1	constraint	constraint	NOUN	NN	_	0	root	_	_
+
+
+1	stellar	stellar	ADJ	JJ	_	0	root	_	_
+
+
+1	velocity	velocity	NOUN	NN	_	0	root	_	_
+
+
+1	dispersion	dispersion	NOUN	NN	_	0	root	_	_
+
+
+1	100	100	NUM	CD	_	0	root	_	_
+
+
+1	150	150	NUM	CD	_	0	root	_	_
+
+
+1	km	km	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	wide	wide	ADJ	JJ	_	0	root	_	_
+
+
+1	range	range	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	introduce	introduce	VERB	VB	_	0	root	_	_
+
+
+1	expect	expect	VERB	VB	_	0	root	_	_
+
+
+1	bias	bias	NOUN	NN	_	0	root	_	_
+
+
+1	effective	effective	ADJ	JJ	_	0	root	_	_
+
+
+1	spectral	spectral	ADJ	JJ	_	0	root	_	_
+
+
+1	reso	reso	NOUN	NN	_	0	root	_	_
+
+
+1	lution	lution	NOUN	NN	_	0	root	_	_
+
+
+1	cause	cause	NOUN	NN	_	0	root	_	_
+
+
+1	kinematic	kinematic	ADJ	JJ	_	0	root	_	_
+
+
+1	kernel	kernel	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	take	take	VERB	VB	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	release	release	NOUN	NN	_	0	root	_	_
+
+
+1	16	16	NUM	LS	_	0	root	_	_
+
+
+1	ahumada	ahumada	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2020	2020	NUM	CD	_	0	root	_	_
+
+
+1	cor	cor	PROPN	NNP	_	0	root	_	_
+
+
+1	respond	respond	VERB	VB	_	0	root	_	_
+
+
+1	single	single	ADJ	JJ	_	0	root	_	_
+
+
+1	fibre	fibre	NOUN	NN	_	0	root	_	_
+
+
+1	measurement	measurement	NOUN	NN	_	0	root	_	_
+
+
+1	central	central	ADJ	JJ	_	0	root	_	_
+
+
+1	part	part	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	arcsec	arcsec	NOUN	NN	_	0	root	_	_
+
+
+1	diameter	diameter	NOUN	NN	_	0	root	_	_
+
+
+1	spectral	spectral	ADJ	JJ	_	0	root	_	_
+
+
+1	resolution	resolution	NOUN	NN	_	0	root	_	_
+
+
+1	r	r	X	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	000	000	NUM	CD	_	0	root	_	_
+
+
+1	smee	smee	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2013	2013	NUM	CD	_	0	root	_	_
+
+
+1	target	target	NOUN	NN	_	0	root	_	_
+
+
+1	select	select	VERB	VB	_	0	root	_	_
+
+
+1	completely	completely	ADV	RB	_	0	root	_	_
+
+
+1	possible	possible	ADJ	JJ	_	0	root	_	_
+
+
+1	petrosian	petrosian	PROPN	NNP	_	0	root	_	_
+
+
+1	flux	flux	NOUN	NN	_	0	root	_	_
+
+
+1	level	level	NOUN	NN	_	0	root	_	_
+
+
+1	target	target	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	r	r	X	LS	_	0	root	_	_
+
+
+1	band	band	NOUN	NN	_	0	root	_	_
+
+
+1	r	r	X	LS	_	0	root	_	_
+
+
+1	17.77	17.77	NUM	CD	_	0	root	_	_
+
+
+1	ab	ab	NOUN	NN	_	0	root	_	_
+
+
+1	strauss	strauss	NOUN	NN	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2002	2002	NUM	CD	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	far	far	ADV	RB	_	0	root	_	_
+
+
+1	constrain	constrain	VERB	VB	_	0	root	_	_
+
+
+1	redshift	redshift	NOUN	NN	_	0	root	_	_
+
+
+1	z	z	NOUN	NN	_	0	root	_	_
+
+
+1	0.05,0.1	0.05,0.1	NUM	CD	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	measure	measure	NOUN	NN	_	0	root	_	_
+
+
+1	average	average	ADJ	JJ	_	0	root	_	_
+
+
+1	within	within	ADP	IN	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	r	r	X	LS	_	0	root	_	_
+
+
+1	band	band	NOUN	NN	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	15	15	NUM	LS	_	0	root	_	_
+
+
+1	per	per	ADP	IN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	log	log	NOUN	NN	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	4	4	NUM	LS	_	0	root	_	_
+
+
+1	total	total	ADJ	JJ	_	0	root	_	_
+
+
+1	sam	sam	NOUN	NN	_	0	root	_	_
+
+
+1	ple	ple	INTJ	UH	_	0	root	_	_
+
+
+1	comprise	comprise	VERB	VB	_	0	root	_	_
+
+
+1	68,794	68,794	NUM	CD	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	retrieve	retrieve	VERB	VB	_	0	root	_	_
+
+
+1	main	main	ADJ	JJ	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	database	database	NOUN	NN	_	0	root	_	_
+
+
+1	de	de	PROPN	NNP	_	0	root	_	_
+
+
+1	redshifted	redshifted	VERB	VBN	_	0	root	_	_
+
+
+1	de	de	PROPN	NNP	_	0	root	_	_
+
+
+1	redden	redden	PROPN	NNP	_	0	root	_	_
+
+
+1	regard	regard	VERB	VB	_	0	root	_	_
+
+
+1	e	e	PROPN	NNP	_	0	root	_	_
+
+
+1	foreground	foreground	NOUN	NN	_	0	root	_	_
+
+
+1	dust	dust	NOUN	NN	_	0	root	_	_
+
+
+1	absorption	absorption	NOUN	NN	_	0	root	_	_
+
+
+1	milky	milky	ADJ	JJ	_	0	root	_	_
+
+
+1	way	way	NOUN	NN	_	0	root	_	_
+
+
+1	follow	follow	VERB	VB	_	0	root	_	_
+
+
+1	standard	standard	ADJ	JJ	_	0	root	_	_
+
+
+1	fitzpatrick	fitzpatrick	PROPN	NNP	_	0	root	_	_
+
+
+1	1999	1999	NUM	CD	_	0	root	_	_
+
+
+1	attenuation	attenuation	NOUN	NN	_	0	root	_	_
+
+
+1	law	law	NOUN	NN	_	0	root	_	_
+
+
+1	remove	remove	VERB	VB	_	0	root	_	_
+
+
+1	variation	variation	NOUN	NN	_	0	root	_	_
+
+
+1	cause	cause	NOUN	NN	_	0	root	_	_
+
+
+1	different	different	ADJ	JJ	_	0	root	_	_
+
+
+1	stellar	stellar	ADJ	JJ	_	0	root	_	_
+
+
+1	mass	mass	NOUN	NN	_	0	root	_	_
+
+
+1	redshift	redshift	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	normalize	normalize	VERB	VB	_	0	root	_	_
+
+
+1	average	average	ADJ	JJ	_	0	root	_	_
+
+
+1	flux	flux	NOUN	NN	_	0	root	_	_
+
+
+1	6,000	6,000	NUM	CD	_	0	root	_	_
+
+
+1	6,500	6,500	NUM	CD	_	0	root	_	_
+
+
+1	window	window	NOUN	NN	_	0	root	_	_
+
+
+1	rest	rest	NOUN	NN	_	0	root	_	_
+
+
+1	frame	frame	NOUN	NN	_	0	root	_	_
+
+
+1	spectral	spectral	ADJ	JJ	_	0	root	_	_
+
+
+1	range	range	NOUN	NN	_	0	root	_	_
+
+
+1	restrict	restrict	VERB	VB	_	0	root	_	_
+
+
+1	rest	rest	NOUN	NN	_	0	root	_	_
+
+
+1	frame	frame	NOUN	NN	_	0	root	_	_
+
+
+1	wavelength	wavelength	NOUN	NN	_	0	root	_	_
+
+
+1	finally	finally	ADV	RB	_	0	root	_	_
+
+
+1	one	one	NUM	CD	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	explore	explore	VERB	VB	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	procedure	procedure	NOUN	NN	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	without	without	ADP	IN	_	0	root	_	_
+
+
+1	con	con	NOUN	NN	_	0	root	_	_
+
+
+1	tinuum	tinuum	PROPN	NNP	_	0	root	_	_
+
+
+1	purpose	purpose	NOUN	NN	_	0	root	_	_
+
+
+1	take	take	VERB	VB	_	0	root	_	_
+
+
+1	robust	robust	ADJ	JJ	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	percentile	percentile	NOUN	NN	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	rogers	rogers	PROPN	NNPS	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2010	2010	NUM	CD	_	0	root	_	_
+
+
+1	define	define	VERB	VB	_	0	root	_	_
+
+
+1	continuum	continuum	NOUN	NN	_	0	root	_	_
+
+
+1	remove	remove	VERB	VB	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	case	case	NOUN	NN	_	0	root	_	_
+
+
+1	detail	detail	NOUN	NN	_	0	root	_	_
+
+
+1	sample	sample	NOUN	NN	_	0	root	_	_
+
+
+1	please	please	INTJ	UH	_	0	root	_	_
+
+
+1	see	see	VERB	VB	_	0	root	_	_
+
+
+1	sharbaf	sharbaf	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2023	2023	NUM	CD	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	dl	dl	PROPN	NNP	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	see	see	VERB	VB	_	0	root	_	_
+
+
+1	rapid	rapid	ADJ	JJ	_	0	root	_	_
+
+
+1	uptake	uptake	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	throughout	throughout	ADP	IN	_	0	root	_	_
+
+
+1	astronomy	astronomy	NOUN	NN	_	0	root	_	_
+
+
+1	help	help	VERB	VB	_	0	root	_	_
+
+
+1	address	address	NOUN	NN	_	0	root	_	_
+
+
+1	problem	problem	NOUN	NN	_	0	root	_	_
+
+
+1	traditional	traditional	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	drive	drive	VERB	VB	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	struggle	struggle	NOUN	NN	_	0	root	_	_
+
+
+1	exam	exam	NOUN	NN	_	0	root	_	_
+
+
+1	ple	ple	INTJ	UH	_	0	root	_	_
+
+
+1	dl	dl	PROPN	NNP	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	stellar	stellar	ADJ	JJ	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	classification	classification	NOUN	NN	_	0	root	_	_
+
+
+1	purpose	purpose	NOUN	NN	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	folke	folke	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	1996	1996	NUM	CD	_	0	root	_	_
+
+
+1	fabbro	fabbro	NOUN	NN	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2018	2018	NUM	CD	_	0	root	_	_
+
+
+1	wu	wu	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2024	2024	NUM	CD	_	0	root	_	_
+
+
+1	dimensionality	dimensionality	NOUN	NN	_	0	root	_	_
+
+
+1	reduction	reduction	NOUN	NN	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	portillo	portillo	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2020	2020	NUM	CD	_	0	root	_	_
+
+
+1	recovery	recovery	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	bad	bad	ADJ	JJ	_	0	root	_	_
+
+
+1	quality	quality	NOUN	NN	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	wang	wang	NOUN	NN	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2017	2017	NUM	CD	_	0	root	_	_
+
+
+1	general	general	ADJ	JJ	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	lovell	lovell	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2019	2019	NUM	CD	_	0	root	_	_
+
+
+1	melchior	melchior	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2023	2023	NUM	CD	_	0	root	_	_
+
+
+1	search	search	VERB	VB	_	0	root	_	_
+
+
+1	anomaly	anomaly	NOUN	NN	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	baron	baron	NOUN	NN	_	0	root	_	_
+
+
+1	poz	poz	INTJ	UH	_	0	root	_	_
+
+
+1	nanski	nanski	PROPN	NNP	_	0	root	_	_
+
+
+1	2017	2017	NUM	CD	_	0	root	_	_
+
+
+1	liang	liang	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2023	2023	NUM	CD	_	0	root	_	_
+
+
+1	paper	paper	NOUN	NN	_	0	root	_	_
+
+
+1	adopt	adopt	VERB	VB	_	0	root	_	_
+
+
+1	set	set	VERB	VB	_	0	root	_	_
+
+
+1	dl	dl	PROPN	NNP	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	train	train	NOUN	NN	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	set	set	VERB	VB	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	legacy	legacy	NOUN	NN	_	0	root	_	_
+
+
+1	part	part	NOUN	NN	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	assess	assess	VERB	VB	_	0	root	_	_
+
+
+1	ability	ability	NOUN	NN	_	0	root	_	_
+
+
+1	increase	increase	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	input	input	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	unsuper	unsuper	INTJ	UH	_	0	root	_	_
+
+
+1	vise	vise	NOUN	NN	_	0	root	_	_
+
+
+1	contrast	contrast	NOUN	NN	_	0	root	_	_
+
+
+1	work	work	NOUN	NN	_	0	root	_	_
+
+
+1	like	like	INTJ	UH	_	0	root	_	_
+
+
+1	scourfield	scourfield	NOUN	NN	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2023	2023	NUM	CD	_	0	root	_	_
+
+
+1	rely	rely	VERB	VB	_	0	root	_	_
+
+
+1	add	add	VERB	VB	_	0	root	_	_
+
+
+1	synthetic	synthetic	NOUN	NN	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	instead	instead	ADV	RB	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	effect	effect	NOUN	NN	_	0	root	_	_
+
+
+1	see	see	VERB	VB	_	0	root	_	_
+
+
+1	emergent	emergent	ADJ	JJ	_	0	root	_	_
+
+
+1	ultimately	ultimately	ADV	RB	_	0	root	_	_
+
+
+1	stem	stem	NOUN	NN	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	bottleneck	bottleneck	NOUN	NN	_	0	root	_	_
+
+
+1	aid	aid	NOUN	NN	_	0	root	_	_
+
+
+1	formulation	formulation	NOUN	NN	_	0	root	_	_
+
+
+1	objective	objective	ADJ	JJ	_	0	root	_	_
+
+
+1	function	function	NOUN	NN	_	0	root	_	_
+
+
+1	furthermore	furthermore	ADV	RB	_	0	root	_	_
+
+
+1	experiment	experiment	VERB	VB	_	0	root	_	_
+
+
+1	reconstruction	reconstruction	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	incomplete	incomplete	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	attempt	attempt	NOUN	NN	_	0	root	_	_
+
+
+1	explain	explain	VERB	VB	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	decision	decision	NOUN	NN	_	0	root	_	_
+
+
+1	make	make	VERB	VB	_	0	root	_	_
+
+
+1	please	please	INTJ	UH	_	0	root	_	_
+
+
+1	note	note	NOUN	NN	_	0	root	_	_
+
+
+1	important	important	ADJ	JJ	_	0	root	_	_
+
+
+1	ensure	ensure	VERB	VB	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	alter	alter	VERB	VB	_	0	root	_	_
+
+
+1	sample	sample	NOUN	NN	_	0	root	_	_
+
+
+1	systematic	systematic	ADJ	JJ	_	0	root	_	_
+
+
+1	way	way	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	emphasise	emphasise	VERB	VB	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	smooth	smooth	ADJ	JJ	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	increase	increase	NOUN	NN	_	0	root	_	_
+
+
+1	cost	cost	NOUN	NN	_	0	root	_	_
+
+
+1	low	low	ADJ	JJ	_	0	root	_	_
+
+
+1	spectral	spectral	ADJ	JJ	_	0	root	_	_
+
+
+1	resolution	resolution	NOUN	NN	_	0	root	_	_
+
+
+1	similar	similar	ADJ	JJ	_	0	root	_	_
+
+
+1	type	type	NOUN	NN	_	0	root	_	_
+
+
+1	work	work	NOUN	NN	_	0	root	_	_
+
+
+1	recently	recently	ADV	RB	_	0	root	_	_
+
+
+1	present	present	ADJ	JJ	_	0	root	_	_
+
+
+1	scour	scour	VERB	VB	_	0	root	_	_
+
+
+1	field	field	NOUN	NN	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2023	2023	NUM	CD	_	0	root	_	_
+
+
+1	mainly	mainly	ADV	RB	_	0	root	_	_
+
+
+1	focusse	focusse	VERB	VB	_	0	root	_	_
+
+
+1	retrieval	retrieval	NOUN	NN	_	0	root	_	_
+
+
+1	emission	emission	NOUN	NN	_	0	root	_	_
+
+
+1	line	line	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	author	author	NOUN	NN	_	0	root	_	_
+
+
+1	conclude	conclude	VERB	VB	_	0	root	_	_
+
+
+1	variational	variational	ADJ	JJ	_	0	root	_	_
+
+
+1	autoen	autoen	PROPN	NNP	_	0	root	_	_
+
+
+1	coder	coder	NOUN	NN	_	0	root	_	_
+
+
+1	perform	perform	VERB	VB	_	0	root	_	_
+
+
+1	well	well	INTJ	UH	_	0	root	_	_
+
+
+1	pca	pca	NOUN	NN	_	0	root	_	_
+
+
+1	study	study	NOUN	NN	_	0	root	_	_
+
+
+1	effect	effect	NOUN	NN	_	0	root	_	_
+
+
+1	de	de	PROPN	NNP	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	desi	desi	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	train	train	NOUN	NN	_	0	root	_	_
+
+
+1	set	set	VERB	VB	_	0	root	_	_
+
+
+1	regard	regard	VERB	VB	_	0	root	_	_
+
+
+1	relationship	relationship	NOUN	NN	_	0	root	_	_
+
+
+1	stellar	stellar	ADJ	JJ	_	0	root	_	_
+
+
+1	mass	mass	NOUN	NN	_	0	root	_	_
+
+
+1	gas	gas	NOUN	NN	_	0	root	_	_
+
+
+1	phase	phase	NOUN	NN	_	0	root	_	_
+
+
+1	metallicity	metallicity	NOUN	NN	_	0	root	_	_
+
+
+1	melchior	melchior	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2023	2023	NUM	CD	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	consider	consider	VERB	VB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	autoencoder	autoencoder	PROPN	NNP	_	0	root	_	_
+
+
+1	analyse	analyse	VERB	VB	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	look	look	VERB	VB	_	0	root	_	_
+
+
+1	interpretability	interpretability	NOUN	NN	_	0	root	_	_
+
+
+1	latent	latent	ADJ	JJ	_	0	root	_	_
+
+
+1	space	space	NOUN	NN	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	mostly	mostly	ADV	RB	_	0	root	_	_
+
+
+1	focus	focus	VERB	VB	_	0	root	_	_
+
+
+1	emission	emission	NOUN	NN	_	0	root	_	_
+
+
+1	line	line	NOUN	NN	_	0	root	_	_
+
+
+1	spectral	spectral	ADJ	JJ	_	0	root	_	_
+
+
+1	variance	variance	NOUN	NN	_	0	root	_	_
+
+
+1	fully	fully	ADV	RB	_	0	root	_	_
+
+
+1	dominate	dominate	ADJ	JJ	_	0	root	_	_
+
+
+1	star	star	NOUN	NN	_	0	root	_	_
+
+
+1	form	form	NOUN	NN	_	0	root	_	_
+
+
+1	agn	agn	NOUN	NN	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	author	author	NOUN	NN	_	0	root	_	_
+
+
+1	indeed	indeed	ADV	RB	_	0	root	_	_
+
+
+1	suggest	suggest	VERB	VB	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	adopt	adopt	VERB	VB	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	ensemble	ensemble	NOUN	NN	_	0	root	_	_
+
+
+1	spec	spec	NOUN	NN	_	0	root	_	_
+
+
+1	tra	tra	NOUN	NN	_	0	root	_	_
+
+
+1	work	work	NOUN	NN	_	0	root	_	_
+
+
+1	complement	complement	VERB	VB	_	0	root	_	_
+
+
+1	previous	previous	ADJ	JJ	_	0	root	_	_
+
+
+1	study	study	NOUN	NN	_	0	root	_	_
+
+
+1	turn	turn	NOUN	NN	_	0	root	_	_
+
+
+1	challenge	challenge	VERB	VB	_	0	root	_	_
+
+
+1	case	case	NOUN	NN	_	0	root	_	_
+
+
+1	absorption	absorption	NOUN	NN	_	0	root	_	_
+
+
+1	line	line	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	commonly	commonly	ADV	RB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	constrain	constrain	VERB	VB	_	0	root	_	_
+
+
+1	stellar	stellar	ADJ	JJ	_	0	root	_	_
+
+
+1	population	population	NOUN	NN	_	0	root	_	_
+
+
+1	content	content	NOUN	NN	_	0	root	_	_
+
+
+1	past	past	ADJ	JJ	_	0	root	_	_
+
+
+1	star	star	NOUN	NN	_	0	root	_	_
+
+
+1	formation	formation	NOUN	NN	_	0	root	_	_
+
+
+1	history	history	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	consider	consider	VERB	VB	_	0	root	_	_
+
+
+1	issue	issue	NOUN	NN	_	0	root	_	_
+
+
+1	potential	potential	ADJ	JJ	_	0	root	_	_
+
+
+1	bias	bias	NOUN	NN	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	synthetic	synthetic	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	adopt	adopt	VERB	VB	_	0	root	_	_
+
+
+1	ground	ground	NOUN	NN	_	0	root	_	_
+
+
+1	truth	truth	NOUN	NN	_	0	root	_	_
+
+
+1	assess	assess	VERB	VB	_	0	root	_	_
+
+
+1	fidelity	fidelity	NOUN	NN	_	0	root	_	_
+
+
+1	recover	recover	VERB	VB	_	0	root	_	_
+
+
+1	measurement	measurement	NOUN	NN	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	methodology	methodology	NOUN	NN	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	3.1	3.1	NUM	CD	_	0	root	_	_
+
+
+1	butterworth	butterworth	PROPN	NNP	_	0	root	_	_
+
+
+1	filter	filter	NOUN	NN	_	0	root	_	_
+
+
+1	structure	structure	NOUN	NN	_	0	root	_	_
+
+
+1	paper	paper	NOUN	NN	_	0	root	_	_
+
+
+1	follow	follow	VERB	VB	_	0	root	_	_
+
+
+1	give	give	VERB	VB	_	0	root	_	_
+
+
+1	brief	brief	ADJ	JJ	_	0	root	_	_
+
+
+1	presentation	presentation	NOUN	NN	_	0	root	_	_
+
+
+1	work	work	NOUN	NN	_	0	root	_	_
+
+
+1	sample	sample	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	along	along	ADV	RB	_	0	root	_	_
+
+
+1	de	de	PROPN	NNP	_	0	root	_	_
+
+
+1	scription	scription	NOUN	NN	_	0	root	_	_
+
+
+1	various	various	ADJ	JJ	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	comparison	comparison	NOUN	NN	_	0	root	_	_
+
+
+1	retrieve	retrieve	VERB	VB	_	0	root	_	_
+
+
+1	original	original	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	show	show	VERB	VB	_	0	root	_	_
+
+
+1	4	4	NUM	LS	_	0	root	_	_
+
+
+1	include	include	VERB	VB	_	0	root	_	_
+
+
+1	comparison	comparison	NOUN	NN	_	0	root	_	_
+
+
+1	synthetic	synthetic	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	add	add	VERB	VB	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	brief	brief	ADJ	JJ	_	0	root	_	_
+
+
+1	discussion	discussion	NOUN	NN	_	0	root	_	_
+
+
+1	explainability	explainability	NOUN	NN	_	0	root	_	_
+
+
+1	dl	dl	PROPN	NNP	_	0	root	_	_
+
+
+1	performance	performance	NOUN	NN	_	0	root	_	_
+
+
+1	butterworth	butterworth	PROPN	NNP	_	0	root	_	_
+
+
+1	filter	filter	NOUN	NN	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	classical	classical	ADJ	JJ	_	0	root	_	_
+
+
+1	signal	signal	VERB	VB	_	0	root	_	_
+
+
+1	processing	processing	NOUN	NN	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	selectively	selectively	ADV	RB	_	0	root	_	_
+
+
+1	attenuate	attenuate	VERB	VB	_	0	root	_	_
+
+
+1	unwanted	unwanted	ADJ	JJ	_	0	root	_	_
+
+
+1	frequency	frequency	NOUN	NN	_	0	root	_	_
+
+
+1	within	within	ADP	IN	_	0	root	_	_
+
+
+1	general	general	ADJ	JJ	_	0	root	_	_
+
+
+1	signal	signal	VERB	VB	_	0	root	_	_
+
+
+1	maximally	maximally	ADV	RB	_	0	root	_	_
+
+
+1	flat	flat	ADJ	JJ	_	0	root	_	_
+
+
+1	frequency	frequency	NOUN	NN	_	0	root	_	_
+
+
+1	response	response	NOUN	NN	_	0	root	_	_
+
+
+1	passband	passband	NOUN	NN	_	0	root	_	_
+
+
+1	supresse	supresse	NOUN	NN	_	0	root	_	_
+
+
+1	signal	signal	VERB	VB	_	0	root	_	_
+
+
+1	distortion	distortion	NOUN	NN	_	0	root	_	_
+
+
+1	make	make	VERB	VB	_	0	root	_	_
+
+
+1	pop	pop	NOUN	NN	_	0	root	_	_
+
+
+1	ular	ular	INTJ	UH	_	0	root	_	_
+
+
+1	choice	choice	NOUN	NN	_	0	root	_	_
+
+
+1	range	range	NOUN	NN	_	0	root	_	_
+
+
+1	domain	domain	NOUN	NN	_	0	root	_	_
+
+
+1	square	square	ADJ	JJ	_	0	root	_	_
+
+
+1	magnitude	magnitude	NOUN	NN	_	0	root	_	_
+
+
+1	frequency	frequency	NOUN	NN	_	0	root	_	_
+
+
+1	response	response	NOUN	NN	_	0	root	_	_
+
+
+1	h	h	PROPN	NNP	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	angular	angular	ADJ	JJ	_	0	root	_	_
+
+
+1	frequency	frequency	NOUN	NN	_	0	root	_	_
+
+
+1	mnra	mnra	PROPN	NNP	_	0	root	_	_
+
+
+1	000	000	NUM	CD	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	9	9	NUM	LS	_	0	root	_	_
+
+
+1	2025	2025	NUM	CD	_	0	root	_	_
+
+
+1	emergent	emergent	ADJ	JJ	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	4	4	NUM	LS	_	0	root	_	_
+
+
+1	camilleri	camilleri	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	synthetic	synthetic	NOUN	NN	_	0	root	_	_
+
+
+1	worthey	worthey	INTJ	UH	_	0	root	_	_
+
+
+1	ottaviani	ottaviani	PROPN	NNP	_	0	root	_	_
+
+
+1	1997	1997	NUM	CD	_	0	root	_	_
+
+
+1	traditional	traditional	ADJ	JJ	_	0	root	_	_
+
+
+1	mgb	mgb	NOUN	NN	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	lick	lick	VERB	VB	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	trager	trager	NOUN	NN	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	1998	1998	NUM	CD	_	0	root	_	_
+
+
+1	figure	figure	NOUN	NN	_	0	root	_	_
+
+
+1	merit	merit	NOUN	NN	_	0	root	_	_
+
+
+1	define	define	VERB	VB	_	0	root	_	_
+
+
+1	line	line	NOUN	NN	_	0	root	_	_
+
+
+1	strength	strength	NOUN	NN	_	0	root	_	_
+
+
+1	measurement	measurement	NOUN	NN	_	0	root	_	_
+
+
+1	follow	follow	VERB	VB	_	0	root	_	_
+
+
+1	produce	produce	VERB	VB	_	0	root	_	_
+
+
+1	vector	vector	NOUN	NN	_	0	root	_	_
+
+
+1	resid	resid	ADJ	JJ	_	0	root	_	_
+
+
+1	ual	ual	INTJ	UH	_	0	root	_	_
+
+
+1	output	output	NOUN	NN	_	0	root	_	_
+
+
+1	reference	reference	NOUN	NN	_	0	root	_	_
+
+
+1	spectrum	spectrum	NOUN	NN	_	0	root	_	_
+
+
+1	ii	ii	INTJ	UH	_	0	root	_	_
+
+
+1	ii	ii	INTJ	UH	_	0	root	_	_
+
+
+1	ii	ii	INTJ	UH	_	0	root	_	_
+
+
+1	r	r	X	LS	_	0	root	_	_
+
+
+1	represent	represent	VERB	VB	_	0	root	_	_
+
+
+1	output	output	NOUN	NN	_	0	root	_	_
+
+
+1	spec	spec	NOUN	NN	_	0	root	_	_
+
+
+1	trum	trum	NOUN	NN	_	0	root	_	_
+
+
+1	r	r	X	LS	_	0	root	_	_
+
+
+1	reference	reference	NOUN	NN	_	0	root	_	_
+
+
+1	spectrum	spectrum	NOUN	NN	_	0	root	_	_
+
+
+1	mean	mean	VERB	VB	_	0	root	_	_
+
+
+1	median	median	NOUN	NN	_	0	root	_	_
+
+
+1	ensemble	ensemble	NOUN	NN	_	0	root	_	_
+
+
+1	expect	expect	VERB	VB	_	0	root	_	_
+
+
+1	close	close	VERB	VB	_	0	root	_	_
+
+
+1	zero	zero	NUM	CD	_	0	root	_	_
+
+
+1	standard	standard	ADJ	JJ	_	0	root	_	_
+
+
+1	deviation	deviation	NOUN	NN	_	0	root	_	_
+
+
+1	represent	represent	VERB	VB	_	0	root	_	_
+
+
+1	well	well	INTJ	UH	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	cover	cover	VERB	VB	_	0	root	_	_
+
+
+1	therefore	therefore	ADV	RB	_	0	root	_	_
+
+
+1	adopt	adopt	VERB	VB	_	0	root	_	_
+
+
+1	standard	standard	ADJ	JJ	_	0	root	_	_
+
+
+1	deviation	deviation	NOUN	NN	_	0	root	_	_
+
+
+1	residual	residual	ADJ	JJ	_	0	root	_	_
+
+
+1	figure	figure	NOUN	NN	_	0	root	_	_
+
+
+1	merit	merit	NOUN	NN	_	0	root	_	_
+
+
+1	0.0	0.0	NUM	CD	_	0	root	_	_
+
+
+1	0.2	0.2	NUM	CD	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	0.6	0.6	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	5	5	NUM	LS	_	0	root	_	_
+
+
+1	0.0	0.0	NUM	CD	_	0	root	_	_
+
+
+1	0.2	0.2	NUM	CD	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	0.6	0.6	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	dn	dn	PROPN	NNP	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	cs	cs	PROPN	ADD	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	cs	cs	PROPN	ADD	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	h	h	PROPN	NNP	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	5	5	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	p	p	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	5	5	NUM	LS	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	note	note	NOUN	NN	_	0	root	_	_
+
+
+1	reference	reference	NOUN	NN	_	0	root	_	_
+
+
+1	case	case	NOUN	NN	_	0	root	_	_
+
+
+1	ii	ii	INTJ	UH	_	0	root	_	_
+
+
+1	r	r	X	LS	_	0	root	_	_
+
+
+1	comparison	comparison	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	define	define	VERB	VB	_	0	root	_	_
+
+
+1	two	two	NUM	CD	_	0	root	_	_
+
+
+1	way	way	NOUN	NN	_	0	root	_	_
+
+
+1	either	either	CCONJ	CC	_	0	root	_	_
+
+
+1	noiseless	noiseless	ADJ	JJ	_	0	root	_	_
+
+
+1	good	good	ADJ	JJ	_	0	root	_	_
+
+
+1	fit	fit	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	noisy	noisy	ADJ	JJ	_	0	root	_	_
+
+
+1	original	original	ADJ	JJ	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	former	former	ADJ	JJ	_	0	root	_	_
+
+
+1	allow	allow	VERB	VB	_	0	root	_	_
+
+
+1	quantify	quantify	VERB	VB	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	whereas	whereas	ADV	RB	_	0	root	_	_
+
+
+1	latter	latter	ADJ	JJ	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	overfitte	overfitte	NOUN	NN	_	0	root	_	_
+
+
+1	fig	fig	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	show	show	VERB	VB	_	0	root	_	_
+
+
+1	residual	residual	ADJ	JJ	_	0	root	_	_
+
+
+1	statistic	statistic	NOUN	NN	_	0	root	_	_
+
+
+1	measure	measure	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	5	5	NUM	LS	_	0	root	_	_
+
+
+1	average	average	ADJ	JJ	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	recon	recon	NOUN	NN	_	0	root	_	_
+
+
+1	struction	struction	NOUN	NN	_	0	root	_	_
+
+
+1	additional	additional	ADJ	JJ	_	0	root	_	_
+
+
+1	unseen	unseen	ADJ	JJ	_	0	root	_	_
+
+
+1	set	set	VERB	VB	_	0	root	_	_
+
+
+1	real	real	ADJ	JJ	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	leave	leave	VERB	VB	_	0	root	_	_
+
+
+1	set	set	VERB	VB	_	0	root	_	_
+
+
+1	synthetic	synthetic	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	right	right	ADJ	JJ	_	0	root	_	_
+
+
+1	case	case	NOUN	NN	_	0	root	_	_
+
+
+1	real	real	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	show	show	VERB	VB	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	point	point	NOUN	NN	_	0	root	_	_
+
+
+1	correspond	correspond	VERB	VB	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	would	would	AUX	MD	_	0	root	_	_
+
+
+1	trivially	trivially	ADV	RB	_	0	root	_	_
+
+
+1	compare	compare	VERB	VB	_	0	root	_	_
+
+
+1	noisy	noisy	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	synthetic	synthetic	NOUN	NN	_	0	root	_	_
+
+
+1	case	case	NOUN	NN	_	0	root	_	_
+
+
+1	compare	compare	VERB	VB	_	0	root	_	_
+
+
+1	residual	residual	ADJ	JJ	_	0	root	_	_
+
+
+1	statistic	statistic	NOUN	NN	_	0	root	_	_
+
+
+1	ground	ground	NOUN	NN	_	0	root	_	_
+
+
+1	truth	truth	NOUN	NN	_	0	root	_	_
+
+
+1	case	case	NOUN	NN	_	0	root	_	_
+
+
+1	noisy	noisy	ADJ	JJ	_	0	root	_	_
+
+
+1	realization	realization	NOUN	NN	_	0	root	_	_
+
+
+1	ideal	ideal	ADJ	JJ	_	0	root	_	_
+
+
+1	case	case	NOUN	NN	_	0	root	_	_
+
+
+1	gaussian	gaussian	NOUN	NN	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	show	show	VERB	VB	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	original	original	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	framework	framework	NOUN	NN	_	0	root	_	_
+
+
+1	case	case	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	would	would	AUX	MD	_	0	root	_	_
+
+
+1	indicative	indicative	ADJ	JJ	_	0	root	_	_
+
+
+1	kind	kind	NOUN	NN	_	0	root	_	_
+
+
+1	overfitte	overfitte	NOUN	NN	_	0	root	_	_
+
+
+1	opposite	opposite	ADV	RB	_	0	root	_	_
+
+
+1	would	would	AUX	MD	_	0	root	_	_
+
+
+1	suggestive	suggestive	ADJ	JJ	_	0	root	_	_
+
+
+1	true	true	ADJ	JJ	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	reference	reference	NOUN	NN	_	0	root	_	_
+
+
+1	value	value	NOUN	NN	_	0	root	_	_
+
+
+1	comparison	comparison	NOUN	NN	_	0	root	_	_
+
+
+1	noiseless	noiseless	ADJ	JJ	_	0	root	_	_
+
+
+1	noisy	noisy	ADJ	JJ	_	0	root	_	_
+
+
+1	synthetic	synthetic	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	i.e	i.e	SYM	NFP	_	0	root	_	_
+
+
+1	variance	variance	NOUN	NN	_	0	root	_	_
+
+
+1	expect	expect	VERB	VB	_	0	root	_	_
+
+
+1	presence	presence	NOUN	NN	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	show	show	VERB	VB	_	0	root	_	_
+
+
+1	case	case	NOUN	NN	_	0	root	_	_
+
+
+1	horizontal	horizontal	ADJ	JJ	_	0	root	_	_
+
+
+1	dash	dash	NOUN	NN	_	0	root	_	_
+
+
+1	blue	blue	ADJ	JJ	_	0	root	_	_
+
+
+1	line	line	NOUN	NN	_	0	root	_	_
+
+
+1	performance	performance	NOUN	NN	_	0	root	_	_
+
+
+1	different	different	ADJ	JJ	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	comparable	comparable	ADJ	JJ	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	reconstruction	reconstruction	NOUN	NN	_	0	root	_	_
+
+
+1	leave	leave	VERB	VB	_	0	root	_	_
+
+
+1	panel	panel	NOUN	NN	_	0	root	_	_
+
+
+1	although	although	SCONJ	IN	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	appear	appear	VERB	VB	_	0	root	_	_
+
+
+1	fare	fare	NOUN	NN	_	0	root	_	_
+
+
+1	bad	bad	ADJ	JJ	_	0	root	_	_
+
+
+1	interest	interest	NOUN	NN	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	find	find	VERB	VB	_	0	root	_	_
+
+
+1	synthetic	synthetic	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	right	right	ADJ	JJ	_	0	root	_	_
+
+
+1	panel	panel	NOUN	NN	_	0	root	_	_
+
+
+1	discriminate	discriminate	VERB	VB	_	0	root	_	_
+
+
+1	recovery	recovery	NOUN	NN	_	0	root	_	_
+
+
+1	input	input	NOUN	NN	_	0	root	_	_
+
+
+1	noisy	noisy	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	blue	blue	ADJ	JJ	_	0	root	_	_
+
+
+1	star	star	NOUN	NN	_	0	root	_	_
+
+
+1	desirable	desirable	ADJ	JJ	_	0	root	_	_
+
+
+1	reconstruction	reconstruction	NOUN	NN	_	0	root	_	_
+
+
+1	original	original	ADJ	JJ	_	0	root	_	_
+
+
+1	noiseless	noiseless	ADJ	JJ	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	red	red	ADJ	JJ	_	0	root	_	_
+
+
+1	circle	circle	NOUN	NN	_	0	root	_	_
+
+
+1	one	one	NUM	CD	_	0	root	_	_
+
+
+1	thing	thing	NOUN	NN	_	0	root	_	_
+
+
+1	stand	stand	VERB	VB	_	0	root	_	_
+
+
+1	quite	quite	ADV	RB	_	0	root	_	_
+
+
+1	clearly	clearly	ADV	RB	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	break	break	VERB	VB	_	0	root	_	_
+
+
+1	strength	strength	NOUN	NN	_	0	root	_	_
+
+
+1	poorly	poorly	ADV	RB	_	0	root	_	_
+
+
+1	determine	determine	VERB	VB	_	0	root	_	_
+
+
+1	cs	cs	PROPN	ADD	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	may	may	AUX	MD	_	0	root	_	_
+
+
+1	quite	quite	ADV	RB	_	0	root	_	_
+
+
+1	expect	expect	VERB	VB	_	0	root	_	_
+
+
+1	dn	dn	PROPN	NNP	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	wide	wide	ADJ	JJ	_	0	root	_	_
+
+
+1	two	two	NUM	CD	_	0	root	_	_
+
+
+1	rely	rely	VERB	VB	_	0	root	_	_
+
+
+1	continuum	continuum	NOUN	NN	_	0	root	_	_
+
+
+1	however	however	ADV	RB	_	0	root	_	_
+
+
+1	perform	perform	VERB	VB	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	well	well	INTJ	UH	_	0	root	_	_
+
+
+1	know	know	VERB	VB	_	0	root	_	_
+
+
+1	de	de	PROPN	NNP	_	0	root	_	_
+
+
+1	generacy	generacy	INTJ	UH	_	0	root	_	_
+
+
+1	parameter	parameter	NOUN	NN	_	0	root	_	_
+
+
+1	instance	instance	NOUN	NN	_	0	root	_	_
+
+
+1	dn	dn	PROPN	NNP	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	correlate	correlate	VERB	VB	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	mgb	mgb	NOUN	NN	_	0	root	_	_
+
+
+1	strong	strong	ADJ	JJ	_	0	root	_	_
+
+
+1	covariance	covariance	NOUN	NN	_	0	root	_	_
+
+
+1	line	line	NOUN	NN	_	0	root	_	_
+
+
+1	strength	strength	NOUN	NN	_	0	root	_	_
+
+
+1	find	find	VERB	VB	_	0	root	_	_
+
+
+1	ferrera	ferrera	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	2023	2023	NUM	CD	_	0	root	_	_
+
+
+1	indi	indi	PROPN	NNP	_	0	root	_	_
+
+
+1	cate	cate	NOUN	NN	_	0	root	_	_
+
+
+1	absorption	absorption	NOUN	NN	_	0	root	_	_
+
+
+1	line	line	NOUN	NN	_	0	root	_	_
+
+
+1	spectrum	spectrum	NOUN	NN	_	0	root	_	_
+
+
+1	would	would	AUX	MD	_	0	root	_	_
+
+
+1	encode	encode	VERB	VB	_	0	root	_	_
+
+
+1	similar	similar	ADJ	JJ	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	continuum	continuum	NOUN	NN	_	0	root	_	_
+
+
+1	experiment	experiment	VERB	VB	_	0	root	_	_
+
+
+1	suggest	suggest	VERB	VB	_	0	root	_	_
+
+
+1	discover	discover	VERB	VB	_	0	root	_	_
+
+
+1	leverage	leverage	NOUN	NN	_	0	root	_	_
+
+
+1	trend	trend	NOUN	NN	_	0	root	_	_
+
+
+1	challenge	challenge	VERB	VB	_	0	root	_	_
+
+
+1	dl	dl	PROPN	NNP	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	figure	figure	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	show	show	VERB	VB	_	0	root	_	_
+
+
+1	uncanny	uncanny	ADJ	JJ	_	0	root	_	_
+
+
+1	inversion	inversion	NOUN	NN	_	0	root	_	_
+
+
+1	star	star	NOUN	NN	_	0	root	_	_
+
+
+1	circle	circle	NOUN	NN	_	0	root	_	_
+
+
+1	order	order	NOUN	NN	_	0	root	_	_
+
+
+1	i.e	i.e	SYM	NFP	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	vs	vs	ADP	IN	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	respect	respect	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	emphasize	emphasize	VERB	VB	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	ensemble	ensemble	NOUN	NN	_	0	root	_	_
+
+
+1	rely	rely	VERB	VB	_	0	root	_	_
+
+
+1	careful	careful	ADJ	JJ	_	0	root	_	_
+
+
+1	filter	filter	NOUN	NN	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	frequency	frequency	NOUN	NN	_	0	root	_	_
+
+
+1	many	many	ADJ	JJ	_	0	root	_	_
+
+
+1	would	would	AUX	MD	_	0	root	_	_
+
+
+1	ascribe	ascribe	VERB	VB	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	would	would	AUX	MD	_	0	root	_	_
+
+
+1	equivalent	equivalent	ADJ	JJ	_	0	root	_	_
+
+
+1	truncation	truncation	NOUN	NN	_	0	root	_	_
+
+
+1	fourier	fourier	NOUN	NN	_	0	root	_	_
+
+
+1	series	series	NOUN	NN	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	present	present	ADJ	JJ	_	0	root	_	_
+
+
+1	reveal	reveal	VERB	VB	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	tend	tend	VERB	VB	_	0	root	_	_
+
+
+1	overfit	overfit	NOUN	NN	_	0	root	_	_
+
+
+1	produce	produce	VERB	VB	_	0	root	_	_
+
+
+1	optimal	optimal	ADJ	JJ	_	0	root	_	_
+
+
+1	reconstruction	reconstruction	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	noisy	noisy	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	input	input	NOUN	NN	_	0	root	_	_
+
+
+1	perform	perform	VERB	VB	_	0	root	_	_
+
+
+1	noiseless	noiseless	ADJ	JJ	_	0	root	_	_
+
+
+1	synthetic	synthetic	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	consider	consider	VERB	VB	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	cs	cs	PROPN	ADD	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	cs	cs	PROPN	ADD	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	0.5	0.5	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	1.5	1.5	NUM	CD	_	0	root	_	_
+
+
+1	2.0	2.0	NUM	CD	_	0	root	_	_
+
+
+1	2.5	2.5	NUM	CD	_	0	root	_	_
+
+
+1	3.0	3.0	NUM	CD	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	5	5	NUM	LS	_	0	root	_	_
+
+
+1	0.5	0.5	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	1.5	1.5	NUM	CD	_	0	root	_	_
+
+
+1	2.0	2.0	NUM	CD	_	0	root	_	_
+
+
+1	2.5	2.5	NUM	CD	_	0	root	_	_
+
+
+1	3.0	3.0	NUM	CD	_	0	root	_	_
+
+
+1	mgb	mgb	NOUN	NN	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	cs	cs	PROPN	ADD	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	cs	cs	PROPN	ADD	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	emergent	emergent	ADJ	JJ	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	5	5	NUM	LS	_	0	root	_	_
+
+
+1	dn	dn	PROPN	NNP	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	h	h	PROPN	NNP	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	dn	dn	PROPN	NNP	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	h	h	PROPN	NNP	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	mgb	mgb	NOUN	NN	_	0	root	_	_
+
+
+1	mgb	mgb	NOUN	NN	_	0	root	_	_
+
+
+1	0.0	0.0	NUM	CD	_	0	root	_	_
+
+
+1	0.1	0.1	NUM	CD	_	0	root	_	_
+
+
+1	0.2	0.2	NUM	CD	_	0	root	_	_
+
+
+1	0.3	0.3	NUM	CD	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	cs	cs	PROPN	ADD	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	cs	cs	PROPN	ADD	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	nw	nw	INTJ	UH	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	1.6	1.6	NUM	CD	_	0	root	_	_
+
+
+1	0.0	0.0	NUM	CD	_	0	root	_	_
+
+
+1	0.5	0.5	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	1.5	1.5	NUM	CD	_	0	root	_	_
+
+
+1	2.0	2.0	NUM	CD	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	0.00	0.00	NUM	CD	_	0	root	_	_
+
+
+1	0.15	0.15	NUM	CD	_	0	root	_	_
+
+
+1	0.30	0.30	NUM	CD	_	0	root	_	_
+
+
+1	0.45	0.45	NUM	CD	_	0	root	_	_
+
+
+1	0.0	0.0	NUM	CD	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	1.25	1.25	NUM	CD	_	0	root	_	_
+
+
+1	1.50	1.50	NUM	CD	_	0	root	_	_
+
+
+1	1.75	1.75	NUM	CD	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	4	4	NUM	LS	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	0.0	0.0	NUM	CD	_	0	root	_	_
+
+
+1	0.1	0.1	NUM	CD	_	0	root	_	_
+
+
+1	0.2	0.2	NUM	CD	_	0	root	_	_
+
+
+1	0.3	0.3	NUM	CD	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	1.6	1.6	NUM	CD	_	0	root	_	_
+
+
+1	0.0	0.0	NUM	CD	_	0	root	_	_
+
+
+1	0.5	0.5	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	1.5	1.5	NUM	CD	_	0	root	_	_
+
+
+1	2.0	2.0	NUM	CD	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	0.00	0.00	NUM	CD	_	0	root	_	_
+
+
+1	0.15	0.15	NUM	CD	_	0	root	_	_
+
+
+1	0.30	0.30	NUM	CD	_	0	root	_	_
+
+
+1	0.45	0.45	NUM	CD	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	0.0	0.0	NUM	CD	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	1.25	1.25	NUM	CD	_	0	root	_	_
+
+
+1	1.50	1.50	NUM	CD	_	0	root	_	_
+
+
+1	1.75	1.75	NUM	CD	_	0	root	_	_
+
+
+1	dn	dn	PROPN	NNP	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	g	g	PROPN	NNP	_	0	root	_	_
+
+
+1	band	band	NOUN	NN	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	g	g	PROPN	NNP	_	0	root	_	_
+
+
+1	band	band	NOUN	NN	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	g	g	PROPN	NNP	_	0	root	_	_
+
+
+1	band	band	NOUN	NN	_	0	root	_	_
+
+
+1	6	6	NUM	LS	_	0	root	_	_
+
+
+1	camilleri	camilleri	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	two	two	NUM	CD	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	show	show	VERB	VB	_	0	root	_	_
+
+
+1	characteristic	characteristic	ADJ	JJ	_	0	root	_	_
+
+
+1	behaviour	behaviour	NOUN	NN	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	overfitte	overfitte	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	dl	dl	PROPN	NNP	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	note	note	NOUN	NN	_	0	root	_	_
+
+
+1	h	h	PROPN	NNP	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	mgb	mgb	NOUN	NN	_	0	root	_	_
+
+
+1	produce	produce	VERB	VB	_	0	root	_	_
+
+
+1	distribution	distribution	NOUN	NN	_	0	root	_	_
+
+
+1	close	close	VERB	VB	_	0	root	_	_
+
+
+1	ground	ground	NOUN	NN	_	0	root	_	_
+
+
+1	truth	truth	NOUN	NN	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	whereas	whereas	ADV	RB	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	closely	closely	ADV	RB	_	0	root	_	_
+
+
+1	resemble	resemble	VERB	VB	_	0	root	_	_
+
+
+1	wide	wide	ADJ	JJ	_	0	root	_	_
+
+
+1	shape	shape	NOUN	NN	_	0	root	_	_
+
+
+1	histogram	histogram	NOUN	NN	_	0	root	_	_
+
+
+1	noisy	noisy	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	conclude	conclude	VERB	VB	_	0	root	_	_
+
+
+1	dl	dl	PROPN	NNP	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	successful	successful	ADJ	JJ	_	0	root	_	_
+
+
+1	improve	improve	VERB	VB	_	0	root	_	_
+
+
+1	quality	quality	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	representative	representative	NOUN	NN	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	ensemble	ensemble	NOUN	NN	_	0	root	_	_
+
+
+1	wide	wide	ADJ	JJ	_	0	root	_	_
+
+
+1	range	range	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	include	include	VERB	VB	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	quality	quality	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	instrumental	instrumental	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	characteristic	characteristic	ADJ	JJ	_	0	root	_	_
+
+
+1	available	available	ADJ	JJ	_	0	root	_	_
+
+
+1	2.00	2.00	NUM	CD	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	noise	noise	NOUN	NN	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	bf	bf	NOUN	NN	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	0.7	0.7	NUM	CD	_	0	root	_	_
+
+
+1	1.75	1.75	NUM	CD	_	0	root	_	_
+
+
+1	0.7	0.7	NUM	CD	_	0	root	_	_
+
+
+1	0.6	0.6	NUM	CD	_	0	root	_	_
+
+
+1	1.50	1.50	NUM	CD	_	0	root	_	_
+
+
+1	0.6	0.6	NUM	CD	_	0	root	_	_
+
+
+1	0.5	0.5	NUM	CD	_	0	root	_	_
+
+
+1	1.25	1.25	NUM	CD	_	0	root	_	_
+
+
+1	0.5	0.5	NUM	CD	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	1.00	1.00	NUM	CD	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	0.3	0.3	NUM	CD	_	0	root	_	_
+
+
+1	0.75	0.75	NUM	CD	_	0	root	_	_
+
+
+1	0.3	0.3	NUM	CD	_	0	root	_	_
+
+
+1	0.2	0.2	NUM	CD	_	0	root	_	_
+
+
+1	0.2	0.2	NUM	CD	_	0	root	_	_
+
+
+1	0.50	0.50	NUM	CD	_	0	root	_	_
+
+
+1	0.1	0.1	NUM	CD	_	0	root	_	_
+
+
+1	0.1	0.1	NUM	CD	_	0	root	_	_
+
+
+1	0.25	0.25	NUM	CD	_	0	root	_	_
+
+
+1	0.0	0.0	NUM	CD	_	0	root	_	_
+
+
+1	0.0	0.0	NUM	CD	_	0	root	_	_
+
+
+1	0.00	0.00	NUM	CD	_	0	root	_	_
+
+
+1	1.5	1.5	NUM	CD	_	0	root	_	_
+
+
+1	2.0	2.0	NUM	CD	_	0	root	_	_
+
+
+1	dn	dn	PROPN	NNP	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	5	5	NUM	LS	_	0	root	_	_
+
+
+1	explain	explain	VERB	VB	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	behaviour	behaviour	NOUN	NN	_	0	root	_	_
+
+
+1	emergent	emergent	ADJ	JJ	_	0	root	_	_
+
+
+1	denoise	denoise	VERB	VB	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	7	7	NUM	LS	_	0	root	_	_
+
+
+1	1.100	1.100	NUM	CD	_	0	root	_	_
+
+
+1	1.3	1.3	NUM	CD	_	0	root	_	_
+
+
+1	1.075	1.075	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	1.050	1.050	NUM	CD	_	0	root	_	_
+
+
+1	1.1	1.1	NUM	CD	_	0	root	_	_
+
+
+1	1.025	1.025	NUM	CD	_	0	root	_	_
+
+
+1	1.000	1.000	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	0.975	0.975	NUM	CD	_	0	root	_	_
+
+
+1	0.9	0.9	NUM	CD	_	0	root	_	_
+
+
+1	0.950	0.950	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	0.925	0.925	NUM	CD	_	0	root	_	_
+
+
+1	0.7	0.7	NUM	CD	_	0	root	_	_
+
+
+1	0.900	0.900	NUM	CD	_	0	root	_	_
+
+
+1	0.6	0.6	NUM	CD	_	0	root	_	_
+
+
+1	1.4	1.4	NUM	CD	_	0	root	_	_
+
+
+1	3800	3800	NUM	CD	_	0	root	_	_
+
+
+1	3900	3900	NUM	CD	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	4100	4100	NUM	CD	_	0	root	_	_
+
+
+1	4200	4200	NUM	CD	_	0	root	_	_
+
+
+1	4300	4300	NUM	CD	_	0	root	_	_
+
+
+1	4400	4400	NUM	CD	_	0	root	_	_
+
+
+1	5100	5100	NUM	CD	_	0	root	_	_
+
+
+1	5200	5200	NUM	CD	_	0	root	_	_
+
+
+1	5300	5300	NUM	CD	_	0	root	_	_
+
+
+1	5400	5400	NUM	CD	_	0	root	_	_
+
+
+1	5500	5500	NUM	CD	_	0	root	_	_
+
+
+1	6400	6400	NUM	CD	_	0	root	_	_
+
+
+1	6450	6450	NUM	CD	_	0	root	_	_
+
+
+1	6500	6500	NUM	CD	_	0	root	_	_
+
+
+1	6550	6550	NUM	CD	_	0	root	_	_
+
+
+1	6600	6600	NUM	CD	_	0	root	_	_
+
+
+1	6650	6650	NUM	CD	_	0	root	_	_
+
+
+1	6700	6700	NUM	CD	_	0	root	_	_
+
+
+1	6750	6750	NUM	CD	_	0	root	_	_
+
+
+1	6800	6800	NUM	CD	_	0	root	_	_
+
+
+1	1.075	1.075	NUM	CD	_	0	root	_	_
+
+
+1	1.3	1.3	NUM	CD	_	0	root	_	_
+
+
+1	1.050	1.050	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	1.025	1.025	NUM	CD	_	0	root	_	_
+
+
+1	1.1	1.1	NUM	CD	_	0	root	_	_
+
+
+1	1.000	1.000	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	flux	flux	NOUN	NN	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	arb	arb	NOUN	NN	_	0	root	_	_
+
+
+1	unit	unit	NOUN	NN	_	0	root	_	_
+
+
+1	0.975	0.975	NUM	CD	_	0	root	_	_
+
+
+1	0.9	0.9	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	0.950	0.950	NUM	CD	_	0	root	_	_
+
+
+1	0.7	0.7	NUM	CD	_	0	root	_	_
+
+
+1	0.925	0.925	NUM	CD	_	0	root	_	_
+
+
+1	1.3	1.3	NUM	CD	_	0	root	_	_
+
+
+1	3800	3800	NUM	CD	_	0	root	_	_
+
+
+1	3900	3900	NUM	CD	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	4100	4100	NUM	CD	_	0	root	_	_
+
+
+1	4200	4200	NUM	CD	_	0	root	_	_
+
+
+1	4300	4300	NUM	CD	_	0	root	_	_
+
+
+1	4400	4400	NUM	CD	_	0	root	_	_
+
+
+1	5100	5100	NUM	CD	_	0	root	_	_
+
+
+1	5200	5200	NUM	CD	_	0	root	_	_
+
+
+1	5300	5300	NUM	CD	_	0	root	_	_
+
+
+1	5400	5400	NUM	CD	_	0	root	_	_
+
+
+1	5500	5500	NUM	CD	_	0	root	_	_
+
+
+1	6400	6400	NUM	CD	_	0	root	_	_
+
+
+1	6450	6450	NUM	CD	_	0	root	_	_
+
+
+1	6500	6500	NUM	CD	_	0	root	_	_
+
+
+1	6550	6550	NUM	CD	_	0	root	_	_
+
+
+1	6600	6600	NUM	CD	_	0	root	_	_
+
+
+1	6650	6650	NUM	CD	_	0	root	_	_
+
+
+1	6700	6700	NUM	CD	_	0	root	_	_
+
+
+1	6750	6750	NUM	CD	_	0	root	_	_
+
+
+1	6800	6800	NUM	CD	_	0	root	_	_
+
+
+1	1.8	1.8	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	1.6	1.6	NUM	CD	_	0	root	_	_
+
+
+1	1.1	1.1	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	1.4	1.4	NUM	CD	_	0	root	_	_
+
+
+1	0.9	0.9	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	0.7	0.7	NUM	CD	_	0	root	_	_
+
+
+1	0.6	0.6	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	0.5	0.5	NUM	CD	_	0	root	_	_
+
+
+1	2.0	2.0	NUM	CD	_	0	root	_	_
+
+
+1	3800	3800	NUM	CD	_	0	root	_	_
+
+
+1	3900	3900	NUM	CD	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	4100	4100	NUM	CD	_	0	root	_	_
+
+
+1	4200	4200	NUM	CD	_	0	root	_	_
+
+
+1	4300	4300	NUM	CD	_	0	root	_	_
+
+
+1	4400	4400	NUM	CD	_	0	root	_	_
+
+
+1	5100	5100	NUM	CD	_	0	root	_	_
+
+
+1	5200	5200	NUM	CD	_	0	root	_	_
+
+
+1	5300	5300	NUM	CD	_	0	root	_	_
+
+
+1	5400	5400	NUM	CD	_	0	root	_	_
+
+
+1	5500	5500	NUM	CD	_	0	root	_	_
+
+
+1	6400	6400	NUM	CD	_	0	root	_	_
+
+
+1	6450	6450	NUM	CD	_	0	root	_	_
+
+
+1	6500	6500	NUM	CD	_	0	root	_	_
+
+
+1	6550	6550	NUM	CD	_	0	root	_	_
+
+
+1	6600	6600	NUM	CD	_	0	root	_	_
+
+
+1	6650	6650	NUM	CD	_	0	root	_	_
+
+
+1	6700	6700	NUM	CD	_	0	root	_	_
+
+
+1	6750	6750	NUM	CD	_	0	root	_	_
+
+
+1	6800	6800	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	1.8	1.8	NUM	CD	_	0	root	_	_
+
+
+1	1.1	1.1	NUM	CD	_	0	root	_	_
+
+
+1	1.6	1.6	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	1.4	1.4	NUM	CD	_	0	root	_	_
+
+
+1	0.9	0.9	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	3800	3800	NUM	CD	_	0	root	_	_
+
+
+1	3900	3900	NUM	CD	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	4100	4100	NUM	CD	_	0	root	_	_
+
+
+1	4200	4200	NUM	CD	_	0	root	_	_
+
+
+1	4300	4300	NUM	CD	_	0	root	_	_
+
+
+1	4400	4400	NUM	CD	_	0	root	_	_
+
+
+1	5100	5100	NUM	CD	_	0	root	_	_
+
+
+1	5200	5200	NUM	CD	_	0	root	_	_
+
+
+1	5300	5300	NUM	CD	_	0	root	_	_
+
+
+1	5400	5400	NUM	CD	_	0	root	_	_
+
+
+1	5500	5500	NUM	CD	_	0	root	_	_
+
+
+1	6400	6400	NUM	CD	_	0	root	_	_
+
+
+1	6450	6450	NUM	CD	_	0	root	_	_
+
+
+1	6500	6500	NUM	CD	_	0	root	_	_
+
+
+1	6550	6550	NUM	CD	_	0	root	_	_
+
+
+1	6600	6600	NUM	CD	_	0	root	_	_
+
+
+1	6650	6650	NUM	CD	_	0	root	_	_
+
+
+1	6700	6700	NUM	CD	_	0	root	_	_
+
+
+1	6750	6750	NUM	CD	_	0	root	_	_
+
+
+1	6800	6800	NUM	CD	_	0	root	_	_
+
+
+1	1.4	1.4	NUM	CD	_	0	root	_	_
+
+
+1	1.3	1.3	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	1.3	1.3	NUM	CD	_	0	root	_	_
+
+
+1	1.1	1.1	NUM	CD	_	0	root	_	_
+
+
+1	1.2	1.2	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	1.1	1.1	NUM	CD	_	0	root	_	_
+
+
+1	0.9	0.9	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	0.8	0.8	NUM	CD	_	0	root	_	_
+
+
+1	0.7	0.7	NUM	CD	_	0	root	_	_
+
+
+1	0.9	0.9	NUM	CD	_	0	root	_	_
+
+
+1	8	8	NUM	LS	_	0	root	_	_
+
+
+1	camilleri	camilleri	PROPN	NNP	_	0	root	_	_
+
+
+1	et	et	X	FW	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	dn	dn	PROPN	NNP	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	h	h	PROPN	NNP	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	mgb	mgb	NOUN	NN	_	0	root	_	_
+
+
+1	e	e	PROPN	NNP	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	iii	iii	INTJ	UH	_	0	root	_	_
+
+
+1	provide	provide	VERB	VB	_	0	root	_	_
+
+
+1	alfred	alfred	PROPN	NNP	_	0	root	_	_
+
+
+1	p	p	NOUN	NN	_	0	root	_	_
+
+
+1	sloan	sloan	PROPN	NNP	_	0	root	_	_
+
+
+1	foundation	foundation	NOUN	NN	_	0	root	_	_
+
+
+1	participate	participate	VERB	VB	_	0	root	_	_
+
+
+1	institution	institution	NOUN	NN	_	0	root	_	_
+
+
+1	national	national	ADJ	JJ	_	0	root	_	_
+
+
+1	sci	sci	NOUN	NN	_	0	root	_	_
+
+
+1	ence	ence	INTJ	UH	_	0	root	_	_
+
+
+1	foundation	foundation	NOUN	NN	_	0	root	_	_
+
+
+1	u.s	u.s	PROPN	NNP	_	0	root	_	_
+
+
+1	department	department	NOUN	NN	_	0	root	_	_
+
+
+1	energy	energy	NOUN	NN	_	0	root	_	_
+
+
+1	office	office	NOUN	NN	_	0	root	_	_
+
+
+1	science	science	NOUN	NN	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	iii	iii	INTJ	UH	_	0	root	_	_
+
+
+1	web	web	NOUN	NN	_	0	root	_	_
+
+
+1	site	site	NOUN	NN	_	0	root	_	_
+
+
+1	0.5	0.5	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	1.5	1.5	NUM	CD	_	0	root	_	_
+
+
+1	0.1	0.1	NUM	CD	_	0	root	_	_
+
+
+1	0.2	0.2	NUM	CD	_	0	root	_	_
+
+
+1	0.3	0.3	NUM	CD	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	0.5	0.5	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	1.5	1.5	NUM	CD	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	availability	availability	NOUN	NN	_	0	root	_	_
+
+
+1	work	work	NOUN	NN	_	0	root	_	_
+
+
+1	fully	fully	ADV	RB	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	publicly	publicly	ADV	RB	_	0	root	_	_
+
+
+1	available	available	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	galaxy	galaxy	PROPN	NNP	_	0	root	_	_
+
+
+1	spectra	spectra	NOUN	NN	_	0	root	_	_
+
+
+1	retrieve	retrieve	VERB	VB	_	0	root	_	_
+
+
+1	sdss	sdss	NOUN	NN	_	0	root	_	_
+
+
+1	dr17	dr17	INTJ	UH	_	0	root	_	_
+
+
+1	archive	archive	NOUN	NN	_	0	root	_	_
+
+
+1	stellar	stellar	ADJ	JJ	_	0	root	_	_
+
+
+1	population	population	NOUN	NN	_	0	root	_	_
+
+
+1	synthesis	synthesis	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	obtain	obtain	VERB	VB	_	0	root	_	_
+
+
+1	respective	respective	ADJ	JJ	_	0	root	_	_
+
+
+1	author	author	NOUN	NN	_	0	root	_	_
+
+
+1	code	code	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	present	present	ADJ	JJ	_	0	root	_	_
+
+
+1	paper	paper	NOUN	NN	_	0	root	_	_
+
+
+1	make	make	VERB	VB	_	0	root	_	_
+
+
+1	openly	openly	ADV	RB	_	0	root	_	_
+
+
+1	available	available	ADJ	JJ	_	0	root	_	_
+
+
+1	git	git	PROPN	NNP	_	0	root	_	_
+
+
+1	hub	hub	NOUN	NN	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	mae	mae	PROPN	NNP	_	0	root	_	_
+
+
+1	f	f	PROPN	NNP	_	0	root	_	_
+
+
+1	mse	mse	NOUN	NN	_	0	root	_	_
+
+
+1	0.5	0.5	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	1.5	1.5	NUM	CD	_	0	root	_	_
+
+
+1	0.1	0.1	NUM	CD	_	0	root	_	_
+
+
+1	0.2	0.2	NUM	CD	_	0	root	_	_
+
+
+1	0.3	0.3	NUM	CD	_	0	root	_	_
+
+
+1	0.4	0.4	NUM	CD	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	0.5	0.5	NUM	CD	_	0	root	_	_
+
+
+1	1.0	1.0	NUM	CD	_	0	root	_	_
+
+
+1	1.5	1.5	NUM	CD	_	0	root	_	_
+
+

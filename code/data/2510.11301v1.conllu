@@ -1,0 +1,6567 @@
+1	rise	rise	VERB	VB	_	0	root	_	_
+
+
+1	digital	digital	ADJ	JJ	_	0	root	_	_
+
+
+1	medical	medical	ADJ	JJ	_	0	root	_	_
+
+
+1	imaging	imaging	NOUN	NN	_	0	root	_	_
+
+
+1	like	like	INTJ	UH	_	0	root	_	_
+
+
+1	mri	mri	NOUN	NN	_	0	root	_	_
+
+
+1	ct	ct	PROPN	ADD	_	0	root	_	_
+
+
+1	demand	demand	NOUN	NN	_	0	root	_	_
+
+
+1	strong	strong	ADJ	JJ	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	protect	protect	VERB	VB	_	0	root	_	_
+
+
+1	patient	patient	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	telemedicine	telemedicine	NOUN	NN	_	0	root	_	_
+
+
+1	cloud	cloud	NOUN	NN	_	0	root	_	_
+
+
+1	storage	storage	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	popular	popular	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	due	due	ADJ	JJ	_	0	root	_	_
+
+
+1	sensitivity	sensitivity	NOUN	NN	_	0	root	_	_
+
+
+1	unique	unique	ADJ	JJ	_	0	root	_	_
+
+
+1	char	char	NOUN	NN	_	0	root	_	_
+
+
+1	acteristic	acteristic	ADJ	JJ	_	0	root	_	_
+
+
+1	exist	exist	VERB	VB	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	often	often	ADV	RB	_	0	root	_	_
+
+
+1	lack	lack	NOUN	NN	_	0	root	_	_
+
+
+1	sufficient	sufficient	ADJ	JJ	_	0	root	_	_
+
+
+1	security	security	NOUN	NN	_	0	root	_	_
+
+
+1	paper	paper	NOUN	NN	_	0	root	_	_
+
+
+1	present	present	ADJ	JJ	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	tdadl	tdadl	INTJ	UH	_	0	root	_	_
+
+
+1	ie	ie	PROPN	ADD	_	0	root	_	_
+
+
+1	build	build	VERB	VB	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	element	element	NOUN	NN	_	0	root	_	_
+
+
+1	first	first	ADV	RB	_	0	root	_	_
+
+
+1	propose	propose	VERB	VB	_	0	root	_	_
+
+
+1	enhance	enhance	VERB	VB	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	generator	generator	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	lstm	lstm	PROPN	NNP	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sine	sine	NOUN	NN	_	0	root	_	_
+
+
+1	quadratic	quadratic	ADJ	JJ	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	well	well	INTJ	UH	_	0	root	_	_
+
+
+1	pseudorandom	pseudorandom	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	generation	generation	NOUN	NN	_	0	root	_	_
+
+
+1	next	next	ADV	RB	_	0	root	_	_
+
+
+1	new	new	ADJ	JJ	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	tda	tda	NOUN	NN	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	encrypt	encrypt	VERB	VB	_	0	root	_	_
+
+
+1	permute	permute	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	tdadl	tdadl	INTJ	UH	_	0	root	_	_
+
+
+1	ie	ie	PROPN	ADD	_	0	root	_	_
+
+
+1	versatile	versatile	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	size	size	NOUN	NN	_	0	root	_	_
+
+
+1	experiment	experiment	VERB	VB	_	0	root	_	_
+
+
+1	confirm	confirm	VERB	VB	_	0	root	_	_
+
+
+1	effec	effec	INTJ	UH	_	0	root	_	_
+
+
+1	tiveness	tiveness	NOUN	NN	_	0	root	_	_
+
+
+1	various	various	ADJ	JJ	_	0	root	_	_
+
+
+1	security	security	NOUN	NN	_	0	root	_	_
+
+
+1	threat	threat	NOUN	NN	_	0	root	_	_
+
+
+1	code	code	NOUN	NN	_	0	root	_	_
+
+
+1	available	available	ADJ	JJ	_	0	root	_	_
+
+
+1	qaq	qaq	NOUN	NN	_	0	root	_	_
+
+
+1	tdadl	tdadl	INTJ	UH	_	0	root	_	_
+
+
+1	ie	ie	PROPN	ADD	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	term	term	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	medical	medical	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	introduction	introduction	NOUN	NN	_	0	root	_	_
+
+
+1	rise	rise	VERB	VB	_	0	root	_	_
+
+
+1	medical	medical	ADJ	JJ	_	0	root	_	_
+
+
+1	imaging	imaging	NOUN	NN	_	0	root	_	_
+
+
+1	telemedicine	telemedicine	NOUN	NN	_	0	root	_	_
+
+
+1	increase	increase	NOUN	NN	_	0	root	_	_
+
+
+1	need	need	VERB	VB	_	0	root	_	_
+
+
+1	secure	secure	ADJ	JJ	_	0	root	_	_
+
+
+1	digital	digital	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	transmission	transmission	NOUN	NN	_	0	root	_	_
+
+
+1	storage	storage	NOUN	NN	_	0	root	_	_
+
+
+1	medical	medical	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	like	like	INTJ	UH	_	0	root	_	_
+
+
+1	mri	mri	NOUN	NN	_	0	root	_	_
+
+
+1	ct	ct	PROPN	ADD	_	0	root	_	_
+
+
+1	ultrasound	ultrasound	NOUN	NN	_	0	root	_	_
+
+
+1	contain	contain	VERB	VB	_	0	root	_	_
+
+
+1	sensitive	sensitive	ADJ	JJ	_	0	root	_	_
+
+
+1	patient	patient	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	crucial	crucial	ADJ	JJ	_	0	root	_	_
+
+
+1	diagnosis	diagnosis	NOUN	NN	_	0	root	_	_
+
+
+1	treatment	treatment	NOUN	NN	_	0	root	_	_
+
+
+1	without	without	ADP	IN	_	0	root	_	_
+
+
+1	strong	strong	ADJ	JJ	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	vulnerable	vulnerable	ADJ	JJ	_	0	root	_	_
+
+
+1	unauthorized	unauthorized	ADJ	JJ	_	0	root	_	_
+
+
+1	access	access	NOUN	NN	_	0	root	_	_
+
+
+1	breach	breach	NOUN	NN	_	0	root	_	_
+
+
+1	especially	especially	ADV	RB	_	0	root	_	_
+
+
+1	unsecured	unsecured	ADJ	JJ	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	cloud	cloud	NOUN	NN	_	0	root	_	_
+
+
+1	storage	storage	NOUN	NN	_	0	root	_	_
+
+
+1	protect	protect	VERB	VB	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	essential	essential	ADJ	JJ	_	0	root	_	_
+
+
+1	patient	patient	NOUN	NN	_	0	root	_	_
+
+
+1	privacy	privacy	NOUN	NN	_	0	root	_	_
+
+
+1	require	require	VERB	VB	_	0	root	_	_
+
+
+1	regulation	regulation	NOUN	NN	_	0	root	_	_
+
+
+1	like	like	INTJ	UH	_	0	root	_	_
+
+
+1	hipaa	hipaa	NOUN	NN	_	0	root	_	_
+
+
+1	traditional	traditional	ADJ	JJ	_	0	root	_	_
+
+
+1	text	text	NOUN	NN	_	0	root	_	_
+
+
+1	orient	orient	PROPN	NNP	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	ineffective	ineffective	ADJ	JJ	_	0	root	_	_
+
+
+1	medical	medical	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	due	due	ADJ	JJ	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	inter	inter	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	correlation	correlation	NOUN	NN	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	size	size	NOUN	NN	_	0	root	_	_
+
+
+1	complex	complex	ADJ	JJ	_	0	root	_	_
+
+
+1	format	format	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	offer	offer	VERB	VB	_	0	root	_	_
+
+
+1	promise	promise	NOUN	NN	_	0	root	_	_
+
+
+1	solution	solution	NOUN	NN	_	0	root	_	_
+
+
+1	develop	develop	VERB	VB	_	0	root	_	_
+
+
+1	robust	robust	ADJ	JJ	_	0	root	_	_
+
+
+1	efficient	efficient	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	technique	technique	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	know	know	VERB	VB	_	0	root	_	_
+
+
+1	deterministic	deterministic	ADJ	JJ	_	0	root	_	_
+
+
+1	randomness	randomness	NOUN	NN	_	0	root	_	_
+
+
+1	ergodicity	ergodicity	NOUN	NN	_	0	root	_	_
+
+
+1	sensitivity	sensitivity	NOUN	NN	_	0	root	_	_
+
+
+1	initial	initial	ADJ	JJ	_	0	root	_	_
+
+
+1	condition	condition	NOUN	NN	_	0	root	_	_
+
+
+1	ideal	ideal	ADJ	JJ	_	0	root	_	_
+
+
+1	cryptographic	cryptographic	NOUN	NN	_	0	root	_	_
+
+
+1	application	application	NOUN	NN	_	0	root	_	_
+
+
+1	like	like	INTJ	UH	_	0	root	_	_
+
+
+1	generate	generate	VERB	VB	_	0	root	_	_
+
+
+1	pseudo	pseudo	NOUN	NN	_	0	root	_	_
+
+
+1	random	random	NOUN	NN	_	0	root	_	_
+
+
+1	se	se	X	LS	_	0	root	_	_
+
+
+1	quence	quence	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	although	although	SCONJ	IN	_	0	root	_	_
+
+
+1	one	one	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	correspond	correspond	VERB	VB	_	0	root	_	_
+
+
+1	author	author	NOUN	NN	_	0	root	_	_
+
+
+1	li	li	PROPN	NNP	_	0	root	_	_
+
+
+1	work	work	NOUN	NN	_	0	root	_	_
+
+
+1	support	support	VERB	VB	_	0	root	_	_
+
+
+1	part	part	NOUN	NN	_	0	root	_	_
+
+
+1	national	national	ADJ	JJ	_	0	root	_	_
+
+
+1	natural	natural	ADJ	JJ	_	0	root	_	_
+
+
+1	science	science	NOUN	NN	_	0	root	_	_
+
+
+1	foundation	foundation	NOUN	NN	_	0	root	_	_
+
+
+1	china	china	PROPN	NNP	_	0	root	_	_
+
+
+1	grant	grant	NOUN	NN	_	0	root	_	_
+
+
+1	62501412	62501412	NUM	CD	_	0	root	_	_
+
+
+1	part	part	NOUN	NN	_	0	root	_	_
+
+
+1	shenzhen	shenzhen	PROPN	NNP	_	0	root	_	_
+
+
+1	medical	medical	ADJ	JJ	_	0	root	_	_
+
+
+1	research	research	NOUN	NN	_	0	root	_	_
+
+
+1	fund	fund	NOUN	NN	_	0	root	_	_
+
+
+1	grant	grant	NOUN	NN	_	0	root	_	_
+
+
+1	a2503006	a2503006	NUM	CD	_	0	root	_	_
+
+
+1	part	part	NOUN	NN	_	0	root	_	_
+
+
+1	shenzhen	shenzhen	PROPN	NNP	_	0	root	_	_
+
+
+1	polytechnic	polytechnic	NOUN	NN	_	0	root	_	_
+
+
+1	university	university	NOUN	NN	_	0	root	_	_
+
+
+1	research	research	NOUN	NN	_	0	root	_	_
+
+
+1	fund	fund	NOUN	NN	_	0	root	_	_
+
+
+1	grant	grant	NOUN	NN	_	0	root	_	_
+
+
+1	6025310023k	6025310023k	NUM	CD	_	0	root	_	_
+
+
+1	part	part	NOUN	NN	_	0	root	_	_
+
+
+1	guangdong	guangdong	PROPN	NNP	_	0	root	_	_
+
+
+1	basic	basic	ADJ	JJ	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	basic	basic	ADJ	JJ	_	0	root	_	_
+
+
+1	research	research	NOUN	NN	_	0	root	_	_
+
+
+1	foundation	foundation	NOUN	NN	_	0	root	_	_
+
+
+1	grant	grant	NOUN	NN	_	0	root	_	_
+
+
+1	2024a1515140010	2024a1515140010	NUM	CD	_	0	root	_	_
+
+
+1	capability	capability	NOUN	NN	_	0	root	_	_
+
+
+1	long	long	ADJ	JJ	_	0	root	_	_
+
+
+1	short	short	ADJ	JJ	_	0	root	_	_
+
+
+1	term	term	NOUN	NN	_	0	root	_	_
+
+
+1	memory	memory	NOUN	NN	_	0	root	_	_
+
+
+1	lstm	lstm	PROPN	NNP	_	0	root	_	_
+
+
+1	net	net	NOUN	NN	_	0	root	_	_
+
+
+1	work	work	NOUN	NN	_	0	root	_	_
+
+
+1	engineer	engineer	NOUN	NN	_	0	root	_	_
+
+
+1	novel	novel	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	generator	generator	NOUN	NN	_	0	root	_	_
+
+
+1	generator	generator	NOUN	NN	_	0	root	_	_
+
+
+1	exhibit	exhibit	NOUN	NN	_	0	root	_	_
+
+
+1	expand	expand	VERB	VB	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	regime	regime	NOUN	NN	_	0	root	_	_
+
+
+1	su	su	PROPN	NNP	_	0	root	_	_
+
+
+1	perior	perior	NOUN	NN	_	0	root	_	_
+
+
+1	entropy	entropy	NOUN	NN	_	0	root	_	_
+
+
+1	refine	refine	VERB	VB	_	0	root	_	_
+
+
+1	temporal	temporal	ADJ	JJ	_	0	root	_	_
+
+
+1	correlation	correlation	NOUN	NN	_	0	root	_	_
+
+
+1	culmi	culmi	NOUN	NN	_	0	root	_	_
+
+
+1	nate	nate	PROPN	NNP	_	0	root	_	_
+
+
+1	substantially	substantially	ADV	RB	_	0	root	_	_
+
+
+1	enhance	enhance	VERB	VB	_	0	root	_	_
+
+
+1	randomness	randomness	NOUN	NN	_	0	root	_	_
+
+
+1	cryp	cryp	INTJ	UH	_	0	root	_	_
+
+
+1	tographic	tographic	NOUN	NN	_	0	root	_	_
+
+
+1	robustness	robustness	NOUN	NN	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	address	address	NOUN	NN	_	0	root	_	_
+
+
+1	distinct	distinct	ADJ	JJ	_	0	root	_	_
+
+
+1	requirement	requirement	NOUN	NN	_	0	root	_	_
+
+
+1	diffuse	diffuse	ADJ	JJ	_	0	root	_	_
+
+
+1	non	non	INTJ	UH	_	0	root	_	_
+
+
+1	square	square	ADJ	JJ	_	0	root	_	_
+
+
+1	color	color	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	inter	inter	NOUN	NN	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	corre	corre	PROPN	NNP	_	0	root	_	_
+
+
+1	lation	lation	NOUN	NN	_	0	root	_	_
+
+
+1	vary	vary	VERB	VB	_	0	root	_	_
+
+
+1	dimension	dimension	NOUN	NN	_	0	root	_	_
+
+
+1	pose	pose	VERB	VB	_	0	root	_	_
+
+
+1	significant	significant	ADJ	JJ	_	0	root	_	_
+
+
+1	chal	chal	PROPN	NNP	_	0	root	_	_
+
+
+1	lenge	lenge	NOUN	NN	_	0	root	_	_
+
+
+1	present	present	ADJ	JJ	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	algo	algo	PROPN	NNP	_	0	root	_	_
+
+
+1	rithm	rithm	PROPN	NNP	_	0	root	_	_
+
+
+1	tda	tda	NOUN	NN	_	0	root	_	_
+
+
+1	mechanism	mechanism	NOUN	NN	_	0	root	_	_
+
+
+1	amalgamate	amalgamate	VERB	VB	_	0	root	_	_
+
+
+1	forward	forward	ADJ	JJ	_	0	root	_	_
+
+
+1	backward	backward	ADJ	JJ	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	inter	inter	NOUN	NN	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	interaction	interaction	NOUN	NN	_	0	root	_	_
+
+
+1	design	design	NOUN	NN	_	0	root	_	_
+
+
+1	ensure	ensure	VERB	VB	_	0	root	_	_
+
+
+1	minute	minute	NOUN	NN	_	0	root	_	_
+
+
+1	alter	alter	VERB	VB	_	0	root	_	_
+
+
+1	ation	ation	PROPN	NNP	_	0	root	_	_
+
+
+1	plaintext	plaintext	NOUN	NN	_	0	root	_	_
+
+
+1	cascade	cascade	NOUN	NN	_	0	root	_	_
+
+
+1	comprehensively	comprehensively	ADV	RB	_	0	root	_	_
+
+
+1	ciphertext	ciphertext	NOUN	NN	_	0	root	_	_
+
+
+1	thereby	thereby	ADV	RB	_	0	root	_	_
+
+
+1	significantly	significantly	ADV	RB	_	0	root	_	_
+
+
+1	amplify	amplify	VERB	VB	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	sensitivity	sensitivity	NOUN	NN	_	0	root	_	_
+
+
+1	plaintext	plaintext	NOUN	NN	_	0	root	_	_
+
+
+1	sensitivity	sensitivity	NOUN	NN	_	0	root	_	_
+
+
+1	introduce	introduce	VERB	VB	_	0	root	_	_
+
+
+1	nonlinear	nonlinear	ADJ	JJ	_	0	root	_	_
+
+
+1	change	change	VERB	VB	_	0	root	_	_
+
+
+1	influence	influence	NOUN	NN	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	evolution	evolution	NOUN	NN	_	0	root	_	_
+
+
+1	enhance	enhance	VERB	VB	_	0	root	_	_
+
+
+1	complex	complex	ADJ	JJ	_	0	root	_	_
+
+
+1	dynamic	dynamic	ADJ	JJ	_	0	root	_	_
+
+
+1	memory	memory	NOUN	NN	_	0	root	_	_
+
+
+1	cell	cell	NOUN	NN	_	0	root	_	_
+
+
+1	integrate	integrate	VERB	VB	_	0	root	_	_
+
+
+1	input	input	NOUN	NN	_	0	root	_	_
+
+
+1	update	update	NOUN	NN	_	0	root	_	_
+
+
+1	state	state	NOUN	NN	_	0	root	_	_
+
+
+1	capture	capture	VERB	VB	_	0	root	_	_
+
+
+1	long	long	ADJ	JJ	_	0	root	_	_
+
+
+1	term	term	NOUN	NN	_	0	root	_	_
+
+
+1	depen	depen	INTJ	UH	_	0	root	_	_
+
+
+1	dencie	dencie	INTJ	UH	_	0	root	_	_
+
+
+1	produce	produce	VERB	VB	_	0	root	_	_
+
+
+1	intricate	intricate	ADJ	JJ	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	altogether	altogether	ADV	RB	_	0	root	_	_
+
+
+1	element	element	NOUN	NN	_	0	root	_	_
+
+
+1	form	form	NOUN	NN	_	0	root	_	_
+
+
+1	robust	robust	ADJ	JJ	_	0	root	_	_
+
+
+1	nonlinear	nonlinear	ADJ	JJ	_	0	root	_	_
+
+
+1	mechanism	mechanism	NOUN	NN	_	0	root	_	_
+
+
+1	modeling	modeling	NOUN	NN	_	0	root	_	_
+
+
+1	create	create	VERB	VB	_	0	root	_	_
+
+
+1	complex	complex	ADJ	JJ	_	0	root	_	_
+
+
+1	temporal	temporal	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	trait	trait	NOUN	NN	_	0	root	_	_
+
+
+1	leverage	leverage	NOUN	NN	_	0	root	_	_
+
+
+1	property	property	NOUN	NN	_	0	root	_	_
+
+
+1	introduce	introduce	VERB	VB	_	0	root	_	_
+
+
+1	hybrid	hybrid	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	generator	generator	NOUN	NN	_	0	root	_	_
+
+
+1	synergistically	synergistically	ADV	RB	_	0	root	_	_
+
+
+1	combine	combine	VERB	VB	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sine	sine	NOUN	NN	_	0	root	_	_
+
+
+1	cosine	cosine	NOUN	NN	_	0	root	_	_
+
+
+1	exponential	exponential	ADJ	JJ	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	temporal	temporal	ADJ	JJ	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	ele	ele	NOUN	NN	_	0	root	_	_
+
+
+1	capability	capability	NOUN	NN	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	select	select	VERB	VB	_	0	root	_	_
+
+
+1	inherent	inherent	ADJ	JJ	_	0	root	_	_
+
+
+1	characteristic	characteristic	ADJ	JJ	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	entropy	entropy	NOUN	NN	_	0	root	_	_
+
+
+1	pronounce	pronounce	VERB	VB	_	0	root	_	_
+
+
+1	sensitivity	sensitivity	NOUN	NN	_	0	root	_	_
+
+
+1	initial	initial	ADJ	JJ	_	0	root	_	_
+
+
+1	condition	condition	NOUN	NN	_	0	root	_	_
+
+
+1	define	define	VERB	VB	_	0	root	_	_
+
+
+1	xn	xn	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	sin	sin	NOUN	NN	_	0	root	_	_
+
+
+1	a2	a2	INTJ	UH	_	0	root	_	_
+
+
+1	sin	sin	NOUN	NN	_	0	root	_	_
+
+
+1	xn	xn	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	xn	xn	NOUN	NN	_	0	root	_	_
+
+
+1	denote	denote	VERB	VB	_	0	root	_	_
+
+
+1	state	state	NOUN	NN	_	0	root	_	_
+
+
+1	variable	variable	ADJ	JJ	_	0	root	_	_
+
+
+1	iteration	iteration	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	control	control	NOUN	NN	_	0	root	_	_
+
+
+1	parameter	parameter	NOUN	NN	_	0	root	_	_
+
+
+1	subsequently	subsequently	ADV	RB	_	0	root	_	_
+
+
+1	processing	processing	NOUN	NN	_	0	root	_	_
+
+
+1	output	output	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	aim	aim	NOUN	NN	_	0	root	_	_
+
+
+1	generate	generate	VERB	VB	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	temporally	temporally	ADV	RB	_	0	root	_	_
+
+
+1	correlate	correlate	VERB	VB	_	0	root	_	_
+
+
+1	statistically	statistically	ADV	RB	_	0	root	_	_
+
+
+1	rich	rich	ADJ	JJ	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	exhibit	exhibit	NOUN	NN	_	0	root	_	_
+
+
+1	significant	significant	ADJ	JJ	_	0	root	_	_
+
+
+1	phase	phase	NOUN	NN	_	0	root	_	_
+
+
+1	space	space	NOUN	NN	_	0	root	_	_
+
+
+1	divergence	divergence	NOUN	NN	_	0	root	_	_
+
+
+1	integrate	integrate	VERB	VB	_	0	root	_	_
+
+
+1	methodology	methodology	NOUN	NN	_	0	root	_	_
+
+
+1	preserve	preserve	VERB	VB	_	0	root	_	_
+
+
+1	funda	funda	NOUN	NN	_	0	root	_	_
+
+
+1	mental	mental	ADJ	JJ	_	0	root	_	_
+
+
+1	randomness	randomness	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	empower	empower	VERB	VB	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	adaptively	adaptively	ADV	RB	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	amplify	amplify	VERB	VB	_	0	root	_	_
+
+
+1	complexity	complexity	NOUN	NN	_	0	root	_	_
+
+
+1	unpredictability	unpredictability	NOUN	NN	_	0	root	_	_
+
+
+1	generate	generate	VERB	VB	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	ii	ii	INTJ	UH	_	0	root	_	_
+
+
+1	methodology	methodology	NOUN	NN	_	0	root	_	_
+
+
+1	tdadl	tdadl	INTJ	UH	_	0	root	_	_
+
+
+1	ie	ie	PROPN	ADD	_	0	root	_	_
+
+
+1	new	new	ADJ	JJ	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	multi	multi	NOUN	NN	_	0	root	_	_
+
+
+1	medical	medical	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sine	sine	NOUN	NN	_	0	root	_	_
+
+
+1	cosine	cosine	NOUN	NN	_	0	root	_	_
+
+
+1	exponential	exponential	ADJ	JJ	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	neural	neural	ADJ	JJ	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	enhancement	enhancement	NOUN	NN	_	0	root	_	_
+
+
+1	flowchart	flowchart	NOUN	NN	_	0	root	_	_
+
+
+1	show	show	VERB	VB	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	rate	rate	NOUN	NN	_	0	root	_	_
+
+
+1	length	length	NOUN	NN	_	0	root	_	_
+
+
+1	input	input	NOUN	NN	_	0	root	_	_
+
+
+1	subsequence	subsequence	NOUN	NN	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	optimize	optimize	VERB	VB	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	train	train	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	xtrain	xtrain	NOUN	NN	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	underlie	underlie	VERB	VB	_	0	root	_	_
+
+
+1	temporal	temporal	ADJ	JJ	_	0	root	_	_
+
+
+1	pattern	pattern	NOUN	NN	_	0	root	_	_
+
+
+1	statistical	statistical	ADJ	JJ	_	0	root	_	_
+
+
+1	property	property	NOUN	NN	_	0	root	_	_
+
+
+1	upon	upon	ADP	IN	_	0	root	_	_
+
+
+1	completion	completion	NOUN	NN	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	phase	phase	NOUN	NN	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	equip	equip	NOUN	NN	_	0	root	_	_
+
+
+1	generate	generate	VERB	VB	_	0	root	_	_
+
+
+1	enhance	enhance	VERB	VB	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	step	step	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	hybrid	hybrid	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	generation	generation	NOUN	NN	_	0	root	_	_
+
+
+1	en	en	PROPN	NNP	_	0	root	_	_
+
+
+1	cryption	cryption	NOUN	NN	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	secret	secret	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	keyx1	keyx1	PROPN	NNP	_	0	root	_	_
+
+
+1	keyy1	keyy1	PROPN	ADD	_	0	root	_	_
+
+
+1	keya	keya	PROPN	NNP	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	n0	n0	NOUN	NN	_	0	root	_	_
+
+
+1	employ	employ	VERB	VB	_	0	root	_	_
+
+
+1	generation	generation	NOUN	NN	_	0	root	_	_
+
+
+1	proceed	proceed	VERB	VB	_	0	root	_	_
+
+
+1	follow	follow	VERB	VB	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	l	l	PROPN	NNP	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	matrix	matrix	NOUN	NN	_	0	root	_	_
+
+
+1	reshape	reshape	VERB	VB	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	one	one	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	se	se	X	LS	_	0	root	_	_
+
+
+1	quence	quence	NOUN	NN	_	0	root	_	_
+
+
+1	x	x	NOUN	NN	_	0	root	_	_
+
+
+1	z	z	NOUN	NN	_	0	root	_	_
+
+
+1	reshape	reshape	VERB	VB	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	matrix	matrix	NOUN	NN	_	0	root	_	_
+
+
+1	denote	denote	VERB	VB	_	0	root	_	_
+
+
+1	x2d	x2d	NOUN	NN	_	0	root	_	_
+
+
+1	y2d	y2d	INTJ	UH	_	0	root	_	_
+
+
+1	z2d	z2d	PROPN	NNP	_	0	root	_	_
+
+
+1	respectively	respectively	ADV	RB	_	0	root	_	_
+
+
+1	matrix	matrix	NOUN	NN	_	0	root	_	_
+
+
+1	subsequently	subsequently	ADV	RB	_	0	root	_	_
+
+
+1	employ	employ	VERB	VB	_	0	root	_	_
+
+
+1	tda	tda	NOUN	NN	_	0	root	_	_
+
+
+1	module	module	NOUN	NN	_	0	root	_	_
+
+
+1	se	se	X	LS	_	0	root	_	_
+
+
+1	quence	quence	NOUN	NN	_	0	root	_	_
+
+
+1	reserve	reserve	NOUN	NN	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	shuffle	shuffle	VERB	VB	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	multi	multi	NOUN	NN	_	0	root	_	_
+
+
+1	stage	stage	NOUN	NN	_	0	root	_	_
+
+
+1	derivation	derivation	NOUN	NN	_	0	root	_	_
+
+
+1	ensure	ensure	VERB	VB	_	0	root	_	_
+
+
+1	distinct	distinct	ADJ	JJ	_	0	root	_	_
+
+
+1	complex	complex	ADJ	JJ	_	0	root	_	_
+
+
+1	pseudo	pseudo	NOUN	NN	_	0	root	_	_
+
+
+1	random	random	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	available	available	ADJ	JJ	_	0	root	_	_
+
+
+1	different	different	ADJ	JJ	_	0	root	_	_
+
+
+1	crypto	crypto	NOUN	NN	_	0	root	_	_
+
+
+1	graphic	graphic	ADJ	JJ	_	0	root	_	_
+
+
+1	operation	operation	NOUN	NN	_	0	root	_	_
+
+
+1	enhance	enhance	VERB	VB	_	0	root	_	_
+
+
+1	overall	overall	ADV	RB	_	0	root	_	_
+
+
+1	security	security	NOUN	NN	_	0	root	_	_
+
+
+1	b	b	NOUN	NN	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	shuffle	shuffle	VERB	VB	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	isa	isa	NOUN	NN	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	shuffle	shuffle	VERB	VB	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	isa	isa	NOUN	NN	_	0	root	_	_
+
+
+1	implement	implement	VERB	VB	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	level	level	NOUN	NN	_	0	root	_	_
+
+
+1	permutation	permutation	NOUN	NN	_	0	root	_	_
+
+
+1	obfuscate	obfuscate	VERB	VB	_	0	root	_	_
+
+
+1	spatial	spatial	ADJ	JJ	_	0	root	_	_
+
+
+1	correlation	correlation	NOUN	NN	_	0	root	_	_
+
+
+1	within	within	ADP	IN	_	0	root	_	_
+
+
+1	input	input	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	independently	independently	ADV	RB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	length	length	NOUN	NN	_	0	root	_	_
+
+
+1	mn	mn	PROPN	NNP	_	0	root	_	_
+
+
+1	derive	derive	VERB	VB	_	0	root	_	_
+
+
+1	describe	describe	VERB	VB	_	0	root	_	_
+
+
+1	section	section	NOUN	NN	_	0	root	_	_
+
+
+1	ii	ii	INTJ	UH	_	0	root	_	_
+
+
+1	step	step	NOUN	NN	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	isa	isa	NOUN	NN	_	0	root	_	_
+
+
+1	proceed	proceed	VERB	VB	_	0	root	_	_
+
+
+1	follow	follow	VERB	VB	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	generation	generation	NOUN	NN	_	0	root	_	_
+
+
+1	primary	primary	ADJ	JJ	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	denote	denote	VERB	VB	_	0	root	_	_
+
+
+1	xsqcm	xsqcm	NOUN	NN	_	0	root	_	_
+
+
+1	length	length	NOUN	NN	_	0	root	_	_
+
+
+1	2mn	2mn	NOUN	NN	_	0	root	_	_
+
+
+1	generate	generate	VERB	VB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	eq	eq	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	initialize	initialize	VERB	VB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	keyx1	keyx1	PROPN	NNP	_	0	root	_	_
+
+
+1	initial	initial	ADJ	JJ	_	0	root	_	_
+
+
+1	state	state	NOUN	NN	_	0	root	_	_
+
+
+1	x0	x0	NOUN	NN	_	0	root	_	_
+
+
+1	keya	keya	PROPN	NNP	_	0	root	_	_
+
+
+1	serve	serve	VERB	VB	_	0	root	_	_
+
+
+1	control	control	NOUN	NN	_	0	root	_	_
+
+
+1	parameter	parameter	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	keyy1	keyy1	PROPN	ADD	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	n0	n0	NOUN	NN	_	0	root	_	_
+
+
+1	may	may	AUX	MD	_	0	root	_	_
+
+
+1	influence	influence	NOUN	NN	_	0	root	_	_
+
+
+1	aspect	aspect	NOUN	NN	_	0	root	_	_
+
+
+1	number	number	NOUN	NN	_	0	root	_	_
+
+
+1	initial	initial	ADJ	JJ	_	0	root	_	_
+
+
+1	iteration	iteration	NOUN	NN	_	0	root	_	_
+
+
+1	discard	discard	VERB	VB	_	0	root	_	_
+
+
+1	prior	prior	ADJ	JJ	_	0	root	_	_
+
+
+1	collect	collect	VERB	VB	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	value	value	NOUN	NN	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	enhancement	enhancement	NOUN	NN	_	0	root	_	_
+
+
+1	train	train	NOUN	NN	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	utilize	utilize	VERB	VB	_	0	root	_	_
+
+
+1	produce	produce	VERB	VB	_	0	root	_	_
+
+
+1	secondary	secondary	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	xblstm	xblstm	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	length	length	NOUN	NN	_	0	root	_	_
+
+
+1	2mn	2mn	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	generate	generate	VERB	VB	_	0	root	_	_
+
+
+1	feed	feed	VERB	VB	_	0	root	_	_
+
+
+1	initial	initial	ADJ	JJ	_	0	root	_	_
+
+
+1	seed	seed	NOUN	NN	_	0	root	_	_
+
+
+1	derive	derive	VERB	VB	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	segment	segment	NOUN	NN	_	0	root	_	_
+
+
+1	xsqcm	xsqcm	NOUN	NN	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	allow	allow	VERB	VB	_	0	root	_	_
+
+
+1	predict	predict	VERB	VB	_	0	root	_	_
+
+
+1	subsequent	subsequent	ADJ	JJ	_	0	root	_	_
+
+
+1	value	value	NOUN	NN	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	concatenation	concatenation	NOUN	NN	_	0	root	_	_
+
+
+1	two	two	NUM	CD	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	xsqcm	xsqcm	NOUN	NN	_	0	root	_	_
+
+
+1	xblstm	xblstm	NOUN	NN	_	0	root	_	_
+
+
+1	horizontally	horizontally	ADV	RB	_	0	root	_	_
+
+
+1	concatenate	concatenate	VERB	VB	_	0	root	_	_
+
+
+1	form	form	NOUN	NN	_	0	root	_	_
+
+
+1	hybrid	hybrid	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	shybrid	shybrid	INTJ	UH	_	0	root	_	_
+
+
+1	total	total	ADJ	JJ	_	0	root	_	_
+
+
+1	length	length	NOUN	NN	_	0	root	_	_
+
+
+1	4mn	4mn	NOUN	NN	_	0	root	_	_
+
+
+1	hybrid	hybrid	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	benefit	benefit	NOUN	NN	_	0	root	_	_
+
+
+1	fundamental	fundamental	ADJ	JJ	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	property	property	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	complexity	complexity	NOUN	NN	_	0	root	_	_
+
+
+1	introduce	introduce	VERB	VB	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	length	length	NOUN	NN	_	0	root	_	_
+
+
+1	mn	mn	PROPN	NNP	_	0	root	_	_
+
+
+1	typically	typically	ADV	RB	_	0	root	_	_
+
+
+1	correspond	correspond	VERB	VB	_	0	root	_	_
+
+
+1	number	number	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	single	single	ADJ	JJ	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	size	size	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	total	total	ADJ	JJ	_	0	root	_	_
+
+
+1	length	length	NOUN	NN	_	0	root	_	_
+
+
+1	4mn	4mn	NOUN	NN	_	0	root	_	_
+
+
+1	prepare	prepare	VERB	VB	_	0	root	_	_
+
+
+1	processing	processing	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	equivalent	equivalent	ADJ	JJ	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	four	four	NUM	CD	_	0	root	_	_
+
+
+1	component	component	NOUN	NN	_	0	root	_	_
+
+
+1	per	per	ADP	IN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	rgba	rgba	NOUN	NN	_	0	root	_	_
+
+
+1	four	four	NUM	CD	_	0	root	_	_
+
+
+1	distinct	distinct	ADJ	JJ	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	cryptographic	cryptographic	NOUN	NN	_	0	root	_	_
+
+
+1	operation	operation	NOUN	NN	_	0	root	_	_
+
+
+1	step	step	NOUN	NN	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	processing	processing	NOUN	NN	_	0	root	_	_
+
+
+1	derivation	derivation	NOUN	NN	_	0	root	_	_
+
+
+1	hybrid	hybrid	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	shybrid	shybrid	INTJ	UH	_	0	root	_	_
+
+
+1	length	length	NOUN	NN	_	0	root	_	_
+
+
+1	4mn	4mn	NOUN	NN	_	0	root	_	_
+
+
+1	generate	generate	VERB	VB	_	0	root	_	_
+
+
+1	describe	describe	VERB	VB	_	0	root	_	_
+
+
+1	step	step	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	subsequently	subsequently	ADV	RB	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	derive	derive	VERB	VB	_	0	root	_	_
+
+
+1	tailor	tailor	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	various	various	ADJ	JJ	_	0	root	_	_
+
+
+1	stage	stage	NOUN	NN	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	processing	processing	NOUN	NN	_	0	root	_	_
+
+
+1	perform	perform	VERB	VB	_	0	root	_	_
+
+
+1	follow	follow	VERB	VB	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	vectorization	vectorization	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	individual	individual	NOUN	NN	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	thereof	thereof	ADV	RB	_	0	root	_	_
+
+
+1	flatten	flatten	VERB	VB	_	0	root	_	_
+
+
+1	one	one	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	vector	vector	NOUN	NN	_	0	root	_	_
+
+
+1	p	p	NOUN	NN	_	0	root	_	_
+
+
+1	length	length	NOUN	NN	_	0	root	_	_
+
+
+1	mn	mn	PROPN	NNP	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	permutation	permutation	NOUN	NN	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	generation	generation	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	utilize	utilize	VERB	VB	_	0	root	_	_
+
+
+1	derive	derive	VERB	VB	_	0	root	_	_
+
+
+1	set	set	VERB	VB	_	0	root	_	_
+
+
+1	permutation	permutation	NOUN	NN	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	common	common	ADJ	JJ	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	involve	involve	VERB	VB	_	0	root	_	_
+
+
+1	obtain	obtain	VERB	VB	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	would	would	AUX	MD	_	0	root	_	_
+
+
+1	sort	sort	NOUN	NN	_	0	root	_	_
+
+
+1	element	element	NOUN	NN	_	0	root	_	_
+
+
+1	let	let	VERB	VB	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	idx	idx	NOUN	NN	_	0	root	_	_
+
+
+1	idx1	idx1	PROPN	ADD	_	0	root	_	_
+
+
+1	idx2	idx2	PROPN	ADD	_	0	root	_	_
+
+
+1	idxmn	idxmn	PROPN	NNP	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	scramble	scramble	VERB	VB	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	vector	vector	NOUN	NN	_	0	root	_	_
+
+
+1	p	p	NOUN	NN	_	0	root	_	_
+
+
+1	reorder	reorder	NOUN	NN	_	0	root	_	_
+
+
+1	accord	accord	NOUN	NN	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	specifically	specifically	ADV	RB	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	th	th	INTJ	UH	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	permute	permute	NOUN	NN	_	0	root	_	_
+
+
+1	vector	vector	NOUN	NN	_	0	root	_	_
+
+
+1	p	p	NOUN	NN	_	0	root	_	_
+
+
+1	p	p	NOUN	NN	_	0	root	_	_
+
+
+1	idxj	idxj	PROPN	NNP	_	0	root	_	_
+
+
+1	operation	operation	NOUN	NN	_	0	root	_	_
+
+
+1	effectively	effectively	ADV	RB	_	0	root	_	_
+
+
+1	scramble	scramble	VERB	VB	_	0	root	_	_
+
+
+1	original	original	ADJ	JJ	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	arrangement	arrangement	NOUN	NN	_	0	root	_	_
+
+
+1	4	4	NUM	LS	_	0	root	_	_
+
+
+1	reshape	reshape	VERB	VB	_	0	root	_	_
+
+
+1	permute	permute	NOUN	NN	_	0	root	_	_
+
+
+1	vector	vector	NOUN	NN	_	0	root	_	_
+
+
+1	p	p	NOUN	NN	_	0	root	_	_
+
+
+1	reshape	reshape	VERB	VB	_	0	root	_	_
+
+
+1	back	back	ADV	RB	_	0	root	_	_
+
+
+1	original	original	ADJ	JJ	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	two	two	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	structure	structure	NOUN	NN	_	0	root	_	_
+
+
+1	yield	yield	VERB	VB	_	0	root	_	_
+
+
+1	e	e	PROPN	NNP	_	0	root	_	_
+
+
+1	shuffle	shuffle	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	permutation	permutation	NOUN	NN	_	0	root	_	_
+
+
+1	step	step	NOUN	NN	_	0	root	_	_
+
+
+1	significantly	significantly	ADV	RB	_	0	root	_	_
+
+
+1	enhance	enhance	VERB	VB	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	resistance	resistance	NOUN	NN	_	0	root	_	_
+
+
+1	statistical	statistical	ADJ	JJ	_	0	root	_	_
+
+
+1	attack	attack	NOUN	NN	_	0	root	_	_
+
+
+1	decorrelate	decorrelate	VERB	VB	_	0	root	_	_
+
+
+1	adjacent	adjacent	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	tda	tda	NOUN	NN	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	tda	tda	NOUN	NN	_	0	root	_	_
+
+
+1	de	de	PROPN	NNP	_	0	root	_	_
+
+
+1	sign	sign	VERB	VB	_	0	root	_	_
+
+
+1	spread	spread	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	across	across	ADV	RB	_	0	root	_	_
+
+
+1	spatial	spatial	ADJ	JJ	_	0	root	_	_
+
+
+1	dimension	dimension	NOUN	NN	_	0	root	_	_
+
+
+1	color	color	NOUN	NN	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	forward	forward	ADJ	JJ	_	0	root	_	_
+
+
+1	back	back	ADV	RB	_	0	root	_	_
+
+
+1	ward	ward	NOUN	NN	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	ensure	ensure	VERB	VB	_	0	root	_	_
+
+
+1	change	change	VERB	VB	_	0	root	_	_
+
+
+1	single	single	ADJ	JJ	_	0	root	_	_
+
+
+1	plaintext	plaintext	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	impact	impact	VERB	VB	_	0	root	_	_
+
+
+1	many	many	ADJ	JJ	_	0	root	_	_
+
+
+1	ciphertext	ciphertext	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	ensure	ensure	VERB	VB	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	forward	forward	ADJ	JJ	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	raster	raster	NOUN	NN	_	0	root	_	_
+
+
+1	order	order	NOUN	NN	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	top	top	NOUN	NN	_	0	root	_	_
+
+
+1	leave	leave	VERB	VB	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	bottom	bottom	NOUN	NN	_	0	root	_	_
+
+
+1	right	right	ADJ	JJ	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	backward	backward	ADJ	JJ	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	go	go	VERB	VB	_	0	root	_	_
+
+
+1	reverse	reverse	NOUN	NN	_	0	root	_	_
+
+
+1	direction	direction	NOUN	NN	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	tda	tda	NOUN	NN	_	0	root	_	_
+
+
+1	cross	cross	NOUN	NN	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	interaction	interaction	NOUN	NN	_	0	root	_	_
+
+
+1	boost	boost	VERB	VB	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	strength	strength	NOUN	NN	_	0	root	_	_
+
+
+1	especially	especially	ADV	RB	_	0	root	_	_
+
+
+1	color	color	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	ensure	ensure	VERB	VB	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	oc	oc	NOUN	NN	_	0	root	_	_
+
+
+1	curs	curs	NOUN	NN	_	0	root	_	_
+
+
+1	across	across	ADV	RB	_	0	root	_	_
+
+
+1	color	color	NOUN	NN	_	0	root	_	_
+
+
+1	plane	plane	NOUN	NN	_	0	root	_	_
+
+
+1	conceptually	conceptually	ADV	RB	_	0	root	_	_
+
+
+1	show	show	VERB	VB	_	0	root	_	_
+
+
+1	fig	fig	NOUN	NN	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	one	one	NUM	CD	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	influence	influence	NOUN	NN	_	0	root	_	_
+
+
+1	neighbor	neighbor	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	instance	instance	NOUN	NN	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	green	green	ADJ	JJ	_	0	root	_	_
+
+
+1	g	g	PROPN	NNP	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	update	update	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	nearby	nearby	ADV	RB	_	0	root	_	_
+
+
+1	red	red	ADJ	JJ	_	0	root	_	_
+
+
+1	r	r	X	LS	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	previous	previous	ADJ	JJ	_	0	root	_	_
+
+
+1	g	g	PROPN	NNP	_	0	root	_	_
+
+
+1	neighbor	neighbor	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	derive	derive	VERB	VB	_	0	root	_	_
+
+
+1	element	element	NOUN	NN	_	0	root	_	_
+
+
+1	blue	blue	ADJ	JJ	_	0	root	_	_
+
+
+1	b	b	NOUN	NN	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	may	may	AUX	MD	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	rely	rely	VERB	VB	_	0	root	_	_
+
+
+1	g	g	PROPN	NNP	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	value	value	NOUN	NN	_	0	root	_	_
+
+
+1	inter	inter	NOUN	NN	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	dependency	dependency	NOUN	NN	_	0	root	_	_
+
+
+1	vital	vital	ADJ	JJ	_	0	root	_	_
+
+
+1	counteract	counteract	VERB	VB	_	0	root	_	_
+
+
+1	independent	independent	ADJ	JJ	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	tda	tda	NOUN	NN	_	0	root	_	_
+
+
+1	operation	operation	NOUN	NN	_	0	root	_	_
+
+
+1	update	update	NOUN	NN	_	0	root	_	_
+
+
+1	detailed	detailed	ADJ	JJ	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	dependent	dependent	ADJ	JJ	_	0	root	_	_
+
+
+1	matrix	matrix	NOUN	NN	_	0	root	_	_
+
+
+1	x2d	x2d	NOUN	NN	_	0	root	_	_
+
+
+1	y2d	y2d	INTJ	UH	_	0	root	_	_
+
+
+1	z2d	z2d	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	partition	partition	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	shybrid	shybrid	INTJ	UH	_	0	root	_	_
+
+
+1	parti	parti	NOUN	NN	_	0	root	_	_
+
+
+1	tione	tione	INTJ	UH	_	0	root	_	_
+
+
+1	four	four	NUM	CD	_	0	root	_	_
+
+
+1	sub	sub	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	x	x	NOUN	NN	_	0	root	_	_
+
+
+1	z	z	NOUN	NN	_	0	root	_	_
+
+
+1	length	length	NOUN	NN	_	0	root	_	_
+
+
+1	l	l	PROPN	NNP	_	0	root	_	_
+
+
+1	mn	mn	PROPN	NNP	_	0	root	_	_
+
+
+1	l	l	PROPN	NNP	_	0	root	_	_
+
+
+1	mn	mn	PROPN	NNP	_	0	root	_	_
+
+
+1	represent	represent	VERB	VB	_	0	root	_	_
+
+
+1	number	number	NOUN	NN	_	0	root	_	_
+
+
+1	element	element	NOUN	NN	_	0	root	_	_
+
+
+1	sub	sub	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	correspond	correspond	VERB	VB	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	count	count	NOUN	NN	_	0	root	_	_
+
+
+1	single	single	ADJ	JJ	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	derivation	derivation	NOUN	NN	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	sub	sub	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	x	x	NOUN	NN	_	0	root	_	_
+
+
+1	z	z	NOUN	NN	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	new	new	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	x	x	NOUN	NN	_	0	root	_	_
+
+
+1	z	z	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	length	length	NOUN	NN	_	0	root	_	_
+
+
+1	l	l	PROPN	NNP	_	0	root	_	_
+
+
+1	mn	mn	PROPN	NNP	_	0	root	_	_
+
+
+1	compute	compute	VERB	VB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	transformation	transformation	NOUN	NN	_	0	root	_	_
+
+
+1	define	define	VERB	VB	_	0	root	_	_
+
+
+1	eq	eq	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	x	x	NOUN	NN	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	x	x	NOUN	NN	_	0	root	_	_
+
+
+1	l	l	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	109	109	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	x	x	NOUN	NN	_	0	root	_	_
+
+
+1	l	l	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	109	109	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	z	z	NOUN	NN	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	z	z	NOUN	NN	_	0	root	_	_
+
+
+1	109	109	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	input	input	NOUN	NN	_	0	root	_	_
+
+
+1	scramble	scramble	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	size	size	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	matrix	matrix	NOUN	NN	_	0	root	_	_
+
+
+1	x2d	x2d	NOUN	NN	_	0	root	_	_
+
+
+1	y2d	y2d	INTJ	UH	_	0	root	_	_
+
+
+1	z2d	z2d	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	x2d	x2d	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	y2d	y2d	INTJ	UH	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	z2d	z2d	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	4	4	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	5	5	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	x2d	x2d	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	6	6	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	y2d	y2d	INTJ	UH	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	7	7	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	z2d	z2d	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	8	8	NUM	LS	_	0	root	_	_
+
+
+1	end	end	NOUN	NN	_	0	root	_	_
+
+
+1	9	9	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	g	g	PROPN	NNP	_	0	root	_	_
+
+
+1	r	r	X	LS	_	0	root	_	_
+
+
+1	b	b	NOUN	NN	_	0	root	_	_
+
+
+1	fig	fig	NOUN	NN	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	illustration	illustration	NOUN	NN	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	tda	tda	NOUN	NN	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	x2d	x2d	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	11	11	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	y2d	y2d	INTJ	UH	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	12	12	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	z2d	z2d	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	subtraction	subtraction	NOUN	NN	_	0	root	_	_
+
+
+1	modular	modular	ADJ	JJ	_	0	root	_	_
+
+
+1	addition	addition	NOUN	NN	_	0	root	_	_
+
+
+1	cross	cross	NOUN	NN	_	0	root	_	_
+
+
+1	channel	channel	NOUN	NN	_	0	root	_	_
+
+
+1	dependency	dependency	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	reverse	reverse	NOUN	NN	_	0	root	_	_
+
+
+1	accord	accord	NOUN	NN	_	0	root	_	_
+
+
+1	define	define	VERB	VB	_	0	root	_	_
+
+
+1	inverse	inverse	ADJ	JJ	_	0	root	_	_
+
+
+1	rule	rule	NOUN	NN	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	inverse	inverse	ADJ	JJ	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	shuffle	shuffle	VERB	VB	_	0	root	_	_
+
+
+1	inverse	inverse	ADJ	JJ	_	0	root	_	_
+
+
+1	permutation	permutation	NOUN	NN	_	0	root	_	_
+
+
+1	derive	derive	VERB	VB	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	determine	determine	VERB	VB	_	0	root	_	_
+
+
+1	reverse	reverse	NOUN	NN	_	0	root	_	_
+
+
+1	mapping	mapping	NOUN	NN	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	diffuse	diffuse	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	restore	restore	VERB	VB	_	0	root	_	_
+
+
+1	original	original	ADJ	JJ	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	order	order	NOUN	NN	_	0	root	_	_
+
+
+1	successful	successful	ADJ	JJ	_	0	root	_	_
+
+
+1	recovery	recovery	NOUN	NN	_	0	root	_	_
+
+
+1	plaintext	plaintext	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	hinge	hinge	NOUN	NN	_	0	root	_	_
+
+
+1	precise	precise	ADJ	JJ	_	0	root	_	_
+
+
+1	application	application	NOUN	NN	_	0	root	_	_
+
+
+1	inverse	inverse	ADJ	JJ	_	0	root	_	_
+
+
+1	step	step	NOUN	NN	_	0	root	_	_
+
+
+1	availability	availability	NOUN	NN	_	0	root	_	_
+
+
+1	identical	identical	ADJ	JJ	_	0	root	_	_
+
+
+1	secret	secret	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	13	13	NUM	LS	_	0	root	_	_
+
+
+1	end	end	NOUN	NN	_	0	root	_	_
+
+
+1	14	14	NUM	LS	_	0	root	_	_
+
+
+1	repeat	repeat	VERB	VB	_	0	root	_	_
+
+
+1	15	15	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	16	16	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	17	17	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	x2d	x2d	NOUN	NN	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	18	18	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	y2d	y2d	INTJ	UH	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	19	19	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	mod	mod	NOUN	NN	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	z2d	z2d	PROPN	NNP	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	j	j	PROPN	NNP	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	256	256	NUM	CD	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	end	end	NOUN	NN	_	0	root	_	_
+
+
+1	iii	iii	INTJ	UH	_	0	root	_	_
+
+
+1	experimental	experimental	ADJ	JJ	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	section	section	NOUN	NN	_	0	root	_	_
+
+
+1	evaluate	evaluate	VERB	VB	_	0	root	_	_
+
+
+1	propose	propose	VERB	VB	_	0	root	_	_
+
+
+1	cryptosystem	cryptosystem	NOUN	NN	_	0	root	_	_
+
+
+1	focus	focus	VERB	VB	_	0	root	_	_
+
+
+1	efficiency	efficiency	NOUN	NN	_	0	root	_	_
+
+
+1	security	security	NOUN	NN	_	0	root	_	_
+
+
+1	tdadl	tdadl	INTJ	UH	_	0	root	_	_
+
+
+1	ie	ie	PROPN	ADD	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	performance	performance	NOUN	NN	_	0	root	_	_
+
+
+1	characteristic	characteristic	ADJ	JJ	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	21	21	NUM	LS	_	0	root	_	_
+
+
+1	end	end	NOUN	NN	_	0	root	_	_
+
+
+1	22	22	NUM	LS	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	complete	complete	ADJ	JJ	_	0	root	_	_
+
+
+1	23	23	NUM	LS	_	0	root	_	_
+
+
+1	output	output	NOUN	NN	_	0	root	_	_
+
+
+1	encrypt	encrypt	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	experimental	experimental	ADJ	JJ	_	0	root	_	_
+
+
+1	setup	setup	NOUN	NN	_	0	root	_	_
+
+
+1	validation	validation	NOUN	NN	_	0	root	_	_
+
+
+1	consist	consist	VERB	VB	_	0	root	_	_
+
+
+1	analyze	analyze	VERB	VB	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sin	sin	NOUN	NN	_	0	root	_	_
+
+
+1	cos	cos	INTJ	UH	_	0	root	_	_
+
+
+1	pi	pi	NOUN	NN	_	0	root	_	_
+
+
+1	hyperchaotic	hyperchaotic	PROPN	NNP	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	evaluate	evaluate	VERB	VB	_	0	root	_	_
+
+
+1	tdadl	tdadl	INTJ	UH	_	0	root	_	_
+
+
+1	ie	ie	PROPN	ADD	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	behavior	behavior	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	compare	compare	VERB	VB	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	one	one	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	table	table	NOUN	NN	_	0	root	_	_
+
+
+1	two	two	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	tdadl	tdadl	INTJ	UH	_	0	root	_	_
+
+
+1	ie	ie	PROPN	ADD	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	standard	standard	ADJ	JJ	_	0	root	_	_
+
+
+1	grayscale	grayscale	ADJ	JJ	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	img1	img1	PROPN	ADD	_	0	root	_	_
+
+
+1	img2	img2	PROPN	ADD	_	0	root	_	_
+
+
+1	img3	img3	PROPN	ADD	_	0	root	_	_
+
+
+1	size	size	NOUN	NN	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	512	512	NUM	CD	_	0	root	_	_
+
+
+1	512	512	NUM	CD	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	compare	compare	VERB	VB	_	0	root	_	_
+
+
+1	state	state	NOUN	NN	_	0	root	_	_
+
+
+1	art	art	NOUN	NN	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	technique	technique	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	standard	standard	ADJ	JJ	_	0	root	_	_
+
+
+1	metric	metric	NOUN	NN	_	0	root	_	_
+
+
+1	experiment	experiment	VERB	VB	_	0	root	_	_
+
+
+1	run	run	NOUN	NN	_	0	root	_	_
+
+
+1	amd	amd	PROPN	NNP	_	0	root	_	_
+
+
+1	ryzen	ryzen	PROPN	NNP	_	0	root	_	_
+
+
+1	7	7	NUM	LS	_	0	root	_	_
+
+
+1	7800x3d	7800x3d	NUM	CD	_	0	root	_	_
+
+
+1	cpu	cpu	NOUN	NN	_	0	root	_	_
+
+
+1	4.20	4.20	NUM	CD	_	0	root	_	_
+
+
+1	ghz	ghz	NOUN	NN	_	0	root	_	_
+
+
+1	32	32	NUM	LS	_	0	root	_	_
+
+
+1	gb	gb	PROPN	NNP	_	0	root	_	_
+
+
+1	ram	ram	NOUN	NN	_	0	root	_	_
+
+
+1	window	window	NOUN	NN	_	0	root	_	_
+
+
+1	11	11	NUM	LS	_	0	root	_	_
+
+
+1	matlab	matlab	NOUN	NN	_	0	root	_	_
+
+
+1	r2024a	r2024a	NOUN	NN	_	0	root	_	_
+
+
+1	decryption	decryption	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	decryption	decryption	NOUN	NN	_	0	root	_	_
+
+
+1	procedure	procedure	NOUN	NN	_	0	root	_	_
+
+
+1	tdadl	tdadl	INTJ	UH	_	0	root	_	_
+
+
+1	ie	ie	PROPN	ADD	_	0	root	_	_
+
+
+1	design	design	NOUN	NN	_	0	root	_	_
+
+
+1	exact	exact	ADJ	JJ	_	0	root	_	_
+
+
+1	inverse	inverse	ADJ	JJ	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	give	give	VERB	VB	_	0	root	_	_
+
+
+1	core	core	NOUN	NN	_	0	root	_	_
+
+
+1	operation	operation	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	generation	generation	NOUN	NN	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	shuffle	shuffle	VERB	VB	_	0	root	_	_
+
+
+1	per	per	ADP	IN	_	0	root	_	_
+
+
+1	mutation	mutation	NOUN	NN	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	typically	typically	ADV	RB	_	0	root	_	_
+
+
+1	involve	involve	VERB	VB	_	0	root	_	_
+
+
+1	operation	operation	NOUN	NN	_	0	root	_	_
+
+
+1	xor	xor	NOUN	NN	_	0	root	_	_
+
+
+1	modular	modular	ADJ	JJ	_	0	root	_	_
+
+
+1	arithmetic	arithmetic	NOUN	NN	_	0	root	_	_
+
+
+1	deter	deter	VERB	VB	_	0	root	_	_
+
+
+1	ministic	ministic	NOUN	NN	_	0	root	_	_
+
+
+1	reversible	reversible	ADJ	JJ	_	0	root	_	_
+
+
+1	correct	correct	ADJ	JJ	_	0	root	_	_
+
+
+1	secret	secret	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	keyx1	keyx1	PROPN	NNP	_	0	root	_	_
+
+
+1	keyy1	keyy1	PROPN	ADD	_	0	root	_	_
+
+
+1	keya	keya	PROPN	NNP	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	n0	n0	NOUN	NN	_	0	root	_	_
+
+
+1	know	know	VERB	VB	_	0	root	_	_
+
+
+1	original	original	ADJ	JJ	_	0	root	_	_
+
+
+1	plaintext	plaintext	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	perfectly	perfectly	ADV	RB	_	0	root	_	_
+
+
+1	reconstruct	reconstruct	VERB	VB	_	0	root	_	_
+
+
+1	decryption	decryption	NOUN	NN	_	0	root	_	_
+
+
+1	involve	involve	VERB	VB	_	0	root	_	_
+
+
+1	b	b	NOUN	NN	_	0	root	_	_
+
+
+1	performance	performance	NOUN	NN	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	subsection	subsection	NOUN	NN	_	0	root	_	_
+
+
+1	present	present	ADJ	JJ	_	0	root	_	_
+
+
+1	comparative	comparative	ADJ	JJ	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	dynamic	dynamic	ADJ	JJ	_	0	root	_	_
+
+
+1	exhibit	exhibit	NOUN	NN	_	0	root	_	_
+
+
+1	propose	propose	VERB	VB	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	exist	exist	VERB	VB	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	detailed	detailed	ADJ	JJ	_	0	root	_	_
+
+
+1	comparison	comparison	NOUN	NN	_	0	root	_	_
+
+
+1	pro	pro	NOUN	NN	_	0	root	_	_
+
+
+1	vide	vide	NOUN	NN	_	0	root	_	_
+
+
+1	table	table	NOUN	NN	_	0	root	_	_
+
+
+1	objective	objective	ADJ	JJ	_	0	root	_	_
+
+
+1	demonstrate	demonstrate	VERB	VB	_	0	root	_	_
+
+
+1	enhance	enhance	VERB	VB	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	property	property	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	lyapunov	lyapunov	NOUN	NN	_	0	root	_	_
+
+
+1	exponent	exponent	NOUN	NN	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	lyapunov	lyapunov	NOUN	NN	_	0	root	_	_
+
+
+1	exponent	exponent	NOUN	NN	_	0	root	_	_
+
+
+1	le	le	PROPN	NNP	_	0	root	_	_
+
+
+1	quantify	quantify	VERB	VB	_	0	root	_	_
+
+
+1	sensitivity	sensitivity	NOUN	NN	_	0	root	_	_
+
+
+1	dynamical	dynamical	ADJ	JJ	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	infinitesimal	infinitesimal	ADJ	JJ	_	0	root	_	_
+
+
+1	perturbation	perturbation	NOUN	NN	_	0	root	_	_
+
+
+1	initial	initial	ADJ	JJ	_	0	root	_	_
+
+
+1	condition	condition	NOUN	NN	_	0	root	_	_
+
+
+1	posi	posi	NOUN	NN	_	0	root	_	_
+
+
+1	tive	tive	INTJ	UH	_	0	root	_	_
+
+
+1	le	le	PROPN	NNP	_	0	root	_	_
+
+
+1	indicate	indicate	VERB	VB	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	behavior	behavior	NOUN	NN	_	0	root	_	_
+
+
+1	figure	figure	NOUN	NN	_	0	root	_	_
+
+
+1	4	4	NUM	LS	_	0	root	_	_
+
+
+1	illustrate	illustrate	VERB	VB	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	regeneration	regeneration	NOUN	NN	_	0	root	_	_
+
+
+1	set	set	VERB	VB	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	x2d	x2d	NOUN	NN	_	0	root	_	_
+
+
+1	y2d	y2d	INTJ	UH	_	0	root	_	_
+
+
+1	z2d	z2d	PROPN	NNP	_	0	root	_	_
+
+
+1	regenerate	regenerate	VERB	VB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	secret	secret	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	identically	identically	ADV	RB	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	phase	phase	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	inverse	inverse	ADJ	JJ	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	tda	tda	NOUN	NN	_	0	root	_	_
+
+
+1	oper	oper	INTJ	UH	_	0	root	_	_
+
+
+1	ation	ation	PROPN	NNP	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	reverse	reverse	NOUN	NN	_	0	root	_	_
+
+
+1	typically	typically	ADV	RB	_	0	root	_	_
+
+
+1	involve	involve	VERB	VB	_	0	root	_	_
+
+
+1	processing	processing	NOUN	NN	_	0	root	_	_
+
+
+1	reverse	reverse	NOUN	NN	_	0	root	_	_
+
+
+1	order	order	NOUN	NN	_	0	root	_	_
+
+
+1	diffusion	diffusion	NOUN	NN	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	inverse	inverse	ADJ	JJ	_	0	root	_	_
+
+
+1	backward	backward	ADJ	JJ	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	follow	follow	VERB	VB	_	0	root	_	_
+
+
+1	inverse	inverse	ADJ	JJ	_	0	root	_	_
+
+
+1	forward	forward	ADJ	JJ	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	mathematical	mathematical	ADJ	JJ	_	0	root	_	_
+
+
+1	inverse	inverse	ADJ	JJ	_	0	root	_	_
+
+
+1	encryp	encryp	NOUN	NN	_	0	root	_	_
+
+
+1	tion	tion	INTJ	UH	_	0	root	_	_
+
+
+1	operation	operation	NOUN	NN	_	0	root	_	_
+
+
+1	e.g	e.g	SYM	NFP	_	0	root	_	_
+
+
+1	xor	xor	NOUN	NN	_	0	root	_	_
+
+
+1	inverse	inverse	ADJ	JJ	_	0	root	_	_
+
+
+1	modular	modular	ADJ	JJ	_	0	root	_	_
+
+
+1	table	table	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	table	table	NOUN	NN	_	0	root	_	_
+
+
+1	ii	ii	INTJ	UH	_	0	root	_	_
+
+
+1	nist	nist	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	name	name	NOUN	NN	_	0	root	_	_
+
+
+1	mathematical	mathematical	ADJ	JJ	_	0	root	_	_
+
+
+1	expression	expression	NOUN	NN	_	0	root	_	_
+
+
+1	parameter	parameter	NOUN	NN	_	0	root	_	_
+
+
+1	setting	setting	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	index	index	NOUN	NN	_	0	root	_	_
+
+
+1	p	p	NOUN	NN	_	0	root	_	_
+
+
+1	value	value	NOUN	NN	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	xn	xn	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	sin	sin	NOUN	NN	_	0	root	_	_
+
+
+1	sin	sin	NOUN	NN	_	0	root	_	_
+
+
+1	xn	xn	NOUN	NN	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	sine	sine	NOUN	NN	_	0	root	_	_
+
+
+1	xn	xn	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	b	b	NOUN	NN	_	0	root	_	_
+
+
+1	sin	sin	NOUN	NN	_	0	root	_	_
+
+
+1	xn	xn	NOUN	NN	_	0	root	_	_
+
+
+1	b	b	NOUN	NN	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	frequency	frequency	NOUN	NN	_	0	root	_	_
+
+
+1	monobit	monobit	PROPN	NNP	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.0909	0.0909	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	frequency	frequency	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	within	within	ADP	IN	_	0	root	_	_
+
+
+1	block	block	NOUN	NN	_	0	root	_	_
+
+
+1	0.0711	0.0711	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	run	run	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.2368	0.2368	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	long	long	ADJ	JJ	_	0	root	_	_
+
+
+1	run	run	NOUN	NN	_	0	root	_	_
+
+
+1	one	one	NUM	CD	_	0	root	_	_
+
+
+1	block	block	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.4190	0.4190	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	binary	binary	ADJ	JJ	_	0	root	_	_
+
+
+1	matrix	matrix	NOUN	NN	_	0	root	_	_
+
+
+1	rank	rank	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.7981	0.7981	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	discrete	discrete	ADJ	JJ	_	0	root	_	_
+
+
+1	fourier	fourier	NOUN	NN	_	0	root	_	_
+
+
+1	transform	transform	VERB	VB	_	0	root	_	_
+
+
+1	spectral	spectral	ADJ	JJ	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.3504	0.3504	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	non	non	INTJ	UH	_	0	root	_	_
+
+
+1	overlap	overlap	VERB	VB	_	0	root	_	_
+
+
+1	template	template	NOUN	NN	_	0	root	_	_
+
+
+1	match	match	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.2368	0.2368	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	overlap	overlap	VERB	VB	_	0	root	_	_
+
+
+1	template	template	NOUN	NN	_	0	root	_	_
+
+
+1	match	match	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.2757	0.2757	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	maurer	maurer	PROPN	NNP	_	0	root	_	_
+
+
+1	universal	universal	ADJ	JJ	_	0	root	_	_
+
+
+1	statistical	statistical	ADJ	JJ	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.9780	0.9780	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	linear	linear	ADJ	JJ	_	0	root	_	_
+
+
+1	complexity	complexity	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.8676	0.8676	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	serial	serial	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.8343	0.8343	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	approximate	approximate	ADJ	JJ	_	0	root	_	_
+
+
+1	entropy	entropy	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.5341	0.5341	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	cumulative	cumulative	ADJ	JJ	_	0	root	_	_
+
+
+1	sum	sum	NOUN	NN	_	0	root	_	_
+
+
+1	cusums	cusums	NOUN	NNS	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.2896	0.2896	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	random	random	NOUN	NN	_	0	root	_	_
+
+
+1	excursion	excursion	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.8623	0.8623	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	random	random	NOUN	NN	_	0	root	_	_
+
+
+1	excursion	excursion	NOUN	NN	_	0	root	_	_
+
+
+1	variant	variant	NOUN	NN	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	0.8676	0.8676	NUM	CD	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	dfc	dfc	NOUN	NN	_	0	root	_	_
+
+
+1	xn	xn	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	cos	cos	INTJ	UH	_	0	root	_	_
+
+
+1	xn	xn	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	sin	sin	NOUN	NN	_	0	root	_	_
+
+
+1	xn	xn	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	chebyshev	chebyshev	NOUN	NN	_	0	root	_	_
+
+
+1	xn	xn	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	cos	cos	INTJ	UH	_	0	root	_	_
+
+
+1	k	k	PROPN	NNP	_	0	root	_	_
+
+
+1	arccos	arccos	PROPN	NNP	_	0	root	_	_
+
+
+1	xn	xn	NOUN	NN	_	0	root	_	_
+
+
+1	k	k	PROPN	NNP	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	lyapunov	lyapunov	NOUN	NN	_	0	root	_	_
+
+
+1	exponent	exponent	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	bench	bench	NOUN	NN	_	0	root	_	_
+
+
+1	mark	mark	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	across	across	ADV	RB	_	0	root	_	_
+
+
+1	control	control	NOUN	NN	_	0	root	_	_
+
+
+1	parameter	parameter	NOUN	NN	_	0	root	_	_
+
+
+1	range	range	NOUN	NN	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	10000	10000	NUM	CD	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	demonstrate	demonstrate	VERB	VB	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	maintain	maintain	VERB	VB	_	0	root	_	_
+
+
+1	positive	positive	ADJ	JJ	_	0	root	_	_
+
+
+1	lyapunov	lyapunov	NOUN	NN	_	0	root	_	_
+
+
+1	exponent	exponent	NOUN	NN	_	0	root	_	_
+
+
+1	throughout	throughout	ADP	IN	_	0	root	_	_
+
+
+1	range	range	NOUN	NN	_	0	root	_	_
+
+
+1	furthermore	furthermore	ADV	RB	_	0	root	_	_
+
+
+1	value	value	NOUN	NN	_	0	root	_	_
+
+
+1	consistently	consistently	ADV	RB	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	compare	compare	VERB	VB	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	signify	signify	VERB	VB	_	0	root	_	_
+
+
+1	robust	robust	ADJ	JJ	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	charac	charac	NOUN	NN	_	0	root	_	_
+
+
+1	teristic	teristic	ADJ	JJ	_	0	root	_	_
+
+
+1	heighten	heighten	VERB	VB	_	0	root	_	_
+
+
+1	sensitivity	sensitivity	NOUN	NN	_	0	root	_	_
+
+
+1	initial	initial	ADJ	JJ	_	0	root	_	_
+
+
+1	condition	condition	NOUN	NN	_	0	root	_	_
+
+
+1	desirable	desirable	ADJ	JJ	_	0	root	_	_
+
+
+1	cryptographic	cryptographic	NOUN	NN	_	0	root	_	_
+
+
+1	application	application	NOUN	NN	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	loss	loss	NOUN	NN	_	0	root	_	_
+
+
+1	curve	curve	NOUN	NN	_	0	root	_	_
+
+
+1	x	x	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	min	min	NOUN	NN	_	0	root	_	_
+
+
+1	loss	loss	NOUN	NN	_	0	root	_	_
+
+
+1	100	100	NUM	CD	_	0	root	_	_
+
+
+1	80	80	NUM	LS	_	0	root	_	_
+
+
+1	60	60	NUM	CD	_	0	root	_	_
+
+
+1	40	40	NUM	LS	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	min	min	NOUN	NN	_	0	root	_	_
+
+
+1	1.78e	1.78e	NUM	CD	_	0	root	_	_
+
+
+1	04	04	NUM	LS	_	0	root	_	_
+
+
+1	reference	reference	NOUN	NN	_	0	root	_	_
+
+
+1	1e	1e	NUM	LS	_	0	root	_	_
+
+
+1	4	4	NUM	LS	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	8	8	NUM	LS	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	100	100	NUM	CD	_	0	root	_	_
+
+
+1	200	200	NUM	CD	_	0	root	_	_
+
+
+1	300	300	NUM	CD	_	0	root	_	_
+
+
+1	400	400	NUM	CD	_	0	root	_	_
+
+
+1	6	6	NUM	LS	_	0	root	_	_
+
+
+1	fig	fig	NOUN	NN	_	0	root	_	_
+
+
+1	5	5	NUM	LS	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	loss	loss	NOUN	NN	_	0	root	_	_
+
+
+1	4	4	NUM	LS	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	dfc	dfc	NOUN	NN	_	0	root	_	_
+
+
+1	sine	sine	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	chebyshev	chebyshev	NOUN	NN	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	xtrue	xtrue	INTJ	UH	_	0	root	_	_
+
+
+1	xpre	xpre	NOUN	NN	_	0	root	_	_
+
+
+1	extend	extend	VERB	VB	_	0	root	_	_
+
+
+1	prediction	prediction	NOUN	NN	_	0	root	_	_
+
+
+1	highlight	highlight	VERB	VB	_	0	root	_	_
+
+
+1	long	long	ADJ	JJ	_	0	root	_	_
+
+
+1	term	term	NOUN	NN	_	0	root	_	_
+
+
+1	unpredictability	unpredictability	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	trait	trait	NOUN	NN	_	0	root	_	_
+
+
+1	robust	robust	ADJ	JJ	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	c	c	NOUN	NN	_	0	root	_	_
+
+
+1	security	security	NOUN	NN	_	0	root	_	_
+
+
+1	performance	performance	NOUN	NN	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	tdadl	tdadl	INTJ	UH	_	0	root	_	_
+
+
+1	ie	ie	PROPN	ADD	_	0	root	_	_
+
+
+1	cryp	cryp	INTJ	UH	_	0	root	_	_
+
+
+1	tosystem	tosystem	NOUN	NN	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	1000	1000	NUM	CD	_	0	root	_	_
+
+
+1	2000	2000	NUM	CD	_	0	root	_	_
+
+
+1	3000	3000	NUM	CD	_	0	root	_	_
+
+
+1	4000	4000	NUM	CD	_	0	root	_	_
+
+
+1	5000	5000	NUM	CD	_	0	root	_	_
+
+
+1	6000	6000	NUM	CD	_	0	root	_	_
+
+
+1	7000	7000	NUM	CD	_	0	root	_	_
+
+
+1	8000	8000	NUM	CD	_	0	root	_	_
+
+
+1	9000	9000	NUM	CD	_	0	root	_	_
+
+
+1	10000	10000	NUM	CD	_	0	root	_	_
+
+
+1	control	control	NOUN	NN	_	0	root	_	_
+
+
+1	pramater	pramater	NOUN	NN	_	0	root	_	_
+
+
+1	different	different	ADJ	JJ	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	space	space	NOUN	NN	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	fundamental	fundamental	ADJ	JJ	_	0	root	_	_
+
+
+1	requirement	requirement	NOUN	NN	_	0	root	_	_
+
+
+1	robust	robust	ADJ	JJ	_	0	root	_	_
+
+
+1	cryptographic	cryptographic	NOUN	NN	_	0	root	_	_
+
+
+1	security	security	NOUN	NN	_	0	root	_	_
+
+
+1	exhaustive	exhaustive	ADJ	JJ	_	0	root	_	_
+
+
+1	search	search	VERB	VB	_	0	root	_	_
+
+
+1	attack	attack	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	space	space	NOUN	NN	_	0	root	_	_
+
+
+1	substantially	substantially	ADV	RB	_	0	root	_	_
+
+
+1	large	large	ADJ	JJ	_	0	root	_	_
+
+
+1	2100	2100	NUM	CD	_	0	root	_	_
+
+
+1	tdadl	tdadl	INTJ	UH	_	0	root	_	_
+
+
+1	ie	ie	PROPN	ADD	_	0	root	_	_
+
+
+1	cryptosystem	cryptosystem	NOUN	NN	_	0	root	_	_
+
+
+1	utilize	utilize	VERB	VB	_	0	root	_	_
+
+
+1	four	four	NUM	CD	_	0	root	_	_
+
+
+1	secret	secret	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	follow	follow	VERB	VB	_	0	root	_	_
+
+
+1	initial	initial	ADJ	JJ	_	0	root	_	_
+
+
+1	theoretical	theoretical	ADJ	JJ	_	0	root	_	_
+
+
+1	range	range	NOUN	NN	_	0	root	_	_
+
+
+1	keyx1	keyx1	PROPN	NNP	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	keyy1	keyy1	PROPN	ADD	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	keya	keya	PROPN	NNP	_	0	root	_	_
+
+
+1	0	0	NUM	LS	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	n0	n0	NOUN	NN	_	0	root	_	_
+
+
+1	2000	2000	NUM	CD	_	0	root	_	_
+
+
+1	practical	practical	ADJ	JJ	_	0	root	_	_
+
+
+1	digital	digital	ADJ	JJ	_	0	root	_	_
+
+
+1	implementation	implementation	NOUN	NN	_	0	root	_	_
+
+
+1	continuous	continuous	ADJ	JJ	_	0	root	_	_
+
+
+1	range	range	NOUN	NN	_	0	root	_	_
+
+
+1	discretize	discretize	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	precision	precision	NOUN	NN	_	0	root	_	_
+
+
+1	numerical	numerical	ADJ	JJ	_	0	root	_	_
+
+
+1	representation	representation	NOUN	NN	_	0	root	_	_
+
+
+1	con	con	NOUN	NN	_	0	root	_	_
+
+
+1	sequently	sequently	ADV	RB	_	0	root	_	_
+
+
+1	effective	effective	ADJ	JJ	_	0	root	_	_
+
+
+1	discrete	discrete	ADJ	JJ	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	space	space	NOUN	NN	_	0	root	_	_
+
+
+1	vast	vast	ADJ	JJ	_	0	root	_	_
+
+
+1	estimate	estimate	VERB	VB	_	0	root	_	_
+
+
+1	approximately	approximately	ADV	RB	_	0	root	_	_
+
+
+1	2208	2208	NUM	CD	_	0	root	_	_
+
+
+1	significantly	significantly	ADV	RB	_	0	root	_	_
+
+
+1	surpass	surpass	VERB	VB	_	0	root	_	_
+
+
+1	afore	afore	ADV	RB	_	0	root	_	_
+
+
+1	mention	mention	VERB	VB	_	0	root	_	_
+
+
+1	security	security	NOUN	NN	_	0	root	_	_
+
+
+1	threshold	threshold	NOUN	NN	_	0	root	_	_
+
+
+1	render	render	VERB	VB	_	0	root	_	_
+
+
+1	brute	brute	NOUN	NN	_	0	root	_	_
+
+
+1	force	force	VERB	VB	_	0	root	_	_
+
+
+1	attack	attack	NOUN	NN	_	0	root	_	_
+
+
+1	computationally	computationally	ADV	RB	_	0	root	_	_
+
+
+1	infeasible	infeasible	ADJ	JJ	_	0	root	_	_
+
+
+1	thereby	thereby	ADV	RB	_	0	root	_	_
+
+
+1	provide	provide	VERB	VB	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	level	level	NOUN	NN	_	0	root	_	_
+
+
+1	protection	protection	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	differential	differential	ADJ	JJ	_	0	root	_	_
+
+
+1	attack	attack	NOUN	NN	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	plaintext	plaintext	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	sensitiv	sensitiv	NOUN	NN	_	0	root	_	_
+
+
+1	ity	ity	NOUN	NN	_	0	root	_	_
+
+
+1	encryption	encryption	NOUN	NN	_	0	root	_	_
+
+
+1	algorithm	algorithm	NOUN	NN	_	0	root	_	_
+
+
+1	resilience	resilience	NOUN	NN	_	0	root	_	_
+
+
+1	differential	differential	ADJ	JJ	_	0	root	_	_
+
+
+1	attack	attack	NOUN	NN	_	0	root	_	_
+
+
+1	measure	measure	NOUN	NN	_	0	root	_	_
+
+
+1	sensitivity	sensitivity	NOUN	NN	_	0	root	_	_
+
+
+1	small	small	ADJ	JJ	_	0	root	_	_
+
+
+1	change	change	VERB	VB	_	0	root	_	_
+
+
+1	plaintext	plaintext	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	assess	assess	VERB	VB	_	0	root	_	_
+
+
+1	via	via	ADV	RB	_	0	root	_	_
+
+
+1	npcr	npcr	PROPN	NNP	_	0	root	_	_
+
+
+1	uaci	uaci	PROPN	NNP	_	0	root	_	_
+
+
+1	metric	metric	NOUN	NN	_	0	root	_	_
+
+
+1	ideal	ideal	ADJ	JJ	_	0	root	_	_
+
+
+1	npcr	npcr	PROPN	NNP	_	0	root	_	_
+
+
+1	uaci	uaci	PROPN	NNP	_	0	root	_	_
+
+
+1	value	value	NOUN	NN	_	0	root	_	_
+
+
+1	99.6	99.6	NUM	CD	_	0	root	_	_
+
+
+1	33.4	33.4	NUM	CD	_	0	root	_	_
+
+
+1	8	8	NUM	LS	_	0	root	_	_
+
+
+1	bit	bit	NOUN	NN	_	0	root	_	_
+
+
+1	grayscale	grayscale	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	random	random	NOUN	NN	_	0	root	_	_
+
+
+1	like	like	INTJ	UH	_	0	root	_	_
+
+
+1	cipher	cipher	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	tdadl	tdadl	INTJ	UH	_	0	root	_	_
+
+
+1	ie	ie	PROPN	ADD	_	0	root	_	_
+
+
+1	al	al	PROPN	NNP	_	0	root	_	_
+
+
+1	gorithm	gorithm	PROPN	NNP	_	0	root	_	_
+
+
+1	npcr	npcr	PROPN	NNP	_	0	root	_	_
+
+
+1	uaci	uaci	PROPN	NNP	_	0	root	_	_
+
+
+1	score	score	NOUN	NN	_	0	root	_	_
+
+
+1	alter	alter	VERB	VB	_	0	root	_	_
+
+
+1	single	single	ADJ	JJ	_	0	root	_	_
+
+
+1	bit	bit	NOUN	NN	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	near	near	ADV	RB	_	0	root	_	_
+
+
+1	ideal	ideal	ADJ	JJ	_	0	root	_	_
+
+
+1	level	level	NOUN	NN	_	0	root	_	_
+
+
+1	indicate	indicate	VERB	VB	_	0	root	_	_
+
+
+1	strong	strong	ADJ	JJ	_	0	root	_	_
+
+
+1	fig	fig	NOUN	NN	_	0	root	_	_
+
+
+1	4	4	NUM	LS	_	0	root	_	_
+
+
+1	lyapunov	lyapunov	NOUN	NN	_	0	root	_	_
+
+
+1	exponent	exponent	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	dfc	dfc	NOUN	NN	_	0	root	_	_
+
+
+1	sine	sine	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	chebyshev	chebyshev	NOUN	NN	_	0	root	_	_
+
+
+1	map	map	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	nist	nist	NOUN	NN	_	0	root	_	_
+
+
+1	sp	sp	NOUN	NN	_	0	root	_	_
+
+
+1	800	800	NUM	CD	_	0	root	_	_
+
+
+1	22	22	NUM	LS	_	0	root	_	_
+
+
+1	statistical	statistical	ADJ	JJ	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	suite	suite	NOUN	NN	_	0	root	_	_
+
+
+1	randomness	randomness	NOUN	NN	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	generate	generate	VERB	VB	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	rigorously	rigorously	ADV	RB	_	0	root	_	_
+
+
+1	evaluate	evaluate	VERB	VB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	nist	nist	NOUN	NN	_	0	root	_	_
+
+
+1	sp	sp	NOUN	NN	_	0	root	_	_
+
+
+1	800	800	NUM	CD	_	0	root	_	_
+
+
+1	22	22	NUM	LS	_	0	root	_	_
+
+
+1	statistical	statistical	ADJ	JJ	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	suite	suite	NOUN	NN	_	0	root	_	_
+
+
+1	suite	suite	NOUN	NN	_	0	root	_	_
+
+
+1	comprise	comprise	VERB	VB	_	0	root	_	_
+
+
+1	set	set	VERB	VB	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	design	design	NOUN	NN	_	0	root	_	_
+
+
+1	detect	detect	VERB	VB	_	0	root	_	_
+
+
+1	deviation	deviation	NOUN	NN	_	0	root	_	_
+
+
+1	true	true	ADJ	JJ	_	0	root	_	_
+
+
+1	randomness	randomness	NOUN	NN	_	0	root	_	_
+
+
+1	binary	binary	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	table	table	NOUN	NN	_	0	root	_	_
+
+
+1	ii	ii	INTJ	UH	_	0	root	_	_
+
+
+1	present	present	ADJ	JJ	_	0	root	_	_
+
+
+1	p	p	NOUN	NN	_	0	root	_	_
+
+
+1	value	value	NOUN	NN	_	0	root	_	_
+
+
+1	obtain	obtain	VERB	VB	_	0	root	_	_
+
+
+1	test	test	NOUN	NN	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	derive	derive	VERB	VB	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	output	output	NOUN	NN	_	0	root	_	_
+
+
+1	generate	generate	VERB	VB	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	p	p	NOUN	NN	_	0	root	_	_
+
+
+1	value	value	NOUN	NN	_	0	root	_	_
+
+
+1	consistently	consistently	ADV	RB	_	0	root	_	_
+
+
+1	exceed	exceed	VERB	VB	_	0	root	_	_
+
+
+1	standard	standard	ADJ	JJ	_	0	root	_	_
+
+
+1	significance	significance	NOUN	NN	_	0	root	_	_
+
+
+1	threshold	threshold	NOUN	NN	_	0	root	_	_
+
+
+1	0.01	0.01	NUM	CD	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	predictability	predictability	NOUN	NN	_	0	root	_	_
+
+
+1	assessment	assessment	NOUN	NN	_	0	root	_	_
+
+
+1	1d	1d	NUM	LS	_	0	root	_	_
+
+
+1	sqcm	sqcm	NOUN	NN	_	0	root	_	_
+
+
+1	output	output	NOUN	NN	_	0	root	_	_
+
+
+1	analyze	analyze	VERB	VB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	bidirectional	bidirectional	ADJ	JJ	_	0	root	_	_
+
+
+1	long	long	ADJ	JJ	_	0	root	_	_
+
+
+1	short	short	ADJ	JJ	_	0	root	_	_
+
+
+1	term	term	NOUN	NN	_	0	root	_	_
+
+
+1	memory	memory	NOUN	NN	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	detail	detail	NOUN	NN	_	0	root	_	_
+
+
+1	fig	fig	NOUN	NN	_	0	root	_	_
+
+
+1	6	6	NUM	LS	_	0	root	_	_
+
+
+1	low	low	ADJ	JJ	_	0	root	_	_
+
+
+1	root	root	NOUN	NN	_	0	root	_	_
+
+
+1	mean	mean	VERB	VB	_	0	root	_	_
+
+
+1	square	square	ADJ	JJ	_	0	root	_	_
+
+
+1	error	error	NOUN	NN	_	0	root	_	_
+
+
+1	rmse	rmse	NOUN	NN	_	0	root	_	_
+
+
+1	loss	loss	NOUN	NN	_	0	root	_	_
+
+
+1	function	function	NOUN	NN	_	0	root	_	_
+
+
+1	value	value	NOUN	NN	_	0	root	_	_
+
+
+1	suggest	suggest	VERB	VB	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	ability	ability	NOUN	NN	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	short	short	ADJ	JJ	_	0	root	_	_
+
+
+1	term	term	NOUN	NN	_	0	root	_	_
+
+
+1	pattern	pattern	NOUN	NN	_	0	root	_	_
+
+
+1	chaotic	chaotic	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	comparison	comparison	NOUN	NN	_	0	root	_	_
+
+
+1	actual	actual	ADJ	JJ	_	0	root	_	_
+
+
+1	sequence	sequence	NOUN	NN	_	0	root	_	_
+
+
+1	xtrue	xtrue	INTJ	UH	_	0	root	_	_
+
+
+1	blstm	blstm	PROPN	NNP	_	0	root	_	_
+
+
+1	predic	predic	NOUN	NN	_	0	root	_	_
+
+
+1	tion	tion	INTJ	UH	_	0	root	_	_
+
+
+1	xpre	xpre	NOUN	NN	_	0	root	_	_
+
+
+1	present	present	ADJ	JJ	_	0	root	_	_
+
+
+1	fig	fig	NOUN	NN	_	0	root	_	_
+
+
+1	6	6	NUM	LS	_	0	root	_	_
+
+
+1	divergence	divergence	NOUN	NN	_	0	root	_	_
+
+

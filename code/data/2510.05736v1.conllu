@@ -1,0 +1,3438 @@
+1	convolution	convolution	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	gamma	gamma	NOUN	NN	_	0	root	_	_
+
+
+1	hadron	hadron	NOUN	NN	_	0	root	_	_
+
+
+1	separation	separation	NOUN	NN	_	0	root	_	_
+
+
+1	imaging	imaging	NOUN	NN	_	0	root	_	_
+
+
+1	atmospheric	atmospheric	ADJ	JJ	_	0	root	_	_
+
+
+1	cherenkov	cherenkov	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	ar	ar	PROPN	NNP	_	0	root	_	_
+
+
+1	xiv	xiv	INTJ	UH	_	0	root	_	_
+
+
+1	2510.05736v1	2510.05736v1	NUM	CD	_	0	root	_	_
+
+
+1	astro	astro	NOUN	NN	_	0	root	_	_
+
+
+1	ph.he	ph.he	PROPN	NNP	_	0	root	_	_
+
+
+1	7	7	NUM	LS	_	0	root	_	_
+
+
+1	oct	oct	X	LS	_	0	root	_	_
+
+
+1	2025	2025	NUM	CD	_	0	root	_	_
+
+
+1	abhay	abhay	PROPN	NNP	_	0	root	_	_
+
+
+1	mehta	mehta	PROPN	NNP	_	0	root	_	_
+
+
+1	b	b	NOUN	NN	_	0	root	_	_
+
+
+1	dan	dan	PROPN	NNP	_	0	root	_	_
+
+
+1	parsons	parsons	PROPN	NNP	_	0	root	_	_
+
+
+1	b	b	NOUN	NN	_	0	root	_	_
+
+
+1	tim	tim	PROPN	NNP	_	0	root	_	_
+
+
+1	lukas	lukas	PROPN	NNP	_	0	root	_	_
+
+
+1	holch	holch	INTJ	UH	_	0	root	_	_
+
+
+1	david	david	PROPN	NNP	_	0	root	_	_
+
+
+1	bergea	bergea	NOUN	NN	_	0	root	_	_
+
+
+1	band	band	NOUN	NN	_	0	root	_	_
+
+
+1	matthias	matthias	PROPN	NNP	_	0	root	_	_
+
+
+1	weidlichb	weidlichb	PROPN	NNP	_	0	root	_	_
+
+
+1	deutsche	deutsche	PROPN	NNP	_	0	root	_	_
+
+
+1	elektronen	elektronen	PROPN	NNP	_	0	root	_	_
+
+
+1	synchrotron	synchrotron	NOUN	NN	_	0	root	_	_
+
+
+1	desy	desy	NOUN	NN	_	0	root	_	_
+
+
+1	platanenallee	platanenallee	PROPN	ADD	_	0	root	_	_
+
+
+1	6	6	NUM	LS	_	0	root	_	_
+
+
+1	15738	15738	NUM	CD	_	0	root	_	_
+
+
+1	zeuthen	zeuthen	NOUN	NN	_	0	root	_	_
+
+
+1	germany	germany	PROPN	NNP	_	0	root	_	_
+
+
+1	b	b	NOUN	NN	_	0	root	_	_
+
+
+1	humboldt	humboldt	PROPN	NNP	_	0	root	_	_
+
+
+1	universit	universit	PROPN	NNP	_	0	root	_	_
+
+
+1	zu	zu	PROPN	NNP	_	0	root	_	_
+
+
+1	berlin	berlin	PROPN	NNP	_	0	root	_	_
+
+
+1	unter	unter	INTJ	UH	_	0	root	_	_
+
+
+1	den	den	NOUN	NN	_	0	root	_	_
+
+
+1	linden	linden	PROPN	NNP	_	0	root	_	_
+
+
+1	6	6	NUM	LS	_	0	root	_	_
+
+
+1	10117	10117	NUM	CD	_	0	root	_	_
+
+
+1	berlin	berlin	PROPN	NNP	_	0	root	_	_
+
+
+1	germany	germany	PROPN	NNP	_	0	root	_	_
+
+
+1	e	e	PROPN	NNP	_	0	root	_	_
+
+
+1	mail	mail	NOUN	NN	_	0	root	_	_
+
+
+1	identification	identification	NOUN	NN	_	0	root	_	_
+
+
+1	ray	ray	NOUN	NN	_	0	root	_	_
+
+
+1	predominant	predominant	ADJ	JJ	_	0	root	_	_
+
+
+1	hadronic	hadronic	ADJ	JJ	_	0	root	_	_
+
+
+1	background	background	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	aspect	aspect	NOUN	NN	_	0	root	_	_
+
+
+1	ground	ground	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	detection	detection	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	imaging	imaging	NOUN	NN	_	0	root	_	_
+
+
+1	atmospheric	atmospheric	ADJ	JJ	_	0	root	_	_
+
+
+1	cherenkov	cherenkov	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	cur	cur	NOUN	NN	_	0	root	_	_
+
+
+1	rent	rent	VERB	VB	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	limited	limited	ADJ	JJ	_	0	root	_	_
+
+
+1	ability	ability	NOUN	NN	_	0	root	_	_
+
+
+1	exploit	exploit	VERB	VB	_	0	root	_	_
+
+
+1	correlation	correlation	NOUN	NN	_	0	root	_	_
+
+
+1	complex	complex	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	offer	offer	VERB	VB	_	0	root	_	_
+
+
+1	promise	promise	NOUN	NN	_	0	root	_	_
+
+
+1	alternative	alternative	ADJ	JJ	_	0	root	_	_
+
+
+1	directly	directly	ADV	RB	_	0	root	_	_
+
+
+1	leverage	leverage	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	level	level	NOUN	NN	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	however	however	ADV	RB	_	0	root	_	_
+
+
+1	several	several	ADJ	JJ	_	0	root	_	_
+
+
+1	challenge	challenge	VERB	VB	_	0	root	_	_
+
+
+1	involve	involve	VERB	VB	_	0	root	_	_
+
+
+1	robustness	robustness	NOUN	NN	_	0	root	_	_
+
+
+1	applicability	applicability	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	remain	remain	VERB	VB	_	0	root	_	_
+
+
+1	design	design	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	architecture	architecture	NOUN	NN	_	0	root	_	_
+
+
+1	inductive	inductive	NOUN	NN	_	0	root	_	_
+
+
+1	bias	bias	NOUN	NN	_	0	root	_	_
+
+
+1	relevant	relevant	ADJ	JJ	_	0	root	_	_
+
+
+1	task	task	NOUN	NN	_	0	root	_	_
+
+
+1	help	help	VERB	VB	_	0	root	_	_
+
+
+1	mitigate	mitigate	VERB	VB	_	0	root	_	_
+
+
+1	problem	problem	NOUN	NN	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	propose	propose	VERB	VB	_	0	root	_	_
+
+
+1	train	train	NOUN	NN	_	0	root	_	_
+
+
+1	evaluate	evaluate	VERB	VB	_	0	root	_	_
+
+
+1	simulate	simulate	VERB	VB	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	hybrid	hybrid	NOUN	NN	_	0	root	_	_
+
+
+1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	neural	neural	ADJ	JJ	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	enhance	enhance	VERB	VB	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	variant	variant	NOUN	NN	_	0	root	_	_
+
+
+1	incorporate	incorporate	VERB	VB	_	0	root	_	_
+
+
+1	additional	additional	ADJ	JJ	_	0	root	_	_
+
+
+1	reconstruct	reconstruct	VERB	VB	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	within	within	ADP	IN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	construction	construction	NOUN	NN	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	neural	neural	ADJ	JJ	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	moment	moment	NOUN	NN	_	0	root	_	_
+
+
+1	serve	serve	VERB	VB	_	0	root	_	_
+
+
+1	baseline	baseline	NOUN	NN	_	0	root	_	_
+
+
+1	new	new	ADJ	JJ	_	0	root	_	_
+
+
+1	combine	combine	VERB	VB	_	0	root	_	_
+
+
+1	convolution	convolution	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	demonstrate	demonstrate	VERB	VB	_	0	root	_	_
+
+
+1	improve	improve	VERB	VB	_	0	root	_	_
+
+
+1	performance	performance	NOUN	NN	_	0	root	_	_
+
+
+1	traditional	traditional	ADJ	JJ	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	inclusion	inclusion	NOUN	NN	_	0	root	_	_
+
+
+1	reconstruct	reconstruct	VERB	VB	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	offer	offer	VERB	VB	_	0	root	_	_
+
+
+1	far	far	ADV	RB	_	0	root	_	_
+
+
+1	potential	potential	ADJ	JJ	_	0	root	_	_
+
+
+1	generalization	generalization	NOUN	NN	_	0	root	_	_
+
+
+1	capability	capability	NOUN	NN	_	0	root	_	_
+
+
+1	real	real	ADJ	JJ	_	0	root	_	_
+
+
+1	observational	observational	ADJ	JJ	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	39th	39th	NOUN	NN	_	0	root	_	_
+
+
+1	international	international	ADJ	JJ	_	0	root	_	_
+
+
+1	cosmic	cosmic	ADJ	JJ	_	0	root	_	_
+
+
+1	ray	ray	NOUN	NN	_	0	root	_	_
+
+
+1	conference	conference	NOUN	NN	_	0	root	_	_
+
+
+1	icrc2025	icrc2025	PROPN	ADD	_	0	root	_	_
+
+
+1	15	15	NUM	LS	_	0	root	_	_
+
+
+1	24	24	NUM	LS	_	0	root	_	_
+
+
+1	july	july	PROPN	NNP	_	0	root	_	_
+
+
+1	2025	2025	NUM	CD	_	0	root	_	_
+
+
+1	geneva	geneva	PROPN	NNP	_	0	root	_	_
+
+
+1	switzerland	switzerland	PROPN	NNP	_	0	root	_	_
+
+
+1	speaker	speaker	NOUN	NN	_	0	root	_	_
+
+
+1	copyright	copyright	NOUN	NN	_	0	root	_	_
+
+
+1	author	author	NOUN	NN	_	0	root	_	_
+
+
+1	term	term	NOUN	NN	_	0	root	_	_
+
+
+1	creative	creative	ADJ	JJ	_	0	root	_	_
+
+
+1	commons	commons	PROPN	NNP	_	0	root	_	_
+
+
+1	attribution	attribution	NOUN	NN	_	0	root	_	_
+
+
+1	non	non	INTJ	UH	_	0	root	_	_
+
+
+1	commercial	commercial	ADJ	JJ	_	0	root	_	_
+
+
+1	derivative	derivative	NOUN	NN	_	0	root	_	_
+
+
+1	4.0	4.0	NUM	CD	_	0	root	_	_
+
+
+1	international	international	ADJ	JJ	_	0	root	_	_
+
+
+1	license	license	NOUN	NN	_	0	root	_	_
+
+
+1	cc	cc	NOUN	NN	_	0	root	_	_
+
+
+1	nc	nc	PROPN	NNP	_	0	root	_	_
+
+
+1	nd	nd	INTJ	UH	_	0	root	_	_
+
+
+1	4.0	4.0	NUM	CD	_	0	root	_	_
+
+
+1	convolution	convolution	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	hadron	hadron	NOUN	NN	_	0	root	_	_
+
+
+1	separation	separation	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	abhay	abhay	PROPN	NNP	_	0	root	_	_
+
+
+1	mehta	mehta	PROPN	NNP	_	0	root	_	_
+
+
+1	field	field	NOUN	NN	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	energy	energy	NOUN	NN	_	0	root	_	_
+
+
+1	vhe	vhe	INTJ	UH	_	0	root	_	_
+
+
+1	ray	ray	NOUN	NN	_	0	root	_	_
+
+
+1	astronomy	astronomy	NOUN	NN	_	0	root	_	_
+
+
+1	evolve	evolve	VERB	VB	_	0	root	_	_
+
+
+1	significantly	significantly	ADV	RB	_	0	root	_	_
+
+
+1	past	past	ADJ	JJ	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	decade	decade	NOUN	NN	_	0	root	_	_
+
+
+1	drive	drive	VERB	VB	_	0	root	_	_
+
+
+1	largely	largely	ADV	RB	_	0	root	_	_
+
+
+1	due	due	ADJ	JJ	_	0	root	_	_
+
+
+1	observation	observation	NOUN	NN	_	0	root	_	_
+
+
+1	ground	ground	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	imaging	imaging	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	imaging	imaging	NOUN	NN	_	0	root	_	_
+
+
+1	atmospheric	atmospheric	ADJ	JJ	_	0	root	_	_
+
+
+1	cherenkov	cherenkov	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	capture	capture	VERB	VB	_	0	root	_	_
+
+
+1	cherenkov	cherenkov	NOUN	NN	_	0	root	_	_
+
+
+1	light	light	NOUN	NN	_	0	root	_	_
+
+
+1	produce	produce	VERB	VB	_	0	root	_	_
+
+
+1	highly	highly	ADV	RB	_	0	root	_	_
+
+
+1	energetic	energetic	ADJ	JJ	_	0	root	_	_
+
+
+1	particle	particle	NOUN	NN	_	0	root	_	_
+
+
+1	interact	interact	VERB	VB	_	0	root	_	_
+
+
+1	earth	earth	NOUN	NN	_	0	root	_	_
+
+
+1	atmosphere	atmosphere	NOUN	NN	_	0	root	_	_
+
+
+1	camera	camera	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	represent	represent	VERB	VB	_	0	root	_	_
+
+
+1	two	two	NUM	CD	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	projection	projection	NOUN	NN	_	0	root	_	_
+
+
+1	cherenkov	cherenkov	NOUN	NN	_	0	root	_	_
+
+
+1	light	light	NOUN	NN	_	0	root	_	_
+
+
+1	pool	pool	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	position	position	NOUN	NN	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	typically	typically	ADV	RB	_	0	root	_	_
+
+
+1	consist	consist	VERB	VB	_	0	root	_	_
+
+
+1	multiple	multiple	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	take	take	VERB	VB	_	0	root	_	_
+
+
+1	simultaneously	simultaneously	ADV	RB	_	0	root	_	_
+
+
+1	across	across	ADV	RB	_	0	root	_	_
+
+
+1	array	array	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	stereoscopic	stereoscopic	ADJ	JJ	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	reconstruct	reconstruct	VERB	VB	_	0	root	_	_
+
+
+1	energy	energy	NOUN	NN	_	0	root	_	_
+
+
+1	direction	direction	NOUN	NN	_	0	root	_	_
+
+
+1	type	type	NOUN	NN	_	0	root	_	_
+
+
+1	primary	primary	ADJ	JJ	_	0	root	_	_
+
+
+1	particle	particle	NOUN	NN	_	0	root	_	_
+
+
+1	initiate	initiate	VERB	VB	_	0	root	_	_
+
+
+1	air	air	NOUN	NN	_	0	root	_	_
+
+
+1	shower	shower	NOUN	NN	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	statistic	statistic	NOUN	NN	_	0	root	_	_
+
+
+1	however	however	ADV	RB	_	0	root	_	_
+
+
+1	dominate	dominate	ADJ	JJ	_	0	root	_	_
+
+
+1	hadron	hadron	NOUN	NN	_	0	root	_	_
+
+
+1	induce	induce	VERB	VB	_	0	root	_	_
+
+
+1	air	air	NOUN	NN	_	0	root	_	_
+
+
+1	shower	shower	NOUN	NN	_	0	root	_	_
+
+
+1	outnumber	outnumber	VERB	VB	_	0	root	_	_
+
+
+1	ray	ray	NOUN	NN	_	0	root	_	_
+
+
+1	air	air	NOUN	NN	_	0	root	_	_
+
+
+1	shower	shower	NOUN	NN	_	0	root	_	_
+
+
+1	factor	factor	NOUN	NN	_	0	root	_	_
+
+
+1	104	104	NUM	LS	_	0	root	_	_
+
+
+1	make	make	VERB	VB	_	0	root	_	_
+
+
+1	task	task	NOUN	NN	_	0	root	_	_
+
+
+1	identify	identify	VERB	VB	_	0	root	_	_
+
+
+1	ray	ray	NOUN	NN	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	hadronic	hadronic	ADJ	JJ	_	0	root	_	_
+
+
+1	background	background	NOUN	NN	_	0	root	_	_
+
+
+1	central	central	ADJ	JJ	_	0	root	_	_
+
+
+1	challenge	challenge	VERB	VB	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	observation	observation	NOUN	NN	_	0	root	_	_
+
+
+1	hadronic	hadronic	ADJ	JJ	_	0	root	_	_
+
+
+1	air	air	NOUN	NN	_	0	root	_	_
+
+
+1	shower	shower	NOUN	NN	_	0	root	_	_
+
+
+1	fundamentally	fundamentally	ADV	RB	_	0	root	_	_
+
+
+1	different	different	ADJ	JJ	_	0	root	_	_
+
+
+1	initiate	initiate	VERB	VB	_	0	root	_	_
+
+
+1	ray	ray	NOUN	NN	_	0	root	_	_
+
+
+1	electromagnetic	electromagnetic	ADJ	JJ	_	0	root	_	_
+
+
+1	nature	nature	NOUN	NN	_	0	root	_	_
+
+
+1	difference	difference	NOUN	NN	_	0	root	_	_
+
+
+1	shower	shower	NOUN	NN	_	0	root	_	_
+
+
+1	development	development	NOUN	NN	_	0	root	_	_
+
+
+1	lead	lead	VERB	VB	_	0	root	_	_
+
+
+1	small	small	ADJ	JJ	_	0	root	_	_
+
+
+1	significant	significant	ADJ	JJ	_	0	root	_	_
+
+
+1	difference	difference	NOUN	NN	_	0	root	_	_
+
+
+1	camera	camera	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	form	form	NOUN	NN	_	0	root	_	_
+
+
+1	basis	basis	NOUN	NN	_	0	root	_	_
+
+
+1	separate	separate	ADJ	JJ	_	0	root	_	_
+
+
+1	two	two	NUM	CD	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	class	class	NOUN	NN	_	0	root	_	_
+
+
+1	current	current	ADJ	JJ	_	0	root	_	_
+
+
+1	generation	generation	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	typically	typically	ADV	RB	_	0	root	_	_
+
+
+1	rely	rely	VERB	VB	_	0	root	_	_
+
+
+1	boost	boost	VERB	VB	_	0	root	_	_
+
+
+1	decision	decision	NOUN	NN	_	0	root	_	_
+
+
+1	tree	tree	NOUN	NN	_	0	root	_	_
+
+
+1	bdts	bdts	NOUN	NNS	_	0	root	_	_
+
+
+1	train	train	NOUN	NN	_	0	root	_	_
+
+
+1	parameterize	parameterize	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	feature	feature	NOUN	NN	_	0	root	_	_
+
+
+1	goodness	goodness	NOUN	NN	_	0	root	_	_
+
+
+1	fit	fit	NOUN	NN	_	0	root	_	_
+
+
+1	parameter	parameter	NOUN	NN	_	0	root	_	_
+
+
+1	task	task	NOUN	NN	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	5	5	NUM	LS	_	0	root	_	_
+
+
+1	consequently	consequently	ADV	RB	_	0	root	_	_
+
+
+1	natural	natural	ADJ	JJ	_	0	root	_	_
+
+
+1	motivation	motivation	NOUN	NN	_	0	root	_	_
+
+
+1	explore	explore	VERB	VB	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	stem	stem	NOUN	NN	_	0	root	_	_
+
+
+1	possibility	possibility	NOUN	NN	_	0	root	_	_
+
+
+1	improve	improve	VERB	VB	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	classification	classification	NOUN	NN	_	0	root	_	_
+
+
+1	directly	directly	ADV	RB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	level	level	NOUN	NN	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	multiple	multiple	ADJ	JJ	_	0	root	_	_
+
+
+1	study	study	NOUN	NN	_	0	root	_	_
+
+
+1	explore	explore	VERB	VB	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	identify	identify	VERB	VB	_	0	root	_	_
+
+
+1	ray	ray	NOUN	NN	_	0	root	_	_
+
+
+1	demonstrate	demonstrate	VERB	VB	_	0	root	_	_
+
+
+1	exceptional	exceptional	ADJ	JJ	_	0	root	_	_
+
+
+1	performance	performance	NOUN	NN	_	0	root	_	_
+
+
+1	simulate	simulate	VERB	VB	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	6	6	NUM	LS	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	architecture	architecture	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+
+
+1	neu	neu	INTJ	UH	_	0	root	_	_
+
+
+1	ral	ral	INTJ	UH	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+
+
+1	extract	extract	NOUN	NN	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	camera	camera	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	recurrent	recurrent	ADJ	JJ	_	0	root	_	_
+
+
+1	neural	neural	ADJ	JJ	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	rnn	rnn	NOUN	NN	_	0	root	_	_
+
+
+1	aggregation	aggregation	NOUN	NN	_	0	root	_	_
+
+
+1	across	across	ADV	RB	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	neural	neural	ADJ	JJ	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	gnns	gnns	NOUN	NNS	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	represent	represent	VERB	VB	_	0	root	_	_
+
+
+1	point	point	NOUN	NN	_	0	root	_	_
+
+
+1	cloud	cloud	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	establish	establish	VERB	VB	_	0	root	_	_
+
+
+1	viable	viable	ADJ	JJ	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	task	task	NOUN	NN	_	0	root	_	_
+
+
+1	despite	despite	ADP	IN	_	0	root	_	_
+
+
+1	potential	potential	ADJ	JJ	_	0	root	_	_
+
+
+1	complete	complete	ADJ	JJ	_	0	root	_	_
+
+
+1	deployment	deployment	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	main	main	ADJ	JJ	_	0	root	_	_
+
+
+1	non	non	INTJ	UH	_	0	root	_	_
+
+
+1	trivial	trivial	ADJ	JJ	_	0	root	_	_
+
+
+1	due	due	ADJ	JJ	_	0	root	_	_
+
+
+1	variety	variety	NOUN	NN	_	0	root	_	_
+
+
+1	issue	issue	NOUN	NN	_	0	root	_	_
+
+
+1	range	range	NOUN	NN	_	0	root	_	_
+
+
+1	observational	observational	ADJ	JJ	_	0	root	_	_
+
+
+1	systematic	systematic	ADJ	JJ	_	0	root	_	_
+
+
+1	discrepancy	discrepancy	NOUN	NN	_	0	root	_	_
+
+
+1	simulation	simulation	NOUN	NN	_	0	root	_	_
+
+
+1	real	real	ADJ	JJ	_	0	root	_	_
+
+
+1	world	world	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	construction	construction	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	generalize	generalize	VERB	VB	_	0	root	_	_
+
+
+1	unseen	unseen	ADJ	JJ	_	0	root	_	_
+
+
+1	situation	situation	NOUN	NN	_	0	root	_	_
+
+
+1	long	long	ADJ	JJ	_	0	root	_	_
+
+
+1	stand	stand	VERB	VB	_	0	root	_	_
+
+
+1	problem	problem	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	architecture	architecture	NOUN	NN	_	0	root	_	_
+
+
+1	inductive	inductive	NOUN	NN	_	0	root	_	_
+
+
+1	bias	bias	NOUN	NN	_	0	root	_	_
+
+
+1	suitable	suitable	ADJ	JJ	_	0	root	_	_
+
+
+1	give	give	VERB	VB	_	0	root	_	_
+
+
+1	task	task	NOUN	NN	_	0	root	_	_
+
+
+1	lead	lead	VERB	VB	_	0	root	_	_
+
+
+1	improve	improve	VERB	VB	_	0	root	_	_
+
+
+1	generalization	generalization	NOUN	NN	_	0	root	_	_
+
+
+1	guide	guide	NOUN	NN	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	towards	towards	ADP	IN	_	0	root	_	_
+
+
+1	physically	physically	ADV	RB	_	0	root	_	_
+
+
+1	meaningful	meaningful	ADJ	JJ	_	0	root	_	_
+
+
+1	representation	representation	NOUN	NN	_	0	root	_	_
+
+
+1	example	example	NOUN	NN	_	0	root	_	_
+
+
+1	translational	translational	ADJ	JJ	_	0	root	_	_
+
+
+1	invariance	invariance	NOUN	NN	_	0	root	_	_
+
+
+1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+
+
+1	temporal	temporal	ADJ	JJ	_	0	root	_	_
+
+
+1	dependence	dependence	NOUN	NN	_	0	root	_	_
+
+
+1	rnn	rnn	NOUN	NN	_	0	root	_	_
+
+
+1	permutation	permutation	NOUN	NN	_	0	root	_	_
+
+
+1	equivariance	equivariance	NOUN	NN	_	0	root	_	_
+
+
+1	gnns	gnns	NOUN	NNS	_	0	root	_	_
+
+
+1	property	property	NOUN	NN	_	0	root	_	_
+
+
+1	align	align	VERB	VB	_	0	root	_	_
+
+
+1	naturally	naturally	ADV	RB	_	0	root	_	_
+
+
+1	structure	structure	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	typically	typically	ADV	RB	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	thus	thus	ADV	RB	_	0	root	_	_
+
+
+1	contribute	contribute	VERB	VB	_	0	root	_	_
+
+
+1	success	success	NOUN	NN	_	0	root	_	_
+
+
+1	domain	domain	NOUN	NN	_	0	root	_	_
+
+
+1	context	context	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	projection	projection	NOUN	NN	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	inherent	inherent	ADJ	JJ	_	0	root	_	_
+
+
+1	order	order	NOUN	NN	_	0	root	_	_
+
+
+1	make	make	VERB	VB	_	0	root	_	_
+
+
+1	permutation	permutation	NOUN	NN	_	0	root	_	_
+
+
+1	equivariant	equivariant	NOUN	NN	_	0	root	_	_
+
+
+1	motivate	motivate	VERB	VB	_	0	root	_	_
+
+
+1	shift	shift	VERB	VB	_	0	root	_	_
+
+
+1	towards	towards	ADP	IN	_	0	root	_	_
+
+
+1	explore	explore	VERB	VB	_	0	root	_	_
+
+
+1	gnns	gnns	NOUN	NNS	_	0	root	_	_
+
+
+1	aggregate	aggregate	NOUN	NN	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	across	across	ADV	RB	_	0	root	_	_
+
+
+1	multiple	multiple	ADJ	JJ	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	end	end	NOUN	NN	_	0	root	_	_
+
+
+1	work	work	NOUN	NN	_	0	root	_	_
+
+
+1	introduce	introduce	VERB	VB	_	0	root	_	_
+
+
+1	combine	combine	VERB	VB	_	0	root	_	_
+
+
+1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	neural	neural	ADJ	JJ	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	hadron	hadron	NOUN	NN	_	0	root	_	_
+
+
+1	separation	separation	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	convolution	convolution	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	hadron	hadron	NOUN	NN	_	0	root	_	_
+
+
+1	separation	separation	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	abhay	abhay	PROPN	NNP	_	0	root	_	_
+
+
+1	mehta	mehta	PROPN	NNP	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	two	two	NUM	CD	_	0	root	_	_
+
+
+1	distinct	distinct	ADJ	JJ	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	strategy	strategy	NOUN	NN	_	0	root	_	_
+
+
+1	propose	propose	VERB	VB	_	0	root	_	_
+
+
+1	evaluate	evaluate	VERB	VB	_	0	root	_	_
+
+
+1	simulate	simulate	VERB	VB	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	include	include	VERB	VB	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	train	train	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	enhance	enhance	VERB	VB	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	variant	variant	NOUN	NN	_	0	root	_	_
+
+
+1	additional	additional	ADJ	JJ	_	0	root	_	_
+
+
+1	reconstruct	reconstruct	VERB	VB	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	incorporate	incorporate	VERB	VB	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	structure	structure	NOUN	NN	_	0	root	_	_
+
+
+1	baseline	baseline	NOUN	NN	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	utilize	utilize	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	moment	moment	NOUN	NN	_	0	root	_	_
+
+
+1	serve	serve	VERB	VB	_	0	root	_	_
+
+
+1	reference	reference	NOUN	NN	_	0	root	_	_
+
+
+1	exist	exist	VERB	VB	_	0	root	_	_
+
+
+1	method	method	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	train	train	NOUN	NN	_	0	root	_	_
+
+
+1	simulation	simulation	NOUN	NN	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	energy	energy	NOUN	NN	_	0	root	_	_
+
+
+1	stereoscopic	stereoscopic	ADJ	JJ	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	h.e.s.s	h.e.s.s	NOUN	NN	_	0	root	_	_
+
+
+1	locate	locate	VERB	VB	_	0	root	_	_
+
+
+1	g	g	PROPN	NNP	_	0	root	_	_
+
+
+1	llschau	llschau	PROPN	NNP	_	0	root	_	_
+
+
+1	namibia	namibia	PROPN	NNP	_	0	root	_	_
+
+
+1	h.e.s.s	h.e.s.s	NOUN	NN	_	0	root	_	_
+
+
+1	array	array	NOUN	NN	_	0	root	_	_
+
+
+1	consist	consist	VERB	VB	_	0	root	_	_
+
+
+1	four	four	NUM	CD	_	0	root	_	_
+
+
+1	12	12	NUM	LS	_	0	root	_	_
+
+
+1	meter	meter	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	ct1	ct1	PROPN	ADD	_	0	root	_	_
+
+
+1	4	4	NUM	LS	_	0	root	_	_
+
+
+1	arrange	arrange	VERB	VB	_	0	root	_	_
+
+
+1	square	square	ADJ	JJ	_	0	root	_	_
+
+
+1	side	side	NOUN	NN	_	0	root	_	_
+
+
+1	120	120	NUM	CD	_	0	root	_	_
+
+
+1	meter	meter	NOUN	NN	_	0	root	_	_
+
+
+1	additional	additional	ADJ	JJ	_	0	root	_	_
+
+
+1	28	28	NUM	LS	_	0	root	_	_
+
+
+1	meter	meter	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	ct5	ct5	NOUN	NN	_	0	root	_	_
+
+
+1	center	center	NOUN	NN	_	0	root	_	_
+
+
+1	diffuse	diffuse	ADJ	JJ	_	0	root	_	_
+
+
+1	proton	proton	NOUN	NN	_	0	root	_	_
+
+
+1	ray	ray	NOUN	NN	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	simulate	simulate	VERB	VB	_	0	root	_	_
+
+
+1	zenith	zenith	NOUN	NN	_	0	root	_	_
+
+
+1	20	20	NUM	LS	_	0	root	_	_
+
+
+1	maximum	maximum	NOUN	NN	_	0	root	_	_
+
+
+1	view	view	NOUN	NN	_	0	root	_	_
+
+
+1	cone	cone	NOUN	NN	_	0	root	_	_
+
+
+1	5	5	NUM	LS	_	0	root	_	_
+
+
+1	choose	choose	VERB	VB	_	0	root	_	_
+
+
+1	two	two	NUM	CD	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	class	class	NOUN	NN	_	0	root	_	_
+
+
+1	task	task	NOUN	NN	_	0	root	_	_
+
+
+1	similar	similar	ADJ	JJ	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	train	train	NOUN	NN	_	0	root	_	_
+
+
+1	simulation	simulation	NOUN	NN	_	0	root	_	_
+
+
+1	upcome	upcome	NOUN	NN	_	0	root	_	_
+
+
+1	cherenkov	cherenkov	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	array	array	NOUN	NN	_	0	root	_	_
+
+
+1	observatory	observatory	NOUN	NN	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	present	present	ADJ	JJ	_	0	root	_	_
+
+
+1	custom	custom	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	processing	processing	NOUN	NN	_	0	root	_	_
+
+
+1	pipeline	pipeline	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	ctapipe	ctapipe	PROPN	NNP	_	0	root	_	_
+
+
+1	py	py	NOUN	NN	_	0	root	_	_
+
+
+1	torch	torch	NOUN	NN	_	0	root	_	_
+
+
+1	develop	develop	VERB	VB	_	0	root	_	_
+
+
+1	subsequent	subsequent	ADJ	JJ	_	0	root	_	_
+
+
+1	analysis	analysis	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	framework	framework	NOUN	NN	_	0	root	_	_
+
+
+1	within	within	ADP	IN	_	0	root	_	_
+
+
+1	ctapipe	ctapipe	PROPN	NNP	_	0	root	_	_
+
+
+1	v0.19.3	v0.19.3	NUM	CD	_	0	root	_	_
+
+
+1	package	package	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	handle	handle	NOUN	NN	_	0	root	_	_
+
+
+1	low	low	ADJ	JJ	_	0	root	_	_
+
+
+1	level	level	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	processing	processing	NOUN	NN	_	0	root	_	_
+
+
+1	task	task	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	calibration	calibration	NOUN	NN	_	0	root	_	_
+
+
+1	clean	clean	ADJ	JJ	_	0	root	_	_
+
+
+1	construction	construction	NOUN	NN	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	convolution	convolution	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	implement	implement	VERB	VB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	py	py	NOUN	NN	_	0	root	_	_
+
+
+1	torch	torch	NOUN	NN	_	0	root	_	_
+
+
+1	v2.0.1	v2.0.1	NUM	CD	_	0	root	_	_
+
+
+1	py	py	NOUN	NN	_	0	root	_	_
+
+
+1	torch	torch	NOUN	NN	_	0	root	_	_
+
+
+1	geometric	geometric	ADJ	JJ	_	0	root	_	_
+
+
+1	v2.4.0	v2.4.0	NUM	CD	_	0	root	_	_
+
+
+1	respectively	respectively	ADV	RB	_	0	root	_	_
+
+
+1	convolution	convolution	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	hadron	hadron	NOUN	NN	_	0	root	_	_
+
+
+1	separation	separation	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	abhay	abhay	PROPN	NNP	_	0	root	_	_
+
+
+1	mehta	mehta	PROPN	NNP	_	0	root	_	_
+
+
+1	ray	ray	NOUN	NN	_	0	root	_	_
+
+
+1	hadron	hadron	NOUN	NN	_	0	root	_	_
+
+
+1	induce	induce	VERB	VB	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	end	end	NOUN	NN	_	0	root	_	_
+
+
+1	aim	aim	NOUN	NN	_	0	root	_	_
+
+
+1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	half	half	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	remain	remain	VERB	VB	_	0	root	_	_
+
+
+1	extract	extract	NOUN	NN	_	0	root	_	_
+
+
+1	relevant	relevant	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	level	level	NOUN	NN	_	0	root	_	_
+
+
+1	feature	feature	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	half	half	NOUN	NN	_	0	root	_	_
+
+
+1	give	give	VERB	VB	_	0	root	_	_
+
+
+1	additional	additional	ADJ	JJ	_	0	root	_	_
+
+
+1	contextual	contextual	NOUN	NN	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	describe	describe	VERB	VB	_	0	root	_	_
+
+
+1	section	section	NOUN	NN	_	0	root	_	_
+
+
+1	3	3	NUM	LS	_	0	root	_	_
+
+
+1	well	well	INTJ	UH	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	classification	classification	NOUN	NN	_	0	root	_	_
+
+
+1	task	task	NOUN	NN	_	0	root	_	_
+
+
+1	output	output	NOUN	NN	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	form	form	NOUN	NN	_	0	root	_	_
+
+
+1	part	part	NOUN	NN	_	0	root	_	_
+
+
+1	input	input	NOUN	NN	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	allow	allow	VERB	VB	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	combine	combine	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	feature	feature	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	level	level	NOUN	NN	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	advantage	advantage	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	representation	representation	NOUN	NN	_	0	root	_	_
+
+
+1	gnns	gnns	NOUN	NNS	_	0	root	_	_
+
+
+1	flexibility	flexibility	NOUN	NN	_	0	root	_	_
+
+
+1	handle	handle	NOUN	NN	_	0	root	_	_
+
+
+1	vary	vary	VERB	VB	_	0	root	_	_
+
+
+1	number	number	NOUN	NN	_	0	root	_	_
+
+
+1	type	type	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	present	present	ADJ	JJ	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	array	array	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	relevant	relevant	ADJ	JJ	_	0	root	_	_
+
+
+1	subset	subset	NOUN	NN	_	0	root	_	_
+
+
+1	array	array	NOUN	NN	_	0	root	_	_
+
+
+1	operate	operate	VERB	VB	_	0	root	_	_
+
+
+1	due	due	ADJ	JJ	_	0	root	_	_
+
+
+1	technical	technical	ADJ	JJ	_	0	root	_	_
+
+
+1	observational	observational	ADJ	JJ	_	0	root	_	_
+
+
+1	constraint	constraint	NOUN	NN	_	0	root	_	_
+
+
+1	additionally	additionally	ADV	RB	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	allow	allow	VERB	VB	_	0	root	_	_
+
+
+1	inclusion	inclusion	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	specific	specific	ADJ	JJ	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	position	position	NOUN	NN	_	0	root	_	_
+
+
+1	reconstruct	reconstruct	VERB	VB	_	0	root	_	_
+
+
+1	parameter	parameter	NOUN	NN	_	0	root	_	_
+
+
+1	temporal	temporal	ADJ	JJ	_	0	root	_	_
+
+
+1	relationship	relationship	NOUN	NN	_	0	root	_	_
+
+
+1	make	make	VERB	VB	_	0	root	_	_
+
+
+1	system	system	NOUN	NN	_	0	root	_	_
+
+
+1	adaptable	adaptable	ADJ	JJ	_	0	root	_	_
+
+
+1	particularity	particularity	NOUN	NN	_	0	root	_	_
+
+
+1	real	real	ADJ	JJ	_	0	root	_	_
+
+
+1	world	world	NOUN	NN	_	0	root	_	_
+
+
+1	datum	datum	NOUN	NN	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	component	component	NOUN	NN	_	0	root	_	_
+
+
+1	simple	simple	ADJ	JJ	_	0	root	_	_
+
+
+1	implementation	implementation	NOUN	NN	_	0	root	_	_
+
+
+1	inspire	inspire	VERB	VB	_	0	root	_	_
+
+
+1	inception	inception	NOUN	NN	_	0	root	_	_
+
+
+1	module	module	NOUN	NN	_	0	root	_	_
+
+
+1	employ	employ	VERB	VB	_	0	root	_	_
+
+
+1	convolution	convolution	NOUN	NN	_	0	root	_	_
+
+
+1	filter	filter	NOUN	NN	_	0	root	_	_
+
+
+1	multiple	multiple	ADJ	JJ	_	0	root	_	_
+
+
+1	size	size	NOUN	NN	_	0	root	_	_
+
+
+1	parallel	parallel	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	feature	feature	NOUN	NN	_	0	root	_	_
+
+
+1	different	different	ADJ	JJ	_	0	root	_	_
+
+
+1	spatial	spatial	ADJ	JJ	_	0	root	_	_
+
+
+1	scale	scale	NOUN	NN	_	0	root	_	_
+
+
+1	five	five	NUM	CD	_	0	root	_	_
+
+
+1	convolution	convolution	NOUN	NN	_	0	root	_	_
+
+
+1	kernel	kernel	NOUN	NN	_	0	root	_	_
+
+
+1	size	size	NOUN	NN	_	0	root	_	_
+
+
+1	range	range	NOUN	NN	_	0	root	_	_
+
+
+1	1	1	NUM	LS	_	0	root	_	_
+
+
+1	15	15	NUM	LS	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	output	output	NOUN	NN	_	0	root	_	_
+
+
+1	subsequently	subsequently	ADV	RB	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	two	two	NUM	CD	_	0	root	_	_
+
+
+1	additional	additional	ADJ	JJ	_	0	root	_	_
+
+
+1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+
+
+1	layer	layer	NOUN	NN	_	0	root	_	_
+
+
+1	max	max	NOUN	NN	_	0	root	_	_
+
+
+1	pool	pool	NOUN	NN	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	flatten	flatten	VERB	VB	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	two	two	NUM	CD	_	0	root	_	_
+
+
+1	fully	fully	ADV	RB	_	0	root	_	_
+
+
+1	connect	connect	VERB	VB	_	0	root	_	_
+
+
+1	layer	layer	NOUN	NN	_	0	root	_	_
+
+
+1	dropout	dropout	NOUN	NN	_	0	root	_	_
+
+
+1	regularization	regularization	NOUN	NN	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	final	final	ADJ	JJ	_	0	root	_	_
+
+
+1	layer	layer	NOUN	NN	_	0	root	_	_
+
+
+1	network	network	NOUN	NN	_	0	root	_	_
+
+
+1	operate	operate	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	independently	independently	ADV	RB	_	0	root	_	_
+
+
+1	return	return	VERB	VB	_	0	root	_	_
+
+
+1	fix	fix	NOUN	NN	_	0	root	_	_
+
+
+1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+
+
+1	embed	embed	VERB	VB	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	feature	feature	NOUN	NN	_	0	root	_	_
+
+
+1	vector	vector	NOUN	NN	_	0	root	_	_
+
+
+1	extract	extract	NOUN	NN	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	subsequently	subsequently	ADV	RB	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	component	component	NOUN	NN	_	0	root	_	_
+
+
+1	consist	consist	VERB	VB	_	0	root	_	_
+
+
+1	multi	multi	NOUN	NN	_	0	root	_	_
+
+
+1	layer	layer	NOUN	NN	_	0	root	_	_
+
+
+1	edge	edge	NOUN	NN	_	0	root	_	_
+
+
+1	conv	conv	NOUN	NN	_	0	root	_	_
+
+
+1	architecture	architecture	NOUN	NN	_	0	root	_	_
+
+
+1	residual	residual	ADJ	JJ	_	0	root	_	_
+
+
+1	concatenation	concatenation	NOUN	NN	_	0	root	_	_
+
+
+1	across	across	ADV	RB	_	0	root	_	_
+
+
+1	layer	layer	NOUN	NN	_	0	root	_	_
+
+
+1	follow	follow	VERB	VB	_	0	root	_	_
+
+
+1	original	original	ADJ	JJ	_	0	root	_	_
+
+
+1	design	design	NOUN	NN	_	0	root	_	_
+
+
+1	message	message	NOUN	NN	_	0	root	_	_
+
+
+1	pass	pass	VERB	VB	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	node	node	NOUN	NN	_	0	root	_	_
+
+
+1	representation	representation	NOUN	NN	_	0	root	_	_
+
+
+1	aggregate	aggregate	NOUN	NN	_	0	root	_	_
+
+
+1	globally	globally	ADV	RB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	combination	combination	NOUN	NN	_	0	root	_	_
+
+
+1	mean	mean	VERB	VB	_	0	root	_	_
+
+
+1	max	max	NOUN	NN	_	0	root	_	_
+
+
+1	sum	sum	NOUN	NN	_	0	root	_	_
+
+
+1	pool	pool	NOUN	NN	_	0	root	_	_
+
+
+1	operation	operation	NOUN	NN	_	0	root	_	_
+
+
+1	form	form	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	level	level	NOUN	NN	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	embed	embed	VERB	VB	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	classification	classification	NOUN	NN	_	0	root	_	_
+
+
+1	alternative	alternative	ADJ	JJ	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	layer	layer	NOUN	NN	_	0	root	_	_
+
+
+1	gcnconv	gcnconv	PROPN	NNP	_	0	root	_	_
+
+
+1	gatconv	gatconv	PROPN	NNP	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	explore	explore	VERB	VB	_	0	root	_	_
+
+
+1	significant	significant	ADJ	JJ	_	0	root	_	_
+
+
+1	difference	difference	NOUN	NN	_	0	root	_	_
+
+
+1	performance	performance	NOUN	NN	_	0	root	_	_
+
+
+1	observe	observe	VERB	VB	_	0	root	_	_
+
+
+1	key	key	NOUN	NN	_	0	root	_	_
+
+
+1	aim	aim	NOUN	NN	_	0	root	_	_
+
+
+1	work	work	NOUN	NN	_	0	root	_	_
+
+
+1	examine	examine	VERB	VB	_	0	root	_	_
+
+
+1	inclusion	inclusion	NOUN	NN	_	0	root	_	_
+
+
+1	reconstruct	reconstruct	VERB	VB	_	0	root	_	_
+
+
+1	information	information	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	contribute	contribute	VERB	VB	_	0	root	_	_
+
+
+1	improvement	improvement	NOUN	NN	_	0	root	_	_
+
+
+1	performance	performance	NOUN	NN	_	0	root	_	_
+
+
+1	consequently	consequently	ADV	RB	_	0	root	_	_
+
+
+1	three	three	NUM	CD	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	different	different	ADJ	JJ	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	component	component	NOUN	NN	_	0	root	_	_
+
+
+1	develop	develop	VERB	VB	_	0	root	_	_
+
+
+1	fast	fast	ADJ	JJ	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	strong	strong	ADJ	JJ	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	hillas	hillas	NOUN	NNS	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	specific	specific	ADJ	JJ	_	0	root	_	_
+
+
+1	follow	follow	VERB	VB	_	0	root	_	_
+
+
+1	fast	fast	ADJ	JJ	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	combine	combine	VERB	VB	_	0	root	_	_
+
+
+1	feature	feature	NOUN	NN	_	0	root	_	_
+
+
+1	extract	extract	NOUN	NN	_	0	root	_	_
+
+
+1	camera	camera	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	position	position	NOUN	NN	_	0	root	_	_
+
+
+1	ground	ground	NOUN	NN	_	0	root	_	_
+
+
+1	frame	frame	NOUN	NN	_	0	root	_	_
+
+
+1	total	total	ADJ	JJ	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	maximum	maximum	NOUN	NN	_	0	root	_	_
+
+
+1	pixel	pixel	NOUN	NN	_	0	root	_	_
+
+
+1	intensity	intensity	NOUN	NN	_	0	root	_	_
+
+
+1	per	per	ADP	IN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	strong	strong	ADJ	JJ	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	enhance	enhance	VERB	VB	_	0	root	_	_
+
+
+1	version	version	NOUN	NN	_	0	root	_	_
+
+
+1	incorporate	incorporate	VERB	VB	_	0	root	_	_
+
+
+1	reconstruct	reconstruct	VERB	VB	_	0	root	_	_
+
+
+1	core	core	NOUN	NN	_	0	root	_	_
+
+
+1	position	position	NOUN	NN	_	0	root	_	_
+
+
+1	air	air	NOUN	NN	_	0	root	_	_
+
+
+1	shower	shower	NOUN	NN	_	0	root	_	_
+
+
+1	implement	implement	VERB	VB	_	0	root	_	_
+
+
+1	shift	shift	VERB	VB	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	position	position	NOUN	NN	_	0	root	_	_
+
+
+1	tilt	tilt	NOUN	NN	_	0	root	_	_
+
+
+1	ground	ground	NOUN	NN	_	0	root	_	_
+
+
+1	frame1	frame1	NOUN	NN	_	0	root	_	_
+
+
+1	center	center	NOUN	NN	_	0	root	_	_
+
+
+1	origin	origin	NOUN	NN	_	0	root	_	_
+
+
+1	reconstruct	reconstruct	VERB	VB	_	0	root	_	_
+
+
+1	impact	impact	VERB	VB	_	0	root	_	_
+
+
+1	point	point	NOUN	NN	_	0	root	_	_
+
+
+1	figure	figure	NOUN	NN	_	0	root	_	_
+
+
+1	2	2	NUM	LS	_	0	root	_	_
+
+
+1	hillas	hillas	NOUN	NNS	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	simplified	simplified	VERB	VBN	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	train	train	NOUN	NN	_	0	root	_	_
+
+
+1	solely	solely	ADV	RB	_	0	root	_	_
+
+
+1	hillas	hillas	NOUN	NNS	_	0	root	_	_
+
+
+1	parameter	parameter	NOUN	NN	_	0	root	_	_
+
+
+1	extract	extract	NOUN	NN	_	0	root	_	_
+
+
+1	camera	camera	NOUN	NN	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	serve	serve	VERB	VB	_	0	root	_	_
+
+
+1	baseline	baseline	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	1the	1the	INTJ	UH	_	0	root	_	_
+
+
+1	tilt	tilt	NOUN	NN	_	0	root	_	_
+
+
+1	ground	ground	NOUN	NN	_	0	root	_	_
+
+
+1	frame	frame	NOUN	NN	_	0	root	_	_
+
+
+1	ground	ground	NOUN	NN	_	0	root	_	_
+
+
+1	frame	frame	NOUN	NN	_	0	root	_	_
+
+
+1	transform	transform	VERB	VB	_	0	root	_	_
+
+
+1	accord	accord	NOUN	NN	_	0	root	_	_
+
+
+1	telescope	telescope	NOUN	NN	_	0	root	_	_
+
+
+1	point	point	NOUN	NN	_	0	root	_	_
+
+
+1	direction	direction	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	reconstruct	reconstruct	VERB	VB	_	0	root	_	_
+
+
+1	shower	shower	NOUN	NN	_	0	root	_	_
+
+
+1	core	core	NOUN	NN	_	0	root	_	_
+
+
+1	position	position	NOUN	NN	_	0	root	_	_
+
+
+1	4	4	NUM	LS	_	0	root	_	_
+
+
+1	convolution	convolution	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	hadron	hadron	NOUN	NN	_	0	root	_	_
+
+
+1	separation	separation	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	abhay	abhay	PROPN	NNP	_	0	root	_	_
+
+
+1	mehta	mehta	PROPN	NNP	_	0	root	_	_
+
+
+1	convolution	convolution	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	hadron	hadron	NOUN	NN	_	0	root	_	_
+
+
+1	separation	separation	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	abhay	abhay	PROPN	NNP	_	0	root	_	_
+
+
+1	mehta	mehta	PROPN	NNP	_	0	root	_	_
+
+
+1	correspond	correspond	VERB	VB	_	0	root	_	_
+
+
+1	area	area	NOUN	NN	_	0	root	_	_
+
+
+1	curve	curve	NOUN	NN	_	0	root	_	_
+
+
+1	auc	auc	INTJ	UH	_	0	root	_	_
+
+
+1	value	value	NOUN	NN	_	0	root	_	_
+
+
+1	case	case	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	successfully	successfully	ADV	RB	_	0	root	_	_
+
+
+1	able	able	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	classify	classify	VERB	VB	_	0	root	_	_
+
+
+1	event	event	NOUN	NN	_	0	root	_	_
+
+
+1	ray	ray	NOUN	NN	_	0	root	_	_
+
+
+1	proton	proton	NOUN	NN	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	outperform	outperform	VERB	VB	_	0	root	_	_
+
+
+1	hillas	hillas	NOUN	NNS	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	well	well	INTJ	UH	_	0	root	_	_
+
+
+1	upon	upon	ADP	IN	_	0	root	_	_
+
+
+1	testing	testing	NOUN	NN	_	0	root	_	_
+
+
+1	dataset	dataset	NOUN	NN	_	0	root	_	_
+
+
+1	additional	additional	ADJ	JJ	_	0	root	_	_
+
+
+1	local	local	ADJ	JJ	_	0	root	_	_
+
+
+1	distance	distance	NOUN	NN	_	0	root	_	_
+
+
+1	cut	cut	VERB	VB	_	0	root	_	_
+
+
+1	image	image	NOUN	NN	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	match	match	NOUN	NN	_	0	root	_	_
+
+
+1	classification	classification	NOUN	NN	_	0	root	_	_
+
+
+1	performance	performance	NOUN	NN	_	0	root	_	_
+
+
+1	previous	previous	ADJ	JJ	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	similar	similar	ADJ	JJ	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	see	see	VERB	VB	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	apply	apply	VERB	VB	_	0	root	_	_
+
+
+1	evaluate	evaluate	VERB	VB	_	0	root	_	_
+
+
+1	simulation	simulation	NOUN	NN	_	0	root	_	_
+
+
+1	ctao	ctao	PROPN	NNP	_	0	root	_	_
+
+
+1	array	array	NOUN	NN	_	0	root	_	_
+
+
+1	convolution	convolution	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	hadron	hadron	NOUN	NN	_	0	root	_	_
+
+
+1	separation	separation	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	abhay	abhay	PROPN	NNP	_	0	root	_	_
+
+
+1	mehta	mehta	PROPN	NNP	_	0	root	_	_
+
+
+1	high	high	ADJ	JJ	_	0	root	_	_
+
+
+1	auc	auc	INTJ	UH	_	0	root	_	_
+
+
+1	fscore	fscore	NOUN	NN	_	0	root	_	_
+
+
+1	indicate	indicate	VERB	VB	_	0	root	_	_
+
+
+1	great	great	ADJ	JJ	_	0	root	_	_
+
+
+1	importance	importance	NOUN	NN	_	0	root	_	_
+
+
+1	feature	feature	NOUN	NN	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	decision	decision	NOUN	NN	_	0	root	_	_
+
+
+1	process	process	NOUN	NN	_	0	root	_	_
+
+
+1	result	result	NOUN	NN	_	0	root	_	_
+
+
+1	computation	computation	NOUN	NN	_	0	root	_	_
+
+
+1	hillas	hillas	NOUN	NNS	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	50	50	NUM	LS	_	0	root	_	_
+
+
+1	fast	fast	ADJ	JJ	_	0	root	_	_
+
+
+1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+
+
+1	gnn	gnn	PROPN	NNP	_	0	root	_	_
+
+
+1	n	n	NOUN	NN	_	0	root	_	_
+
+
+1	10	10	NUM	LS	_	0	root	_	_
+
+
+1	model	model	NOUN	NN	_	0	root	_	_
+
+
+1	train	train	NOUN	NN	_	0	root	_	_
+
+
+1	via	via	ADV	RB	_	0	root	_	_
+
+
+1	split	split	VERB	VBN	_	0	root	_	_
+
+
+1	training	training	NOUN	NN	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	show	show	VERB	VB	_	0	root	_	_
+
+
+1	convolution	convolution	NOUN	NN	_	0	root	_	_
+
+
+1	graph	graph	NOUN	NN	_	0	root	_	_
+
+
+1	base	base	NOUN	NN	_	0	root	_	_
+
+
+1	deep	deep	ADJ	JJ	_	0	root	_	_
+
+
+1	learn	learn	VERB	VB	_	0	root	_	_
+
+
+1	approach	approach	NOUN	NN	_	0	root	_	_
+
+
+1	hadron	hadron	NOUN	NN	_	0	root	_	_
+
+
+1	separation	separation	NOUN	NN	_	0	root	_	_
+
+
+1	iact	iact	NOUN	NN	_	0	root	_	_
+
+
+1	abhay	abhay	PROPN	NNP	_	0	root	_	_
+
+
+1	mehta	mehta	PROPN	NNP	_	0	root	_	_
+
+
+1	author	author	NOUN	NN	_	0	root	_	_
+
+
+1	thank	thank	VERB	VBP	_	0	root	_	_
+
+
+1	h.e.s.s	h.e.s.s	NOUN	NN	_	0	root	_	_
+
+
+1	collaboration	collaboration	NOUN	NN	_	0	root	_	_
+
+
+1	access	access	NOUN	NN	_	0	root	_	_
+
+
+1	use	use	VERB	VB	_	0	root	_	_
+
+
+1	h.e.s.s	h.e.s.s	NOUN	NN	_	0	root	_	_
+
+
+1	simula	simula	INTJ	UH	_	0	root	_	_
+
+
+1	tion	tion	INTJ	UH	_	0	root	_	_
+
+
+1	also	also	ADV	RB	_	0	root	_	_
+
+
+1	thank	thank	VERB	VBP	_	0	root	_	_
+
+
+1	iftach	iftach	INTJ	UH	_	0	root	_	_
+
+
+1	sadeh	sadeh	INTJ	UH	_	0	root	_	_
+
+
+1	valuable	valuable	ADJ	JJ	_	0	root	_	_
+
+
+1	input	input	NOUN	NN	_	0	root	_	_
+
+
+1	feedback	feedback	NOUN	NN	_	0	root	_	_
+
+
+1	course	course	NOUN	NN	_	0	root	_	_
+
+
+1	work	work	NOUN	NN	_	0	root	_	_
+
+
