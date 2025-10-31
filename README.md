@@ -21,7 +21,7 @@ We downloaded 20 academic papers in the field of Deep Learning written in the En
 
 ## Preprocessing
 
-All preprocessing of the text files was done using the Jupyter notebook [code/text_processing.ipynb](code/text_processing.ipynb). The NLTK library was used for tokenization and stopword removal, spaCy for lemmatization, and Stanza for exporting the preprocessed texts in the CoNLL-U format.
+All preprocessing of the text files was done using the Jupyter notebook [code/text_processing.ipynb](code/text_processing.ipynb). The NLTK library was used for tokenization and stopword removal, spaCy for lemmatization, and Stanza for exporting the preprocessed texts in the CoNLL-U format. The resulting CoNLL-U files can be found in the folder [code/data](code/data/), with a CoNLL-U file for each paper.
 
 ## Project Repository Structure
 
@@ -47,7 +47,22 @@ cd TUW_NLP2025
 pip install -r code/requirements.txt
 ```
 
-3. Run the preprocessing Jupyter Notebook:
+3. Download the spaCy large English model:
+
+```bash
+python -m spacy download en_core_web_lg
+```
+
+4. Dowload models:
+
+```python
+import nltk, stanza
+nltk.download('punkt')
+nltk.download('stopwords')
+stanza.download('en')
+```
+
+5. Run the preprocessing Jupyter Notebook:
 
 ```bash
 jupyter notebook code/text_processing.ipynb
