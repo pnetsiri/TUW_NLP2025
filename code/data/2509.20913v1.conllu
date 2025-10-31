@@ -109,9 +109,6 @@
 1	focus	focus	VERB	VB	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	u.s	u.s	PROPN	NNP	_	_	_	_	_
 
 
@@ -238,9 +235,6 @@
 1	kms	kms	NOUN	NNS	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	train	train	NOUN	NN	_	_	_	_	_
 
 
@@ -298,9 +292,6 @@
 1	ahead	ahead	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	14	14	NUM	LS	_	_	_	_	_
 
 
@@ -319,16 +310,10 @@
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	compare	compare	VERB	VB	_	_	_	_	_
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	baseline	baseline	NOUN	NN	_	_	_	_	_
@@ -382,9 +367,6 @@
 1	cially	cially	INTJ	UH	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	short	short	ADJ	JJ	_	_	_	_	_
 
 
@@ -395,9 +377,6 @@
 
 
 1	noteworthy	noteworthy	ADJ	JJ	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	good	good	ADJ	JJ	_	_	_	_	_
@@ -416,12 +395,6 @@
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	together	together	ADV	RB	_	_	_	_	_
 
 
 1	deep	deep	ADJ	JJ	_	_	_	_	_
@@ -449,9 +422,6 @@
 
 
 1	score	score	NOUN	NN	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	city	city	NOUN	NN	_	_	_	_	_
@@ -542,9 +512,6 @@
 
 
 1	include	include	VERB	VB	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	high	high	ADJ	JJ	_	_	_	_	_
@@ -694,9 +661,6 @@
 1	phenomena	phenomena	NOUN	NNS	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	area	area	NOUN	NN	_	_	_	_	_
 
 
@@ -704,9 +668,6 @@
 
 
 1	convergence	convergence	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	factor	factor	NOUN	NN	_	_	_	_	_
@@ -793,9 +754,6 @@
 1	root	root	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	half	half	NOUN	NN	_	_	_	_	_
 
 
@@ -809,9 +767,6 @@
 
 
 1	6	6	NUM	LS	_	_	_	_	_
-
-
-1	become	become	VERB	VB	_	_	_	_	_
 
 
 1	extremely	extremely	ADV	RB	_	_	_	_	_
@@ -830,9 +785,6 @@
 
 
 1	century	century	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	widely	widely	ADV	RB	_	_	_	_	_
@@ -886,9 +838,6 @@
 1	place	place	VERB	VB	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	introduce	introduce	VERB	VB	_	_	_	_	_
 
 
@@ -905,9 +854,6 @@
 
 
 1	unit	unit	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	city	city	NOUN	NN	_	_	_	_	_
@@ -935,9 +881,6 @@
 
 
 1	segment	segment	NOUN	NN	_	_	_	_	_
-
-
-1	since	since	ADV	RB	_	_	_	_	_
 
 
 1	grow	grow	VERB	VB	_	_	_	_	_
@@ -976,9 +919,6 @@
 1	police	police	NOUN	NN	_	_	_	_	_
 
 
-1	along	along	ADV	RB	_	_	_	_	_
-
-
 1	spatial	spatial	ADJ	JJ	_	_	_	_	_
 
 
@@ -986,9 +926,6 @@
 
 
 1	crime	crime	NOUN	NN	_	_	_	_	_
-
-
-1	another	another	DET	DT	_	_	_	_	_
 
 
 1	factor	factor	NOUN	NN	_	_	_	_	_
@@ -1018,9 +955,6 @@
 1	crime	crime	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	dimension	dimension	NOUN	NN	_	_	_	_	_
 
 
@@ -1046,9 +980,6 @@
 
 
 1	fundamental	fundamental	ADJ	JJ	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	correlation	correlation	NOUN	NN	_	_	_	_	_
@@ -1114,12 +1045,6 @@
 1	prediction	prediction	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
-1	beyond	beyond	ADV	RB	_	_	_	_	_
-
-
 1	spatial	spatial	ADJ	JJ	_	_	_	_	_
 
 
@@ -1130,9 +1055,6 @@
 
 
 1	crime	crime	NOUN	NN	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	factor	factor	NOUN	NN	_	_	_	_	_
@@ -1156,9 +1078,6 @@
 1	nature	nature	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
@@ -1169,9 +1088,6 @@
 
 
 1	context	context	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	examine	examine	VERB	VB	_	_	_	_	_
@@ -1196,9 +1112,6 @@
 
 
 1	instance	instance	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	foster	foster	NOUN	NN	_	_	_	_	_
@@ -1237,9 +1150,6 @@
 1	16	16	NUM	LS	_	_	_	_	_
 
 
-1	meanwhile	meanwhile	ADV	RB	_	_	_	_	_
-
-
 1	neighborhood	neighborhood	NOUN	NN	_	_	_	_	_
 
 
@@ -1250,9 +1160,6 @@
 
 
 1	diversity	diversity	NOUN	NN	_	_	_	_	_
-
-
-1	sometimes	sometimes	ADV	RB	_	_	_	_	_
 
 
 1	experience	experience	NOUN	NN	_	_	_	_	_
@@ -1282,9 +1189,6 @@
 1	face	face	VERB	VB	_	_	_	_	_
 
 
-1	besides	besides	ADV	RB	_	_	_	_	_
-
-
 1	socio	socio	NOUN	NN	_	_	_	_	_
 
 
@@ -1292,9 +1196,6 @@
 
 
 1	dimension	dimension	NOUN	NN	_	_	_	_	_
-
-
-1	another	another	DET	DT	_	_	_	_	_
 
 
 1	central	central	ADJ	JJ	_	_	_	_	_
@@ -1322,9 +1223,6 @@
 
 
 1	suggest	suggest	VERB	VB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	theory	theory	NOUN	NN	_	_	_	_	_
@@ -1363,16 +1261,10 @@
 1	visitor	visitor	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	experience	experience	NOUN	NN	_	_	_	_	_
 
 
 1	crime	crime	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	increase	increase	NOUN	NN	_	_	_	_	_
@@ -1403,9 +1295,6 @@
 
 
 1	crime	crime	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	absence	absence	NOUN	NN	_	_	_	_	_
@@ -1477,9 +1366,6 @@
 1	behavior	behavior	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	nonlinear	nonlinear	ADJ	JJ	_	_	_	_	_
 
 
@@ -1490,9 +1376,6 @@
 
 
 1	dynamic	dynamic	ADJ	JJ	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	charac	charac	NOUN	NN	_	_	_	_	_
@@ -1513,9 +1396,6 @@
 1	criminologist	criminologist	NOUN	NN	_	_	_	_	_
 
 
-1	along	along	ADV	RB	_	_	_	_	_
-
-
 1	scholar	scholar	NOUN	NN	_	_	_	_	_
 
 
@@ -1525,13 +1405,7 @@
 1	1	1	NUM	LS	_	_	_	_	_
 
 
-1	thus	thus	ADV	RB	_	_	_	_	_
-
-
 1	recently	recently	ADV	RB	_	_	_	_	_
-
-
-1	become	become	VERB	VB	_	_	_	_	_
 
 
 1	increasingly	increasingly	ADV	RB	_	_	_	_	_
@@ -1576,9 +1450,6 @@
 1	fact	fact	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	show	show	VERB	VB	_	_	_	_	_
 
 
@@ -1597,9 +1468,6 @@
 1	outplay	outplay	VERB	VB	_	_	_	_	_
 
 
-1	less	less	ADJ	JJR	_	_	_	_	_
-
-
 1	flexible	flexible	ADJ	JJ	_	_	_	_	_
 
 
@@ -1613,9 +1481,6 @@
 
 
 1	task	task	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	de	de	PROPN	NNP	_	_	_	_	_
@@ -1708,9 +1573,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
@@ -1792,22 +1654,13 @@
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	focus	focus	VERB	VB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	city	city	NOUN	NN	_	_	_	_	_
 
 
 1	employ	employ	VERB	VB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	year	year	NOUN	NN	_	_	_	_	_
@@ -1951,12 +1804,6 @@
 1	2023	2023	NUM	CD	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	u.s	u.s	PROPN	NNP	_	_	_	_	_
 
 
@@ -1979,9 +1826,6 @@
 
 
 1	knowledge	knowledge	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
@@ -2041,9 +1885,6 @@
 1	period	period	NOUN	NN	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	year	year	NOUN	NN	_	_	_	_	_
 
 
@@ -2056,9 +1897,6 @@
 1	include	include	VERB	VB	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	different	different	ADJ	JJ	_	_	_	_	_
 
 
@@ -2066,9 +1904,6 @@
 
 
 1	design	design	NOUN	NN	_	_	_	_	_
-
-
-1	thus	thus	ADV	RB	_	_	_	_	_
 
 
 1	enable	enable	VERB	VB	_	_	_	_	_
@@ -2140,13 +1975,7 @@
 1	practically	practically	ADV	RB	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	investigate	investigate	VERB	VB	_	_	_	_	_
-
-
-1	whether	whether	SCONJ	IN	_	_	_	_	_
 
 
 1	arti	arti	PROPN	NNP	_	_	_	_	_
@@ -2209,9 +2038,6 @@
 1	motivated	motivated	VERB	VBN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	interrelated	interrelated	VERB	VBN	_	_	_	_	_
 
 
@@ -2263,9 +2089,6 @@
 1	distribution	distribution	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	generate	generate	VERB	VB	_	_	_	_	_
 
 
@@ -2293,9 +2116,6 @@
 1	intervention	intervention	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
 1	include	include	VERB	VB	_	_	_	_	_
 
 
@@ -2315,9 +2135,6 @@
 
 
 1	officer	officer	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	extend	extend	VERB	VB	_	_	_	_	_
@@ -2497,9 +2314,6 @@
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	extensive	extensive	ADJ	JJ	_	_	_	_	_
 
 
@@ -2555,9 +2369,6 @@
 
 
 1	2	2	NUM	LS	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	mobility	mobility	NOUN	NN	_	_	_	_	_
@@ -2632,9 +2443,6 @@
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	stem	stem	NOUN	NN	_	_	_	_	_
 
 
@@ -2704,9 +2512,6 @@
 1	fall	fall	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	narrow	narrow	ADJ	JJ	_	_	_	_	_
 
 
@@ -2758,9 +2563,6 @@
 1	century	century	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	empirical	empirical	ADJ	JJ	_	_	_	_	_
 
 
@@ -2768,9 +2570,6 @@
 
 
 1	amass	amass	VERB	VB	_	_	_	_	_
-
-
-1	last	last	ADJ	JJ	_	_	_	_	_
 
 
 1	decade	decade	NOUN	NN	_	_	_	_	_
@@ -2812,9 +2611,6 @@
 1	concentration	concentration	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	universally	universally	ADV	RB	_	_	_	_	_
 
 
@@ -2831,12 +2627,6 @@
 
 
 1	phenomenon	phenomenon	NOUN	NN	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	application	application	NOUN	NN	_	_	_	_	_
@@ -2857,9 +2647,6 @@
 1	factor	factor	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
 1	contribute	contribute	VERB	VB	_	_	_	_	_
 
 
@@ -2878,9 +2665,6 @@
 1	factor	factor	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	account	account	NOUN	NN	_	_	_	_	_
 
 
@@ -2897,9 +2681,6 @@
 
 
 1	govern	govern	VERB	VB	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	social	social	ADJ	JJ	_	_	_	_	_
@@ -2960,9 +2741,6 @@
 
 
 1	specifically	specifically	ADV	RB	_	_	_	_	_
-
-
-1	regard	regard	VERB	VB	_	_	_	_	_
 
 
 1	wealth	wealth	NOUN	NN	_	_	_	_	_
@@ -3049,9 +2827,6 @@
 1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	along	along	ADV	RB	_	_	_	_	_
-
-
 1	source	source	NOUN	NN	_	_	_	_	_
 
 
@@ -3070,9 +2845,6 @@
 1	framework	framework	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	law	law	NOUN	NN	_	_	_	_	_
 
 
@@ -3089,9 +2861,6 @@
 
 
 1	intuition	intuition	NOUN	NN	_	_	_	_	_
-
-
-1	behind	behind	ADP	IN	_	_	_	_	_
 
 
 1	work	work	NOUN	NN	_	_	_	_	_
@@ -3286,9 +3055,6 @@
 1	dynamic	dynamic	ADJ	JJ	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	play	play	VERB	VB	_	_	_	_	_
 
 
@@ -3359,9 +3125,6 @@
 
 
 1	occur	occur	VERB	VB	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	well	well	INTJ	UH	_	_	_	_	_
@@ -3508,16 +3271,10 @@
 1	crime	crime	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	select	select	VERB	VB	_	_	_	_	_
 
 
 1	victim	victim	NOUN	NN	_	_	_	_	_
-
-
-1	either	either	CCONJ	CC	_	_	_	_	_
 
 
 1	deliberately	deliberately	ADV	RB	_	_	_	_	_
@@ -3586,9 +3343,6 @@
 1	deterrent	deterrent	NOUN	NN	_	_	_	_	_
 
 
-1	must	must	AUX	MD	_	_	_	_	_
-
-
 1	able	able	ADJ	JJ	_	_	_	_	_
 
 
@@ -3596,9 +3350,6 @@
 
 
 1	effectively	effectively	ADV	RB	_	_	_	_	_
-
-
-1	upon	upon	ADP	IN	_	_	_	_	_
 
 
 1	witness	witness	NOUN	NN	_	_	_	_	_
@@ -3617,9 +3368,6 @@
 
 
 1	rat	rat	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	refine	refine	VERB	VB	_	_	_	_	_
@@ -3703,9 +3451,6 @@
 1	node	node	NOUN	NN	_	_	_	_	_
 
 
-1	hence	hence	ADV	RB	_	_	_	_	_
-
-
 1	intersection	intersection	NOUN	NN	_	_	_	_	_
 
 
@@ -3740,9 +3485,6 @@
 
 
 1	rat	rat	NOUN	NN	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	important	important	ADJ	JJ	_	_	_	_	_
@@ -3868,9 +3610,6 @@
 1	postulation	postulation	NOUN	NN	_	_	_	_	_
 
 
-1	regard	regard	VERB	VB	_	_	_	_	_
-
-
 1	relationship	relationship	NOUN	NN	_	_	_	_	_
 
 
@@ -3932,9 +3671,6 @@
 
 
 1	review	review	NOUN	NN	_	_	_	_	_
-
-
-1	see	see	VERB	VB	_	_	_	_	_
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
@@ -4006,12 +3742,6 @@
 1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	closely	closely	ADV	RB	_	_	_	_	_
 
 
@@ -4052,9 +3782,6 @@
 
 
 1	diversity	diversity	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	experience	experience	NOUN	NN	_	_	_	_	_
@@ -4133,9 +3860,6 @@
 
 
 1	flourish	flourish	VERB	VB	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	contribute	contribute	VERB	VB	_	_	_	_	_
@@ -4249,12 +3973,6 @@
 1	rate	rate	NOUN	NN	_	_	_	_	_
 
 
-1	hence	hence	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	mobility	mobility	NOUN	NN	_	_	_	_	_
 
 
@@ -4285,9 +4003,6 @@
 1	trend	trend	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	change	change	VERB	VB	_	_	_	_	_
 
 
@@ -4313,9 +4028,6 @@
 
 
 1	argue	argue	VERB	VB	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	improve	improve	VERB	VB	_	_	_	_	_
@@ -4406,9 +4118,6 @@
 
 
 1	reveal	reveal	VERB	VB	_	_	_	_	_
-
-
-1	five	five	NUM	CD	_	_	_	_	_
 
 
 1	core	core	NOUN	NN	_	_	_	_	_
@@ -4516,9 +4225,6 @@
 1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	u.s	u.s	PROPN	NNP	_	_	_	_	_
 
 
@@ -4546,9 +4252,6 @@
 1	environment	environment	NOUN	NN	_	_	_	_	_
 
 
-1	another	another	DET	DT	_	_	_	_	_
-
-
 1	notable	notable	ADJ	JJ	_	_	_	_	_
 
 
@@ -4571,12 +4274,6 @@
 
 
 1	crime	crime	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	eight	eight	NUM	CD	_	_	_	_	_
 
 
 1	u.s	u.s	PROPN	NNP	_	_	_	_	_
@@ -4604,9 +4301,6 @@
 
 
 1	investigate	investigate	VERB	VB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	u.s	u.s	PROPN	NNP	_	_	_	_	_
@@ -4640,9 +4334,6 @@
 
 
 1	difference	difference	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	diverse	diverse	ADJ	JJ	_	_	_	_	_
@@ -4699,9 +4390,6 @@
 1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	mostly	mostly	ADV	RB	_	_	_	_	_
-
-
 1	focus	focus	VERB	VB	_	_	_	_	_
 
 
@@ -4729,9 +4417,6 @@
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	fine	fine	ADJ	JJ	_	_	_	_	_
 
 
@@ -4747,9 +4432,6 @@
 1	instance	instance	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	highly	highly	ADV	RB	_	_	_	_	_
 
 
@@ -4757,9 +4439,6 @@
 
 
 1	grid	grid	NOUN	NN	_	_	_	_	_
-
-
-1	make	make	VERB	VB	_	_	_	_	_
 
 
 1	square	square	ADJ	JJ	_	_	_	_	_
@@ -4798,9 +4477,6 @@
 1	ar	ar	PROPN	NNP	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	grid	grid	NOUN	NN	_	_	_	_	_
 
 
@@ -4837,9 +4513,6 @@
 1	portland	portland	PROPN	NNP	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
@@ -4861,13 +4534,7 @@
 1	i.e	i.e	SYM	NFP	_	_	_	_	_
 
 
-1	six	six	NUM	CD	_	_	_	_	_
-
-
 1	month	month	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	week	week	NOUN	NN	_	_	_	_	_
@@ -4927,9 +4594,6 @@
 1	manageable	manageable	ADJ	JJ	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	avoid	avoid	VERB	VB	_	_	_	_	_
 
 
@@ -4937,9 +4601,6 @@
 
 
 1	sparsity	sparsity	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	render	render	VERB	VB	_	_	_	_	_
@@ -5020,9 +4681,6 @@
 1	prediction	prediction	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	distinguish	distinguish	VERB	VB	_	_	_	_	_
 
 
@@ -5030,9 +4688,6 @@
 
 
 1	field	field	NOUN	NN	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
@@ -5128,9 +4783,6 @@
 1	granularity	granularity	NOUN	NN	_	_	_	_	_
 
 
-1	never	never	ADV	RB	_	_	_	_	_
-
-
 1	explore	explore	VERB	VB	_	_	_	_	_
 
 
@@ -5156,9 +4808,6 @@
 
 
 1	window	window	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	fine	fine	ADJ	JJ	_	_	_	_	_
@@ -5212,9 +4861,6 @@
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	limit	limit	VERB	VB	_	_	_	_	_
 
 
@@ -5242,9 +4888,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	another	another	DET	DT	_	_	_	_	_
-
-
 1	critical	critical	ADJ	JJ	_	_	_	_	_
 
 
@@ -5266,16 +4909,10 @@
 1	variability	variability	NOUN	NN	_	_	_	_	_
 
 
-1	many	many	ADJ	JJ	_	_	_	_	_
-
-
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
 1	rely	rely	VERB	VB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	year	year	NOUN	NN	_	_	_	_	_
@@ -5317,9 +4954,6 @@
 1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	eight	eight	NUM	CD	_	_	_	_	_
-
-
 1	year	year	NOUN	NN	_	_	_	_	_
 
 
@@ -5336,9 +4970,6 @@
 
 
 1	span	span	NOUN	NN	_	_	_	_	_
-
-
-1	five	five	NUM	CD	_	_	_	_	_
 
 
 1	year	year	NOUN	NN	_	_	_	_	_
@@ -5380,9 +5011,6 @@
 1	leverage	leverage	NOUN	NN	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	year	year	NOUN	NN	_	_	_	_	_
 
 
@@ -5402,9 +5030,6 @@
 
 
 1	5	5	NUM	LS	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
@@ -5461,9 +5086,6 @@
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	rely	rely	VERB	VB	_	_	_	_	_
 
 
@@ -5495,9 +5117,6 @@
 
 
 1	information	information	NOUN	NN	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	general	general	ADJ	JJ	_	_	_	_	_
@@ -5555,9 +5174,6 @@
 
 
 1	measure	measure	NOUN	NN	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	source	source	NOUN	NN	_	_	_	_	_
@@ -5695,9 +5311,6 @@
 1	ticular	ticular	NOUN	NN	_	_	_	_	_
 
 
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	lack	lack	NOUN	NN	_	_	_	_	_
 
 
@@ -5744,9 +5357,6 @@
 
 
 1	insight	insight	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	highly	highly	ADV	RB	_	_	_	_	_
@@ -5851,13 +5461,7 @@
 1	6	6	NUM	LS	_	_	_	_	_
 
 
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
 1	build	build	VERB	VB	_	_	_	_	_
-
-
-1	five	five	NUM	CD	_	_	_	_	_
 
 
 1	element	element	NOUN	NN	_	_	_	_	_
@@ -5902,9 +5506,6 @@
 1	utilize	utilize	VERB	VB	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	year	year	NOUN	NN	_	_	_	_	_
 
 
@@ -5912,9 +5513,6 @@
 
 
 1	integrate	integrate	VERB	VB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	distinct	distinct	ADJ	JJ	_	_	_	_	_
@@ -5971,9 +5569,6 @@
 1	analyze	analyze	VERB	VB	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	u.s	u.s	PROPN	NNP	_	_	_	_	_
 
 
@@ -6022,9 +5617,6 @@
 1	choose	choose	VERB	VB	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	high	high	ADJ	JJ	_	_	_	_	_
 
 
@@ -6053,9 +5645,6 @@
 
 
 1	define	define	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	explain	explain	VERB	VB	_	_	_	_	_
@@ -6089,9 +5678,6 @@
 
 
 1	sociodemographic	sociodemographic	NOUN	NN	_	_	_	_	_
-
-
-1	make	make	VERB	VB	_	_	_	_	_
 
 
 1	particularly	particularly	ADV	RB	_	_	_	_	_
@@ -6154,9 +5740,6 @@
 1	nearly	nearly	ADV	RB	_	_	_	_	_
 
 
-1	six	six	NUM	CD	_	_	_	_	_
-
-
 1	time	time	NOUN	NN	_	_	_	_	_
 
 
@@ -6199,9 +5782,6 @@
 1	overview	overview	NOUN	NN	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	city	city	NOUN	NN	_	_	_	_	_
 
 
@@ -6209,9 +5789,6 @@
 
 
 1	contain	contain	VERB	VB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	variable	variable	ADJ	JJ	_	_	_	_	_
@@ -6256,12 +5833,6 @@
 1	coordinate	coordinate	VERB	VB	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	crime	crime	NOUN	NN	_	_	_	_	_
 
 
@@ -6277,9 +5848,6 @@
 1	city	city	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	se	se	X	LS	_	_	_	_	_
 
 
@@ -6289,16 +5857,7 @@
 1	common	common	ADJ	JJ	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	setting	setting	NOUN	NN	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	one	one	NUM	CD	_	_	_	_	_
@@ -6311,9 +5870,6 @@
 
 
 1	police	police	NOUN	NN	_	_	_	_	_
-
-
-1	latter	latter	ADJ	JJ	_	_	_	_	_
 
 
 1	criterion	criterion	NOUN	NN	_	_	_	_	_
@@ -6331,9 +5887,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
@@ -6347,9 +5900,6 @@
 
 
 1	report	report	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	introduce	introduce	VERB	VB	_	_	_	_	_
@@ -6415,12 +5965,6 @@
 1	robbery	robbery	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	property	property	NOUN	NN	_	_	_	_	_
 
 
@@ -6430,9 +5974,6 @@
 1	remain	remain	VERB	VB	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	violent	violent	ADJ	JJ	_	_	_	_	_
 
 
@@ -6440,12 +5981,6 @@
 
 
 1	analysis	analysis	NOUN	NN	_	_	_	_	_
-
-
-1	thus	thus	ADV	RB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	fold	fold	VERB	VB	_	_	_	_	_
@@ -6461,12 +5996,6 @@
 
 
 1	crime	crime	NOUN	NN	_	_	_	_	_
-
-
-1	together	together	ADV	RB	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
@@ -6548,9 +6077,6 @@
 
 
 1	incident	incident	NOUN	NN	_	_	_	_	_
-
-
-1	every	every	DET	DT	_	_	_	_	_
 
 
 1	12h	12h	NUM	LS	_	_	_	_	_
@@ -6652,9 +6178,6 @@
 1	incident	incident	NOUN	NN	_	_	_	_	_
 
 
-1	every	every	DET	DT	_	_	_	_	_
-
-
 1	12h	12h	NUM	LS	_	_	_	_	_
 
 
@@ -6706,9 +6229,6 @@
 1	city	city	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
@@ -6722,9 +6242,6 @@
 
 
 1	relevant	relevant	ADJ	JJ	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	relationship	relationship	NOUN	NN	_	_	_	_	_
@@ -6746,9 +6263,6 @@
 
 
 1	area	area	NOUN	NN	_	_	_	_	_
-
-
-1	since	since	ADV	RB	_	_	_	_	_
 
 
 1	population	population	NOUN	NN	_	_	_	_	_
@@ -6817,9 +6331,6 @@
 1	people	people	NOUN	NNS	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	poi	poi	NOUN	NN	_	_	_	_	_
 
 
@@ -6844,9 +6355,6 @@
 1	density	density	NOUN	NN	_	_	_	_	_
 
 
-1	hence	hence	ADV	RB	_	_	_	_	_
-
-
 1	indicate	indicate	VERB	VB	_	_	_	_	_
 
 
@@ -6856,25 +6364,13 @@
 1	people	people	NOUN	NNS	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	poi	poi	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	1	1	NUM	LS	_	_	_	_	_
 
 
 1	km2	km2	NOUN	NN	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
-1	since	since	ADV	RB	_	_	_	_	_
 
 
 1	normalize	normalize	VERB	VB	_	_	_	_	_
@@ -6911,9 +6407,6 @@
 
 
 1	capture	capture	VERB	VB	_	_	_	_	_
-
-
-1	much	much	ADV	RB	_	_	_	_	_
 
 
 1	possible	possible	ADJ	JJ	_	_	_	_	_
@@ -7048,9 +6541,6 @@
 1	selection	selection	NOUN	NN	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	u.s	u.s	PROPN	NNP	_	_	_	_	_
 
 
@@ -7100,9 +6590,6 @@
 
 
 1	ratio	ratio	NOUN	NN	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	city	city	NOUN	NN	_	_	_	_	_
@@ -7261,9 +6748,6 @@
 1	window	window	NOUN	NN	_	_	_	_	_
 
 
-1	thus	thus	ADV	RB	_	_	_	_	_
-
-
 1	represent	represent	VERB	VB	_	_	_	_	_
 
 
@@ -7315,9 +6799,6 @@
 1	night	night	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	meso	meso	NOUN	NN	_	_	_	_	_
 
 
@@ -7357,9 +6838,6 @@
 1	change	change	VERB	VB	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	gentrification	gentrification	NOUN	NN	_	_	_	_	_
 
 
@@ -7382,9 +6860,6 @@
 
 
 1	diversity	diversity	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	shannon	shannon	PROPN	NNP	_	_	_	_	_
@@ -7522,9 +6997,6 @@
 1	target	target	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	represent	represent	VERB	VB	_	_	_	_	_
 
 
@@ -7552,16 +7024,10 @@
 1	category	category	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	spatial	spatial	ADJ	JJ	_	_	_	_	_
 
 
 1	unit	unit	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	determine	determine	VERB	VB	_	_	_	_	_
@@ -7576,13 +7042,7 @@
 1	pois	pois	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	category	category	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	cell	cell	NOUN	NN	_	_	_	_	_
@@ -7621,9 +7081,6 @@
 1	count	count	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	cell	cell	NOUN	NN	_	_	_	_	_
 
 
@@ -7651,16 +7108,10 @@
 1	footfall	footfall	NOUN	NN	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	poi	poi	NOUN	NN	_	_	_	_	_
 
 
 1	category	category	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	represent	represent	VERB	VB	_	_	_	_	_
@@ -7687,9 +7138,6 @@
 1	diversity	diversity	NOUN	NN	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	u.s	u.s	PROPN	NNP	_	_	_	_	_
 
 
@@ -7712,9 +7160,6 @@
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
-
-
-1	besides	besides	ADV	RB	_	_	_	_	_
 
 
 1	crime	crime	NOUN	NN	_	_	_	_	_
@@ -7753,9 +7198,6 @@
 1	allow	allow	VERB	VB	_	_	_	_	_
 
 
-1	take	take	VERB	VB	_	_	_	_	_
-
-
 1	consideration	consideration	NOUN	NN	_	_	_	_	_
 
 
@@ -7772,9 +7214,6 @@
 
 
 1	unit	unit	NOUN	NN	_	_	_	_	_
-
-
-1	beyond	beyond	ADV	RB	_	_	_	_	_
 
 
 1	type	type	NOUN	NN	_	_	_	_	_
@@ -7798,9 +7237,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	obtain	obtain	VERB	VB	_	_	_	_	_
 
 
@@ -7814,9 +7250,6 @@
 
 
 1	specifically	specifically	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	acs	acs	NOUN	NN	_	_	_	_	_
@@ -7924,9 +7357,6 @@
 1	level	level	NOUN	NN	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	_	_	_	_
-
-
 1	small	small	ADJ	JJ	_	_	_	_	_
 
 
@@ -7978,9 +7408,6 @@
 1	index	index	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	call	call	VERB	VB	_	_	_	_	_
 
 
@@ -7991,9 +7418,6 @@
 
 
 1	index	index	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	characterize	characterize	VERB	VB	_	_	_	_	_
@@ -8155,9 +7579,6 @@
 1	count	count	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	26	26	NUM	LS	_	_	_	_	_
 
 
@@ -8186,9 +7607,6 @@
 
 
 1	analysis	analysis	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	grid	grid	NOUN	NN	_	_	_	_	_
@@ -8233,9 +7651,6 @@
 1	cell	cell	NOUN	NN	_	_	_	_	_
 
 
-1	every	every	DET	DT	_	_	_	_	_
-
-
 1	12	12	NUM	LS	_	_	_	_	_
 
 
@@ -8243,9 +7658,6 @@
 
 
 1	period	period	NOUN	NN	_	_	_	_	_
-
-
-1	throughout	throughout	ADP	IN	_	_	_	_	_
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
@@ -8257,16 +7669,10 @@
 1	span	span	NOUN	NN	_	_	_	_	_
 
 
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
 1	problem	problem	NOUN	NN	_	_	_	_	_
 
 
 1	definition	definition	NOUN	NN	_	_	_	_	_
-
-
-1	become	become	VERB	VB	_	_	_	_	_
 
 
 1	follow	follow	VERB	VB	_	_	_	_	_
@@ -8309,9 +7715,6 @@
 
 
 1	mile	mile	NOUN	NN	_	_	_	_	_
-
-
-1	hence	hence	ADV	RB	_	_	_	_	_
 
 
 1	matrix	matrix	NOUN	NN	_	_	_	_	_
@@ -8372,9 +7775,6 @@
 
 
 1	block	block	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	predictive	predictive	NOUN	NN	_	_	_	_	_
@@ -8446,16 +7846,7 @@
 1	look	look	VERB	VB	_	_	_	_	_
 
 
-1	back	back	ADV	RB	_	_	_	_	_
-
-
 1	period	period	NOUN	NN	_	_	_	_	_
-
-
-1	hence	hence	ADV	RB	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	block	block	NOUN	NN	_	_	_	_	_
@@ -8584,9 +7975,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	hence	hence	ADV	RB	_	_	_	_	_
-
-
 1	sociodemographic	sociodemographic	NOUN	NN	_	_	_	_	_
 
 
@@ -8615,9 +8003,6 @@
 
 
 1	block	block	NOUN	NN	_	_	_	_	_
-
-
-1	get	get	VERB	VB	_	_	_	_	_
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
@@ -8713,9 +8098,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	see	see	VERB	VB	_	_	_	_	_
-
-
 1	figure	figure	NOUN	NN	_	_	_	_	_
 
 
@@ -8738,9 +8120,6 @@
 
 
 1	predict	predict	VERB	VB	_	_	_	_	_
-
-
-1	next	next	ADV	RB	_	_	_	_	_
 
 
 1	frame	frame	NOUN	NN	_	_	_	_	_
@@ -8773,9 +8152,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	next	next	ADV	RB	_	_	_	_	_
-
-
 1	frame	frame	NOUN	NN	_	_	_	_	_
 
 
@@ -8803,9 +8179,6 @@
 1	look	look	VERB	VB	_	_	_	_	_
 
 
-1	back	back	ADV	RB	_	_	_	_	_
-
-
 1	lb	lb	PROPN	NNP	_	_	_	_	_
 
 
@@ -8815,16 +8188,10 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
 
 
 1	normalize	normalize	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	min	min	NOUN	NN	_	_	_	_	_
@@ -8848,13 +8215,7 @@
 1	range	range	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	maintain	maintain	VERB	VB	_	_	_	_	_
@@ -8867,12 +8228,6 @@
 
 
 1	size	size	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	city	city	NOUN	NN	_	_	_	_	_
@@ -8896,9 +8251,6 @@
 1	sample	sample	NOUN	NN	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	msubsection	msubsection	NOUN	NN	_	_	_	_	_
 
 
@@ -8912,9 +8264,6 @@
 
 
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
-
-
-1	least	least	ADJ	JJS	_	_	_	_	_
 
 
 1	2	2	NUM	LS	_	_	_	_	_
@@ -8933,9 +8282,6 @@
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
-
-
-1	much	much	ADV	RB	_	_	_	_	_
 
 
 1	possible	possible	ADJ	JJ	_	_	_	_	_
@@ -8969,12 +8315,6 @@
 
 
 1	km2	km2	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	lb	lb	PROPN	NNP	_	_	_	_	_
@@ -9232,9 +8572,6 @@
 1	assign	assign	VERB	VB	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	seven	seven	NUM	CD	_	_	_	_	_
 
 
@@ -9247,19 +8584,10 @@
 1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	last	last	ADJ	JJ	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	test	test	NOUN	NN	_	_	_	_	_
 
 
 1	set	set	VERB	VB	_	_	_	_	_
-
-
-1	next	next	ADV	RB	_	_	_	_	_
 
 
 1	avoid	avoid	VERB	VB	_	_	_	_	_
@@ -9274,9 +8602,6 @@
 1	remove	remove	VERB	VB	_	_	_	_	_
 
 
-1	last	last	ADJ	JJ	_	_	_	_	_
-
-
 1	tsequence	tsequence	PROPN	NNP	_	_	_	_	_
 
 
@@ -9286,16 +8611,10 @@
 1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	_	_	_	_
-
-
 1	contain	contain	VERB	VB	_	_	_	_	_
 
 
 1	frame	frame	NOUN	NN	_	_	_	_	_
-
-
-1	part	part	NOUN	NN	_	_	_	_	_
 
 
 1	test	test	NOUN	NN	_	_	_	_	_
@@ -9313,9 +8632,6 @@
 1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
 
 
@@ -9323,9 +8639,6 @@
 
 
 1	set	set	VERB	VB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
@@ -9370,9 +8683,6 @@
 1	respectively	respectively	ADV	RB	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	increase	increase	NOUN	NN	_	_	_	_	_
 
 
@@ -9388,16 +8698,10 @@
 1	extract	extract	NOUN	NN	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	subgrid	subgrid	NOUN	NN	_	_	_	_	_
 
 
 1	section	section	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
@@ -9424,9 +8728,6 @@
 1	additionally	additionally	ADV	RB	_	_	_	_	_
 
 
-1	keep	keep	VERB	VB	_	_	_	_	_
-
-
 1	sample	sample	NOUN	NN	_	_	_	_	_
 
 
@@ -9442,13 +8743,7 @@
 1	i.e	i.e	SYM	NFP	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	city	city	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	crime	crime	NOUN	NN	_	_	_	_	_
@@ -9473,9 +8768,6 @@
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	yield	yield	VERB	VB	_	_	_	_	_
@@ -9517,9 +8809,6 @@
 1	lastly	lastly	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
@@ -9542,12 +8831,6 @@
 
 
 1	meet	meet	VERB	VB	_	_	_	_	_
-
-
-1	least	least	ADJ	JJS	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	follow	follow	VERB	VB	_	_	_	_	_
@@ -9661,9 +8944,6 @@
 1	consist	consist	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	main	main	ADJ	JJ	_	_	_	_	_
 
 
@@ -9719,9 +8999,6 @@
 
 
 1	instance	instance	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	predict	predict	VERB	VB	_	_	_	_	_
@@ -9796,9 +9073,6 @@
 1	task	task	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	internal	internal	ADJ	JJ	_	_	_	_	_
 
 
@@ -9838,9 +9112,6 @@
 1	h	h	PROPN	NNP	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	type	type	NOUN	NN	_	_	_	_	_
 
 
@@ -9854,9 +9125,6 @@
 
 
 1	information	information	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	sigmoid	sigmoid	ADJ	JJ	_	_	_	_	_
@@ -10066,9 +9334,6 @@
 1	indicate	indicate	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	variable	variable	ADJ	JJ	_	_	_	_	_
 
 
@@ -10172,9 +9437,6 @@
 
 
 1	gate	gate	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	assess	assess	VERB	VB	_	_	_	_	_
@@ -10285,9 +9547,6 @@
 1	cell	cell	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	combination	combination	NOUN	NN	_	_	_	_	_
 
 
@@ -10366,9 +9625,6 @@
 1	utilize	utilize	VERB	VB	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	_	_	_	_
-
-
 1	final	final	ADJ	JJ	_	_	_	_	_
 
 
@@ -10376,9 +9632,6 @@
 
 
 1	ytby	ytby	PROPN	ADD	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	appropriate	appropriate	ADJ	JJ	_	_	_	_	_
@@ -10394,9 +9647,6 @@
 
 
 1	hand	hand	NOUN	NN	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	memory	memory	NOUN	NN	_	_	_	_	_
@@ -10447,16 +9697,10 @@
 1	prevent	prevent	VERB	VB	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	large	large	ADJ	JJ	_	_	_	_	_
 
 
 1	small	small	ADJ	JJ	_	_	_	_	_
-
-
-1	thus	thus	ADV	RB	_	_	_	_	_
 
 
 1	avoid	avoid	VERB	VB	_	_	_	_	_
@@ -10499,9 +9743,6 @@
 
 
 1	79	79	NUM	LS	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	lstms	lstms	NOUN	NNS	_	_	_	_	_
@@ -10555,25 +9796,16 @@
 1	replace	replace	VERB	VB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
 1	vector	vector	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
 1	tensor	tensor	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	dimension	dimension	NOUN	NN	_	_	_	_	_
@@ -10583,9 +9815,6 @@
 
 
 1	time	time	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	spatial	spatial	ADJ	JJ	_	_	_	_	_
@@ -10625,9 +9854,6 @@
 
 
 1	equation	equation	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	input	input	NOUN	NN	_	_	_	_	_
@@ -10768,9 +9994,6 @@
 1	operation	operation	NOUN	NN	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	simple	simple	ADJ	JJ	_	_	_	_	_
 
 
@@ -10793,9 +10016,6 @@
 
 
 1	matrix	matrix	NOUN	NN	_	_	_	_	_
-
-
-1	hence	hence	ADV	RB	_	_	_	_	_
 
 
 1	operation	operation	NOUN	NN	_	_	_	_	_
@@ -10835,12 +10055,6 @@
 
 
 1	shape	shape	NOUN	NN	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
-1	see	see	VERB	VB	_	_	_	_	_
 
 
 1	fully	fully	ADV	RB	_	_	_	_	_
@@ -10996,13 +10210,7 @@
 1	slide	slide	VERB	VB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	grid	grid	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	element	element	NOUN	NN	_	_	_	_	_
@@ -11042,9 +10250,6 @@
 
 
 1	apply	apply	VERB	VB	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	operation	operation	NOUN	NN	_	_	_	_	_
@@ -11092,9 +10297,6 @@
 1	computation	computation	NOUN	NN	_	_	_	_	_
 
 
-1	another	another	DET	DT	_	_	_	_	_
-
-
 1	advantage	advantage	NOUN	NN	_	_	_	_	_
 
 
@@ -11108,9 +10310,6 @@
 
 
 1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
@@ -11191,9 +10390,6 @@
 1	event	event	NOUN	NN	_	_	_	_	_
 
 
-1	hence	hence	ADV	RB	_	_	_	_	_
-
-
 1	offer	offer	VERB	VB	_	_	_	_	_
 
 
@@ -11236,9 +10432,6 @@
 1	nowcaste	nowcaste	PROPN	NNP	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	past	past	ADJ	JJ	_	_	_	_	_
 
 
@@ -11263,13 +10456,7 @@
 1	frame	frame	NOUN	NN	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	_	_	_	_
-
-
 1	apply	apply	VERB	VB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	context	context	NOUN	NN	_	_	_	_	_
@@ -11314,9 +10501,6 @@
 1	flow	flow	NOUN	NN	_	_	_	_	_
 
 
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
 1	type	type	NOUN	NN	_	_	_	_	_
 
 
@@ -11327,9 +10511,6 @@
 
 
 1	typically	typically	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	video	video	NOUN	NN	_	_	_	_	_
@@ -11375,9 +10556,6 @@
 
 
 1	perform	perform	VERB	VB	_	_	_	_	_
-
-
-1	either	either	CCONJ	CC	_	_	_	_	_
 
 
 1	grayscale	grayscale	ADJ	JJ	_	_	_	_	_
@@ -11476,9 +10654,6 @@
 1	prediction	prediction	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	conv	conv	NOUN	NN	_	_	_	_	_
 
 
@@ -11500,13 +10675,7 @@
 1	tune	tune	NOUN	NN	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	hyperparameter	hyperparameter	PROPN	NNP	_	_	_	_	_
-
-
-1	see	see	VERB	VB	_	_	_	_	_
 
 
 1	appendix	appendix	NOUN	NN	_	_	_	_	_
@@ -11519,9 +10688,6 @@
 
 
 1	value	value	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	obtain	obtain	VERB	VB	_	_	_	_	_
@@ -11662,16 +10828,7 @@
 1	need	need	VERB	VB	_	_	_	_	_
 
 
-1	besides	besides	ADV	RB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	metric	metric	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	calculate	calculate	VERB	VB	_	_	_	_	_
@@ -11719,13 +10876,7 @@
 1	motivated	motivated	VERB	VBN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	aspect	aspect	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	presence	presence	NOUN	NN	_	_	_	_	_
@@ -11761,9 +10912,6 @@
 1	effect	effect	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
 1	lead	lead	VERB	VB	_	_	_	_	_
 
 
@@ -11774,9 +10922,6 @@
 
 
 1	fall	fall	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	adjacent	adjacent	NOUN	NN	_	_	_	_	_
@@ -11824,25 +10969,16 @@
 1	cell	cell	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
 1	record	record	NOUN	NN	_	_	_	_	_
 
 
 1	differently	differently	ADV	RB	_	_	_	_	_
 
 
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
 1	fall	fall	NOUN	NN	_	_	_	_	_
 
 
 1	neighbor	neighbor	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	calculate	calculate	VERB	VB	_	_	_	_	_
@@ -11854,16 +10990,10 @@
 1	metric	metric	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	allow	allow	VERB	VB	_	_	_	_	_
 
 
 1	predict	predict	VERB	VB	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	lose	lose	VERB	VB	_	_	_	_	_
@@ -11879,9 +11009,6 @@
 
 
 1	calculate	calculate	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	modify	modify	VERB	VB	_	_	_	_	_
@@ -11992,9 +11119,6 @@
 1	4.1	4.1	NUM	CD	_	_	_	_	_
 
 
-1	next	next	ADV	RB	_	_	_	_	_
-
-
 1	let	let	VERB	VB	_	_	_	_	_
 
 
@@ -12038,12 +11162,6 @@
 
 
 1	neighbor	neighbor	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	element	element	NOUN	NN	_	_	_	_	_
@@ -12196,9 +11314,6 @@
 1	fp	fp	NOUN	NN	_	_	_	_	_
 
 
-1	otherwise	otherwise	ADV	RB	_	_	_	_	_
-
-
 1	standard	standard	ADJ	JJ	_	_	_	_	_
 
 
@@ -12211,16 +11326,10 @@
 1	7	7	NUM	LS	_	_	_	_	_
 
 
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
 1	modify	modify	VERB	VB	_	_	_	_	_
 
 
 1	metric	metric	NOUN	NN	_	_	_	_	_
-
-
-1	become	become	VERB	VB	_	_	_	_	_
 
 
 1	recall	recall	VERB	VB	_	_	_	_	_
@@ -12292,9 +11401,6 @@
 1	cell	cell	NOUN	NN	_	_	_	_	_
 
 
-1	hence	hence	ADV	RB	_	_	_	_	_
-
-
 1	3	3	NUM	LS	_	_	_	_	_
 
 
@@ -12331,9 +11437,6 @@
 1	distance	distance	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	know	know	VERB	VB	_	_	_	_	_
 
 
@@ -12341,9 +11444,6 @@
 
 
 1	distance	distance	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	cell	cell	NOUN	NN	_	_	_	_	_
@@ -12415,9 +11515,6 @@
 1	displacement	displacement	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	cell	cell	NOUN	NN	_	_	_	_	_
 
 
@@ -12457,9 +11554,6 @@
 1	case	case	NOUN	NN	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	_	_	_	_
-
-
 1	cell	cell	NOUN	NN	_	_	_	_	_
 
 
@@ -12482,12 +11576,6 @@
 
 
 1	officer	officer	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
-
-
-1	take	take	VERB	VB	_	_	_	_	_
 
 
 1	approximately	approximately	ADV	RB	_	_	_	_	_
@@ -12541,13 +11629,7 @@
 1	respectively	respectively	ADV	RB	_	_	_	_	_
 
 
-1	go	go	VERB	VB	_	_	_	_	_
-
-
 1	center	center	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	cell	cell	NOUN	NN	_	_	_	_	_
@@ -12610,9 +11692,6 @@
 1	relevant	relevant	ADJ	JJ	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	responder	responder	NOUN	NN	_	_	_	_	_
 
 
@@ -12632,9 +11711,6 @@
 
 
 1	compare	compare	VERB	VB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	baseline	baseline	NOUN	NN	_	_	_	_	_
@@ -12703,9 +11779,6 @@
 1	commonly	commonly	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	baseline	baseline	NOUN	NN	_	_	_	_	_
 
 
@@ -12764,9 +11837,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	regard	regard	VERB	VB	_	_	_	_	_
@@ -12850,9 +11920,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	choose	choose	VERB	VB	_	_	_	_	_
 
 
@@ -12871,28 +11938,16 @@
 1	consider	consider	VERB	VB	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	crime	crime	NOUN	NN	_	_	_	_	_
 
 
 1	category	category	NOUN	NN	_	_	_	_	_
 
 
-1	together	together	ADV	RB	_	_	_	_	_
-
-
 1	predict	predict	VERB	VB	_	_	_	_	_
 
 
-1	whether	whether	SCONJ	IN	_	_	_	_	_
-
-
 1	crime	crime	NOUN	NN	_	_	_	_	_
-
-
-1	next	next	ADV	RB	_	_	_	_	_
 
 
 1	time	time	NOUN	NN	_	_	_	_	_
@@ -12901,16 +11956,10 @@
 1	window	window	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	discriminate	discriminate	VERB	VB	_	_	_	_	_
 
 
 1	type	type	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	hand	hand	NOUN	NN	_	_	_	_	_
@@ -12929,9 +11978,6 @@
 
 
 1	incident	incident	NOUN	NN	_	_	_	_	_
-
-
-1	thereby	thereby	ADV	RB	_	_	_	_	_
 
 
 1	make	make	VERB	VB	_	_	_	_	_
@@ -12973,13 +12019,7 @@
 1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
 1	introduce	introduce	VERB	VB	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	challenge	challenge	VERB	VB	_	_	_	_	_
@@ -13004,9 +12044,6 @@
 
 
 1	5	5	NUM	LS	_	_	_	_	_
-
-
-1	show	show	VERB	VB	_	_	_	_	_
 
 
 1	conv	conv	NOUN	NN	_	_	_	_	_
@@ -13048,16 +12085,7 @@
 1	score	score	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	achieve	achieve	VERB	VB	_	_	_	_	_
@@ -13120,9 +12148,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	always	always	ADV	RB	_	_	_	_	_
-
-
 1	high	high	ADJ	JJ	_	_	_	_	_
 
 
@@ -13142,9 +12167,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	see	see	VERB	VB	_	_	_	_	_
 
 
 1	reference	reference	NOUN	NN	_	_	_	_	_
@@ -13189,9 +12211,6 @@
 1	literature	literature	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	deliberately	deliberately	ADV	RB	_	_	_	_	_
 
 
@@ -13202,9 +12221,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	baseline	baseline	NOUN	NN	_	_	_	_	_
@@ -13235,9 +12251,6 @@
 
 
 1	comparison	comparison	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	require	require	VERB	VB	_	_	_	_	_
@@ -13285,9 +12298,6 @@
 1	modification	modification	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	represent	represent	VERB	VB	_	_	_	_	_
 
 
@@ -13303,12 +12313,6 @@
 1	right	right	ADJ	JJ	_	_	_	_	_
 
 
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
-1	beyond	beyond	ADV	RB	_	_	_	_	_
-
-
 1	intended	intended	VERB	VBN	_	_	_	_	_
 
 
@@ -13319,9 +12323,6 @@
 
 
 1	19	19	NUM	LS	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	city	city	NOUN	NN	_	_	_	_	_
@@ -13387,12 +12388,6 @@
 1	mean	mean	VERB	VB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
-1	ten	ten	NUM	CD	_	_	_	_	_
-
-
 1	forecast	forecast	NOUN	NN	_	_	_	_	_
 
 
@@ -13409,9 +12404,6 @@
 
 
 1	positive	positive	ADJ	JJ	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	consider	consider	VERB	VB	_	_	_	_	_
@@ -13768,9 +12760,6 @@
 1	metric	metric	NOUN	NN	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	lstm	lstm	PROPN	NNP	_	_	_	_	_
 
 
@@ -13831,9 +12820,6 @@
 1	precision	precision	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	worth	worth	ADJ	JJ	_	_	_	_	_
 
 
@@ -13853,9 +12839,6 @@
 
 
 1	approximately	approximately	ADV	RB	_	_	_	_	_
-
-
-1	ten	ten	NUM	CD	_	_	_	_	_
 
 
 1	time	time	NOUN	NN	_	_	_	_	_
@@ -13921,9 +12904,6 @@
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
@@ -13970,9 +12950,6 @@
 
 
 1	period	period	NOUN	NN	_	_	_	_	_
-
-
-1	although	although	SCONJ	IN	_	_	_	_	_
 
 
 1	achieve	achieve	VERB	VB	_	_	_	_	_
@@ -14023,9 +13000,6 @@
 1	period	period	NOUN	NN	_	_	_	_	_
 
 
-1	meanwhile	meanwhile	ADV	RB	_	_	_	_	_
-
-
 1	lr	lr	PROPN	NNP	_	_	_	_	_
 
 
@@ -14038,9 +13012,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	lb	lb	PROPN	NNP	_	_	_	_	_
 
 
@@ -14048,9 +13019,6 @@
 
 
 1	rf	rf	NOUN	NN	_	_	_	_	_
-
-
-1	seem	seem	VERB	VB	_	_	_	_	_
 
 
 1	benefit	benefit	NOUN	NN	_	_	_	_	_
@@ -14110,9 +13078,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	14	14	NUM	LS	_	_	_	_	_
 
 
@@ -14125,9 +13090,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	except	except	ADP	IN	_	_	_	_	_
-
-
 1	lstm	lstm	PROPN	NNP	_	_	_	_	_
 
 
@@ -14135,9 +13097,6 @@
 
 
 1	check	check	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	7	7	NUM	LS	_	_	_	_	_
@@ -14156,9 +13115,6 @@
 
 
 1	period	period	NOUN	NN	_	_	_	_	_
-
-
-1	see	see	VERB	VB	_	_	_	_	_
 
 
 1	appendix	appendix	NOUN	NN	_	_	_	_	_
@@ -14188,9 +13144,6 @@
 1	bad	bad	ADJ	JJ	_	_	_	_	_
 
 
-1	except	except	ADP	IN	_	_	_	_	_
-
-
 1	modify	modify	VERB	VB	_	_	_	_	_
 
 
@@ -14216,9 +13169,6 @@
 
 
 1	period	period	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	forecast	forecast	NOUN	NN	_	_	_	_	_
@@ -14281,9 +13231,6 @@
 1	robbery	robbery	NOUN	NN	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
@@ -14303,9 +13250,6 @@
 
 
 1	balanced	balanced	ADJ	JJ	_	_	_	_	_
-
-
-1	since	since	ADV	RB	_	_	_	_	_
 
 
 1	assault	assault	NOUN	NN	_	_	_	_	_
@@ -14365,9 +13309,6 @@
 1	precision	precision	NOUN	NN	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
@@ -14401,9 +13342,6 @@
 1	lstm	lstm	PROPN	NNP	_	_	_	_	_
 
 
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
@@ -14411,9 +13349,6 @@
 
 
 1	recall	recall	VERB	VB	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	baseline	baseline	NOUN	NN	_	_	_	_	_
@@ -14456,9 +13391,6 @@
 
 
 1	crime	crime	NOUN	NN	_	_	_	_	_
-
-
-1	alone	alone	ADV	RB	_	_	_	_	_
 
 
 1	finally	finally	ADV	RB	_	_	_	_	_
@@ -14728,9 +13660,6 @@
 1	day	day	NOUN	NN	_	_	_	_	_
 
 
-1	see	see	VERB	VB	_	_	_	_	_
-
-
 1	appendix	appendix	NOUN	NN	_	_	_	_	_
 
 
@@ -14755,9 +13684,6 @@
 1	crime	crime	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
 1	generally	generally	ADV	RB	_	_	_	_	_
 
 
@@ -14777,9 +13703,6 @@
 
 
 1	crime	crime	NOUN	NN	_	_	_	_	_
-
-
-1	although	although	SCONJ	IN	_	_	_	_	_
 
 
 1	variation	variation	NOUN	NN	_	_	_	_	_
@@ -14842,9 +13765,6 @@
 1	framework	framework	NOUN	NN	_	_	_	_	_
 
 
-1	thus	thus	ADV	RB	_	_	_	_	_
-
-
 1	retrain	retrain	VERB	VB	_	_	_	_	_
 
 
@@ -14861,12 +13781,6 @@
 
 
 1	lstm	lstm	PROPN	NNP	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
@@ -14923,25 +13837,13 @@
 1	conduct	conduct	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	good	good	ADJ	JJ	_	_	_	_	_
 
 
 1	configuration	configuration	NOUN	NN	_	_	_	_	_
 
 
-1	alone	alone	ADV	RB	_	_	_	_	_
-
-
-1	hence	hence	ADV	RB	_	_	_	_	_
-
-
 1	include	include	VERB	VB	_	_	_	_	_
-
-
-1	five	five	NUM	CD	_	_	_	_	_
 
 
 1	crime	crime	NOUN	NN	_	_	_	_	_
@@ -14974,9 +13876,6 @@
 1	deviation	deviation	NOUN	NN	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	city	city	NOUN	NN	_	_	_	_	_
 
 
@@ -14984,9 +13883,6 @@
 
 
 1	result	result	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	lb	lb	PROPN	NNP	_	_	_	_	_
@@ -14999,9 +13895,6 @@
 
 
 1	day	day	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	observation	observation	NOUN	NN	_	_	_	_	_
@@ -15019,9 +13912,6 @@
 1	recall	recall	VERB	VB	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	city	city	NOUN	NN	_	_	_	_	_
 
 
@@ -15034,9 +13924,6 @@
 1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	training	training	NOUN	NN	_	_	_	_	_
 
 
@@ -15044,9 +13931,6 @@
 
 
 1	closely	closely	ADV	RB	_	_	_	_	_
-
-
-1	see	see	VERB	VB	_	_	_	_	_
 
 
 1	chicago	chicago	PROPN	NNP	_	_	_	_	_
@@ -15076,16 +13960,10 @@
 1	recall	recall	VERB	VB	_	_	_	_	_
 
 
-1	always	always	ADV	RB	_	_	_	_	_
-
-
 1	0.76	0.76	NUM	CD	_	_	_	_	_
 
 
 1	precision	precision	NOUN	NN	_	_	_	_	_
-
-
-1	always	always	ADV	RB	_	_	_	_	_
 
 
 1	0.08	0.08	NUM	CD	_	_	_	_	_
@@ -15133,9 +14011,6 @@
 1	incorporate	incorporate	VERB	VB	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
@@ -15155,9 +14030,6 @@
 
 
 1	specifically	specifically	ADV	RB	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	24	24	NUM	LS	_	_	_	_	_
@@ -15215,9 +14087,6 @@
 
 
 1	54.2	54.2	NUM	CD	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	result	result	NOUN	NN	_	_	_	_	_
@@ -15295,16 +14164,10 @@
 1	slightly	slightly	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	standard	standard	ADJ	JJ	_	_	_	_	_
 
 
 1	metric	metric	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	chicago	chicago	PROPN	NNP	_	_	_	_	_
@@ -15391,9 +14254,6 @@
 1	58.3	58.3	NUM	CD	_	_	_	_	_
 
 
-1	thus	thus	ADV	RB	_	_	_	_	_
-
-
 1	short	short	ADJ	JJ	_	_	_	_	_
 
 
@@ -15442,16 +14302,10 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	evident	evident	ADJ	JJ	_	_	_	_	_
 
 
 1	afterward	afterward	ADV	RB	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	understand	understand	VERB	VB	_	_	_	_	_
@@ -15559,9 +14413,6 @@
 1	recall	recall	VERB	VB	_	_	_	_	_
 
 
-1	third	third	ADJ	JJ	_	_	_	_	_
-
-
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
@@ -15625,9 +14476,6 @@
 1	chicago	chicago	PROPN	NNP	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	14	14	NUM	LS	_	_	_	_	_
 
 
@@ -15640,9 +14488,6 @@
 1	baltimore	baltimore	PROPN	NNP	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	24	24	NUM	LS	_	_	_	_	_
 
 
@@ -15653,9 +14498,6 @@
 
 
 1	lb	lb	PROPN	NNP	_	_	_	_	_
-
-
-1	another	another	DET	DT	_	_	_	_	_
 
 
 1	noteworthy	noteworthy	ADJ	JJ	_	_	_	_	_
@@ -15674,9 +14516,6 @@
 
 
 1	day	day	NOUN	NN	_	_	_	_	_
-
-
-1	always	always	ADV	RB	_	_	_	_	_
 
 
 1	show	show	VERB	VB	_	_	_	_	_
@@ -15766,9 +14605,6 @@
 1	cs	cs	PROPN	ADD	_	_	_	_	_
 
 
-1	see	see	VERB	VB	_	_	_	_	_
-
-
 1	sociodemographic	sociodemographic	NOUN	NN	_	_	_	_	_
 
 
@@ -15791,9 +14627,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	contribute	contribute	VERB	VB	_	_	_	_	_
@@ -15821,12 +14654,6 @@
 
 
 1	achieve	achieve	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	together	together	ADV	RB	_	_	_	_	_
 
 
 1	baltimore	baltimore	PROPN	NNP	_	_	_	_	_
@@ -16030,12 +14857,6 @@
 1	firstly	firstly	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	year	year	NOUN	NN	_	_	_	_	_
 
 
@@ -16060,9 +14881,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	u.s	u.s	PROPN	NNP	_	_	_	_	_
 
 
@@ -16076,9 +14894,6 @@
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
 
 
 1	enhance	enhance	VERB	VB	_	_	_	_	_
@@ -16147,9 +14962,6 @@
 1	assess	assess	VERB	VB	_	_	_	_	_
 
 
-1	whether	whether	SCONJ	IN	_	_	_	_	_
-
-
 1	fine	fine	ADJ	JJ	_	_	_	_	_
 
 
@@ -16175,9 +14987,6 @@
 
 
 1	crime	crime	NOUN	NN	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -16207,9 +15016,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	conv	conv	NOUN	NN	_	_	_	_	_
 
 
@@ -16225,9 +15031,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	baseline	baseline	NOUN	NN	_	_	_	_	_
 
 
@@ -16237,16 +15040,10 @@
 1	determine	determine	VERB	VB	_	_	_	_	_
 
 
-1	whether	whether	SCONJ	IN	_	_	_	_	_
-
-
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
 1	improvement	improvement	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	advanced	advanced	ADJ	JJ	_	_	_	_	_
@@ -16280,9 +15077,6 @@
 
 
 1	result	result	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -16327,16 +15121,10 @@
 1	lead	lead	VERB	VB	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	key	key	NOUN	NN	_	_	_	_	_
 
 
 1	finding	finding	VERB	VBG	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
@@ -16355,9 +15143,6 @@
 
 
 1	outperform	outperform	VERB	VB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	baseline	baseline	NOUN	NN	_	_	_	_	_
@@ -16381,9 +15166,6 @@
 1	especially	especially	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	standard	standard	ADJ	JJ	_	_	_	_	_
 
 
@@ -16399,9 +15181,6 @@
 1	close	close	VERB	VB	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	formance	formance	NOUN	NN	_	_	_	_	_
 
 
@@ -16409,9 +15188,6 @@
 
 
 1	precision	precision	NOUN	NN	_	_	_	_	_
-
-
-1	though	though	ADV	RB	_	_	_	_	_
 
 
 1	remain	remain	VERB	VB	_	_	_	_	_
@@ -16459,19 +15235,10 @@
 1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
 1	configuration	configuration	NOUN	NN	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	hand	hand	NOUN	NN	_	_	_	_	_
@@ -16496,9 +15263,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	either	either	CCONJ	CC	_	_	_	_	_
 
 
 1	struggle	struggle	NOUN	NN	_	_	_	_	_
@@ -16534,9 +15298,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	note	note	NOUN	NN	_	_	_	_	_
 
 
@@ -16564,12 +15325,6 @@
 1	instance	instance	NOUN	NN	_	_	_	_	_
 
 
-1	least	least	ADJ	JJS	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	crime	crime	NOUN	NN	_	_	_	_	_
 
 
@@ -16589,9 +15344,6 @@
 
 
 1	intended	intended	VERB	VBN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	low	low	ADJ	JJ	_	_	_	_	_
@@ -16687,19 +15439,10 @@
 1	good	good	ADJ	JJ	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	crime	crime	NOUN	NN	_	_	_	_	_
 
 
 1	type	type	NOUN	NN	_	_	_	_	_
-
-
-1	together	together	ADV	RB	_	_	_	_	_
-
-
-1	rather	rather	ADV	RB	_	_	_	_	_
 
 
 1	separate	separate	ADJ	JJ	_	_	_	_	_
@@ -16720,9 +15463,6 @@
 1	expect	expect	VERB	VB	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	_	_	_	_
-
-
 1	configuration	configuration	NOUN	NN	_	_	_	_	_
 
 
@@ -16733,9 +15473,6 @@
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
-
-
-1	hence	hence	ADV	RB	_	_	_	_	_
 
 
 1	lead	lead	VERB	VB	_	_	_	_	_
@@ -16751,12 +15488,6 @@
 
 
 1	comparison	comparison	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -16802,9 +15533,6 @@
 
 
 1	period	period	NOUN	NN	_	_	_	_	_
-
-
-1	whereas	whereas	ADV	RB	_	_	_	_	_
 
 
 1	property	property	NOUN	NN	_	_	_	_	_
@@ -16858,19 +15586,10 @@
 1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
 1	set	set	VERB	VB	_	_	_	_	_
-
-
-1	together	together	ADV	RB	_	_	_	_	_
 
 
 1	i.e	i.e	SYM	NFP	_	_	_	_	_
@@ -16904,9 +15623,6 @@
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	suggest	suggest	VERB	VB	_	_	_	_	_
@@ -16957,9 +15673,6 @@
 1	occurrence	occurrence	NOUN	NN	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	percentage	percentage	NOUN	NN	_	_	_	_	_
 
 
@@ -16988,9 +15701,6 @@
 
 
 1	especially	especially	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	short	short	ADJ	JJ	_	_	_	_	_
@@ -17080,9 +15790,6 @@
 1	crime	crime	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	relevant	relevant	ADJ	JJ	_	_	_	_	_
 
 
@@ -17134,9 +15841,6 @@
 1	89	89	NUM	LS	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	offer	offer	VERB	VB	_	_	_	_	_
 
 
@@ -17164,9 +15868,6 @@
 1	forecast	forecast	NOUN	NN	_	_	_	_	_
 
 
-1	beyond	beyond	ADV	RB	_	_	_	_	_
-
-
 1	scope	scope	NOUN	NN	_	_	_	_	_
 
 
@@ -17177,9 +15878,6 @@
 
 
 1	underscore	underscore	VERB	VB	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	extremely	extremely	ADV	RB	_	_	_	_	_
@@ -17195,9 +15893,6 @@
 
 
 1	high	high	ADJ	JJ	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	formance	formance	NOUN	NN	_	_	_	_	_
@@ -17266,16 +15961,10 @@
 1	instance	instance	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	certainly	certainly	ADV	RB	_	_	_	_	_
 
 
 1	allow	allow	VERB	VB	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	responder	responder	NOUN	NN	_	_	_	_	_
@@ -17317,9 +16006,6 @@
 1	area	area	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	high	high	ADJ	JJ	_	_	_	_	_
 
 
@@ -17342,9 +16028,6 @@
 
 
 1	consequence	consequence	NOUN	NN	_	_	_	_	_
-
-
-1	show	show	VERB	VB	_	_	_	_	_
 
 
 1	issue	issue	NOUN	NN	_	_	_	_	_
@@ -17395,9 +16078,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	face	face	VERB	VB	_	_	_	_	_
 
 
@@ -17437,13 +16117,7 @@
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	limitation	limitation	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	use	use	VERB	VB	_	_	_	_	_
@@ -17462,12 +16136,6 @@
 
 
 1	literature	literature	NOUN	NN	_	_	_	_	_
-
-
-1	see	see	VERB	VB	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	impose	impose	VERB	VB	_	_	_	_	_
@@ -17527,12 +16195,6 @@
 1	space	space	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	pose	pose	VERB	VB	_	_	_	_	_
 
 
@@ -17557,12 +16219,6 @@
 1	boundary	boundary	NOUN	NN	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	point	point	NOUN	NN	_	_	_	_	_
 
 
@@ -17572,16 +16228,10 @@
 1	cell	cell	NOUN	NN	_	_	_	_	_
 
 
-1	might	might	AUX	MD	_	_	_	_	_
-
-
 1	fall	fall	NOUN	NN	_	_	_	_	_
 
 
 1	jurisdiction	jurisdiction	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -17591,9 +16241,6 @@
 
 
 1	precinct	precinct	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	grid	grid	NOUN	NN	_	_	_	_	_
@@ -17650,9 +16297,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	suffer	suffer	VERB	VB	_	_	_	_	_
 
 
@@ -17660,9 +16304,6 @@
 
 
 1	obfuscation	obfuscation	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	privacy	privacy	NOUN	NN	_	_	_	_	_
@@ -17689,16 +16330,10 @@
 1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	cell	cell	NOUN	NN	_	_	_	_	_
 
 
 1	size	size	NOUN	NN	_	_	_	_	_
-
-
-1	still	still	ADV	RB	_	_	_	_	_
 
 
 1	considerably	considerably	ADV	RB	_	_	_	_	_
@@ -17720,9 +16355,6 @@
 
 
 1	city	city	NOUN	NN	_	_	_	_	_
-
-
-1	see	see	VERB	VB	_	_	_	_	_
 
 
 1	estimate	estimate	VERB	VB	_	_	_	_	_
@@ -17767,9 +16399,6 @@
 1	concern	concern	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	reduce	reduce	VERB	VB	_	_	_	_	_
 
 
@@ -17777,9 +16406,6 @@
 
 
 1	size	size	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	exacerbate	exacerbate	VERB	VB	_	_	_	_	_
@@ -17792,9 +16418,6 @@
 
 
 1	positive	positive	ADJ	JJ	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	argue	argue	VERB	VB	_	_	_	_	_
@@ -17881,9 +16504,6 @@
 1	show	show	VERB	VB	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	improve	improve	VERB	VB	_	_	_	_	_
 
 
@@ -17891,9 +16511,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	certainly	certainly	ADV	RB	_	_	_	_	_
@@ -17926,9 +16543,6 @@
 1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	along	along	ADV	RB	_	_	_	_	_
-
-
 1	variation	variation	NOUN	NN	_	_	_	_	_
 
 
@@ -17936,9 +16550,6 @@
 
 
 1	movement	movement	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -17966,9 +16577,6 @@
 
 
 1	information	information	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	limited	limited	ADJ	JJ	_	_	_	_	_
@@ -18016,9 +16624,6 @@
 1	particularly	particularly	ADV	RB	_	_	_	_	_
 
 
-1	regard	regard	VERB	VB	_	_	_	_	_
-
-
 1	use	use	VERB	VB	_	_	_	_	_
 
 
@@ -18032,9 +16637,6 @@
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
@@ -18071,9 +16673,6 @@
 
 
 1	level	level	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	aggre	aggre	NOUN	NN	_	_	_	_	_
@@ -18130,9 +16729,6 @@
 1	crime	crime	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	acknowledge	acknowledge	VERB	VB	_	_	_	_	_
 
 
@@ -18157,9 +16753,6 @@
 1	crime	crime	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
 1	underreported	underreported	VERB	VBN	_	_	_	_	_
 
 
@@ -18170,9 +16763,6 @@
 
 
 1	city	city	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	socioeconomic	socioeconomic	ADJ	JJ	_	_	_	_	_
@@ -18217,9 +16807,6 @@
 1	crime	crime	NOUN	NN	_	_	_	_	_
 
 
-1	less	less	ADJ	JJR	_	_	_	_	_
-
-
 1	likely	likely	ADJ	JJ	_	_	_	_	_
 
 
@@ -18229,13 +16816,7 @@
 1	issue	issue	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	crime	crime	NOUN	NN	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
 
 
 1	prone	prone	ADJ	JJ	_	_	_	_	_
@@ -18304,9 +16885,6 @@
 1	concern	concern	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	ethical	ethical	ADJ	JJ	_	_	_	_	_
 
 
@@ -18364,9 +16942,6 @@
 1	pervasive	pervasive	ADJ	JJ	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	city	city	NOUN	NN	_	_	_	_	_
 
 
@@ -18398,9 +16973,6 @@
 
 
 1	community	community	NOUN	NN	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	emphasize	emphasize	VERB	VB	_	_	_	_	_
@@ -18446,9 +17018,6 @@
 
 
 1	forecast	forecast	NOUN	NN	_	_	_	_	_
-
-
-1	rather	rather	ADV	RB	_	_	_	_	_
 
 
 1	serve	serve	VERB	VB	_	_	_	_	_
@@ -18550,9 +17119,6 @@
 1	suggestion	suggestion	NOUN	NN	_	_	_	_	_
 
 
-1	regard	regard	VERB	VB	_	_	_	_	_
-
-
 1	early	early	ADJ	JJ	_	_	_	_	_
 
 
@@ -18575,9 +17141,6 @@
 
 
 1	support	support	VERB	VB	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	phase	phase	NOUN	NN	_	_	_	_	_
@@ -18655,9 +17218,6 @@
 1	modeling	modeling	NOUN	NN	_	_	_	_	_
 
 
-1	part	part	NOUN	NN	_	_	_	_	_
-
-
 1	a.a.z	a.a.z	PROPN	ADD	_	_	_	_	_
 
 
@@ -18677,9 +17237,6 @@
 
 
 1	write	write	VERB	VB	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	draft	draft	NOUN	NN	_	_	_	_	_
@@ -18754,9 +17311,6 @@
 1	interest	interest	NOUN	NN	_	_	_	_	_
 
 
-1	either	either	CCONJ	CC	_	_	_	_	_
-
-
 1	directly	directly	ADV	RB	_	_	_	_	_
 
 
@@ -18793,9 +17347,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
@@ -18806,9 +17357,6 @@
 
 
 1	accessible	accessible	ADJ	JJ	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	doi	doi	NOUN	NN	_	_	_	_	_

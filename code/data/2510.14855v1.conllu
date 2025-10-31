@@ -37,9 +37,6 @@
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
 
 
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	remain	remain	VERB	VB	_	_	_	_	_
 
 
@@ -71,9 +68,6 @@
 
 
 1	evolve	evolve	VERB	VB	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	know	know	VERB	VB	_	_	_	_	_
@@ -148,9 +142,6 @@
 1	category	category	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	quantify	quantify	VERB	VB	_	_	_	_	_
 
 
@@ -214,19 +205,10 @@
 1	particularly	particularly	ADV	RB	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	framework	framework	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	visualize	visualize	VERB	VB	_	_	_	_	_
@@ -274,9 +256,6 @@
 1	conduct	conduct	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	ham10000	ham10000	NOUN	NN	_	_	_	_	_
 
 
@@ -284,12 +263,6 @@
 
 
 1	contain	contain	VERB	VB	_	_	_	_	_
-
-
-1	around	around	ADV	RB	_	_	_	_	_
-
-
-1	ten	ten	NUM	CD	_	_	_	_	_
 
 
 1	thousand	thousand	NUM	CD	_	_	_	_	_
@@ -322,9 +295,6 @@
 1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	around	around	ADV	RB	_	_	_	_	_
-
-
 1	89	89	NUM	LS	_	_	_	_	_
 
 
@@ -349,9 +319,6 @@
 1	perform	perform	VERB	VB	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	predict	predict	VERB	VB	_	_	_	_	_
 
 
@@ -365,9 +332,6 @@
 
 
 1	diameter	diameter	NOUN	NN	_	_	_	_	_
-
-
-1	though	though	ADV	RB	_	_	_	_	_
 
 
 1	border	border	NOUN	NN	_	_	_	_	_
@@ -425,9 +389,6 @@
 
 
 1	criterion	criterion	NOUN	NN	_	_	_	_	_
-
-
-1	thus	thus	ADV	RB	_	_	_	_	_
 
 
 1	improve	improve	VERB	VB	_	_	_	_	_
@@ -514,9 +475,6 @@
 1	cancer	cancer	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	lead	lead	VERB	VB	_	_	_	_	_
 
 
@@ -524,9 +482,6 @@
 
 
 1	death	death	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	skin	skin	NOUN	NN	_	_	_	_	_
@@ -623,9 +578,6 @@
 
 
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	appear	appear	VERB	VB	_	_	_	_	_
@@ -739,9 +691,6 @@
 1	display	display	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	attribute	attribute	NOUN	NN	_	_	_	_	_
 
 
@@ -784,9 +733,6 @@
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
 
 
-1	many	many	ADJ	JJ	_	_	_	_	_
-
-
 1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
@@ -811,19 +757,10 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	either	either	CCONJ	CC	_	_	_	_	_
-
-
 1	benign	benign	ADJ	JJ	_	_	_	_	_
 
 
 1	malignant	malignant	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
 
 
 1	clinically	clinically	ADV	RB	_	_	_	_	_
@@ -868,9 +805,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	cnn	cnn	PROPN	NNP	_	_	_	_	_
 
 
@@ -902,9 +836,6 @@
 
 
 1	type	type	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	explanation	explanation	NOUN	NN	_	_	_	_	_
@@ -949,9 +880,6 @@
 1	abcde	abcde	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	prove	prove	VERB	VB	_	_	_	_	_
 
 
@@ -959,9 +887,6 @@
 
 
 1	evaluate	evaluate	VERB	VB	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	deep	deep	ADJ	JJ	_	_	_	_	_
@@ -1024,12 +949,6 @@
 1	enforce	enforce	VERB	VB	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	ai	ai	NOUN	NN	_	_	_	_	_
 
 
@@ -1064,9 +983,6 @@
 
 
 1	imaging	imaging	NOUN	NN	_	_	_	_	_
-
-
-1	make	make	VERB	VB	_	_	_	_	_
 
 
 1	possible	possible	ADJ	JJ	_	_	_	_	_
@@ -1126,9 +1042,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	potential	potential	ADJ	JJ	_	_	_	_	_
 
 
@@ -1163,9 +1076,6 @@
 
 
 1	time	time	NOUN	NN	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	actual	actual	ADJ	JJ	_	_	_	_	_
@@ -1229,9 +1139,6 @@
 
 
 1	simulation	simulation	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	design	design	NOUN	NN	_	_	_	_	_
@@ -1366,9 +1273,6 @@
 1	tion	tion	INTJ	UH	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	system	system	NOUN	NN	_	_	_	_	_
 
 
@@ -1409,9 +1313,6 @@
 
 
 1	analysis	analysis	NOUN	NN	_	_	_	_	_
-
-
-1	already	already	ADV	RB	_	_	_	_	_
 
 
 1	prevalent	prevalent	ADJ	JJ	_	_	_	_	_
@@ -1555,9 +1456,6 @@
 1	quantify	quantify	VERB	VB	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	shape	shape	NOUN	NN	_	_	_	_	_
 
 
@@ -1571,9 +1469,6 @@
 
 
 1	larity	larity	INTJ	UH	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	fractal	fractal	ADJ	JJ	_	_	_	_	_
@@ -1594,9 +1489,6 @@
 1	variegation	variegation	NOUN	NN	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	histogram	histogram	NOUN	NN	_	_	_	_	_
 
 
@@ -1604,9 +1496,6 @@
 
 
 1	diameter	diameter	NOUN	NN	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
@@ -1640,9 +1529,6 @@
 
 
 1	screen	screen	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	need	need	VERB	VB	_	_	_	_	_
@@ -1693,9 +1579,6 @@
 1	summarize	summarize	VERB	VB	_	_	_	_	_
 
 
-1	many	many	ADJ	JJ	_	_	_	_	_
-
-
 1	effort	effort	NOUN	NN	_	_	_	_	_
 
 
@@ -1724,9 +1607,6 @@
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
 
 
 1	report	report	NOUN	NN	_	_	_	_	_
@@ -1796,9 +1676,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	become	become	VERB	VB	_	_	_	_	_
 
 
 1	accurate	accurate	ADJ	JJ	_	_	_	_	_
@@ -1873,9 +1750,6 @@
 1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	85	85	NUM	LS	_	_	_	_	_
 
 
@@ -1927,9 +1801,6 @@
 1	sensitivity	sensitivity	NOUN	NN	_	_	_	_	_
 
 
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	describe	describe	VERB	VB	_	_	_	_	_
 
 
@@ -1943,9 +1814,6 @@
 
 
 1	researcher	researcher	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	saliency	saliency	NOUN	NN	_	_	_	_	_
@@ -1970,9 +1838,6 @@
 
 
 1	interpretability	interpretability	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	pixel	pixel	NOUN	NN	_	_	_	_	_
@@ -2083,9 +1948,6 @@
 1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
@@ -2099,12 +1961,6 @@
 
 
 1	criterion	criterion	NOUN	NN	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
-
-
-1	though	though	ADV	RB	_	_	_	_	_
 
 
 1	able	able	ADJ	JJ	_	_	_	_	_
@@ -2164,9 +2020,6 @@
 1	build	build	VERB	VB	_	_	_	_	_
 
 
-1	upon	upon	ADP	IN	_	_	_	_	_
-
-
 1	prior	prior	ADJ	JJ	_	_	_	_	_
 
 
@@ -2198,9 +2051,6 @@
 
 
 1	work	work	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	extend	extend	VERB	VB	_	_	_	_	_
@@ -2242,9 +2092,6 @@
 1	contain	contain	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	main	main	ADJ	JJ	_	_	_	_	_
 
 
@@ -2278,9 +2125,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	evolution	evolution	NOUN	NN	_	_	_	_	_
 
 
@@ -2297,9 +2141,6 @@
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
-
-
-1	might	might	AUX	MD	_	_	_	_	_
 
 
 1	progress	progress	NOUN	NN	_	_	_	_	_
@@ -2321,9 +2162,6 @@
 
 
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	optionally	optionally	ADV	RB	_	_	_	_	_
@@ -2398,9 +2236,6 @@
 1	optimize	optimize	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	combine	combine	VERB	VB	_	_	_	_	_
 
 
@@ -2456,9 +2291,6 @@
 
 
 1	simulation	simulation	NOUN	NN	_	_	_	_	_
-
-
-1	take	take	VERB	VB	_	_	_	_	_
 
 
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
@@ -2539,9 +2371,6 @@
 1	representation	representation	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	predict	predict	VERB	VB	_	_	_	_	_
 
 
@@ -2549,9 +2378,6 @@
 
 
 1	value	value	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
@@ -2605,9 +2431,6 @@
 1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	extract	extract	NOUN	NN	_	_	_	_	_
 
 
@@ -2626,13 +2449,7 @@
 1	follow	follow	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	head	head	NOUN	NN	_	_	_	_	_
-
-
-1	put	put	VERB	VB	_	_	_	_	_
 
 
 1	branch	branch	NOUN	NN	_	_	_	_	_
@@ -2644,16 +2461,10 @@
 1	consist	consist	VERB	VB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
 
 
 1	classification	classification	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	abcde	abcde	NOUN	NN	_	_	_	_	_
@@ -2695,9 +2506,6 @@
 1	task	task	NOUN	NN	_	_	_	_	_
 
 
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	separate	separate	ADJ	JJ	_	_	_	_	_
 
 
@@ -2714,9 +2522,6 @@
 
 
 1	experiment	experiment	VERB	VB	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
 
 
 1	backbone	backbone	NOUN	NN	_	_	_	_	_
@@ -2750,9 +2555,6 @@
 
 
 1	net50	net50	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	balance	balance	NOUN	NN	_	_	_	_	_
@@ -2860,9 +2662,6 @@
 1	normalization	normalization	NOUN	NN	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	_	_	_	_
-
-
 1	sure	sure	ADJ	JJ	_	_	_	_	_
 
 
@@ -2930,9 +2729,6 @@
 
 
 1	pixel	pixel	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	normalize	normalize	VERB	VB	_	_	_	_	_
@@ -3017,9 +2813,6 @@
 
 
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	network	network	NOUN	NN	_	_	_	_	_
@@ -3220,9 +3013,6 @@
 1	vector	vector	NOUN	NN	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	numeric	numeric	ADJ	JJ	_	_	_	_	_
 
 
@@ -3254,9 +3044,6 @@
 
 
 1	regression	regression	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	value	value	NOUN	NN	_	_	_	_	_
@@ -3302,9 +3089,6 @@
 
 
 1	loss	loss	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	sum	sum	NOUN	NN	_	_	_	_	_
@@ -3400,9 +3184,6 @@
 1	border	border	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	ragged	ragged	ADJ	JJ	_	_	_	_	_
 
 
@@ -3413,9 +3194,6 @@
 
 
 1	capture	capture	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	aspect	aspect	NOUN	NN	_	_	_	_	_
@@ -3508,9 +3286,6 @@
 1	ratio	ratio	NOUN	NN	_	_	_	_	_
 
 
-1	less	less	ADJ	JJR	_	_	_	_	_
-
-
 1	1	1	NUM	LS	_	_	_	_	_
 
 
@@ -3536,9 +3311,6 @@
 
 
 1	clarity	clarity	NOUN	NN	_	_	_	_	_
-
-
-1	take	take	VERB	VB	_	_	_	_	_
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
@@ -3568,16 +3340,10 @@
 1	magnitude	magnitude	NOUN	NN	_	_	_	_	_
 
 
-1	along	along	ADV	RB	_	_	_	_	_
-
-
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
 
 
 1	perimeter	perimeter	NOUN	NN	_	_	_	_	_
-
-
-1	take	take	VERB	VB	_	_	_	_	_
 
 
 1	dermoscopic	dermoscopic	PROPN	NNP	_	_	_	_	_
@@ -3590,9 +3356,6 @@
 
 
 1	gradient	gradient	NOUN	NN	_	_	_	_	_
-
-
-1	around	around	ADV	RB	_	_	_	_	_
 
 
 1	border	border	NOUN	NN	_	_	_	_	_
@@ -3697,9 +3460,6 @@
 1	score	score	NOUN	NN	_	_	_	_	_
 
 
-1	thus	thus	ADV	RB	_	_	_	_	_
-
-
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
 
 
@@ -3734,9 +3494,6 @@
 
 
 1	measure	measure	NOUN	NN	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -3803,9 +3560,6 @@
 
 
 1	melanoma	melanoma	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -3985,9 +3739,6 @@
 1	range	range	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	final	final	ADJ	JJ	_	_	_	_	_
 
 
@@ -4004,9 +3755,6 @@
 
 
 1	combination	combination	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	dispersion	dispersion	NOUN	NN	_	_	_	_	_
@@ -4033,12 +3781,6 @@
 1	color	color	NOUN	NN	_	_	_	_	_
 
 
-1	beyond	beyond	ADV	RB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	benign	benign	ADJ	JJ	_	_	_	_	_
 
 
@@ -4063,13 +3805,7 @@
 1	c	c	NOUN	NN	_	_	_	_	_
 
 
-1	less	less	ADJ	JJR	_	_	_	_	_
-
-
 1	0.2	0.2	NUM	CD	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	melanoma	melanoma	NOUN	NN	_	_	_	_	_
@@ -4090,9 +3826,6 @@
 1	red	red	ADJ	JJ	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	score	score	NOUN	NN	_	_	_	_	_
 
 
@@ -4100,9 +3833,6 @@
 
 
 1	diameter	diameter	NOUN	NN	_	_	_	_	_
-
-
-1	part	part	NOUN	NN	_	_	_	_	_
 
 
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
@@ -4124,9 +3854,6 @@
 
 
 1	suspicious	suspicious	ADJ	JJ	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
@@ -4183,9 +3910,6 @@
 1	mm	mm	INTJ	UH	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	pixel	pixel	NOUN	NN	_	_	_	_	_
 
 
@@ -4213,9 +3937,6 @@
 1	distance	distance	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
 
 
@@ -4235,9 +3956,6 @@
 
 
 1	6	6	NUM	LS	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	compute	compute	VERB	VB	_	_	_	_	_
@@ -4288,9 +4006,6 @@
 1	score	score	NOUN	NN	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	_	_	_	_
-
-
 1	assumption	assumption	NOUN	NN	_	_	_	_	_
 
 
@@ -4303,16 +4018,10 @@
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	say	say	VERB	VB	_	_	_	_	_
-
-
 1	30	30	NUM	LS	_	_	_	_	_
 
 
 1	pixel	pixel	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
@@ -4393,12 +4102,6 @@
 1	bration	bration	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	include	include	VERB	VB	_	_	_	_	_
 
 
@@ -4448,9 +4151,6 @@
 2	mm	mm	NOUN	NN	_	_	_	_	_
 
 
-1	top	top	NOUN	NN	_	_	_	_	_
-
-
 1	5	5	NUM	LS	_	_	_	_	_
 
 
@@ -4458,9 +4158,6 @@
 
 
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
-
-
-1	get	get	VERB	VB	_	_	_	_	_
 
 
 1	close	close	VERB	VB	_	_	_	_	_
@@ -4475,9 +4172,6 @@
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
 
 
-1	get	get	VERB	VB	_	_	_	_	_
-
-
 1	near	near	ADV	RB	_	_	_	_	_
 
 
@@ -4488,9 +4182,6 @@
 
 
 1	value	value	NOUN	NN	_	_	_	_	_
-
-
-1	thus	thus	ADV	RB	_	_	_	_	_
 
 
 1	relative	relative	ADJ	JJ	_	_	_	_	_
@@ -4520,12 +4211,6 @@
 1	way	way	NOUN	NN	_	_	_	_	_
 
 
-1	even	even	ADV	RB	_	_	_	_	_
-
-
-1	though	though	ADV	RB	_	_	_	_	_
-
-
 1	non	non	INTJ	UH	_	_	_	_	_
 
 
@@ -4551,9 +4236,6 @@
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
 
 
 1	directly	directly	ADV	RB	_	_	_	_	_
@@ -4646,9 +4328,6 @@
 1	aspect	aspect	NOUN	NN	_	_	_	_	_
 
 
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	good	good	ADJ	JJ	_	_	_	_	_
 
 
@@ -4715,9 +4394,6 @@
 1	estimate	estimate	VERB	VB	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
 1	falsely	falsely	ADV	RB	_	_	_	_	_
 
 
@@ -4731,9 +4407,6 @@
 
 
 1	cause	cause	NOUN	NN	_	_	_	_	_
-
-
-1	part	part	NOUN	NN	_	_	_	_	_
 
 
 1	border	border	NOUN	NN	_	_	_	_	_
@@ -4754,13 +4427,7 @@
 1	metric	metric	NOUN	NN	_	_	_	_	_
 
 
-1	might	might	AUX	MD	_	_	_	_	_
-
-
 1	low	low	ADJ	JJ	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	border	border	NOUN	NN	_	_	_	_	_
@@ -4773,9 +4440,6 @@
 
 
 1	issue	issue	NOUN	NN	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
 
 
 1	mitigate	mitigate	VERB	VB	_	_	_	_	_
@@ -4797,9 +4461,6 @@
 
 
 1	filter	filter	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	inpainte	inpainte	NOUN	NN	_	_	_	_	_
@@ -4830,9 +4491,6 @@
 
 
 1	color	color	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
@@ -4964,9 +4622,6 @@
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	7	7	NUM	LS	_	_	_	_	_
 
 
@@ -4976,9 +4631,6 @@
 1	category	category	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
@@ -4986,9 +4638,6 @@
 
 
 1	distribute	distribute	VERB	VB	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	diagnostic	diagnostic	ADJ	JJ	_	_	_	_	_
@@ -5075,9 +4724,6 @@
 1	class	class	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	weight	weight	NOUN	NN	_	_	_	_	_
 
 
@@ -5127,9 +4773,6 @@
 
 
 1	testing	testing	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	improve	improve	VERB	VB	_	_	_	_	_
@@ -5184,9 +4827,6 @@
 
 
 1	appearance	appearance	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	slightly	slightly	ADV	RB	_	_	_	_	_
@@ -5315,13 +4955,7 @@
 1	balance	balance	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	loss	loss	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	weight	weight	NOUN	NN	_	_	_	_	_
@@ -5345,12 +4979,6 @@
 1	1	1	NUM	LS	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	good	good	ADJ	JJ	_	_	_	_	_
 
 
@@ -5364,9 +4992,6 @@
 
 
 1	value	value	NOUN	NN	_	_	_	_	_
-
-
-1	either	either	CCONJ	CC	_	_	_	_	_
 
 
 1	0	0	NUM	LS	_	_	_	_	_
@@ -5435,9 +5060,6 @@
 1	optimizer	optimizer	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	initial	initial	ADJ	JJ	_	_	_	_	_
 
 
@@ -5481,9 +5103,6 @@
 
 
 1	run	run	NOUN	NN	_	_	_	_	_
-
-
-1	around	around	ADV	RB	_	_	_	_	_
 
 
 1	100	100	NUM	CD	_	_	_	_	_
@@ -5567,9 +5186,6 @@
 1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	class	class	NOUN	NN	_	_	_	_	_
 
 
@@ -5609,16 +5225,10 @@
 1	melanoma	melanoma	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	bad	bad	ADJ	JJ	_	_	_	_	_
 
 
 1	error	error	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	compute	compute	VERB	VB	_	_	_	_	_
@@ -5696,12 +5306,6 @@
 1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
-1	take	take	VERB	VB	_	_	_	_	_
-
-
 1	look	look	VERB	VB	_	_	_	_	_
 
 
@@ -5718,9 +5322,6 @@
 
 
 1	correlation	correlation	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	mean	mean	VERB	VB	_	_	_	_	_
@@ -5742,9 +5343,6 @@
 
 
 1	term	term	NOUN	NN	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	bias	bias	NOUN	NN	_	_	_	_	_
@@ -5822,9 +5420,6 @@
 1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	take	take	VERB	VB	_	_	_	_	_
-
-
 1	care	care	NOUN	NN	_	_	_	_	_
 
 
@@ -5876,16 +5471,10 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	thereby	thereby	ADV	RB	_	_	_	_	_
-
-
 1	abcd	abcd	NOUN	NN	_	_	_	_	_
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
-
-
-1	might	might	AUX	MD	_	_	_	_	_
 
 
 1	change	change	VERB	VB	_	_	_	_	_
@@ -5900,16 +5489,10 @@
 1	operate	operate	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	possible	possible	ADJ	JJ	_	_	_	_	_
 
 
 1	mode	mode	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	possible	possible	ADJ	JJ	_	_	_	_	_
@@ -6023,9 +5606,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	indeed	indeed	ADV	RB	_	_	_	_	_
-
-
 1	retain	retain	VERB	VB	_	_	_	_	_
 
 
@@ -6101,12 +5681,6 @@
 1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	exactly	exactly	ADV	RB	_	_	_	_	_
 
 
@@ -6125,9 +5699,6 @@
 1	melanoma	melanoma	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	train	train	NOUN	NN	_	_	_	_	_
 
 
@@ -6141,9 +5712,6 @@
 
 
 1	nevus	nevus	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	cycle	cycle	NOUN	NN	_	_	_	_	_
@@ -6165,9 +5733,6 @@
 
 
 1	simply	simply	ADV	RB	_	_	_	_	_
-
-
-1	always	always	ADV	RB	_	_	_	_	_
 
 
 1	output	output	NOUN	NN	_	_	_	_	_
@@ -6329,13 +5894,7 @@
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	evolve	evolve	VERB	VB	_	_	_	_	_
-
-
-1	become	become	VERB	VB	_	_	_	_	_
 
 
 1	malignant	malignant	NOUN	NN	_	_	_	_	_
@@ -6345,9 +5904,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	directly	directly	ADV	RB	_	_	_	_	_
@@ -6377,9 +5933,6 @@
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
 
 
-1	say	say	VERB	VB	_	_	_	_	_
-
-
 1	2048	2048	NUM	CD	_	_	_	_	_
 
 
@@ -6390,9 +5943,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	drift	drift	VERB	VB	_	_	_	_	_
@@ -6419,9 +5969,6 @@
 1	extractor	extractor	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	state	state	NOUN	NN	_	_	_	_	_
 
 
@@ -6435,9 +5982,6 @@
 
 
 1	step	step	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	simulate	simulate	VERB	VB	_	_	_	_	_
@@ -6617,9 +6161,6 @@
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	malignant	malignant	NOUN	NN	_	_	_	_	_
 
 
@@ -6663,9 +6204,6 @@
 
 
 1	apply	apply	VERB	VB	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
 
 
 1	step	step	NOUN	NN	_	_	_	_	_
@@ -6731,12 +6269,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	move	move	VERB	VB	_	_	_	_	_
-
-
-1	towards	towards	ADP	IN	_	_	_	_	_
-
-
 1	malignant	malignant	NOUN	NN	_	_	_	_	_
 
 
@@ -6761,12 +6293,6 @@
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	primarily	primarily	ADV	RB	_	_	_	_	_
 
 
@@ -6777,12 +6303,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	verify	verify	VERB	VB	_	_	_	_	_
@@ -6810,9 +6330,6 @@
 
 
 1	score	score	NOUN	NN	_	_	_	_	_
-
-
-1	something	something	PRON	NN	_	_	_	_	_
 
 
 1	important	important	ADJ	JJ	_	_	_	_	_
@@ -6860,22 +6377,13 @@
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	update	update	NOUN	NN	_	_	_	_	_
 
 
 1	cnn	cnn	PROPN	NNP	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	training	training	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	require	require	VERB	VB	_	_	_	_	_
@@ -6906,9 +6414,6 @@
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
-
-
-1	latter	latter	ADJ	JJ	_	_	_	_	_
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
@@ -6945,9 +6450,6 @@
 
 
 1	synthesis	synthesis	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	report	report	NOUN	NN	_	_	_	_	_
@@ -7010,9 +6512,6 @@
 1	sample	sample	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	balanced	balanced	ADJ	JJ	_	_	_	_	_
 
 
@@ -7026,9 +6525,6 @@
 
 
 1	type	type	NOUN	NN	_	_	_	_	_
-
-
-1	much	much	ADV	RB	_	_	_	_	_
 
 
 1	common	common	ADJ	JJ	_	_	_	_	_
@@ -7070,22 +6566,10 @@
 1	perform	perform	VERB	VB	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	lesion	lesion	NOUN	NN	_	_	_	_	_
 
 
 1	type	type	NOUN	NN	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
 
 
 1	common	common	ADJ	JJ	_	_	_	_	_
@@ -7137,9 +6621,6 @@
 
 
 1	perform	perform	VERB	VB	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	area	area	NOUN	NN	_	_	_	_	_

@@ -55,9 +55,6 @@
 1	present	present	ADJ	JJ	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	comprehensive	comprehensive	ADJ	JJ	_	_	_	_	_
 
 
@@ -86,12 +83,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	distinct	distinct	ADJ	JJ	_	_	_	_	_
@@ -517,9 +508,6 @@
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	focus	focus	VERB	VB	_	_	_	_	_
 
 
@@ -533,9 +521,6 @@
 
 
 1	paradigm	paradigm	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	systematic	systematic	ADJ	JJ	_	_	_	_	_
@@ -563,9 +548,6 @@
 
 
 1	implementation	implementation	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	rapid	rapid	ADJ	JJ	_	_	_	_	_
@@ -725,12 +707,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	research	research	NOUN	NN	_	_	_	_	_
@@ -932,9 +908,6 @@
 
 
 1	cricket	cricket	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	world	world	NOUN	NN	_	_	_	_	_
@@ -1297,9 +1270,6 @@
 1	stem	stem	NOUN	NN	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	factor	factor	NOUN	NN	_	_	_	_	_
 
 
@@ -1316,9 +1286,6 @@
 
 
 1	variation	variation	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -1504,9 +1471,6 @@
 1	comparison	comparison	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	different	different	ADJ	JJ	_	_	_	_	_
 
 
@@ -1544,9 +1508,6 @@
 
 
 1	architecture	architecture	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	4	4	NUM	LS	_	_	_	_	_
@@ -1639,9 +1600,6 @@
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	vision	vision	NOUN	NN	_	_	_	_	_
 
 
@@ -1723,9 +1681,6 @@
 1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	board	board	NOUN	NN	_	_	_	_	_
 
 
@@ -1777,9 +1732,6 @@
 1	literature	literature	NOUN	NN	_	_	_	_	_
 
 
-1	though	though	ADV	RB	_	_	_	_	_
-
-
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
@@ -1808,9 +1760,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	deep	deep	ADJ	JJ	_	_	_	_	_
@@ -1912,9 +1861,6 @@
 1	field	field	NOUN	NN	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	_	_	_	_
-
-
 1	sen	sen	INTJ	UH	_	_	_	_	_
 
 
@@ -1952,9 +1898,6 @@
 
 
 1	video	video	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
@@ -2015,9 +1958,6 @@
 
 
 1	condition	condition	NOUN	NN	_	_	_	_	_
-
-
-1	become	become	VERB	VB	_	_	_	_	_
 
 
 1	benchmark	benchmark	NOUN	NN	_	_	_	_	_
@@ -2224,16 +2164,10 @@
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	15	15	NUM	LS	_	_	_	_	_
 
 
 1	frame	frame	NOUN	NN	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	video	video	NOUN	NN	_	_	_	_	_
@@ -2288,9 +2222,6 @@
 
 
 1	baseline	baseline	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	transfer	transfer	VERB	VB	_	_	_	_	_
@@ -2372,9 +2303,6 @@
 
 
 1	group	group	NOUN	NN	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	paradigm	paradigm	NOUN	NN	_	_	_	_	_
@@ -2488,9 +2416,6 @@
 1	efficiency	efficiency	NOUN	NN	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	paradigm	paradigm	NOUN	NN	_	_	_	_	_
 
 
@@ -2513,9 +2438,6 @@
 
 
 1	table	table	NOUN	NN	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	pioneer	pioneer	NOUN	NN	_	_	_	_	_
@@ -2591,9 +2513,6 @@
 
 
 1	classification	classification	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	modify	modify	VERB	VB	_	_	_	_	_
@@ -2755,9 +2674,6 @@
 1	96	96	NUM	LS	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
@@ -2777,12 +2693,6 @@
 
 
 1	class	class	NOUN	NN	_	_	_	_	_
-
-
-1	rather	rather	ADV	RB	_	_	_	_	_
-
-
-1	full	full	ADJ	JJ	_	_	_	_	_
 
 
 1	10	10	NUM	LS	_	_	_	_	_
@@ -2950,13 +2860,7 @@
 1	crop	crop	NOUN	NN	_	_	_	_	_
 
 
-1	full	full	ADJ	JJ	_	_	_	_	_
-
-
 1	frame	frame	NOUN	NN	_	_	_	_	_
-
-
-1	full	full	ADJ	JJ	_	_	_	_	_
 
 
 1	frame	frame	NOUN	NN	_	_	_	_	_
@@ -3011,9 +2915,6 @@
 
 
 1	efficiency	efficiency	NOUN	NN	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	aggressive	aggressive	ADJ	JJ	_	_	_	_	_
@@ -3154,9 +3055,6 @@
 1	video	video	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
@@ -3194,9 +3092,6 @@
 
 
 1	methodology	methodology	NOUN	NN	_	_	_	_	_
-
-
-1	full	full	ADJ	JJ	_	_	_	_	_
 
 
 1	frame	frame	NOUN	NN	_	_	_	_	_
@@ -3328,19 +3223,10 @@
 1	training	training	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	fail	fail	VERB	VB	_	_	_	_	_
 
 
 1	capture	capture	VERB	VB	_	_	_	_	_
-
-
-1	full	full	ADJ	JJ	_	_	_	_	_
 
 
 1	temporal	temporal	ADJ	JJ	_	_	_	_	_
@@ -3532,9 +3418,6 @@
 1	move	move	VERB	VB	_	_	_	_	_
 
 
-1	towards	towards	ADP	IN	_	_	_	_	_
-
-
 1	transfer	transfer	VERB	VB	_	_	_	_	_
 
 
@@ -3581,9 +3464,6 @@
 
 
 1	standard	standard	ADJ	JJ	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	pretraine	pretraine	NOUN	NN	_	_	_	_	_
@@ -3767,9 +3647,6 @@
 
 
 1	context	context	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	increase	increase	NOUN	NN	_	_	_	_	_
@@ -4444,9 +4321,6 @@
 1	comparison	comparison	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	distinct	distinct	ADJ	JJ	_	_	_	_	_
 
 
@@ -4711,9 +4585,6 @@
 1	dimension	dimension	NOUN	NN	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	frame	frame	NOUN	NN	_	_	_	_	_
 
 
@@ -4823,9 +4694,6 @@
 
 
 1	improve	improve	VERB	VB	_	_	_	_	_
-
-
-1	upon	upon	ADP	IN	_	_	_	_	_
 
 
 1	standard	standard	ADJ	JJ	_	_	_	_	_
@@ -5629,9 +5497,6 @@
 1	second	second	ADV	RB	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	clip	clip	NOUN	NN	_	_	_	_	_
 
 
@@ -5672,9 +5537,6 @@
 
 
 1	sample	sample	NOUN	NN	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	class	class	NOUN	NN	_	_	_	_	_
@@ -5881,9 +5743,6 @@
 1	effective	effective	ADJ	JJ	_	_	_	_	_
 
 
-1	among	among	ADP	IN	_	_	_	_	_
-
-
 1	baseline	baseline	NOUN	NN	_	_	_	_	_
 
 
@@ -5906,9 +5765,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	show	show	VERB	VB	_	_	_	_	_
 
 
 1	surprisingly	surprisingly	ADV	RB	_	_	_	_	_
@@ -5953,9 +5809,6 @@
 1	split	split	VERB	VBN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	fix	fix	NOUN	NN	_	_	_	_	_
 
 
@@ -5978,9 +5831,6 @@
 
 
 1	distribution	distribution	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	set	set	VERB	VB	_	_	_	_	_
@@ -6053,9 +5903,6 @@
 
 
 1	class	class	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	split	split	VERB	VBN	_	_	_	_	_
@@ -6280,9 +6127,6 @@
 1	dependency	dependency	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	enhance	enhance	VERB	VB	_	_	_	_	_
 
 
@@ -6323,9 +6167,6 @@
 
 
 1	likely	likely	ADJ	JJ	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	difference	difference	NOUN	NN	_	_	_	_	_
@@ -6371,9 +6212,6 @@
 
 
 1	code	code	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	standardize	standardize	VERB	VB	_	_	_	_	_
@@ -6434,9 +6272,6 @@
 
 
 1	score	score	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	evaluate	evaluate	VERB	VB	_	_	_	_	_
@@ -6527,9 +6362,6 @@
 1	present	present	ADJ	JJ	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	comprehensive	comprehensive	ADJ	JJ	_	_	_	_	_
 
 
@@ -6566,12 +6398,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	distinct	distinct	ADJ	JJ	_	_	_	_	_
 
 
@@ -6587,16 +6413,10 @@
 1	make	make	VERB	VB	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	primary	primary	ADJ	JJ	_	_	_	_	_
 
 
 1	contribution	contribution	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	introduce	introduce	VERB	VB	_	_	_	_	_
@@ -6705,9 +6525,6 @@
 
 
 1	evaluation	evaluation	NOUN	NN	_	_	_	_	_
-
-
-1	third	third	ADJ	JJ	_	_	_	_	_
 
 
 1	provide	provide	VERB	VB	_	_	_	_	_

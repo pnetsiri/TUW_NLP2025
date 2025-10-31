@@ -4,9 +4,6 @@
 1	nuanced	nuanced	ADJ	JJ	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	misinterpret	misinterpret	VERB	VB	_	_	_	_	_
 
 
@@ -154,13 +151,7 @@
 1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	yet	yet	ADV	RB	_	_	_	_	_
 
 
 1	implement	implement	VERB	VB	_	_	_	_	_
@@ -230,9 +221,6 @@
 
 
 1	implication	implication	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	contextualize	contextualize	VERB	VB	_	_	_	_	_
@@ -325,9 +313,6 @@
 1	research	research	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	implication	implication	NOUN	NN	_	_	_	_	_
 
 
@@ -341,9 +326,6 @@
 
 
 1	mining	mining	NOUN	NN	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
@@ -397,9 +379,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	con	con	NOUN	NN	_	_	_	_	_
 
 
@@ -437,9 +416,6 @@
 
 
 1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	multi	multi	NOUN	NN	_	_	_	_	_
@@ -628,9 +604,6 @@
 1	hierarchy	hierarchy	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	tweet	tweet	NOUN	NN	_	_	_	_	_
 
 
@@ -698,9 +671,6 @@
 
 
 1	learn	learn	VERB	VB	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	relate	relate	VERB	VB	_	_	_	_	_
@@ -880,9 +850,6 @@
 1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
@@ -970,9 +937,6 @@
 1	machine	machine	NOUN	NN	_	_	_	_	_
 
 
-1	must	must	AUX	MD	_	_	_	_	_
-
-
 1	infer	infer	VERB	VB	_	_	_	_	_
 
 
@@ -983,9 +947,6 @@
 
 
 1	pattern	pattern	NOUN	NN	_	_	_	_	_
-
-
-1	alone	alone	ADV	RB	_	_	_	_	_
 
 
 1	paper	paper	NOUN	NN	_	_	_	_	_
@@ -1001,9 +962,6 @@
 
 
 1	solution	solution	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	dcnns	dcnns	PROPN	NNP	_	_	_	_	_
@@ -1120,9 +1078,6 @@
 1	human	human	ADJ	JJ	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	detect	detect	VERB	VB	_	_	_	_	_
 
 
@@ -1207,9 +1162,6 @@
 1	transformer	transformer	NOUN	NN	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	feasible	feasible	ADJ	JJ	_	_	_	_	_
 
 
@@ -1220,9 +1172,6 @@
 
 
 1	detection	detection	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	machine	machine	NOUN	NN	_	_	_	_	_
@@ -1372,9 +1321,6 @@
 1	engineering	engineering	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
@@ -1441,12 +1387,6 @@
 1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
-
-
 1	lack	lack	NOUN	NN	_	_	_	_	_
 
 
@@ -1463,9 +1403,6 @@
 
 
 1	build	build	VERB	VB	_	_	_	_	_
-
-
-1	upon	upon	ADP	IN	_	_	_	_	_
 
 
 1	foundation	foundation	NOUN	NN	_	_	_	_	_
@@ -1624,9 +1561,6 @@
 1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	_	_	_	_
-
-
 1	decision	decision	NOUN	NN	_	_	_	_	_
 
 
@@ -1675,9 +1609,6 @@
 1	design	design	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	modular	modular	ADJ	JJ	_	_	_	_	_
 
 
@@ -1685,9 +1616,6 @@
 
 
 1	compose	compose	VERB	VB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	specialized	specialized	VERB	VBN	_	_	_	_	_
@@ -1763,9 +1691,6 @@
 
 
 1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	involve	involve	VERB	VB	_	_	_	_	_
@@ -2044,9 +1969,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	detect	detect	VERB	VB	_	_	_	_	_
 
 
@@ -2078,9 +2000,6 @@
 
 
 1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	signal	signal	VERB	VB	_	_	_	_	_
@@ -2368,9 +2287,6 @@
 1	swap	swap	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	affect	affect	VERB	VB	_	_	_	_	_
 
 
@@ -2428,9 +2344,6 @@
 1	vary	vary	VERB	VB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	language	language	NOUN	NN	_	_	_	_	_
 
 
@@ -2462,9 +2375,6 @@
 
 
 1	region	region	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	generalize	generalize	VERB	VB	_	_	_	_	_
@@ -2581,9 +2491,6 @@
 1	rationale	rationale	NOUN	NN	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
@@ -2656,9 +2563,6 @@
 1	approval	approval	NOUN	NN	_	_	_	_	_
 
 
-1	must	must	AUX	MD	_	_	_	_	_
-
-
 1	obtain	obtain	VERB	VB	_	_	_	_	_
 
 
@@ -2711,9 +2615,6 @@
 
 
 1	responsible	responsible	ADJ	JJ	_	_	_	_	_
-
-
-1	throughout	throughout	ADP	IN	_	_	_	_	_
 
 
 1	lifecycle	lifecycle	NOUN	NN	_	_	_	_	_
@@ -2995,9 +2896,6 @@
 1	aggregate	aggregate	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	concatenation	concatenation	NOUN	NN	_	_	_	_	_
 
 
@@ -3116,9 +3014,6 @@
 
 
 1	typically	typically	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	stage	stage	NOUN	NN	_	_	_	_	_
@@ -3286,9 +3181,6 @@
 1	encode	encode	VERB	VB	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
@@ -3296,9 +3188,6 @@
 
 
 1	process	process	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	dense	dense	ADJ	JJ	_	_	_	_	_
@@ -3373,9 +3262,6 @@
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
@@ -3434,9 +3320,6 @@
 
 
 1	bed	bed	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	bert	bert	PROPN	NNP	_	_	_	_	_
@@ -3535,9 +3418,6 @@
 1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
-1	alone	alone	ADV	RB	_	_	_	_	_
-
-
 1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
@@ -3551,9 +3431,6 @@
 
 
 1	net	net	NOUN	NN	_	_	_	_	_
-
-
-1	alone	alone	ADV	RB	_	_	_	_	_
 
 
 1	achieve	achieve	VERB	VB	_	_	_	_	_
@@ -3625,9 +3502,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	assist	assist	NOUN	NN	_	_	_	_	_
 
 
@@ -3649,9 +3523,6 @@
 1	content	content	NOUN	NN	_	_	_	_	_
 
 
-1	thus	thus	ADV	RB	_	_	_	_	_
-
-
 1	enhance	enhance	VERB	VB	_	_	_	_	_
 
 
@@ -3670,9 +3541,6 @@
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	expand	expand	VERB	VB	_	_	_	_	_
 
 
@@ -3689,9 +3557,6 @@
 
 
 1	tweet	tweet	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	emotion	emotion	NOUN	NN	_	_	_	_	_
@@ -3746,9 +3611,6 @@
 
 
 1	turk	turk	PROPN	NNP	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	validate	validate	VERB	VB	_	_	_	_	_

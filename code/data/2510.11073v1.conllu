@@ -25,9 +25,6 @@
 1	disease	disease	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	raise	raise	VERB	VB	_	_	_	_	_
 
 
@@ -65,9 +62,6 @@
 
 
 1	mology	mology	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	weakly	weakly	ADV	RB	_	_	_	_	_
@@ -139,19 +133,10 @@
 1	0.90	0.90	NUM	CD	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	eleven	eleven	NUM	CD	_	_	_	_	_
-
-
 1	eye	eye	NOUN	NN	_	_	_	_	_
 
 
 1	disease	disease	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	cohort	cohort	NOUN	NN	_	_	_	_	_
@@ -229,9 +214,6 @@
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	rofi	rofi	NOUN	NN	_	_	_	_	_
 
 
@@ -286,9 +268,6 @@
 1	research	research	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	artificial	artificial	ADJ	JJ	_	_	_	_	_
 
 
@@ -340,9 +319,6 @@
 1	annually	annually	ADV	RB	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	collection	collection	NOUN	NN	_	_	_	_	_
 
 
@@ -353,9 +329,6 @@
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	increase	increase	NOUN	NN	_	_	_	_	_
@@ -374,9 +347,6 @@
 
 
 1	26	26	NUM	LS	_	_	_	_	_
-
-
-1	thus	thus	ADV	RB	_	_	_	_	_
 
 
 1	development	development	NOUN	NN	_	_	_	_	_
@@ -416,9 +386,6 @@
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	medical	medical	ADJ	JJ	_	_	_	_	_
@@ -496,9 +463,6 @@
 1	role	role	NOUN	NN	_	_	_	_	_
 
 
-1	many	many	ADJ	JJ	_	_	_	_	_
-
-
 1	medical	medical	ADJ	JJ	_	_	_	_	_
 
 
@@ -565,9 +529,6 @@
 1	sign	sign	VERB	VB	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	periocular	periocular	INTJ	UH	_	_	_	_	_
 
 
@@ -619,9 +580,6 @@
 1	insufficient	insufficient	ADJ	JJ	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	_	_	_	_
-
-
 1	advanced	advanced	ADJ	JJ	_	_	_	_	_
 
 
@@ -638,9 +596,6 @@
 
 
 1	55	55	NUM	LS	_	_	_	_	_
-
-
-1	still	still	ADV	RB	_	_	_	_	_
 
 
 1	identify	identify	VERB	VB	_	_	_	_	_
@@ -686,12 +641,6 @@
 
 
 1	64	64	NUM	LS	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	distort	distort	VERB	VB	_	_	_	_	_
@@ -745,9 +694,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	another	another	DET	DT	_	_	_	_	_
-
-
 1	individual	individual	NOUN	NN	_	_	_	_	_
 
 
@@ -787,9 +733,6 @@
 1	virtual	virtual	ADJ	JJ	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	protect	protect	VERB	VB	_	_	_	_	_
 
 
@@ -797,9 +740,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	heavily	heavily	ADV	RB	_	_	_	_	_
@@ -826,9 +766,6 @@
 1	diagnosis	diagnosis	NOUN	NN	_	_	_	_	_
 
 
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
 1	urgent	urgent	ADJ	JJ	_	_	_	_	_
 
 
@@ -851,9 +788,6 @@
 
 
 1	method	method	NOUN	NN	_	_	_	_	_
-
-
-1	indeed	indeed	ADV	RB	_	_	_	_	_
 
 
 1	preliminary	preliminary	ADJ	JJ	_	_	_	_	_
@@ -922,9 +856,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	enough	enough	ADJ	JJ	_	_	_	_	_
-
-
 1	diagnose	diagnose	VERB	VB	_	_	_	_	_
 
 
@@ -947,9 +878,6 @@
 
 
 1	handle	handle	NOUN	NN	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	complex	complex	ADJ	JJ	_	_	_	_	_
@@ -1087,9 +1015,6 @@
 1	b	b	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	ophthalmic	ophthalmic	ADJ	JJ	_	_	_	_	_
 
 
@@ -1117,9 +1042,6 @@
 1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	key	key	NOUN	NN	_	_	_	_	_
 
 
@@ -1142,9 +1064,6 @@
 
 
 1	detection	detection	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	weakly	weakly	ADV	RB	_	_	_	_	_
@@ -1184,9 +1103,6 @@
 
 
 1	label	label	VERB	VB	_	_	_	_	_
-
-
-1	whether	whether	SCONJ	IN	_	_	_	_	_
 
 
 1	eye	eye	NOUN	NN	_	_	_	_	_
@@ -1381,9 +1297,6 @@
 1	usable	usable	ADJ	JJ	_	_	_	_	_
 
 
-1	throughout	throughout	ADP	IN	_	_	_	_	_
-
-
 1	entire	entire	ADJ	JJ	_	_	_	_	_
 
 
@@ -1403,9 +1316,6 @@
 
 
 1	disease	disease	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	facial	facial	ADJ	JJ	_	_	_	_	_
@@ -1478,12 +1388,6 @@
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	clinical	clinical	ADJ	JJ	_	_	_	_	_
@@ -1585,9 +1489,6 @@
 1	rofi	rofi	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	key	key	NOUN	NN	_	_	_	_	_
 
 
@@ -1613,9 +1514,6 @@
 
 
 1	screen	screen	NOUN	NN	_	_	_	_	_
-
-
-1	eleven	eleven	NUM	CD	_	_	_	_	_
 
 
 1	ophthalmic	ophthalmic	ADJ	JJ	_	_	_	_	_
@@ -1652,9 +1550,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	assess	assess	VERB	VB	_	_	_	_	_
@@ -1798,9 +1693,6 @@
 1	capture	capture	VERB	VB	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	hospital	hospital	NOUN	NN	_	_	_	_	_
 
 
@@ -1841,12 +1733,6 @@
 
 
 1	project	project	NOUN	NN	_	_	_	_	_
-
-
-1	either	either	CCONJ	CC	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	legal	legal	ADJ	JJ	_	_	_	_	_
@@ -1921,12 +1807,6 @@
 1	1	1	NUM	LS	_	_	_	_	_
 
 
-1	least	least	ADJ	JJS	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	facial	facial	ADJ	JJ	_	_	_	_	_
 
 
@@ -1937,9 +1817,6 @@
 
 
 1	take	take	VERB	VB	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
@@ -2029,9 +1906,6 @@
 1	occlusion	occlusion	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	interfere	interfere	VERB	VB	_	_	_	_	_
 
 
@@ -2077,9 +1951,6 @@
 1	cohort	cohort	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	subset	subset	NOUN	NN	_	_	_	_	_
 
 
@@ -2111,9 +1982,6 @@
 
 
 1	validation	validation	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	additional	additional	ADJ	JJ	_	_	_	_	_
@@ -2149,9 +2017,6 @@
 1	enrol	enrol	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	criterion	criterion	NOUN	NN	_	_	_	_	_
 
 
@@ -2183,9 +2048,6 @@
 
 
 1	generalization	generalization	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -2284,9 +2146,6 @@
 1	sign	sign	VERB	VB	_	_	_	_	_
 
 
-1	thereby	thereby	ADV	RB	_	_	_	_	_
-
-
 1	reduce	reduce	VERB	VB	_	_	_	_	_
 
 
@@ -2318,9 +2177,6 @@
 
 
 1	disease	disease	NOUN	NN	_	_	_	_	_
-
-
-1	name	name	NOUN	NN	_	_	_	_	_
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
@@ -2488,9 +2344,6 @@
 1	minor	minor	ADJ	JJ	_	_	_	_	_
 
 
-1	otherwise	otherwise	ADV	RB	_	_	_	_	_
-
-
 1	unable	unable	ADJ	JJ	_	_	_	_	_
 
 
@@ -2608,9 +2461,6 @@
 1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	consequence	consequence	NOUN	NN	_	_	_	_	_
 
 
@@ -2684,9 +2534,6 @@
 
 
 1	method	method	NOUN	NN	_	_	_	_	_
-
-
-1	either	either	CCONJ	CC	_	_	_	_	_
 
 
 1	lack	lack	NOUN	NN	_	_	_	_	_
@@ -2785,9 +2632,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	substitute	substitute	NOUN	NN	_	_	_	_	_
 
 
@@ -2849,9 +2693,6 @@
 
 
 1	da	da	PROPN	NNP	_	_	_	_	_
-
-
-1	former	former	ADJ	JJ	_	_	_	_	_
 
 
 1	refine	refine	VERB	VB	_	_	_	_	_
@@ -2980,9 +2821,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	protect	protect	VERB	VB	_	_	_	_	_
 
 
@@ -3023,9 +2861,6 @@
 
 
 1	rofi	rofi	NOUN	NN	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	preserve	preserve	VERB	VB	_	_	_	_	_
@@ -3202,19 +3037,10 @@
 1	dis	dis	INTJ	UH	_	_	_	_	_
 
 
-1	former	former	ADJ	JJ	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	shape	shape	NOUN	NN	_	_	_	_	_
 
 
 1	quantify	quantify	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	eyelid	eyelid	NOUN	NN	_	_	_	_	_
@@ -3244,12 +3070,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	latter	latter	ADJ	JJ	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	disorder	disorder	NOUN	NN	_	_	_	_	_
 
 
@@ -3266,9 +3086,6 @@
 
 
 1	review	review	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	specialist	specialist	NOUN	NN	_	_	_	_	_
@@ -3319,9 +3136,6 @@
 1	compare	compare	VERB	VB	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	representative	representative	NOUN	NN	_	_	_	_	_
 
 
@@ -3353,9 +3167,6 @@
 
 
 1	mosaic	mosaic	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	state	state	NOUN	NN	_	_	_	_	_
@@ -3538,9 +3349,6 @@
 1	remind	remind	VERB	VB	_	_	_	_	_
 
 
-1	go	go	VERB	VB	_	_	_	_	_
-
-
 1	hospital	hospital	NOUN	NN	_	_	_	_	_
 
 
@@ -3703,9 +3511,6 @@
 1	case	case	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	potentially	potentially	ADV	RB	_	_	_	_	_
 
 
@@ -3778,9 +3583,6 @@
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	cohen	cohen	PROPN	NNP	_	_	_	_	_
 
 
@@ -3797,12 +3599,6 @@
 
 
 1	0.81	0.81	NUM	CD	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	validation	validation	NOUN	NN	_	_	_	_	_
@@ -4012,9 +3808,6 @@
 1	application	application	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	obviously	obviously	ADV	RB	_	_	_	_	_
 
 
@@ -4042,13 +3835,7 @@
 1	poorly	poorly	ADV	RB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	disease	disease	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	removal	removal	NOUN	NN	_	_	_	_	_
@@ -4162,9 +3949,6 @@
 1	0.3386	0.3386	NUM	CD	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	disease	disease	NOUN	NN	_	_	_	_	_
 
 
@@ -4213,9 +3997,6 @@
 1	1.0	1.0	NUM	CD	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	condition	condition	NOUN	NN	_	_	_	_	_
 
 
@@ -4252,9 +4033,6 @@
 1	mask	mask	NOUN	NN	_	_	_	_	_
 
 
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	reach	reach	VERB	VB	_	_	_	_	_
 
 
@@ -4286,9 +4064,6 @@
 
 
 1	rofi	rofi	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	clinically	clinically	ADV	RB	_	_	_	_	_
@@ -4360,9 +4135,6 @@
 1	disease	disease	NOUN	NN	_	_	_	_	_
 
 
-1	besides	besides	ADV	RB	_	_	_	_	_
-
-
 1	rofi	rofi	NOUN	NN	_	_	_	_	_
 
 
@@ -4400,12 +4172,6 @@
 
 
 1	wuph	wuph	PROPN	NNP	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
-
-
-1	much	much	ADV	RB	_	_	_	_	_
 
 
 1	well	well	INTJ	UH	_	_	_	_	_
@@ -4525,9 +4291,6 @@
 1	4	4	NUM	LS	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	indicate	indicate	VERB	VB	_	_	_	_	_
 
 
@@ -4633,9 +4396,6 @@
 1	perform	perform	VERB	VB	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	ted	ted	PROPN	NNP	_	_	_	_	_
 
 
@@ -4657,13 +4417,7 @@
 1	maintain	maintain	VERB	VB	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	disease	disease	NOUN	NN	_	_	_	_	_
@@ -4684,13 +4438,7 @@
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	task	task	NOUN	NN	_	_	_	_	_
-
-
-1	namely	namely	ADV	RB	_	_	_	_	_
 
 
 1	facial	facial	ADJ	JJ	_	_	_	_	_
@@ -4840,9 +4588,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	various	various	ADJ	JJ	_	_	_	_	_
-
-
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
@@ -4915,9 +4660,6 @@
 1	2.9871	2.9871	NUM	CD	_	_	_	_	_
 
 
-1	much	much	ADV	RB	_	_	_	_	_
-
-
 1	low	low	ADJ	JJ	_	_	_	_	_
 
 
@@ -4975,13 +4717,7 @@
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	imply	imply	VERB	VB	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
 
 
 1	potentially	potentially	ADV	RB	_	_	_	_	_
@@ -5107,9 +4843,6 @@
 1	instance	instance	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	snph	snph	INTJ	UH	_	_	_	_	_
 
 
@@ -5204,9 +4937,6 @@
 
 
 1	classification	classification	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	capable	capable	ADJ	JJ	_	_	_	_	_
@@ -5377,12 +5107,6 @@
 1	wuph	wuph	PROPN	NNP	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	small	small	ADJ	JJ	_	_	_	_	_
 
 
@@ -5462,9 +5186,6 @@
 
 
 1	base	base	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	neural	neural	ADJ	JJ	_	_	_	_	_
@@ -5608,9 +5329,6 @@
 1	value	value	NOUN	NN	_	_	_	_	_
 
 
-1	among	among	ADP	IN	_	_	_	_	_
-
-
 1	privacy	privacy	NOUN	NN	_	_	_	_	_
 
 
@@ -5624,9 +5342,6 @@
 
 
 1	snph	snph	INTJ	UH	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	res	res	INTJ	UH	_	_	_	_	_
@@ -5797,9 +5512,6 @@
 1	evaluate	evaluate	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	classic	classic	ADJ	JJ	_	_	_	_	_
 
 
@@ -5932,9 +5644,6 @@
 1	4c	4c	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	vi	vi	NOUN	NN	_	_	_	_	_
 
 
@@ -6010,9 +5719,6 @@
 1	curve	curve	NOUN	NN	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	disease	disease	NOUN	NN	_	_	_	_	_
 
 
@@ -6085,9 +5791,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	disease	disease	NOUN	NN	_	_	_	_	_
 
 
@@ -6097,9 +5800,6 @@
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	either	either	CCONJ	CC	_	_	_	_	_
-
-
 1	match	match	NOUN	NN	_	_	_	_	_
 
 
@@ -6107,9 +5807,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
@@ -6280,9 +5977,6 @@
 1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	train	train	NOUN	NN	_	_	_	_	_
 
 
@@ -6293,9 +5987,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	input	input	NOUN	NN	_	_	_	_	_
@@ -6355,9 +6046,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	privacy	privacy	NOUN	NN	_	_	_	_	_
 
 
@@ -6367,13 +6055,7 @@
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	nevertheless	nevertheless	ADV	RB	_	_	_	_	_
-
-
 1	rofi	rofi	NOUN	NN	_	_	_	_	_
-
-
-1	still	still	ADV	RB	_	_	_	_	_
 
 
 1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
@@ -6601,12 +6283,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	face	face	VERB	VB	_	_	_	_	_
 
 
@@ -6626,9 +6302,6 @@
 
 
 1	face	face	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	ada	ada	NOUN	NN	_	_	_	_	_
@@ -6985,9 +6658,6 @@
 1	13	13	NUM	LS	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	provide	provide	VERB	VB	_	_	_	_	_
 
 
@@ -7084,9 +6754,6 @@
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	advantage	advantage	NOUN	NN	_	_	_	_	_
 
 
@@ -7136,9 +6803,6 @@
 
 
 1	modeling	modeling	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	framework	framework	NOUN	NN	_	_	_	_	_
@@ -7208,9 +6872,6 @@
 
 
 1	fpr	fpr	NOUN	NN	_	_	_	_	_
-
-
-1	full	full	ADJ	JJ	_	_	_	_	_
 
 
 1	detail	detail	NOUN	NN	_	_	_	_	_
@@ -7310,9 +6971,6 @@
 
 
 1	task	task	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	conduct	conduct	VERB	VB	_	_	_	_	_
@@ -7438,12 +7096,6 @@
 1	effectiveness	effectiveness	NOUN	NN	_	_	_	_	_
 
 
-1	among	among	ADP	IN	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
-
-
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
@@ -7457,9 +7109,6 @@
 
 
 1	0.0006	0.0006	NUM	CD	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	note	note	NOUN	NN	_	_	_	_	_
@@ -7484,9 +7133,6 @@
 
 
 1	rofi	rofi	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	strong	strong	ADJ	JJ	_	_	_	_	_
@@ -7544,12 +7190,6 @@
 
 
 1	specifically	specifically	ADV	RB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
-
-
-1	top	top	NOUN	NN	_	_	_	_	_
 
 
 1	perform	perform	VERB	VB	_	_	_	_	_
@@ -7634,9 +7274,6 @@
 
 
 1	1200	1200	NUM	CD	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	tail	tail	NOUN	NN	_	_	_	_	_
@@ -7855,9 +7492,6 @@
 1	audits	audits	NOUN	NNS	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	facilitate	facilitate	VERB	VB	_	_	_	_	_
 
 
@@ -7874,9 +7508,6 @@
 
 
 1	record	record	NOUN	NN	_	_	_	_	_
-
-
-1	thereby	thereby	ADV	RB	_	_	_	_	_
 
 
 1	enhance	enhance	VERB	VB	_	_	_	_	_
@@ -7966,9 +7597,6 @@
 1	0.6378	0.6378	NUM	CD	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	general	general	ADJ	JJ	_	_	_	_	_
 
 
@@ -8006,9 +7634,6 @@
 
 
 1	0.6869	0.6869	NUM	CD	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	suboptimal	suboptimal	ADJ	JJ	_	_	_	_	_
@@ -8072,9 +7697,6 @@
 
 
 1	result	result	NOUN	NN	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
 
 
 1	reliable	reliable	ADJ	JJ	_	_	_	_	_
@@ -8497,9 +8119,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	thereby	thereby	ADV	RB	_	_	_	_	_
-
-
 1	provide	provide	VERB	VB	_	_	_	_	_
 
 
@@ -8581,9 +8200,6 @@
 1	albeit	albeit	ADV	RB	_	_	_	_	_
 
 
-1	latter	latter	ADJ	JJ	_	_	_	_	_
-
-
 1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
@@ -8606,9 +8222,6 @@
 
 
 1	disease	disease	NOUN	NN	_	_	_	_	_
-
-
-1	since	since	ADV	RB	_	_	_	_	_
 
 
 1	method	method	NOUN	NN	_	_	_	_	_
@@ -8648,9 +8261,6 @@
 
 
 1	risk	risk	NOUN	NN	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	retention	retention	NOUN	NN	_	_	_	_	_
@@ -8800,9 +8410,6 @@
 1	distinct	distinct	ADJ	JJ	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
@@ -8828,9 +8435,6 @@
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	visualize	visualize	VERB	VB	_	_	_	_	_
@@ -8917,9 +8521,6 @@
 1	obfuscate	obfuscate	VERB	VB	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	broad	broad	PROPN	NNP	_	_	_	_	_
 
 
@@ -8959,9 +8560,6 @@
 1	offer	offer	VERB	VB	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	advantage	advantage	NOUN	NN	_	_	_	_	_
 
 
@@ -8975,12 +8573,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
-
-
-1	regard	regard	VERB	VB	_	_	_	_	_
 
 
 1	pri	pri	NOUN	NN	_	_	_	_	_
@@ -8999,9 +8591,6 @@
 
 
 1	crop	crop	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	expose	expose	VERB	VB	_	_	_	_	_
@@ -9151,9 +8740,6 @@
 1	privacy	privacy	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	open	open	ADJ	JJ	_	_	_	_	_
 
 
@@ -9277,9 +8863,6 @@
 1	second	second	ADV	RB	_	_	_	_	_
 
 
-1	regard	regard	VERB	VB	_	_	_	_	_
-
-
 1	disease	disease	NOUN	NN	_	_	_	_	_
 
 
@@ -9340,9 +8923,6 @@
 1	manifestation	manifestation	NOUN	NN	_	_	_	_	_
 
 
-1	thereby	thereby	ADV	RB	_	_	_	_	_
-
-
 1	support	support	VERB	VB	_	_	_	_	_
 
 
@@ -9391,9 +8971,6 @@
 1	mark	mark	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	assess	assess	VERB	VB	_	_	_	_	_
 
 
@@ -9424,16 +9001,10 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	completely	completely	ADV	RB	_	_	_	_	_
 
 
 1	lose	lose	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	eye	eye	NOUN	NN	_	_	_	_	_
@@ -9443,9 +9014,6 @@
 
 
 1	strategy	strategy	NOUN	NN	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	case	case	NOUN	NN	_	_	_	_	_
@@ -9484,9 +9052,6 @@
 1	extend	extend	VERB	VB	_	_	_	_	_
 
 
-1	beyond	beyond	ADV	RB	_	_	_	_	_
-
-
 1	eye	eye	NOUN	NN	_	_	_	_	_
 
 
@@ -9511,9 +9076,6 @@
 1	specific	specific	ADJ	JJ	_	_	_	_	_
 
 
-1	full	full	ADJ	JJ	_	_	_	_	_
-
-
 1	face	face	VERB	VB	_	_	_	_	_
 
 
@@ -9524,9 +9086,6 @@
 
 
 1	facie	facie	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	helpful	helpful	ADJ	JJ	_	_	_	_	_
@@ -9560,9 +9119,6 @@
 
 
 1	sign	sign	VERB	VB	_	_	_	_	_
-
-
-1	whereas	whereas	ADV	RB	_	_	_	_	_
 
 
 1	eye	eye	NOUN	NN	_	_	_	_	_
@@ -9608,9 +9164,6 @@
 
 
 1	crop	crop	NOUN	NN	_	_	_	_	_
-
-
-1	rather	rather	ADV	RB	_	_	_	_	_
 
 
 1	rofi	rofi	NOUN	NN	_	_	_	_	_
@@ -9733,9 +9286,6 @@
 1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	give	give	VERB	VB	_	_	_	_	_
 
 
@@ -9800,9 +9350,6 @@
 
 
 1	8	8	NUM	LS	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	transmit	transmit	VERB	VB	_	_	_	_	_
@@ -9973,9 +9520,6 @@
 1	cian	cian	PROPN	NNP	_	_	_	_	_
 
 
-1	must	must	AUX	MD	_	_	_	_	_
-
-
 1	compare	compare	VERB	VB	_	_	_	_	_
 
 
@@ -10087,9 +9631,6 @@
 1	record	record	NOUN	NN	_	_	_	_	_
 
 
-1	thus	thus	ADV	RB	_	_	_	_	_
-
-
 1	maintain	maintain	VERB	VB	_	_	_	_	_
 
 
@@ -10165,9 +9706,6 @@
 1	safe	safe	ADJ	JJ	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	confidentiality	confidentiality	NOUN	NN	_	_	_	_	_
 
 
@@ -10198,9 +9736,6 @@
 1	furthermore	furthermore	ADV	RB	_	_	_	_	_
 
 
-1	even	even	ADV	RB	_	_	_	_	_
-
-
 1	protection	protection	NOUN	NN	_	_	_	_	_
 
 
@@ -10219,9 +9754,6 @@
 1	attacker	attacker	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	private	private	ADJ	JJ	_	_	_	_	_
 
 
@@ -10229,9 +9761,6 @@
 
 
 1	attack	attack	NOUN	NN	_	_	_	_	_
-
-
-1	still	still	ADV	RB	_	_	_	_	_
 
 
 1	obtain	obtain	VERB	VB	_	_	_	_	_
@@ -10265,12 +9794,6 @@
 
 
 1	safe	safe	ADJ	JJ	_	_	_	_	_
-
-
-1	enough	enough	ADJ	JJ	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	key	key	NOUN	NN	_	_	_	_	_
@@ -10396,9 +9919,6 @@
 1	attack	attack	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
@@ -10433,9 +9953,6 @@
 
 
 1	attack	attack	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	attempt	attempt	NOUN	NN	_	_	_	_	_
@@ -10573,13 +10090,7 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	remain	remain	VERB	VB	_	_	_	_	_
-
-
-1	quite	quite	ADV	RB	_	_	_	_	_
 
 
 1	high	high	ADJ	JJ	_	_	_	_	_
@@ -10598,9 +10109,6 @@
 
 
 1	attack	attack	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	basic	basic	ADJ	JJ	_	_	_	_	_
@@ -10663,9 +10171,6 @@
 1	attack	attack	NOUN	NN	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	_	_	_	_
-
-
 1	decrypt	decrypt	VERB	VB	_	_	_	_	_
 
 
@@ -10696,9 +10201,6 @@
 1	notably	notably	ADV	RB	_	_	_	_	_
 
 
-1	even	even	ADV	RB	_	_	_	_	_
-
-
 1	perturbation	perturbation	NOUN	NN	_	_	_	_	_
 
 
@@ -10724,9 +10226,6 @@
 
 
 1	5	5	NUM	LS	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	enhance	enhance	VERB	VB	_	_	_	_	_
@@ -10786,9 +10285,6 @@
 1	zero	zero	NUM	CD	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	test	test	NOUN	NN	_	_	_	_	_
 
 
@@ -10825,9 +10321,6 @@
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	whether	whether	SCONJ	IN	_	_	_	_	_
-
-
 1	defense	defense	NOUN	NN	_	_	_	_	_
 
 
@@ -10847,9 +10340,6 @@
 
 
 1	broadly	broadly	ADV	RB	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	digital	digital	ADJ	JJ	_	_	_	_	_
@@ -10886,9 +10376,6 @@
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	fear	fear	VERB	VB	_	_	_	_	_
@@ -11077,19 +10564,10 @@
 1	limitation	limitation	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	rofi	rofi	NOUN	NN	_	_	_	_	_
 
 
 1	evaluate	evaluate	VERB	VB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	cohort	cohort	NOUN	NN	_	_	_	_	_
@@ -11143,12 +10621,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	initially	initially	ADV	RB	_	_	_	_	_
 
 
@@ -11197,9 +10669,6 @@
 1	photograph	photograph	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	adopt	adopt	VERB	VB	_	_	_	_	_
 
 
@@ -11216,9 +10685,6 @@
 
 
 1	retinopathy	retinopathy	NOUN	NN	_	_	_	_	_
-
-
-1	third	third	ADJ	JJ	_	_	_	_	_
 
 
 1	real	real	ADJ	JJ	_	_	_	_	_
@@ -11243,9 +10709,6 @@
 
 
 1	challenge	challenge	VERB	VB	_	_	_	_	_
-
-
-1	must	must	AUX	MD	_	_	_	_	_
 
 
 1	address	address	NOUN	NN	_	_	_	_	_
@@ -11324,12 +10787,6 @@
 
 
 1	process	process	NOUN	NN	_	_	_	_	_
-
-
-1	must	must	AUX	MD	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	transparent	transparent	ADJ	JJ	_	_	_	_	_
@@ -11434,9 +10891,6 @@
 1	future	future	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	evaluate	evaluate	VERB	VB	_	_	_	_	_
 
 
@@ -11497,12 +10951,6 @@
 1	technique	technique	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
-
-
 1	application	application	NOUN	NN	_	_	_	_	_
 
 
@@ -11554,9 +11002,6 @@
 1	step	step	NOUN	NN	_	_	_	_	_
 
 
-1	towards	towards	ADP	IN	_	_	_	_	_
-
-
 1	harmonize	harmonize	VERB	VB	_	_	_	_	_
 
 
@@ -11588,9 +11033,6 @@
 
 
 1	privacy	privacy	NOUN	NN	_	_	_	_	_
-
-
-1	move	move	VERB	VB	_	_	_	_	_
 
 
 1	era	era	NOUN	NN	_	_	_	_	_
@@ -11737,12 +11179,6 @@
 1	gram	gram	NOUN	NN	_	_	_	_	_
 
 
-1	either	either	CCONJ	CC	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	legal	legal	ADJ	JJ	_	_	_	_	_
 
 
@@ -11842,9 +11278,6 @@
 1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	ophthalmic	ophthalmic	ADJ	JJ	_	_	_	_	_
 
 
@@ -11855,9 +11288,6 @@
 
 
 1	train	train	NOUN	NN	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	weakly	weakly	ADV	RB	_	_	_	_	_
@@ -11950,9 +11380,6 @@
 1	integrate	integrate	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	output	output	NOUN	NN	_	_	_	_	_
 
 
@@ -11998,9 +11425,6 @@
 1	da	da	PROPN	NNP	_	_	_	_	_
 
 
-1	former	former	ADJ	JJ	_	_	_	_	_
-
-
 1	ensure	ensure	VERB	VB	_	_	_	_	_
 
 
@@ -12038,9 +11462,6 @@
 
 
 1	..	..	PUNCT	.	_	_	_	_	_
-
-
-1	whole	whole	ADJ	JJ	_	_	_	_	_
 
 
 1	architecture	architecture	NOUN	NN	_	_	_	_	_
@@ -12163,9 +11584,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	eye	eye	NOUN	NN	_	_	_	_	_
 
 
@@ -12232,9 +11650,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	component	component	NOUN	NN	_	_	_	_	_
 
 
@@ -12250,9 +11665,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	substitute	substitute	NOUN	NN	_	_	_	_	_
 
 
@@ -12263,9 +11675,6 @@
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	detect	detect	VERB	VB	_	_	_	_	_
@@ -12302,9 +11711,6 @@
 
 
 1	da	da	PROPN	NNP	_	_	_	_	_
-
-
-1	former	former	ADJ	JJ	_	_	_	_	_
 
 
 1	figure	figure	NOUN	NN	_	_	_	_	_
@@ -12415,9 +11821,6 @@
 1	form	form	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	private	private	ADJ	JJ	_	_	_	_	_
 
 
@@ -12458,9 +11861,6 @@
 
 
 1	information	information	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	facial	facial	ADJ	JJ	_	_	_	_	_
@@ -12520,9 +11920,6 @@
 1	flatten	flatten	VERB	VB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -12580,9 +11977,6 @@
 1	pass	pass	VERB	VB	_	_	_	_	_
 
 
-1	six	six	NUM	CD	_	_	_	_	_
-
-
 1	transformer	transformer	NOUN	NN	_	_	_	_	_
 
 
@@ -12613,9 +12007,6 @@
 1	information	information	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
@@ -12635,9 +12026,6 @@
 
 
 1	unflattene	unflattene	ADJ	JJ	_	_	_	_	_
-
-
-1	back	back	ADV	RB	_	_	_	_	_
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
@@ -12662,9 +12050,6 @@
 
 
 1	block	block	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	neural	neural	ADJ	JJ	_	_	_	_	_
@@ -12709,37 +12094,19 @@
 1	93.27	93.27	NUM	CD	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	block	block	NOUN	NN	_	_	_	_	_
 
 
 1	96.54	96.54	NUM	CD	_	_	_	_	_
 
 
-1	six	six	NUM	CD	_	_	_	_	_
-
-
 1	block	block	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	increase	increase	NOUN	NN	_	_	_	_	_
 
 
 1	depth	depth	NOUN	NN	_	_	_	_	_
-
-
-1	eight	eight	NUM	CD	_	_	_	_	_
-
-
-1	ten	ten	NUM	CD	_	_	_	_	_
 
 
 1	block	block	NOUN	NN	_	_	_	_	_
@@ -12778,13 +12145,7 @@
 1	10	10	NUM	LS	_	_	_	_	_
 
 
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
 1	adopt	adopt	VERB	VB	_	_	_	_	_
-
-
-1	six	six	NUM	CD	_	_	_	_	_
 
 
 1	block	block	NOUN	NN	_	_	_	_	_
@@ -12806,9 +12167,6 @@
 
 
 1	efficiency	efficiency	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	visualize	visualize	VERB	VB	_	_	_	_	_
@@ -12898,9 +12256,6 @@
 1	remain	remain	VERB	VB	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	preserve	preserve	VERB	VB	_	_	_	_	_
 
 
@@ -12938,9 +12293,6 @@
 
 
 1	6b	6b	NUM	LS	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	difference	difference	NOUN	NN	_	_	_	_	_
@@ -12991,9 +12343,6 @@
 1	fix	fix	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	patient	patient	NOUN	NN	_	_	_	_	_
 
 
@@ -13001,9 +12350,6 @@
 
 
 1	key	key	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	privacy	privacy	NOUN	NN	_	_	_	_	_
@@ -13027,9 +12373,6 @@
 1	information	information	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	restore	restore	VERB	VB	_	_	_	_	_
 
 
@@ -13043,9 +12386,6 @@
 
 
 1	key	key	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	random	random	NOUN	NN	_	_	_	_	_
@@ -13073,9 +12413,6 @@
 
 
 1	face	face	VERB	VB	_	_	_	_	_
-
-
-1	thereby	thereby	ADV	RB	_	_	_	_	_
 
 
 1	maintain	maintain	VERB	VB	_	_	_	_	_
@@ -13153,9 +12490,6 @@
 1	da	da	PROPN	NNP	_	_	_	_	_
 
 
-1	former	former	ADJ	JJ	_	_	_	_	_
-
-
 1	module	module	NOUN	NN	_	_	_	_	_
 
 
@@ -13207,9 +12541,6 @@
 1	map	map	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -13225,9 +12556,6 @@
 1	pass	pass	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	transformer	transformer	NOUN	NN	_	_	_	_	_
 
 
@@ -13241,9 +12569,6 @@
 
 
 1	unflattene	unflattene	ADJ	JJ	_	_	_	_	_
-
-
-1	back	back	ADV	RB	_	_	_	_	_
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
@@ -13411,9 +12736,6 @@
 1	da	da	PROPN	NNP	_	_	_	_	_
 
 
-1	former	former	ADJ	JJ	_	_	_	_	_
-
-
 1	consist	consist	VERB	VB	_	_	_	_	_
 
 
@@ -13474,9 +12796,6 @@
 1	comprise	comprise	VERB	VB	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	residual	residual	ADJ	JJ	_	_	_	_	_
 
 
@@ -13489,25 +12808,16 @@
 1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	residual	residual	ADJ	JJ	_	_	_	_	_
 
 
 1	block	block	NOUN	NN	_	_	_	_	_
 
 
-1	another	another	DET	DT	_	_	_	_	_
-
-
 1	sample	sample	NOUN	NN	_	_	_	_	_
 
 
 1	layer	layer	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	residual	residual	ADJ	JJ	_	_	_	_	_
@@ -13532,9 +12842,6 @@
 
 
 1	consist	consist	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	3	3	NUM	LS	_	_	_	_	_
@@ -13705,9 +13012,6 @@
 1	region	region	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
@@ -13855,9 +13159,6 @@
 1	score	score	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	overall	overall	ADV	RB	_	_	_	_	_
 
 
@@ -13964,12 +13265,6 @@
 
 
 1	consist	consist	VERB	VB	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	stage	stage	NOUN	NN	_	_	_	_	_
@@ -14206,13 +13501,7 @@
 1	96.96	96.96	NUM	CD	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	threshold	threshold	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	risk	risk	NOUN	NN	_	_	_	_	_
@@ -14347,9 +13636,6 @@
 1	0.1	0.1	NUM	CD	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	visualize	visualize	VERB	VB	_	_	_	_	_
 
 
@@ -14410,9 +13696,6 @@
 1	capture	capture	VERB	VB	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	false	false	ADJ	JJ	_	_	_	_	_
 
 
@@ -14435,9 +13718,6 @@
 
 
 1	information	information	NOUN	NN	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	compromise	compromise	NOUN	NN	_	_	_	_	_
@@ -14594,9 +13874,6 @@
 
 
 1	tification	tification	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	machine	machine	NOUN	NN	_	_	_	_	_
@@ -14830,9 +14107,6 @@
 1	diagnosis	diagnosis	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
@@ -14918,12 +14192,6 @@
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
@@ -15094,9 +14362,6 @@
 1	internet	internet	NOUN	NN	_	_	_	_	_
 
 
-1	everything	everything	PRON	NN	_	_	_	_	_
-
-
 1	case	case	NOUN	NN	_	_	_	_	_
 
 
@@ -15200,9 +14465,6 @@
 
 
 1	risk	risk	NOUN	NN	_	_	_	_	_
-
-
-1	whole	whole	ADJ	JJ	_	_	_	_	_
 
 
 1	slide	slide	VERB	VB	_	_	_	_	_
@@ -15517,12 +14779,6 @@
 1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	towards	towards	ADP	IN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	medical	medical	ADJ	JJ	_	_	_	_	_
 
 
@@ -15704,9 +14960,6 @@
 
 
 1	j	j	PROPN	NNP	_	_	_	_	_
-
-
-1	beyond	beyond	ADV	RB	_	_	_	_	_
 
 
 1	dicom	dicom	NOUN	NN	_	_	_	_	_
@@ -15896,9 +15149,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	towards	towards	ADP	IN	_	_	_	_	_
 
 
 1	adjustable	adjustable	ADJ	JJ	_	_	_	_	_
@@ -16393,9 +15643,6 @@
 1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	face	face	VERB	VB	_	_	_	_	_
 
 
@@ -16544,9 +15791,6 @@
 
 
 1	photograph	photograph	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	deep	deep	ADJ	JJ	_	_	_	_	_
@@ -16724,9 +15968,6 @@
 
 
 1	disease	disease	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	mobile	mobile	ADJ	JJ	_	_	_	_	_
@@ -18004,9 +17245,6 @@
 1	swap	swap	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
 
 
@@ -18143,9 +17381,6 @@
 
 
 1	z	z	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	shoot	shoot	VERB	VB	_	_	_	_	_
@@ -18679,9 +17914,6 @@
 1	anonymization	anonymization	NOUN	NN	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	generative	generative	ADJ	JJ	_	_	_	_	_
 
 
@@ -18722,9 +17954,6 @@
 
 
 1	disguise	disguise	VERB	VB	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	disruption	disruption	NOUN	NN	_	_	_	_	_
@@ -18809,9 +18038,6 @@
 
 
 1	conquer	conquer	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	step	step	NOUN	NN	_	_	_	_	_
@@ -19744,9 +18970,6 @@
 1	pathology	pathology	NOUN	NN	_	_	_	_	_
 
 
-1	whole	whole	ADJ	JJ	_	_	_	_	_
-
-
 1	slide	slide	VERB	VB	_	_	_	_	_
 
 
@@ -20368,9 +19591,6 @@
 1	alignment	alignment	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	multitask	multitask	NOUN	NN	_	_	_	_	_
 
 
@@ -20650,9 +19870,6 @@
 1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	temporal	temporal	ADJ	JJ	_	_	_	_	_
 
 
@@ -20705,9 +19922,6 @@
 
 
 1	benchmark	benchmark	NOUN	NN	_	_	_	_	_
-
-
-1	towards	towards	ADP	IN	_	_	_	_	_
 
 
 1	low	low	ADJ	JJ	_	_	_	_	_
@@ -21451,9 +20665,6 @@
 1	attack	attack	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	principle	principle	NOUN	NN	_	_	_	_	_
 
 
@@ -21650,9 +20861,6 @@
 
 
 1	k	k	PROPN	NNP	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	face	face	VERB	VB	_	_	_	_	_
@@ -22024,9 +21232,6 @@
 1	robustness	robustness	NOUN	NN	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	randomize	randomize	VERB	VB	_	_	_	_	_
 
 
@@ -22118,9 +21323,6 @@
 
 
 1	aibench	aibench	NOUN	NN	_	_	_	_	_
-
-
-1	towards	towards	ADP	IN	_	_	_	_	_
 
 
 1	trustworthy	trustworthy	ADJ	JJ	_	_	_	_	_
@@ -22771,9 +21973,6 @@
 1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	time	time	NOUN	NN	_	_	_	_	_
 
 
@@ -22984,9 +22183,6 @@
 1	augmentation	augmentation	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	random	random	NOUN	NN	_	_	_	_	_
 
 
@@ -23108,9 +22304,6 @@
 
 
 1	kappa	kappa	NOUN	NN	_	_	_	_	_
-
-
-1	beyond	beyond	ADV	RB	_	_	_	_	_
 
 
 1	agreement	agreement	NOUN	NN	_	_	_	_	_
@@ -23294,9 +22487,6 @@
 
 
 1	da	da	PROPN	NNP	_	_	_	_	_
-
-
-1	former	former	ADJ	JJ	_	_	_	_	_
 
 
 1	success	success	NOUN	NN	_	_	_	_	_

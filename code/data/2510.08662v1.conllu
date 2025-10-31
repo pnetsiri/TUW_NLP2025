@@ -16,9 +16,6 @@
 1	security	security	NOUN	NN	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	critical	critical	ADJ	JJ	_	_	_	_	_
 
 
@@ -79,9 +76,6 @@
 1	leverage	leverage	NOUN	NN	_	_	_	_	_
 
 
-1	whole	whole	ADJ	JJ	_	_	_	_	_
-
-
 1	genome	genome	NOUN	NN	_	_	_	_	_
 
 
@@ -109,9 +103,6 @@
 1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	tradi	tradi	NOUN	NN	_	_	_	_	_
 
 
@@ -122,9 +113,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	still	still	ADV	RB	_	_	_	_	_
 
 
 1	face	face	VERB	VB	_	_	_	_	_
@@ -172,9 +160,6 @@
 1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	along	along	ADV	RB	_	_	_	_	_
-
-
 1	heavy	heavy	ADJ	JJ	_	_	_	_	_
 
 
@@ -203,9 +188,6 @@
 
 
 1	correlation	correlation	NOUN	NN	_	_	_	_	_
-
-
-1	former	former	ADJ	JJ	_	_	_	_	_
 
 
 1	dpcformer	dpcformer	NOUN	NN	_	_	_	_	_
@@ -280,12 +262,6 @@
 1	trait	trait	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	major	major	ADJ	JJ	_	_	_	_	_
 
 
@@ -328,9 +304,6 @@
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	hot	hot	ADJ	JJ	_	_	_	_	_
 
 
@@ -359,9 +332,6 @@
 
 
 1	selection	selection	NOUN	NN	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	pmf	pmf	NOUN	NN	_	_	_	_	_
@@ -412,9 +382,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	diverse	diverse	ADJ	JJ	_	_	_	_	_
 
 
@@ -440,9 +407,6 @@
 
 
 1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	trait	trait	NOUN	NN	_	_	_	_	_
@@ -526,9 +490,6 @@
 1	relative	relative	ADJ	JJ	_	_	_	_	_
 
 
-1	top	top	NOUN	NN	_	_	_	_	_
-
-
 1	perform	perform	VERB	VB	_	_	_	_	_
 
 
@@ -545,9 +506,6 @@
 
 
 1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	trait	trait	NOUN	NN	_	_	_	_	_
@@ -590,9 +548,6 @@
 
 
 1	increase	increase	NOUN	NN	_	_	_	_	_
-
-
-1	much	much	ADV	RB	_	_	_	_	_
 
 
 1	8.37	8.37	NUM	CD	_	_	_	_	_
@@ -665,9 +620,6 @@
 
 
 1	yield	yield	VERB	VB	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	plant	plant	NOUN	NN	_	_	_	_	_
@@ -916,13 +868,7 @@
 1	technology	technology	NOUN	NN	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	indispensable	indispensable	ADJ	JJ	_	_	_	_	_
-
-
-1	although	although	SCONJ	IN	_	_	_	_	_
 
 
 1	traditional	traditional	ADJ	JJ	_	_	_	_	_
@@ -1102,9 +1048,6 @@
 1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	thereby	thereby	ADV	RB	_	_	_	_	_
-
-
 1	accelerate	accelerate	VERB	VB	_	_	_	_	_
 
 
@@ -1112,9 +1055,6 @@
 
 
 1	process	process	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	despite	despite	ADP	IN	_	_	_	_	_
@@ -1129,13 +1069,7 @@
 1	gs	gs	PROPN	NNP	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	hinder	hinder	VERB	VB	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
 
 
 1	challenge	challenge	VERB	VB	_	_	_	_	_
@@ -1234,9 +1168,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	inadequately	inadequately	ADV	RB	_	_	_	_	_
 
 
@@ -1295,9 +1226,6 @@
 
 
 1	modeling	modeling	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	diverse	diverse	ADJ	JJ	_	_	_	_	_
@@ -1552,9 +1480,6 @@
 1	crop	crop	NOUN	NN	_	_	_	_	_
 
 
-1	former	former	ADJ	JJ	_	_	_	_	_
-
-
 1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
 
 
@@ -1589,9 +1514,6 @@
 
 
 1	anism	anism	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	significant	significant	ADJ	JJ	_	_	_	_	_
@@ -1702,13 +1624,7 @@
 1	correlation	correlation	NOUN	NN	_	_	_	_	_
 
 
-1	former	former	ADJ	JJ	_	_	_	_	_
-
-
 1	dpc	dpc	NOUN	NN	_	_	_	_	_
-
-
-1	former	former	ADJ	JJ	_	_	_	_	_
 
 
 1	novel	novel	NOUN	NN	_	_	_	_	_
@@ -1819,9 +1735,6 @@
 1	selection	selection	NOUN	NN	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	probabilistic	probabilistic	ADJ	JJ	_	_	_	_	_
 
 
@@ -1921,9 +1834,6 @@
 1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	thereby	thereby	ADV	RB	_	_	_	_	_
-
-
 1	establish	establish	VERB	VB	_	_	_	_	_
 
 
@@ -1955,9 +1865,6 @@
 
 
 1	ld	ld	PROPN	NNP	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	plink	plink	NOUN	NN	_	_	_	_	_
@@ -2104,9 +2011,6 @@
 1	ly	ly	INTJ	UH	_	_	_	_	_
 
 
-1	ten	ten	NUM	CD	_	_	_	_	_
-
-
 1	fold	fold	VERB	VB	_	_	_	_	_
 
 
@@ -2179,9 +2083,6 @@
 1	average	average	ADJ	JJ	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	fold	fold	VERB	VB	_	_	_	_	_
 
 
@@ -2219,9 +2120,6 @@
 
 
 1	ftp	ftp	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	analyze	analyze	VERB	VB	_	_	_	_	_
@@ -2419,9 +2317,6 @@
 1	prediction	prediction	NOUN	NN	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	key	key	NOUN	NN	_	_	_	_	_
 
 
@@ -2506,13 +2401,7 @@
 1	determine	determine	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	subgenome	subgenome	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	genome	genome	NOUN	NN	_	_	_	_	_
@@ -2611,9 +2500,6 @@
 1	subgenome	subgenome	NOUN	NN	_	_	_	_	_
 
 
-1	thereby	thereby	ADV	RB	_	_	_	_	_
-
-
 1	modeling	modeling	NOUN	NN	_	_	_	_	_
 
 
@@ -2678,9 +2564,6 @@
 
 
 1	pair	pair	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	subgenome	subgenome	NOUN	NN	_	_	_	_	_
@@ -2813,9 +2696,6 @@
 
 
 1	test	test	NOUN	NN	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	key	key	NOUN	NN	_	_	_	_	_
@@ -2977,9 +2857,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	trait	trait	NOUN	NN	_	_	_	_	_
 
 
@@ -3011,9 +2888,6 @@
 
 
 1	collect	collect	VERB	VB	_	_	_	_	_
-
-
-1	five	five	NUM	CD	_	_	_	_	_
 
 
 1	distinct	distinct	ADJ	JJ	_	_	_	_	_
@@ -3073,9 +2947,6 @@
 1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	capture	capture	VERB	VB	_	_	_	_	_
 
 
@@ -3130,9 +3001,6 @@
 1	width	width	NOUN	NN	_	_	_	_	_
 
 
-1	hundred	hundred	NUM	CD	_	_	_	_	_
-
-
 1	seed	seed	NOUN	NN	_	_	_	_	_
 
 
@@ -3140,9 +3008,6 @@
 
 
 1	yield	yield	VERB	VB	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	plant	plant	NOUN	NN	_	_	_	_	_
@@ -3176,9 +3041,6 @@
 
 
 1	snp	snp	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	chromo	chromo	NOUN	NN	_	_	_	_	_
@@ -3280,9 +3142,6 @@
 1	select	select	VERB	VB	_	_	_	_	_
 
 
-1	top	top	NOUN	NN	_	_	_	_	_
-
-
 1	k	k	PROPN	NNP	_	_	_	_	_
 
 
@@ -3341,9 +3200,6 @@
 
 
 1	explore	explore	VERB	VB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	grid	grid	NOUN	NN	_	_	_	_	_
@@ -3481,9 +3337,6 @@
 1	rely	rely	VERB	VB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -3565,13 +3418,7 @@
 1	adopt	adopt	VERB	VB	_	_	_	_	_
 
 
-1	eight	eight	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	hot	hot	ADJ	JJ	_	_	_	_	_
@@ -3598,25 +3445,16 @@
 1	g	g	PROPN	NNP	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	map	map	NOUN	NN	_	_	_	_	_
 
 
 1	unique	unique	ADJ	JJ	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
 1	4d	4d	NUM	LS	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	hot	hot	ADJ	JJ	_	_	_	_	_
@@ -3637,9 +3475,6 @@
 1	concatenate	concatenate	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	correspond	correspond	VERB	VB	_	_	_	_	_
 
 
@@ -3655,9 +3490,6 @@
 1	final	final	ADJ	JJ	_	_	_	_	_
 
 
-1	eight	eight	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -3671,9 +3503,6 @@
 
 
 1	let	let	VERB	VB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	hot	hot	ADJ	JJ	_	_	_	_	_
@@ -3916,9 +3745,6 @@
 1	chromosome	chromosome	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	chromosome	chromosome	NOUN	NN	_	_	_	_	_
 
 
@@ -3988,13 +3814,7 @@
 1	snp	snp	NOUN	NN	_	_	_	_	_
 
 
-1	along	along	ADV	RB	_	_	_	_	_
-
-
 1	chromosome	chromosome	NOUN	NN	_	_	_	_	_
-
-
-1	thereby	thereby	ADV	RB	_	_	_	_	_
 
 
 1	allow	allow	VERB	VB	_	_	_	_	_
@@ -4168,9 +3988,6 @@
 1	segmentation	segmentation	NOUN	NN	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	map	map	NOUN	NN	_	_	_	_	_
 
 
@@ -4241,9 +4058,6 @@
 
 
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	linear	linear	ADJ	JJ	_	_	_	_	_
@@ -4453,9 +4267,6 @@
 1	000	000	NUM	CD	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	zero	zero	NUM	CD	_	_	_	_	_
 
 
@@ -4579,9 +4390,6 @@
 1	selection	selection	NOUN	NN	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	mic	mic	NOUN	NN	_	_	_	_	_
 
 
@@ -4601,9 +4409,6 @@
 
 
 1	concatenate	concatenate	VERB	VB	_	_	_	_	_
-
-
-1	along	along	ADV	RB	_	_	_	_	_
 
 
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
@@ -4864,9 +4669,6 @@
 1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	adam	adam	PROPN	NNP	_	_	_	_	_
 
 
@@ -5020,9 +4822,6 @@
 1	comprise	comprise	VERB	VB	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	core	core	NOUN	NN	_	_	_	_	_
 
 
@@ -5108,9 +4907,6 @@
 
 
 1	dependency	dependency	NOUN	NN	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	snp	snp	NOUN	NN	_	_	_	_	_
@@ -5222,9 +5018,6 @@
 
 
 1	implement	implement	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	py	py	NOUN	NN	_	_	_	_	_
@@ -5455,9 +5248,6 @@
 1	calculate	calculate	VERB	VB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	fold	fold	VERB	VB	_	_	_	_	_
 
 
@@ -5510,9 +5300,6 @@
 
 
 1	consist	consist	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	1d	1d	NUM	LS	_	_	_	_	_
@@ -5671,9 +5458,6 @@
 1	concatenate	concatenate	VERB	VB	_	_	_	_	_
 
 
-1	along	along	ADV	RB	_	_	_	_	_
-
-
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
 
 
@@ -5779,16 +5563,10 @@
 1	dpcformer	dpcformer	NOUN	NN	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	different	different	ADJ	JJ	_	_	_	_	_
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	pcc	pcc	NOUN	NN	_	_	_	_	_
@@ -5801,9 +5579,6 @@
 
 
 1	prediction	prediction	NOUN	NN	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	formance	formance	NOUN	NN	_	_	_	_	_
@@ -5863,13 +5638,7 @@
 1	excellent	excellent	ADJ	JJ	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	formance	formance	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
@@ -5900,9 +5669,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	dk	dk	NOUN	NN	_	_	_	_	_
@@ -6034,12 +5800,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	trait	trait	NOUN	NN	_	_	_	_	_
 
 
@@ -6071,9 +5831,6 @@
 
 
 1	yield	yield	VERB	VB	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	plant	plant	NOUN	NN	_	_	_	_	_
@@ -6121,9 +5878,6 @@
 1	15.63	15.63	NUM	CD	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	trait	trait	NOUN	NN	_	_	_	_	_
 
 
@@ -6155,9 +5909,6 @@
 
 
 1	crop	crop	NOUN	NN	_	_	_	_	_
-
-
-1	former	former	ADJ	JJ	_	_	_	_	_
 
 
 1	dnngp	dnngp	PROPN	NNP	_	_	_	_	_
@@ -6229,9 +5980,6 @@
 1	evaluate	evaluate	VERB	VB	_	_	_	_	_
 
 
-1	various	various	ADJ	JJ	_	_	_	_	_
-
-
 1	configuration	configuration	NOUN	NN	_	_	_	_	_
 
 
@@ -6242,9 +5990,6 @@
 
 
 1	exclude	exclude	VERB	VB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	architectural	architectural	ADJ	JJ	_	_	_	_	_
@@ -6349,9 +6094,6 @@
 1	reveal	reveal	VERB	VB	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	key	key	NOUN	NN	_	_	_	_	_
 
 
@@ -6448,9 +6190,6 @@
 1	2	2	NUM	LS	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	physical	physical	ADJ	JJ	_	_	_	_	_
 
 
@@ -6461,9 +6200,6 @@
 
 
 1	module	module	NOUN	NN	_	_	_	_	_
-
-
-1	alone	alone	ADV	RB	_	_	_	_	_
 
 
 1	provide	provide	VERB	VB	_	_	_	_	_
@@ -6548,9 +6284,6 @@
 
 
 1	integration	integration	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	component	component	NOUN	NN	_	_	_	_	_
@@ -6652,9 +6385,6 @@
 1	0.001	0.001	NUM	CD	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	pair	pair	NOUN	NN	_	_	_	_	_
 
 
@@ -6688,31 +6418,16 @@
 1	build	build	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	different	different	ADJ	JJ	_	_	_	_	_
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	trait	trait	NOUN	NN	_	_	_	_	_
-
-
-1	five	five	NUM	CD	_	_	_	_	_
 
 
 1	geographical	geographical	ADJ	JJ	_	_	_	_	_
@@ -6793,9 +6508,6 @@
 1	1.10	1.10	NUM	CD	_	_	_	_	_
 
 
-1	beyond	beyond	ADV	RB	_	_	_	_	_
-
-
 1	geformer	geformer	NOUN	NN	_	_	_	_	_
 
 
@@ -6860,9 +6572,6 @@
 
 
 1	crop	crop	NOUN	NN	_	_	_	_	_
-
-
-1	former	former	ADJ	JJ	_	_	_	_	_
 
 
 1	ew	ew	INTJ	UH	_	_	_	_	_
@@ -7177,9 +6886,6 @@
 1	loci	loci	NOUN	NN	_	_	_	_	_
 
 
-1	top	top	NOUN	NN	_	_	_	_	_
-
-
 1	rank	rank	NOUN	NN	_	_	_	_	_
 
 
@@ -7202,9 +6908,6 @@
 
 
 1	reveal	reveal	VERB	VB	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
 
 
 1	candidate	candidate	NOUN	NN	_	_	_	_	_
@@ -7324,9 +7027,6 @@
 1	notably	notably	ADV	RB	_	_	_	_	_
 
 
-1	top	top	NOUN	NN	_	_	_	_	_
-
-
 1	rank	rank	NOUN	NN	_	_	_	_	_
 
 
@@ -7372,9 +7072,6 @@
 1	factor	factor	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	establish	establish	VERB	VB	_	_	_	_	_
 
 
@@ -7385,9 +7082,6 @@
 
 
 1	height	height	NOUN	NN	_	_	_	_	_
-
-
-1	regard	regard	VERB	VB	_	_	_	_	_
 
 
 1	ear	ear	NOUN	NN	_	_	_	_	_
@@ -7433,9 +7127,6 @@
 
 
 1	5	5	NUM	LS	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	gene	gene	NOUN	NN	_	_	_	_	_
@@ -7648,9 +7339,6 @@
 1	5	5	NUM	LS	_	_	_	_	_
 
 
-1	top	top	NOUN	NN	_	_	_	_	_
-
-
 1	20	20	NUM	LS	_	_	_	_	_
 
 
@@ -7798,12 +7486,6 @@
 1	trait	trait	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	econom	econom	NOUN	NN	_	_	_	_	_
 
 
@@ -7840,9 +7522,6 @@
 1	dpc	dpc	NOUN	NN	_	_	_	_	_
 
 
-1	former	former	ADJ	JJ	_	_	_	_	_
-
-
 1	exhibit	exhibit	NOUN	NN	_	_	_	_	_
 
 
@@ -7867,13 +7546,7 @@
 1	employ	employ	VERB	VB	_	_	_	_	_
 
 
-1	eight	eight	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	hot	hot	ADJ	JJ	_	_	_	_	_
@@ -7898,9 +7571,6 @@
 
 
 1	ship	ship	NOUN	NN	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	snp	snp	NOUN	NN	_	_	_	_	_
@@ -8134,9 +7804,6 @@
 1	cotton	cotton	NOUN	NN	_	_	_	_	_
 
 
-1	wherein	wherein	ADV	WRB	_	_	_	_	_
-
-
 1	homoeologous	homoeologous	NOUN	NN	_	_	_	_	_
 
 
@@ -8203,9 +7870,6 @@
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	limita	limita	NOUN	NN	_	_	_	_	_
 
 
@@ -8219,9 +7883,6 @@
 
 
 1	direction	direction	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	hand	hand	NOUN	NN	_	_	_	_	_
@@ -8249,9 +7910,6 @@
 
 
 1	coordinate	coordinate	VERB	VB	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	incorporate	incorporate	VERB	VB	_	_	_	_	_
@@ -8359,13 +8017,7 @@
 1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	constrain	constrain	VERB	VB	_	_	_	_	_
-
-
-1	full	full	ADJ	JJ	_	_	_	_	_
 
 
 1	potential	potential	ADJ	JJ	_	_	_	_	_
@@ -8381,9 +8033,6 @@
 
 
 1	4	4	NUM	LS	_	_	_	_	_
-
-
-1	top	top	NOUN	NN	_	_	_	_	_
 
 
 1	20	20	NUM	LS	_	_	_	_	_
@@ -8758,9 +8407,6 @@
 1	engine	engine	NOUN	NN	_	_	_	_	_
 
 
-1	mine	mine	PRON	PRP	_	_	_	_	_
-
-
 1	suite	suite	NOUN	NN	_	_	_	_	_
 
 
@@ -8935,9 +8581,6 @@
 1	l	l	PROPN	NNP	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
 1	h	h	PROPN	NNP	_	_	_	_	_
 
 
@@ -9050,9 +8693,6 @@
 
 
 1	e77	e77	NUM	LS	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	2021	2021	NUM	CD	_	_	_	_	_

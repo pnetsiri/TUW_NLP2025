@@ -43,9 +43,6 @@
 1	people	people	NOUN	NNS	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	early	early	ADJ	JJ	_	_	_	_	_
 
 
@@ -152,9 +149,6 @@
 
 
 1	skill	skill	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	longitudinal	longitudinal	ADJ	JJ	_	_	_	_	_
@@ -340,9 +334,6 @@
 1	focus	focus	VERB	VB	_	_	_	_	_
 
 
-1	toward	toward	ADP	IN	_	_	_	_	_
-
-
 1	early	early	ADJ	JJ	_	_	_	_	_
 
 
@@ -487,9 +478,6 @@
 1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	unique	unique	ADJ	JJ	_	_	_	_	_
 
 
@@ -584,9 +572,6 @@
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
@@ -916,9 +901,6 @@
 1	challenge	challenge	VERB	VB	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	manifest	manifest	VERB	VB	_	_	_	_	_
 
 
@@ -955,9 +937,6 @@
 1	educator	educator	NOUN	NN	_	_	_	_	_
 
 
-1	even	even	ADV	RB	_	_	_	_	_
-
-
 1	advanced	advanced	ADJ	JJ	_	_	_	_	_
 
 
@@ -977,9 +956,6 @@
 
 
 1	state	state	NOUN	NN	_	_	_	_	_
-
-
-1	yet	yet	ADV	RB	_	_	_	_	_
 
 
 1	effective	effective	ADJ	JJ	_	_	_	_	_
@@ -1258,9 +1234,6 @@
 1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	pre	pre	NOUN	NN	_	_	_	_	_
 
 
@@ -1456,9 +1429,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	back	back	ADV	RB	_	_	_	_	_
-
-
 1	ground	ground	NOUN	NN	_	_	_	_	_
 
 
@@ -1634,9 +1604,6 @@
 
 
 1	heterogeneity	heterogeneity	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	asd	asd	INTJ	UH	_	_	_	_	_
@@ -2647,9 +2614,6 @@
 1	employ	employ	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	stage	stage	NOUN	NN	_	_	_	_	_
 
 
@@ -2672,9 +2636,6 @@
 
 
 1	component	component	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	stage	stage	NOUN	NN	_	_	_	_	_
@@ -2995,9 +2956,6 @@
 1	metric	metric	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
@@ -3134,9 +3092,6 @@
 1	tion	tion	INTJ	UH	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	15	15	NUM	LS	_	_	_	_	_
 
 
@@ -3150,9 +3105,6 @@
 
 
 1	adjustment	adjustment	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	0.2	0.2	NUM	CD	_	_	_	_	_
@@ -3449,9 +3401,6 @@
 1	replace	replace	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	3	3	NUM	LS	_	_	_	_	_
 
 
@@ -3632,9 +3581,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	asd	asd	INTJ	UH	_	_	_	_	_
 
 
@@ -3642,9 +3588,6 @@
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	state	state	NOUN	NN	_	_	_	_	_
@@ -3678,9 +3621,6 @@
 
 
 1	condition	condition	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	prepro	prepro	NOUN	NN	_	_	_	_	_
@@ -3720,9 +3660,6 @@
 
 
 1	improvement	improvement	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
@@ -3774,9 +3711,6 @@
 
 
 1	function	function	NOUN	NN	_	_	_	_	_
-
-
-1	regard	regard	VERB	VB	_	_	_	_	_
 
 
 1	classification	classification	NOUN	NN	_	_	_	_	_
@@ -3923,9 +3857,6 @@
 1	improvement	improvement	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
@@ -4032,9 +3963,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	autoencorder	autoencorder	PROPN	NNP	_	_	_	_	_
@@ -4391,9 +4319,6 @@
 1	consistency	consistency	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
@@ -4446,9 +4371,6 @@
 
 
 1	consistency	consistency	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -4904,9 +4826,6 @@
 1	magnitude	magnitude	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	dif	dif	INTJ	UH	_	_	_	_	_
 
 
@@ -5040,9 +4959,6 @@
 
 
 1	improvement	improvement	NOUN	NN	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	low	low	ADJ	JJ	_	_	_	_	_
@@ -5235,9 +5151,6 @@
 
 
 1	improvement	improvement	NOUN	NN	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	substantial	substantial	ADJ	JJ	_	_	_	_	_
@@ -5435,9 +5348,6 @@
 1	standardization	standardization	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	contribute	contribute	VERB	VB	_	_	_	_	_
 
 
@@ -5466,9 +5376,6 @@
 
 
 1	variability	variability	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
@@ -5579,12 +5486,6 @@
 1	chance	chance	NOUN	NN	_	_	_	_	_
 
 
-1	alone	alone	ADV	RB	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
-
-
 1	0.1	0.1	NUM	CD	_	_	_	_	_
 
 
@@ -5628,9 +5529,6 @@
 
 
 1	0.001	0.001	NUM	CD	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	confirm	confirm	VERB	VB	_	_	_	_	_
@@ -5682,9 +5580,6 @@
 
 
 1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	classification	classification	NOUN	NN	_	_	_	_	_
@@ -5825,9 +5720,6 @@
 1	leverage	leverage	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	advanced	advanced	ADJ	JJ	_	_	_	_	_
 
 
@@ -5877,9 +5769,6 @@
 
 
 1	improvement	improvement	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	key	key	NOUN	NN	_	_	_	_	_
@@ -6008,9 +5897,6 @@
 1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	different	different	ADJ	JJ	_	_	_	_	_
 
 
@@ -6051,9 +5937,6 @@
 
 
 1	recognition	recognition	NOUN	NN	_	_	_	_	_
-
-
-1	rather	rather	ADV	RB	_	_	_	_	_
 
 
 1	architecture	architecture	NOUN	NN	_	_	_	_	_
@@ -6122,12 +6005,6 @@
 1	improvement	improvement	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	distinctly	distinctly	ADV	RB	_	_	_	_	_
 
 
@@ -6194,9 +6071,6 @@
 1	extend	extend	VERB	VB	_	_	_	_	_
 
 
-1	beyond	beyond	ADV	RB	_	_	_	_	_
-
-
 1	idiosyncrasy	idiosyncrasy	NOUN	NN	_	_	_	_	_
 
 
@@ -6225,9 +6099,6 @@
 
 
 1	0.004	0.004	NUM	CD	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	imply	imply	VERB	VB	_	_	_	_	_
@@ -6311,9 +6182,6 @@
 1	recognition	recognition	NOUN	NN	_	_	_	_	_
 
 
-1	rather	rather	ADV	RB	_	_	_	_	_
-
-
 1	exploit	exploit	VERB	VB	_	_	_	_	_
 
 
@@ -6348,9 +6216,6 @@
 
 
 1	domain	domain	NOUN	NN	_	_	_	_	_
-
-
-1	beyond	beyond	ADV	RB	_	_	_	_	_
 
 
 1	asd	asd	INTJ	UH	_	_	_	_	_
@@ -6560,9 +6425,6 @@
 1	approximately	approximately	ADV	RB	_	_	_	_	_
 
 
-1	every	every	DET	DT	_	_	_	_	_
-
-
 1	8	8	NUM	LS	_	_	_	_	_
 
 
@@ -6576,9 +6438,6 @@
 
 
 1	system	system	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	additional	additional	ADJ	JJ	_	_	_	_	_
@@ -6633,9 +6492,6 @@
 
 
 1	autoencoder	autoencoder	PROPN	NNP	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	variant	variant	NOUN	NN	_	_	_	_	_
@@ -7214,9 +7070,6 @@
 1	restoration	restoration	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
@@ -7272,9 +7125,6 @@
 
 
 1	description	description	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	variational	variational	ADJ	JJ	_	_	_	_	_
@@ -7397,9 +7247,6 @@
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
@@ -7407,9 +7254,6 @@
 
 
 1	encoder	encoder	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	class	class	NOUN	NN	_	_	_	_	_
@@ -7868,9 +7712,6 @@
 1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	among	among	ADP	IN	_	_	_	_	_
-
-
 1	high	high	ADJ	JJ	_	_	_	_	_
 
 
@@ -7913,9 +7754,6 @@
 1	0.5	0.5	NUM	CD	_	_	_	_	_
 
 
-1	whereas	whereas	ADV	RB	_	_	_	_	_
-
-
 1	present	present	ADJ	JJ	_	_	_	_	_
 
 
@@ -7923,9 +7761,6 @@
 
 
 1	achieve	achieve	VERB	VB	_	_	_	_	_
-
-
-1	much	much	ADV	RB	_	_	_	_	_
 
 
 1	great	great	ADJ	JJ	_	_	_	_	_
@@ -8018,9 +7853,6 @@
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	limitation	limitation	NOUN	NN	_	_	_	_	_
 
 
@@ -8042,9 +7874,6 @@
 1	assumption	assumption	NOUN	NN	_	_	_	_	_
 
 
-1	regard	regard	VERB	VB	_	_	_	_	_
-
-
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
@@ -8055,9 +7884,6 @@
 
 
 1	size	size	NOUN	NN	_	_	_	_	_
-
-
-1	thus	thus	ADV	RB	_	_	_	_	_
 
 
 1	confirmatory	confirmatory	NOUN	NN	_	_	_	_	_
@@ -8081,25 +7907,16 @@
 1	recommend	recommend	VERB	VB	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	substantiate	substantiate	VERB	VB	_	_	_	_	_
 
 
 1	finding	finding	VERB	VBG	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
 1	include	include	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	prominent	prominent	ADJ	JJ	_	_	_	_	_
@@ -8141,12 +7958,6 @@
 1	family	family	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	confirm	confirm	VERB	VB	_	_	_	_	_
 
 
@@ -8166,9 +7977,6 @@
 
 
 1	research	research	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	explore	explore	VERB	VB	_	_	_	_	_
@@ -8297,9 +8105,6 @@
 1	gain	gain	VERB	VB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
@@ -8349,9 +8154,6 @@
 
 
 1	method	method	NOUN	NN	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
 
 
 1	meaningfully	meaningfully	ADV	RB	_	_	_	_	_
@@ -8484,9 +8286,6 @@
 
 
 1	foundation	foundation	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	research	research	NOUN	NN	_	_	_	_	_

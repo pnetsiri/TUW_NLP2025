@@ -37,9 +37,6 @@
 1	authentication	authentication	NOUN	NN	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	increasingly	increasingly	ADV	RB	_	_	_	_	_
 
 
@@ -221,9 +218,6 @@
 
 
 1	storage	storage	NOUN	NN	_	_	_	_	_
-
-
-1	thereby	thereby	ADV	RB	_	_	_	_	_
 
 
 1	enable	enable	VERB	VB	_	_	_	_	_
@@ -562,13 +556,7 @@
 1	identity	identity	NOUN	NN	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	critical	critical	ADJ	JJ	_	_	_	_	_
-
-
-1	ever	ever	ADV	RB	_	_	_	_	_
 
 
 1	increase	increase	NOUN	NN	_	_	_	_	_
@@ -626,9 +614,6 @@
 
 
 1	reuse	reuse	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	vulnerable	vulnerable	ADJ	JJ	_	_	_	_	_
@@ -700,9 +685,6 @@
 1	factor	factor	NOUN	NN	_	_	_	_	_
 
 
-1	something	something	PRON	NN	_	_	_	_	_
-
-
 1	user	user	NOUN	NN	_	_	_	_	_
 
 
@@ -715,9 +697,6 @@
 1	password	password	NOUN	NN	_	_	_	_	_
 
 
-1	something	something	PRON	NN	_	_	_	_	_
-
-
 1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
@@ -725,9 +704,6 @@
 
 
 1	card	card	NOUN	NN	_	_	_	_	_
-
-
-1	something	something	PRON	NN	_	_	_	_	_
 
 
 1	e.g	e.g	SYM	NFP	_	_	_	_	_
@@ -761,9 +737,6 @@
 
 
 1	promise	promise	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	factor	factor	NOUN	NN	_	_	_	_	_
@@ -871,9 +844,6 @@
 1	biometric	biometric	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	propose	propose	VERB	VB	_	_	_	_	_
 
 
@@ -962,9 +932,6 @@
 
 
 1	memory	memory	NOUN	NN	_	_	_	_	_
-
-
-1	yet	yet	ADV	RB	_	_	_	_	_
 
 
 1	raise	raise	VERB	VB	_	_	_	_	_
@@ -1100,9 +1067,6 @@
 
 
 1	technique	technique	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	power	power	NOUN	NN	_	_	_	_	_
@@ -1309,9 +1273,6 @@
 1	progress	progress	NOUN	NN	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	open	open	ADJ	JJ	_	_	_	_	_
 
 
@@ -1325,9 +1286,6 @@
 
 
 1	usability	usability	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	degrad	degrad	NOUN	NN	_	_	_	_	_
@@ -1361,9 +1319,6 @@
 
 
 1	interoperability	interoperability	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	vendor	vendor	NOUN	NN	_	_	_	_	_
@@ -1448,9 +1403,6 @@
 
 
 1	authentication	authentication	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	mfa	mfa	NOUN	NN	_	_	_	_	_
@@ -1627,9 +1579,6 @@
 1	identity	identity	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	combination	combination	NOUN	NN	_	_	_	_	_
 
 
@@ -1660,25 +1609,16 @@
 1	possession	possession	NOUN	NN	_	_	_	_	_
 
 
-1	something	something	PRON	NN	_	_	_	_	_
-
-
 1	user	user	NOUN	NN	_	_	_	_	_
 
 
 1	inherence	inherence	NOUN	NN	_	_	_	_	_
 
 
-1	something	something	PRON	NN	_	_	_	_	_
-
-
 1	user	user	NOUN	NN	_	_	_	_	_
 
 
 1	rationale	rationale	NOUN	NN	_	_	_	_	_
-
-
-1	behind	behind	ADP	IN	_	_	_	_	_
 
 
 1	mfa	mfa	NOUN	NN	_	_	_	_	_
@@ -1708,9 +1648,6 @@
 1	attacker	attacker	NOUN	NN	_	_	_	_	_
 
 
-1	thus	thus	ADV	RB	_	_	_	_	_
-
-
 1	enhance	enhance	VERB	VB	_	_	_	_	_
 
 
@@ -1738,12 +1675,6 @@
 1	password	password	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	susceptibility	susceptibility	NOUN	NN	_	_	_	_	_
 
 
@@ -1765,12 +1696,6 @@
 1	password	password	NOUN	NN	_	_	_	_	_
 
 
-1	alone	alone	ADV	RB	_	_	_	_	_
-
-
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	increasingly	increasingly	ADV	RB	_	_	_	_	_
 
 
@@ -1784,9 +1709,6 @@
 
 
 1	adopt	adopt	VERB	VB	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	domain	domain	NOUN	NN	_	_	_	_	_
@@ -1906,9 +1828,6 @@
 1	replicate	replicate	VERB	VB	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	raise	raise	VERB	VB	_	_	_	_	_
 
 
@@ -1993,9 +1912,6 @@
 1	robustness	robustness	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	demographic	demographic	NOUN	NN	_	_	_	_	_
 
 
@@ -2048,9 +1964,6 @@
 
 
 1	key	key	NOUN	NN	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	perform	perform	VERB	VB	_	_	_	_	_
@@ -2131,9 +2044,6 @@
 1	template	template	NOUN	NN	_	_	_	_	_
 
 
-1	never	never	ADV	RB	_	_	_	_	_
-
-
 1	leave	leave	VERB	VB	_	_	_	_	_
 
 
@@ -2144,9 +2054,6 @@
 
 
 1	chip	chip	NOUN	NN	_	_	_	_	_
-
-
-1	beyond	beyond	ADV	RB	_	_	_	_	_
 
 
 1	traditional	traditional	ADJ	JJ	_	_	_	_	_
@@ -2284,9 +2191,6 @@
 1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
 1	combine	combine	VERB	VB	_	_	_	_	_
 
 
@@ -2365,9 +2269,6 @@
 1	mark	mark	NOUN	NN	_	_	_	_	_
 
 
-1	next	next	ADV	RB	_	_	_	_	_
-
-
 1	evolution	evolution	NOUN	NN	_	_	_	_	_
 
 
@@ -2431,9 +2332,6 @@
 1	scalability	scalability	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	diverse	diverse	ADJ	JJ	_	_	_	_	_
 
 
@@ -2458,16 +2356,10 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	lack	lack	NOUN	NN	_	_	_	_	_
 
 
 1	generalizability	generalizability	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	pop	pop	NOUN	NN	_	_	_	_	_
@@ -2633,9 +2525,6 @@
 
 
 1	recognition	recognition	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	face	face	VERB	VB	_	_	_	_	_
@@ -2815,9 +2704,6 @@
 1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
@@ -2911,9 +2797,6 @@
 1	dl	dl	PROPN	NNP	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	advance	advance	VERB	VB	_	_	_	_	_
 
 
@@ -2921,9 +2804,6 @@
 
 
 1	verification	verification	NOUN	NN	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	spectrogram	spectrogram	NOUN	NN	_	_	_	_	_
@@ -3094,13 +2974,7 @@
 1	long	long	ADJ	JJ	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	authentication	authentication	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	ability	ability	NOUN	NN	_	_	_	_	_
@@ -3169,9 +3043,6 @@
 1	terminal	terminal	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	main	main	ADJ	JJ	_	_	_	_	_
 
 
@@ -3209,9 +3080,6 @@
 
 
 1	template	template	NOUN	NN	_	_	_	_	_
-
-
-1	never	never	ADV	RB	_	_	_	_	_
 
 
 1	leave	leave	VERB	VB	_	_	_	_	_
@@ -3257,9 +3125,6 @@
 
 
 1	flexible	flexible	ADJ	JJ	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
 
 
 1	private	private	ADJ	JJ	_	_	_	_	_
@@ -3463,9 +3328,6 @@
 1	tune	tune	NOUN	NN	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	user	user	NOUN	NN	_	_	_	_	_
 
 
@@ -3473,9 +3335,6 @@
 
 
 1	store	store	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	tee	tee	NOUN	NN	_	_	_	_	_
@@ -3589,9 +3448,6 @@
 1	fragmentation	fragmentation	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	vendor	vendor	NOUN	NN	_	_	_	_	_
 
 
@@ -3701,9 +3557,6 @@
 
 
 1	introduce	introduce	VERB	VB	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
 
 
 1	design	design	NOUN	NN	_	_	_	_	_
@@ -3832,9 +3685,6 @@
 1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	use	use	VERB	VB	_	_	_	_	_
 
 
@@ -3860,9 +3710,6 @@
 
 
 1	occur	occur	VERB	VB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	level	level	NOUN	NN	_	_	_	_	_
@@ -3988,9 +3835,6 @@
 1	decision	decision	NOUN	NN	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	_	_	_	_
-
-
 1	base	base	NOUN	NN	_	_	_	_	_
 
 
@@ -4031,9 +3875,6 @@
 
 
 1	widely	widely	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	commercial	commercial	ADJ	JJ	_	_	_	_	_
@@ -4094,9 +3935,6 @@
 
 
 1	assurance	assurance	NOUN	NN	_	_	_	_	_
-
-
-1	still	still	ADV	RB	_	_	_	_	_
 
 
 1	face	face	VERB	VB	_	_	_	_	_
@@ -4183,9 +4021,6 @@
 1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	combine	combine	VERB	VB	_	_	_	_	_
 
 
@@ -4205,9 +4040,6 @@
 
 
 1	hardware	hardware	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	standard	standard	ADJ	JJ	_	_	_	_	_
@@ -4271,9 +4103,6 @@
 
 
 1	work	work	NOUN	NN	_	_	_	_	_
-
-
-1	must	must	AUX	MD	_	_	_	_	_
 
 
 1	em	em	PRON	PRP	_	_	_	_	_
@@ -4489,9 +4318,6 @@
 1	widely	widely	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	benchmark	benchmark	NOUN	NN	_	_	_	_	_
 
 
@@ -4609,9 +4435,6 @@
 1	generalizability	generalizability	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	establish	establish	VERB	VB	_	_	_	_	_
 
 
@@ -4660,9 +4483,6 @@
 1	fvc2004	fvc2004	NOUN	NN	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	de	de	PROPN	NNP	_	_	_	_	_
 
 
@@ -4679,9 +4499,6 @@
 
 
 1	evaluation	evaluation	NOUN	NN	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
@@ -4736,9 +4553,6 @@
 
 
 1	comparison	comparison	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	dl	dl	PROPN	NNP	_	_	_	_	_
@@ -4828,9 +4642,6 @@
 1	comparability	comparability	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	algorithm	algorithm	NOUN	NN	_	_	_	_	_
 
 
@@ -4886,9 +4697,6 @@
 
 
 1	security	security	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	report	report	NOUN	NN	_	_	_	_	_
@@ -5113,9 +4921,6 @@
 1	validation	validation	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	factor	factor	NOUN	NN	_	_	_	_	_
 
 
@@ -5123,9 +4928,6 @@
 
 
 1	technology	technology	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	smartcard	smartcard	NOUN	NN	_	_	_	_	_
@@ -5654,9 +5456,6 @@
 
 
 1	ification	ification	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	smartphone	smartphone	NOUN	NN	_	_	_	_	_
@@ -6649,9 +6448,6 @@
 1	face	face	VERB	VB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	pose	pose	VERB	VB	_	_	_	_	_
 
 
@@ -6701,9 +6497,6 @@
 
 
 1	agedb	agedb	INTJ	UH	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	manually	manually	ADV	RB	_	_	_	_	_
@@ -6796,9 +6589,6 @@
 1	fvc2004	fvc2004	NOUN	NN	_	_	_	_	_
 
 
-1	third	third	ADJ	JJ	_	_	_	_	_
-
-
 1	finger	finger	NOUN	NN	_	_	_	_	_
 
 
@@ -6871,9 +6661,6 @@
 1	face	face	VERB	VB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	pose	pose	VERB	VB	_	_	_	_	_
 
 
@@ -6929,9 +6716,6 @@
 
 
 1	agedb	agedb	INTJ	UH	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	manually	manually	ADV	RB	_	_	_	_	_

@@ -58,16 +58,10 @@
 1	scenario	scenario	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	varied	varied	ADJ	JJ	_	_	_	_	_
 
 
 1	environment	environment	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	balanced	balanced	ADJ	JJ	_	_	_	_	_
@@ -124,9 +118,6 @@
 1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	lightweight	lightweight	ADJ	JJ	_	_	_	_	_
 
 
@@ -161,9 +152,6 @@
 
 
 1	robustly	robustly	ADV	RB	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -340,9 +328,6 @@
 1	edge	edge	NOUN	NN	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	_	_	_	_
-
-
 1	spatial	spatial	ADJ	JJ	_	_	_	_	_
 
 
@@ -385,19 +370,10 @@
 1	wood	wood	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	different	different	ADJ	JJ	_	_	_	_	_
 
 
 1	emissivitie	emissivitie	NOUN	NN	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	temperature	temperature	NOUN	NN	_	_	_	_	_
@@ -490,9 +466,6 @@
 1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	_	_	_	_
-
-
 1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
@@ -506,9 +479,6 @@
 
 
 1	ir	ir	NOUN	NN	_	_	_	_	_
-
-
-1	rather	rather	ADV	RB	_	_	_	_	_
 
 
 1	reflect	reflect	VERB	VB	_	_	_	_	_
@@ -646,9 +616,6 @@
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	depend	depend	VERB	VB	_	_	_	_	_
 
 
@@ -686,9 +653,6 @@
 
 
 1	solution	solution	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	rgb	rgb	NOUN	NN	_	_	_	_	_
@@ -740,9 +704,6 @@
 
 
 1	effectiveness	effectiveness	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	pretraine	pretraine	NOUN	NN	_	_	_	_	_
@@ -817,16 +778,10 @@
 1	input	input	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	contain	contain	VERB	VB	_	_	_	_	_
 
 
 1	clean	clean	ADJ	JJ	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
 
 
 1	ambiguous	ambiguous	ADJ	JJ	_	_	_	_	_
@@ -842,9 +797,6 @@
 
 
 1	parameter	parameter	NOUN	NN	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
 
 
 1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
@@ -913,9 +865,6 @@
 1	long	long	ADJ	JJ	_	_	_	_	_
 
 
-1	enough	enough	ADJ	JJ	_	_	_	_	_
-
-
 1	reach	reach	VERB	VB	_	_	_	_	_
 
 
@@ -943,9 +892,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	indistinguishable	indistinguishable	ADJ	JJ	_	_	_	_	_
 
 
@@ -970,9 +916,6 @@
 1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	exchange	exchange	NOUN	NN	_	_	_	_	_
 
 
@@ -983,9 +926,6 @@
 
 
 1	floor	floor	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	equilibrate	equilibrate	VERB	VB	_	_	_	_	_
@@ -1060,9 +1000,6 @@
 1	surface	surface	NOUN	NN	_	_	_	_	_
 
 
-1	rather	rather	ADV	RB	_	_	_	_	_
-
-
 1	visible	visible	ADJ	JJ	_	_	_	_	_
 
 
@@ -1102,9 +1039,6 @@
 1	signature	signature	NOUN	NN	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	reason	reason	NOUN	NN	_	_	_	_	_
 
 
@@ -1115,12 +1049,6 @@
 
 
 1	source	source	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	impact	impact	VERB	VB	_	_	_	_	_
@@ -1171,9 +1099,6 @@
 1	radiation	radiation	NOUN	NN	_	_	_	_	_
 
 
-1	many	many	ADJ	JJ	_	_	_	_	_
-
-
 1	spill	spill	VERB	VB	_	_	_	_	_
 
 
@@ -1196,12 +1121,6 @@
 
 
 1	floor	floor	NOUN	NN	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
-1	show	show	VERB	VB	_	_	_	_	_
 
 
 1	highly	highly	ADV	RB	_	_	_	_	_
@@ -1253,9 +1172,6 @@
 
 
 1	system	system	NOUN	NN	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
 
 
 1	work	work	NOUN	NN	_	_	_	_	_
@@ -1349,9 +1265,6 @@
 
 
 1	camera	camera	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	ir	ir	NOUN	NN	_	_	_	_	_
@@ -1471,12 +1384,6 @@
 1	detail	detail	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
-
-
 1	exist	exist	VERB	VB	_	_	_	_	_
 
 
@@ -1564,9 +1471,6 @@
 1	modality	modality	NOUN	NN	_	_	_	_	_
 
 
-1	rather	rather	ADV	RB	_	_	_	_	_
-
-
 1	separate	separate	ADJ	JJ	_	_	_	_	_
 
 
@@ -1586,9 +1490,6 @@
 
 
 1	imagery	imagery	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
@@ -1717,9 +1618,6 @@
 1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
@@ -1766,9 +1664,6 @@
 
 
 1	train	train	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	class	class	NOUN	NN	_	_	_	_	_
@@ -1865,9 +1760,6 @@
 
 
 1	robotic	robotic	ADJ	JJ	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	rgb	rgb	NOUN	NN	_	_	_	_	_
@@ -2140,9 +2032,6 @@
 1	yolo	yolo	PROPN	NNP	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	popular	popular	ADJ	JJ	_	_	_	_	_
 
 
@@ -2210,9 +2099,6 @@
 
 
 1	tx2	tx2	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	note	note	NOUN	NN	_	_	_	_	_
@@ -2368,9 +2254,6 @@
 1	clear	clear	ADJ	JJ	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	deploy	deploy	VERB	VB	_	_	_	_	_
 
 
@@ -2378,9 +2261,6 @@
 
 
 1	robot	robot	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	lightweight	lightweight	ADJ	JJ	_	_	_	_	_
@@ -2405,9 +2285,6 @@
 
 
 1	like	like	INTJ	UH	_	_	_	_	_
-
-
-1	full	full	ADJ	JJ	_	_	_	_	_
 
 
 1	size	size	NOUN	NN	_	_	_	_	_
@@ -2450,9 +2327,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	standard	standard	ADJ	JJ	_	_	_	_	_
@@ -2563,9 +2437,6 @@
 1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	onto	onto	ADP	IN	_	_	_	_	_
-
-
 1	surface	surface	NOUN	NN	_	_	_	_	_
 
 
@@ -2615,9 +2486,6 @@
 
 
 1	experiment	experiment	VERB	VB	_	_	_	_	_
-
-
-1	show	show	VERB	VB	_	_	_	_	_
 
 
 1	liquid	liquid	NOUN	NN	_	_	_	_	_
@@ -2767,9 +2635,6 @@
 1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	use	use	VERB	VB	_	_	_	_	_
 
 
@@ -2821,9 +2686,6 @@
 1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
@@ -2831,9 +2693,6 @@
 
 
 1	confirm	confirm	VERB	VB	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	visual	visual	ADJ	JJ	_	_	_	_	_
@@ -2852,9 +2711,6 @@
 
 
 1	widely	widely	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	gas	gas	NOUN	NN	_	_	_	_	_
@@ -2887,9 +2743,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	optical	optical	ADJ	JJ	_	_	_	_	_
 
 
@@ -2897,9 +2750,6 @@
 
 
 1	imaging	imaging	NOUN	NN	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
 
 
 1	prone	prone	ADJ	JJ	_	_	_	_	_
@@ -2962,9 +2812,6 @@
 1	etc	etc	NOUN	FW	_	_	_	_	_
 
 
-1	part	part	NOUN	NN	_	_	_	_	_
-
-
 1	multi	multi	NOUN	NN	_	_	_	_	_
 
 
@@ -2987,9 +2834,6 @@
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
-
-
-1	show	show	VERB	VB	_	_	_	_	_
 
 
 1	ir	ir	NOUN	NN	_	_	_	_	_
@@ -3032,9 +2876,6 @@
 
 
 1	analysis	analysis	NOUN	NN	_	_	_	_	_
-
-
-1	sometimes	sometimes	ADV	RB	_	_	_	_	_
 
 
 1	additional	additional	ADJ	JJ	_	_	_	_	_
@@ -3232,9 +3073,6 @@
 1	insight	insight	NOUN	NN	_	_	_	_	_
 
 
-1	whether	whether	SCONJ	IN	_	_	_	_	_
-
-
 1	unify	unify	VERB	VB	_	_	_	_	_
 
 
@@ -3286,9 +3124,6 @@
 1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	necessary	necessary	ADJ	JJ	_	_	_	_	_
 
 
@@ -3305,9 +3140,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	since	since	ADV	RB	_	_	_	_	_
 
 
 1	standard	standard	ADJ	JJ	_	_	_	_	_
@@ -3370,9 +3202,6 @@
 1	tc001	tc001	PROPN	ADD	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
@@ -3391,9 +3220,6 @@
 1	f100	f100	NUM	LS	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
@@ -3404,9 +3230,6 @@
 
 
 1	script	script	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	save	save	VERB	VB	_	_	_	_	_
@@ -3457,9 +3280,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	put	put	VERB	VB	_	_	_	_	_
-
-
 1	spill	spill	VERB	VB	_	_	_	_	_
 
 
@@ -3469,13 +3289,7 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	spill	spill	VERB	VB	_	_	_	_	_
-
-
-1	put	put	VERB	VB	_	_	_	_	_
 
 
 1	spill	spill	VERB	VB	_	_	_	_	_
@@ -3508,9 +3322,6 @@
 1	split	split	VERB	VBN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
@@ -3529,9 +3340,6 @@
 1	split	split	VERB	VBN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	class	class	NOUN	NN	_	_	_	_	_
 
 
@@ -3539,9 +3347,6 @@
 
 
 1	spill	spill	VERB	VB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	liquid	liquid	NOUN	NN	_	_	_	_	_
@@ -3565,16 +3370,7 @@
 1	juice	juice	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	room	room	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
@@ -3637,9 +3433,6 @@
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	size	size	NOUN	NN	_	_	_	_	_
 
 
@@ -3650,9 +3443,6 @@
 
 
 1	spill	spill	VERB	VB	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	diameter	diameter	NOUN	NN	_	_	_	_	_
@@ -3683,9 +3473,6 @@
 
 
 1	spill	spill	VERB	VB	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	diameter	diameter	NOUN	NN	_	_	_	_	_
@@ -3728,9 +3515,6 @@
 
 
 1	flow	flow	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	floor	floor	NOUN	NN	_	_	_	_	_
@@ -3814,9 +3598,6 @@
 1	dynamic	dynamic	ADJ	JJ	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	high	high	ADJ	JJ	_	_	_	_	_
 
 
@@ -3853,9 +3634,6 @@
 1	determine	determine	VERB	VB	_	_	_	_	_
 
 
-1	whether	whether	SCONJ	IN	_	_	_	_	_
-
-
 1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
@@ -3866,9 +3644,6 @@
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	yield	yield	VERB	VB	_	_	_	_	_
@@ -3922,16 +3697,10 @@
 1	hardware	hardware	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	train	train	NOUN	NN	_	_	_	_	_
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	collect	collect	VERB	VB	_	_	_	_	_
@@ -3964,9 +3733,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	real	real	ADJ	JJ	_	_	_	_	_
 
 
@@ -3980,9 +3746,6 @@
 
 
 1	homogeneous	homogeneous	ADJ	JJ	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	room	room	NOUN	NN	_	_	_	_	_
@@ -4003,9 +3766,6 @@
 1	strategy	strategy	NOUN	NN	_	_	_	_	_
 
 
-1	last	last	ADJ	JJ	_	_	_	_	_
-
-
 1	5	5	NUM	LS	_	_	_	_	_
 
 
@@ -4022,9 +3782,6 @@
 
 
 1	optimizer	optimizer	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	lr	lr	PROPN	NNP	_	_	_	_	_
@@ -4048,16 +3805,10 @@
 1	function	function	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	early	early	ADJ	JJ	_	_	_	_	_
 
 
 1	stop	stop	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	patience	patience	NOUN	NN	_	_	_	_	_
@@ -4075,9 +3826,6 @@
 1	8	8	NUM	LS	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	training	training	NOUN	NN	_	_	_	_	_
 
 
@@ -4091,9 +3839,6 @@
 
 
 1	2	2	NUM	LS	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	test	test	NOUN	NN	_	_	_	_	_
@@ -4111,16 +3856,7 @@
 1	epoch	epoch	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
-1	never	never	ADV	RB	_	_	_	_	_
-
-
 1	reach	reach	VERB	VB	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	application	application	NOUN	NN	_	_	_	_	_
@@ -4198,9 +3934,6 @@
 1	pipeline	pipeline	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
@@ -4216,13 +3949,7 @@
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	combine	combine	VERB	VB	_	_	_	_	_
-
-
-1	although	although	SCONJ	IN	_	_	_	_	_
 
 
 1	accurate	accurate	ADJ	JJ	_	_	_	_	_
@@ -4247,9 +3974,6 @@
 
 
 1	rgb	rgb	NOUN	NN	_	_	_	_	_
-
-
-1	although	although	SCONJ	IN	_	_	_	_	_
 
 
 1	effective	effective	ADJ	JJ	_	_	_	_	_
@@ -4288,9 +4012,6 @@
 1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	time	time	NOUN	NN	_	_	_	_	_
 
 
@@ -4322,9 +4043,6 @@
 
 
 1	testing	testing	NOUN	NN	_	_	_	_	_
-
-
-1	along	along	ADV	RB	_	_	_	_	_
 
 
 1	offer	offer	VERB	VB	_	_	_	_	_
@@ -4360,9 +4078,6 @@
 1	finding	finding	VERB	VBG	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	effectiveness	effectiveness	NOUN	NN	_	_	_	_	_
 
 
@@ -4384,9 +4099,6 @@
 1	task	task	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
@@ -4400,9 +4112,6 @@
 
 
 1	perform	perform	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	robot	robot	NOUN	NN	_	_	_	_	_
@@ -4441,9 +4150,6 @@
 1	4080	4080	NUM	CD	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	control	control	NOUN	NN	_	_	_	_	_
 
 
@@ -4469,9 +4175,6 @@
 
 
 1	control	control	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	usb	usb	NOUN	NN	_	_	_	_	_
@@ -4532,9 +4235,6 @@
 
 
 1	inspection	inspection	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	thermal	thermal	NOUN	NN	_	_	_	_	_
@@ -4657,13 +4357,7 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	another	another	DET	DT	_	_	_	_	_
-
-
 1	script	script	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	collect	collect	VERB	VB	_	_	_	_	_
@@ -4696,13 +4390,7 @@
 1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	another	another	DET	DT	_	_	_	_	_
-
-
 1	script	script	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	match	match	NOUN	NN	_	_	_	_	_
@@ -4741,19 +4429,10 @@
 1	experimentation	experimentation	NOUN	NN	_	_	_	_	_
 
 
-1	third	third	ADJ	JJ	_	_	_	_	_
-
-
 1	modality	modality	NOUN	NN	_	_	_	_	_
 
 
 1	introduce	introduce	VERB	VB	_	_	_	_	_
-
-
-1	side	side	NOUN	NN	_	_	_	_	_
-
-
-1	side	side	NOUN	NN	_	_	_	_	_
 
 
 1	combine	combine	VERB	VB	_	_	_	_	_
@@ -4778,12 +4457,6 @@
 
 
 1	combine	combine	VERB	VB	_	_	_	_	_
-
-
-1	side	side	NOUN	NN	_	_	_	_	_
-
-
-1	side	side	NOUN	NN	_	_	_	_	_
 
 
 1	concatenation	concatenation	NOUN	NN	_	_	_	_	_
@@ -4819,12 +4492,6 @@
 1	512x192	512x192	NUM	CD	_	_	_	_	_
 
 
-1	side	side	NOUN	NN	_	_	_	_	_
-
-
-1	side	side	NOUN	NN	_	_	_	_	_
-
-
 1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
@@ -4853,9 +4520,6 @@
 
 
 1	indicate	indicate	VERB	VB	_	_	_	_	_
-
-
-1	throughout	throughout	ADP	IN	_	_	_	_	_
 
 
 1	result	result	NOUN	NN	_	_	_	_	_
@@ -4903,9 +4567,6 @@
 1	likely	likely	ADJ	JJ	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	homogeneity	homogeneity	NOUN	NN	_	_	_	_	_
 
 
@@ -4930,13 +4591,7 @@
 1	differentiation	differentiation	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	class	class	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	potentially	potentially	ADV	RB	_	_	_	_	_
@@ -4984,9 +4639,6 @@
 1	efficiency	efficiency	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	sacrifice	sacrifice	NOUN	NN	_	_	_	_	_
 
 
@@ -4994,9 +4646,6 @@
 
 
 1	collection	collection	NOUN	NN	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
@@ -5035,12 +4684,6 @@
 1	find	find	VERB	VB	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	column	column	NOUN	NN	_	_	_	_	_
 
 
@@ -5057,9 +4700,6 @@
 
 
 1	testing	testing	NOUN	NN	_	_	_	_	_
-
-
-1	although	although	SCONJ	IN	_	_	_	_	_
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
@@ -5083,9 +4723,6 @@
 1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	seem	seem	VERB	VB	_	_	_	_	_
-
-
 1	promise	promise	NOUN	NN	_	_	_	_	_
 
 
@@ -5093,9 +4730,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
 
 
 1	match	match	NOUN	NN	_	_	_	_	_
@@ -5117,9 +4751,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	well	well	INTJ	UH	_	_	_	_	_
@@ -5314,12 +4945,6 @@
 1	2	2	NUM	LS	_	_	_	_	_
 
 
-1	side	side	NOUN	NN	_	_	_	_	_
-
-
-1	side	side	NOUN	NN	_	_	_	_	_
-
-
 1	comparison	comparison	NOUN	NN	_	_	_	_	_
 
 
@@ -5368,9 +4993,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	nasnet	nasnet	PROPN	NNP	_	_	_	_	_
 
 
@@ -5414,9 +5036,6 @@
 
 
 1	mb	mb	PROPN	NNP	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
@@ -5812,9 +5431,6 @@
 1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
 1	useful	useful	ADJ	JJ	_	_	_	_	_
 
 
@@ -5822,9 +5438,6 @@
 
 
 1	experiment	experiment	VERB	VB	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	isolation	isolation	NOUN	NN	_	_	_	_	_
@@ -5905,9 +5518,6 @@
 1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	potentially	potentially	ADV	RB	_	_	_	_	_
 
 
@@ -5954,12 +5564,6 @@
 
 
 1	find	find	VERB	VB	_	_	_	_	_
-
-
-1	last	last	ADJ	JJ	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	column	column	NOUN	NN	_	_	_	_	_
@@ -6010,13 +5614,7 @@
 1	iii	iii	INTJ	UH	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	_	_	_	_
-
-
 1	comparison	comparison	NOUN	NN	_	_	_	_	_
-
-
-1	make	make	VERB	VB	_	_	_	_	_
 
 
 1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
@@ -6026,9 +5624,6 @@
 
 
 1	mobile	mobile	ADJ	JJ	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	accuracy	accuracy	NOUN	NN	_	_	_	_	_

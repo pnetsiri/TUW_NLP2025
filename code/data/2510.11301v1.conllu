@@ -61,9 +61,6 @@
 1	encryption	encryption	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	sensitivity	sensitivity	NOUN	NN	_	_	_	_	_
 
 
@@ -82,9 +79,6 @@
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	lack	lack	NOUN	NN	_	_	_	_	_
 
 
@@ -98,9 +92,6 @@
 
 
 1	present	present	ADJ	JJ	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
@@ -136,16 +127,10 @@
 1	build	build	VERB	VB	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	key	key	NOUN	NN	_	_	_	_	_
 
 
 1	element	element	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	propose	propose	VERB	VB	_	_	_	_	_
@@ -158,9 +143,6 @@
 
 
 1	generator	generator	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	lstm	lstm	PROPN	NNP	_	_	_	_	_
@@ -202,13 +184,7 @@
 1	generation	generation	NOUN	NN	_	_	_	_	_
 
 
-1	next	next	ADV	RB	_	_	_	_	_
-
-
 1	new	new	ADJ	JJ	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
@@ -260,9 +236,6 @@
 
 
 1	tiveness	tiveness	NOUN	NN	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	security	security	NOUN	NN	_	_	_	_	_
@@ -388,9 +361,6 @@
 1	treatment	treatment	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	strong	strong	ADJ	JJ	_	_	_	_	_
 
 
@@ -476,9 +446,6 @@
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	high	high	ADJ	JJ	_	_	_	_	_
@@ -601,12 +568,6 @@
 1	encryption	encryption	NOUN	NN	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -623,9 +584,6 @@
 
 
 1	support	support	VERB	VB	_	_	_	_	_
-
-
-1	part	part	NOUN	NN	_	_	_	_	_
 
 
 1	national	national	ADJ	JJ	_	_	_	_	_
@@ -649,9 +607,6 @@
 1	62501412	62501412	NUM	CD	_	_	_	_	_
 
 
-1	part	part	NOUN	NN	_	_	_	_	_
-
-
 1	shenzhen	shenzhen	PROPN	NNP	_	_	_	_	_
 
 
@@ -668,9 +623,6 @@
 
 
 1	a2503006	a2503006	NUM	CD	_	_	_	_	_
-
-
-1	part	part	NOUN	NN	_	_	_	_	_
 
 
 1	shenzhen	shenzhen	PROPN	NNP	_	_	_	_	_
@@ -692,9 +644,6 @@
 
 
 1	6025310023k	6025310023k	NUM	CD	_	_	_	_	_
-
-
-1	part	part	NOUN	NN	_	_	_	_	_
 
 
 1	guangdong	guangdong	PROPN	NNP	_	_	_	_	_
@@ -877,9 +826,6 @@
 1	present	present	ADJ	JJ	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -950,9 +896,6 @@
 
 
 1	ciphertext	ciphertext	NOUN	NN	_	_	_	_	_
-
-
-1	thereby	thereby	ADV	RB	_	_	_	_	_
 
 
 1	significantly	significantly	ADV	RB	_	_	_	_	_
@@ -1279,9 +1222,6 @@
 1	rich	rich	ADJ	JJ	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	exhibit	exhibit	NOUN	NN	_	_	_	_	_
 
 
@@ -1378,9 +1318,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	1d	1d	NUM	LS	_	_	_	_	_
 
 
@@ -1447,9 +1384,6 @@
 1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	xtrain	xtrain	NOUN	NN	_	_	_	_	_
 
 
@@ -1469,9 +1403,6 @@
 
 
 1	property	property	NOUN	NN	_	_	_	_	_
-
-
-1	upon	upon	ADP	IN	_	_	_	_	_
 
 
 1	completion	completion	NOUN	NN	_	_	_	_	_
@@ -1592,9 +1523,6 @@
 
 
 1	result	result	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
@@ -1768,9 +1696,6 @@
 1	correlation	correlation	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	input	input	NOUN	NN	_	_	_	_	_
 
 
@@ -1796,9 +1721,6 @@
 
 
 1	independently	independently	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	chaotic	chaotic	ADJ	JJ	_	_	_	_	_
@@ -1879,9 +1801,6 @@
 1	generate	generate	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	1d	1d	NUM	LS	_	_	_	_	_
 
 
@@ -1898,9 +1817,6 @@
 
 
 1	initialize	initialize	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	keyx1	keyx1	PROPN	NNP	_	_	_	_	_
@@ -1937,9 +1853,6 @@
 
 
 1	n0	n0	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	influence	influence	NOUN	NN	_	_	_	_	_
@@ -2014,9 +1927,6 @@
 1	xblstm	xblstm	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	length	length	NOUN	NN	_	_	_	_	_
 
 
@@ -2072,9 +1982,6 @@
 
 
 1	concatenation	concatenation	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
@@ -2212,13 +2119,7 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	component	component	NOUN	NN	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	pixel	pixel	NOUN	NN	_	_	_	_	_
@@ -2228,9 +2129,6 @@
 
 
 1	rgba	rgba	NOUN	NN	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	distinct	distinct	ADJ	JJ	_	_	_	_	_
@@ -2311,9 +2209,6 @@
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
 
 
-1	various	various	ADJ	JJ	_	_	_	_	_
-
-
 1	stage	stage	NOUN	NN	_	_	_	_	_
 
 
@@ -2360,9 +2255,6 @@
 
 
 1	flatten	flatten	VERB	VB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
@@ -2426,9 +2318,6 @@
 
 
 1	index	index	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	sort	sort	NOUN	NN	_	_	_	_	_
@@ -2545,16 +2434,10 @@
 1	reshape	reshape	VERB	VB	_	_	_	_	_
 
 
-1	back	back	ADV	RB	_	_	_	_	_
-
-
 1	original	original	ADJ	JJ	_	_	_	_	_
 
 
 1	n	n	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
@@ -2614,9 +2497,6 @@
 1	c	c	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -2627,9 +2507,6 @@
 
 
 1	tda	tda	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
@@ -2659,9 +2536,6 @@
 1	information	information	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	spatial	spatial	ADJ	JJ	_	_	_	_	_
 
 
@@ -2684,9 +2558,6 @@
 
 
 1	forward	forward	ADJ	JJ	_	_	_	_	_
-
-
-1	back	back	ADV	RB	_	_	_	_	_
 
 
 1	ward	ward	NOUN	NN	_	_	_	_	_
@@ -2714,9 +2585,6 @@
 
 
 1	impact	impact	VERB	VB	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	ciphertext	ciphertext	NOUN	NN	_	_	_	_	_
@@ -2752,9 +2620,6 @@
 1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	top	top	NOUN	NN	_	_	_	_	_
-
-
 1	leave	leave	VERB	VB	_	_	_	_	_
 
 
@@ -2762,9 +2627,6 @@
 
 
 1	1	1	NUM	LS	_	_	_	_	_
-
-
-1	bottom	bottom	NOUN	NN	_	_	_	_	_
 
 
 1	right	right	ADJ	JJ	_	_	_	_	_
@@ -2845,9 +2707,6 @@
 1	curs	curs	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	color	color	NOUN	NN	_	_	_	_	_
 
 
@@ -2867,9 +2726,6 @@
 
 
 1	pixel	pixel	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	channel	channel	NOUN	NN	_	_	_	_	_
@@ -2909,9 +2765,6 @@
 
 
 1	update	update	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	nearby	nearby	ADV	RB	_	_	_	_	_
@@ -2974,12 +2827,6 @@
 1	pixel	pixel	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	rely	rely	VERB	VB	_	_	_	_	_
 
 
@@ -3034,9 +2881,6 @@
 1	1	1	NUM	LS	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	key	key	NOUN	NN	_	_	_	_	_
 
 
@@ -3074,9 +2918,6 @@
 
 
 1	tione	tione	INTJ	UH	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	sub	sub	NOUN	NN	_	_	_	_	_
@@ -3166,9 +3007,6 @@
 1	z	z	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	new	new	ADJ	JJ	_	_	_	_	_
 
 
@@ -3181,9 +3019,6 @@
 1	z	z	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	length	length	NOUN	NN	_	_	_	_	_
 
 
@@ -3194,9 +3029,6 @@
 
 
 1	compute	compute	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	transformation	transformation	NOUN	NN	_	_	_	_	_
@@ -3281,9 +3113,6 @@
 
 
 1	1	1	NUM	LS	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
@@ -3691,9 +3520,6 @@
 1	illustration	illustration	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -3886,9 +3712,6 @@
 1	dependency	dependency	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	reverse	reverse	NOUN	NN	_	_	_	_	_
 
 
@@ -4001,9 +3824,6 @@
 
 
 1	key	key	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	encryption	encryption	NOUN	NN	_	_	_	_	_
@@ -4369,12 +4189,6 @@
 1	compare	compare	VERB	VB	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -4387,9 +4201,6 @@
 1	table	table	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -4400,9 +4211,6 @@
 
 
 1	ie	ie	PROPN	ADD	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	standard	standard	ADJ	JJ	_	_	_	_	_
@@ -4444,9 +4252,6 @@
 1	pixel	pixel	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	compare	compare	VERB	VB	_	_	_	_	_
 
 
@@ -4460,9 +4265,6 @@
 
 
 1	technique	technique	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	standard	standard	ADJ	JJ	_	_	_	_	_
@@ -4576,13 +4378,7 @@
 1	shuffle	shuffle	VERB	VB	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	mutation	mutation	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
@@ -4867,9 +4663,6 @@
 1	regenerate	regenerate	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	secret	secret	NOUN	NN	_	_	_	_	_
 
 
@@ -4889,9 +4682,6 @@
 
 
 1	inverse	inverse	ADJ	JJ	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
@@ -5020,9 +4810,6 @@
 1	sqcm	sqcm	NOUN	NN	_	_	_	_	_
 
 
-1	name	name	NOUN	NN	_	_	_	_	_
-
-
 1	mathematical	mathematical	ADJ	JJ	_	_	_	_	_
 
 
@@ -5117,9 +4904,6 @@
 
 
 1	test	test	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	block	block	NOUN	NN	_	_	_	_	_
@@ -5458,9 +5242,6 @@
 1	map	map	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	control	control	NOUN	NN	_	_	_	_	_
 
 
@@ -5498,9 +5279,6 @@
 
 
 1	exponent	exponent	NOUN	NN	_	_	_	_	_
-
-
-1	throughout	throughout	ADP	IN	_	_	_	_	_
 
 
 1	range	range	NOUN	NN	_	_	_	_	_
@@ -5875,9 +5653,6 @@
 1	utilize	utilize	VERB	VB	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	secret	secret	NOUN	NN	_	_	_	_	_
 
 
@@ -6025,9 +5800,6 @@
 1	infeasible	infeasible	ADJ	JJ	_	_	_	_	_
 
 
-1	thereby	thereby	ADV	RB	_	_	_	_	_
-
-
 1	provide	provide	VERB	VB	_	_	_	_	_
 
 
@@ -6098,9 +5870,6 @@
 
 
 1	assess	assess	VERB	VB	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	npcr	npcr	PROPN	NNP	_	_	_	_	_
@@ -6283,9 +6052,6 @@
 1	evaluate	evaluate	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	nist	nist	NOUN	NN	_	_	_	_	_
 
 
@@ -6437,9 +6203,6 @@
 
 
 1	analyze	analyze	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	bidirectional	bidirectional	ADJ	JJ	_	_	_	_	_

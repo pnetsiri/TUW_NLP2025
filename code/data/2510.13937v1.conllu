@@ -601,12 +601,6 @@
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -742,9 +736,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	machine	machine	NOUN	NN	_	_	_	_	_
 
 
@@ -826,9 +817,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	lithology	lithology	NOUN	NN	_	_	_	_	_
 
 
@@ -868,9 +856,6 @@
 1	finding	finding	VERB	VBG	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	critical	critical	ADJ	JJ	_	_	_	_	_
 
 
@@ -887,9 +872,6 @@
 
 
 1	system	system	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	provide	provide	VERB	VB	_	_	_	_	_
@@ -1057,9 +1039,6 @@
 1	identification	identification	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	supplement	supplement	NOUN	NN	_	_	_	_	_
 
 
@@ -1073,9 +1052,6 @@
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	automate	automate	VERB	VB	_	_	_	_	_
@@ -1144,9 +1120,6 @@
 1	focus	focus	VERB	VB	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	representative	representative	NOUN	NN	_	_	_	_	_
 
 
@@ -1184,9 +1157,6 @@
 
 
 1	base	base	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	key	key	NOUN	NN	_	_	_	_	_
@@ -1321,9 +1291,6 @@
 1	composition	composition	NOUN	NN	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	_	_	_	_
-
-
 1	ideal	ideal	ADJ	JJ	_	_	_	_	_
 
 
@@ -1337,9 +1304,6 @@
 
 
 1	system	system	NOUN	NN	_	_	_	_	_
-
-
-1	although	although	SCONJ	IN	_	_	_	_	_
 
 
 1	exist	exist	VERB	VB	_	_	_	_	_
@@ -1364,9 +1328,6 @@
 
 
 1	96	96	NUM	LS	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	raman	raman	PROPN	NNP	_	_	_	_	_
@@ -1459,9 +1420,6 @@
 1	classify	classify	VERB	VB	_	_	_	_	_
 
 
-1	various	various	ADJ	JJ	_	_	_	_	_
-
-
 1	rock	rock	NOUN	NN	_	_	_	_	_
 
 
@@ -1499,9 +1457,6 @@
 
 
 1	present	present	ADJ	JJ	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	systematic	systematic	ADJ	JJ	_	_	_	_	_
@@ -1550,9 +1505,6 @@
 
 
 1	system	system	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	raman	raman	PROPN	NNP	_	_	_	_	_
@@ -1732,9 +1684,6 @@
 1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -1805,9 +1754,6 @@
 
 
 1	unk	unk	INTJ	UH	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	explore	explore	VERB	VB	_	_	_	_	_
@@ -1912,9 +1858,6 @@
 1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -1984,9 +1927,6 @@
 1	integration	integration	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
@@ -2021,9 +1961,6 @@
 
 
 1	system	system	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	rely	rely	VERB	VB	_	_	_	_	_
@@ -2194,9 +2131,6 @@
 1	difference	difference	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	overlook	overlook	VERB	VB	_	_	_	_	_
 
 
@@ -2318,9 +2252,6 @@
 
 
 1	finding	finding	VERB	VBG	_	_	_	_	_
-
-
-1	since	since	ADV	RB	_	_	_	_	_
 
 
 1	early	early	ADJ	JJ	_	_	_	_	_
@@ -2563,9 +2494,6 @@
 1	regard	regard	VERB	VB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	cornerstone	cornerstone	NOUN	NN	_	_	_	_	_
 
 
@@ -2611,12 +2539,6 @@
 1	repository	repository	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
-
-
 1	application	application	NOUN	NN	_	_	_	_	_
 
 
@@ -2651,9 +2573,6 @@
 
 
 1	development	development	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	expand	expand	VERB	VB	_	_	_	_	_
@@ -2758,9 +2677,6 @@
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	among	among	ADP	IN	_	_	_	_	_
-
-
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
@@ -2798,12 +2714,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	spectroscopic	spectroscopic	NOUN	NN	_	_	_	_	_
@@ -2855,9 +2765,6 @@
 
 
 1	extend	extend	VERB	VB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	industrial	industrial	ADJ	JJ	_	_	_	_	_
@@ -2915,9 +2822,6 @@
 
 
 1	material	material	NOUN	NN	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
 
 
 1	allow	allow	VERB	VB	_	_	_	_	_
@@ -3028,9 +2932,6 @@
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	potential	potential	ADJ	JJ	_	_	_	_	_
 
 
@@ -3100,9 +3001,6 @@
 1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
@@ -3116,9 +3014,6 @@
 
 
 1	mineral	mineral	NOUN	NN	_	_	_	_	_
-
-
-1	seem	seem	VERB	VB	_	_	_	_	_
 
 
 1	face	face	VERB	VB	_	_	_	_	_
@@ -3140,9 +3035,6 @@
 
 
 1	classification	classification	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	fact	fact	NOUN	NN	_	_	_	_	_
@@ -3292,12 +3184,6 @@
 1	type	type	NOUN	NN	_	_	_	_	_
 
 
-1	even	even	ADV	RB	_	_	_	_	_
-
-
-1	though	though	ADV	RB	_	_	_	_	_
-
-
 1	share	share	NOUN	NN	_	_	_	_	_
 
 
@@ -3341,9 +3227,6 @@
 
 
 1	methodology	methodology	NOUN	NN	_	_	_	_	_
-
-
-1	yet	yet	ADV	RB	_	_	_	_	_
 
 
 1	remain	remain	VERB	VB	_	_	_	_	_
@@ -3544,9 +3427,6 @@
 1	comprise	comprise	VERB	VB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	rock	rock	NOUN	NN	_	_	_	_	_
 
 
@@ -3598,9 +3478,6 @@
 1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	raman	raman	PROPN	NNP	_	_	_	_	_
 
 
@@ -3614,9 +3491,6 @@
 
 
 1	identification	identification	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -3674,9 +3548,6 @@
 
 
 1	encompass	encompass	VERB	VB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	key	key	NOUN	NN	_	_	_	_	_
@@ -3745,9 +3616,6 @@
 1	implementation	implementation	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	distinct	distinct	ADJ	JJ	_	_	_	_	_
 
 
@@ -3800,9 +3668,6 @@
 
 
 1	system	system	NOUN	NN	_	_	_	_	_
-
-
-1	take	take	VERB	VB	_	_	_	_	_
 
 
 1	advantage	advantage	NOUN	NN	_	_	_	_	_
@@ -4156,13 +4021,7 @@
 1	fragment	fragment	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	diagram	diagram	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	base	base	NOUN	NN	_	_	_	_	_
@@ -4267,9 +4126,6 @@
 1	1987	1987	NUM	CD	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	_	_	_	_
-
-
 1	widely	widely	ADV	RB	_	_	_	_	_
 
 
@@ -4366,9 +4222,6 @@
 1	represent	represent	VERB	VB	_	_	_	_	_
 
 
-1	along	along	ADV	RB	_	_	_	_	_
-
-
 1	axis	axis	NOUN	NN	_	_	_	_	_
 
 
@@ -4460,9 +4313,6 @@
 
 
 1	15	15	NUM	LS	_	_	_	_	_
-
-
-1	hence	hence	ADV	RB	_	_	_	_	_
 
 
 1	sandstone	sandstone	NOUN	NN	_	_	_	_	_
@@ -4744,9 +4594,6 @@
 1	challenge	challenge	VERB	VB	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	complex	complex	ADJ	JJ	_	_	_	_	_
 
 
@@ -4802,9 +4649,6 @@
 
 
 1	implement	implement	VERB	VB	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	dual	dual	NOUN	NN	_	_	_	_	_
@@ -4949,9 +4793,6 @@
 
 
 1	weight	weight	NOUN	NN	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	rock	rock	NOUN	NN	_	_	_	_	_
@@ -5167,9 +5008,6 @@
 1	contain	contain	VERB	VB	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	sample	sample	NOUN	NN	_	_	_	_	_
 
 
@@ -5287,9 +5125,6 @@
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	address	address	NOUN	NN	_	_	_	_	_
 
 
@@ -5305,9 +5140,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	rather	rather	ADV	RB	_	_	_	_	_
-
-
 1	employ	employ	VERB	VB	_	_	_	_	_
 
 
@@ -5321,9 +5153,6 @@
 
 
 1	technique	technique	NOUN	NN	_	_	_	_	_
-
-
-1	might	might	AUX	MD	_	_	_	_	_
 
 
 1	introduce	introduce	VERB	VB	_	_	_	_	_
@@ -5411,9 +5240,6 @@
 
 
 1	formation	formation	NOUN	NN	_	_	_	_	_
-
-
-1	see	see	VERB	VB	_	_	_	_	_
 
 
 1	mineral	mineral	NOUN	NN	_	_	_	_	_
@@ -5578,9 +5404,6 @@
 1	phase	phase	NOUN	NN	_	_	_	_	_
 
 
-1	rather	rather	ADV	RB	_	_	_	_	_
-
-
 1	employ	employ	VERB	VB	_	_	_	_	_
 
 
@@ -5594,9 +5417,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	might	might	AUX	MD	_	_	_	_	_
 
 
 1	retain	retain	VERB	VB	_	_	_	_	_
@@ -5630,9 +5450,6 @@
 
 
 1	characteristic	characteristic	ADJ	JJ	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	rock	rock	NOUN	NN	_	_	_	_	_
@@ -5719,9 +5536,6 @@
 1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	limited	limited	ADJ	JJ	_	_	_	_	_
 
 
@@ -5737,12 +5551,6 @@
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	synthetic	synthetic	NOUN	NN	_	_	_	_	_
 
 
@@ -5753,9 +5561,6 @@
 
 
 1	method	method	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	apply	apply	VERB	VB	_	_	_	_	_
@@ -5780,9 +5585,6 @@
 
 
 1	second	second	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	direct	direct	ADJ	JJ	_	_	_	_	_
@@ -5977,9 +5779,6 @@
 1	fit	fit	NOUN	NN	_	_	_	_	_
 
 
-1	though	though	ADV	RB	_	_	_	_	_
-
-
 1	specific	specific	ADJ	JJ	_	_	_	_	_
 
 
@@ -5987,9 +5786,6 @@
 
 
 1	method	method	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	vary	vary	VERB	VB	_	_	_	_	_
@@ -6139,9 +5935,6 @@
 1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	machine	machine	NOUN	NN	_	_	_	_	_
 
 
@@ -6187,13 +5980,7 @@
 1	mlp	mlp	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	variant	variant	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
@@ -6220,9 +6007,6 @@
 1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	expand	expand	VERB	VB	_	_	_	_	_
 
 
@@ -6236,9 +6020,6 @@
 
 
 1	sample	sample	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	version	version	NOUN	NN	_	_	_	_	_
@@ -6263,9 +6044,6 @@
 
 
 1	consist	consist	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
@@ -6314,9 +6092,6 @@
 
 
 1	pass	pass	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	fully	fully	ADV	RB	_	_	_	_	_
@@ -6404,9 +6179,6 @@
 
 
 1	layer	layer	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	fully	fully	ADV	RB	_	_	_	_	_
@@ -6506,9 +6278,6 @@
 
 
 1	train	train	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	cross	cross	NOUN	NN	_	_	_	_	_
@@ -6989,9 +6758,6 @@
 
 
 1	0	0	NUM	LS	_	_	_	_	_
-
-
-1	otherwise	otherwise	ADV	RB	_	_	_	_	_
 
 
 1	4	4	NUM	LS	_	_	_	_	_
@@ -7534,9 +7300,6 @@
 1	0	0	NUM	LS	_	_	_	_	_
 
 
-1	otherwise	otherwise	ADV	RB	_	_	_	_	_
-
-
 1	3.5.5	3.5.5	NUM	CD	_	_	_	_	_
 
 
@@ -7678,9 +7441,6 @@
 1	find	find	VERB	VB	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	document	document	NOUN	NN	_	_	_	_	_
 
 
@@ -7745,9 +7505,6 @@
 
 
 1	analysis	analysis	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	quantitatively	quantitatively	ADV	RB	_	_	_	_	_
@@ -7930,9 +7687,6 @@
 1	encompass	encompass	VERB	VB	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	key	key	NOUN	NN	_	_	_	_	_
 
 
@@ -8006,9 +7760,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	validation	validation	NOUN	NN	_	_	_	_	_
@@ -8197,9 +7948,6 @@
 1	industry	industry	NOUN	NN	_	_	_	_	_
 
 
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
 1	accurate	accurate	ADJ	JJ	_	_	_	_	_
 
 
@@ -8266,9 +8014,6 @@
 1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	evaluate	evaluate	VERB	VB	_	_	_	_	_
 
 
@@ -8285,12 +8030,6 @@
 
 
 1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	five	five	NUM	CD	_	_	_	_	_
 
 
 1	fold	fold	VERB	VB	_	_	_	_	_
@@ -8413,25 +8152,16 @@
 1	96.25	96.25	NUM	CD	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	confusion	confusion	NOUN	NN	_	_	_	_	_
 
 
 1	matrix	matrix	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	provide	provide	VERB	VB	_	_	_	_	_
 
 
 1	detailed	detailed	ADJ	JJ	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	mineral	mineral	NOUN	NN	_	_	_	_	_
@@ -8453,9 +8183,6 @@
 
 
 1	metric	metric	NOUN	NN	_	_	_	_	_
-
-
-1	since	since	ADV	RB	_	_	_	_	_
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
@@ -8599,12 +8326,6 @@
 1	assemblage	assemblage	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
-1	whole	whole	ADJ	JJ	_	_	_	_	_
-
-
 1	rock	rock	NOUN	NN	_	_	_	_	_
 
 
@@ -8615,9 +8336,6 @@
 
 
 1	0.19	0.19	NUM	CD	_	_	_	_	_
-
-
-1	third	third	ADJ	JJ	_	_	_	_	_
 
 
 1	expert	expert	NOUN	NN	_	_	_	_	_
@@ -8752,9 +8470,6 @@
 1	extend	extend	VERB	VB	_	_	_	_	_
 
 
-1	beyond	beyond	ADV	RB	_	_	_	_	_
-
-
 1	disparity	disparity	NOUN	NN	_	_	_	_	_
 
 
@@ -8768,9 +8483,6 @@
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
-
-
-1	whole	whole	ADJ	JJ	_	_	_	_	_
 
 
 1	rock	rock	NOUN	NN	_	_	_	_	_
@@ -8821,12 +8533,6 @@
 1	interaction	interaction	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
-1	whole	whole	ADJ	JJ	_	_	_	_	_
-
-
 1	rock	rock	NOUN	NN	_	_	_	_	_
 
 
@@ -8849,9 +8555,6 @@
 
 
 1	mineral	mineral	NOUN	NN	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
 
 
 1	enhance	enhance	VERB	VB	_	_	_	_	_
@@ -8950,9 +8653,6 @@
 1	limitation	limitation	NOUN	NN	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
@@ -8984,9 +8684,6 @@
 
 
 1	face	face	VERB	VB	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
 
 
 1	key	key	NOUN	NN	_	_	_	_	_
@@ -9091,9 +8788,6 @@
 1	overlap	overlap	VERB	VB	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	share	share	NOUN	NN	_	_	_	_	_
 
 
@@ -9143,9 +8837,6 @@
 
 
 1	proportion	proportion	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	distinguish	distinguish	VERB	VB	_	_	_	_	_
@@ -9553,9 +9244,6 @@
 1	integration	integration	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	important	important	ADJ	JJ	_	_	_	_	_
 
 
@@ -9586,9 +9274,6 @@
 1	finding	finding	VERB	VBG	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	validation	validation	NOUN	NN	_	_	_	_	_
 
 
@@ -9614,9 +9299,6 @@
 
 
 1	feasibility	feasibility	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	highlight	highlight	VERB	VB	_	_	_	_	_
@@ -9691,13 +9373,7 @@
 1	protocol	protocol	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	reduce	reduce	VERB	VB	_	_	_	_	_
-
-
-1	amount	amount	NOUN	NN	_	_	_	_	_
 
 
 1	laboratory	laboratory	NOUN	NN	_	_	_	_	_
@@ -9707,9 +9383,6 @@
 
 
 1	require	require	VERB	VB	_	_	_	_	_
-
-
-1	although	although	SCONJ	IN	_	_	_	_	_
 
 
 1	laboratory	laboratory	NOUN	NN	_	_	_	_	_
@@ -9838,9 +9511,6 @@
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	enable	enable	VERB	VB	_	_	_	_	_
 
 
@@ -9857,9 +9527,6 @@
 
 
 1	system	system	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	enhance	enhance	VERB	VB	_	_	_	_	_
@@ -9893,9 +9560,6 @@
 
 
 1	analysis	analysis	NOUN	NN	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
 
 
 1	improve	improve	VERB	VB	_	_	_	_	_
@@ -9938,9 +9602,6 @@
 
 
 1	need	need	VERB	VB	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	lay	lay	VERB	VB	_	_	_	_	_
@@ -12847,9 +12508,6 @@
 1	relationship	relationship	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	appear	appear	VERB	VB	_	_	_	_	_
 
 
@@ -12940,9 +12598,6 @@
 1	fo999907606	fo999907606	NUM	CD	_	_	_	_	_
 
 
-1	part	part	NOUN	NN	_	_	_	_	_
-
-
 1	fti	fti	PROPN	NNP	_	_	_	_	_
 
 
@@ -12958,16 +12613,10 @@
 1	3rd	3rd	NOUN	NN	_	_	_	_	_
 
 
-1	call	call	VERB	VB	_	_	_	_	_
-
-
 1	proposal	proposal	NOUN	NN	_	_	_	_	_
 
 
 1	2023	2023	NUM	CD	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	open4innovation	open4innovation	PROPN	ADD	_	_	_	_	_
@@ -12992,9 +12641,6 @@
 
 
 1	website	website	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	high	high	ADJ	JJ	_	_	_	_	_
@@ -13048,9 +12694,6 @@
 1	author	author	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	anthropic	anthropic	NOUN	NN	_	_	_	_	_
 
 
@@ -13097,9 +12740,6 @@
 
 
 1	take	take	VERB	VB	_	_	_	_	_
-
-
-1	full	full	ADJ	JJ	_	_	_	_	_
 
 
 1	responsibility	responsibility	NOUN	NN	_	_	_	_	_

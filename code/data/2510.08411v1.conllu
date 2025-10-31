@@ -25,9 +25,6 @@
 1	galaxy	galaxy	PROPN	NNP	_	_	_	_	_
 
 
-1	regard	regard	VERB	VB	_	_	_	_	_
-
-
 1	star	star	NOUN	NN	_	_	_	_	_
 
 
@@ -43,9 +40,6 @@
 1	history	history	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	absorption	absorption	NOUN	NN	_	_	_	_	_
 
 
@@ -56,9 +50,6 @@
 
 
 1	prove	prove	VERB	VB	_	_	_	_	_
-
-
-1	rather	rather	ADV	RB	_	_	_	_	_
 
 
 1	challenge	challenge	VERB	VB	_	_	_	_	_
@@ -77,9 +68,6 @@
 
 
 1	galaxy	galaxy	PROPN	NNP	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	need	need	VERB	VB	_	_	_	_	_
@@ -110,9 +98,6 @@
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	state	state	NOUN	NN	_	_	_	_	_
@@ -265,9 +250,6 @@
 1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	key	key	NOUN	NN	_	_	_	_	_
 
 
@@ -322,9 +304,6 @@
 1	reconstruction	reconstruction	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	note	note	NOUN	NN	_	_	_	_	_
 
 
@@ -368,9 +347,6 @@
 
 
 1	biased	biased	ADJ	JJ	_	_	_	_	_
-
-
-1	towards	towards	ADP	IN	_	_	_	_	_
 
 
 1	simple	simple	ADJ	JJ	_	_	_	_	_
@@ -481,9 +457,6 @@
 1	synthesis	synthesis	NOUN	NN	_	_	_	_	_
 
 
-1	see	see	VERB	VB	_	_	_	_	_
-
-
 1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
@@ -518,9 +491,6 @@
 
 
 1	n	n	NOUN	NN	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	resolution	resolution	NOUN	NN	_	_	_	_	_
@@ -763,16 +733,10 @@
 1	vast	vast	ADJ	JJ	_	_	_	_	_
 
 
-1	amount	amount	NOUN	NN	_	_	_	_	_
-
-
 1	informa	informa	PROPN	NNP	_	_	_	_	_
 
 
 1	tion	tion	INTJ	UH	_	_	_	_	_
-
-
-1	regard	regard	VERB	VB	_	_	_	_	_
 
 
 1	property	property	NOUN	NN	_	_	_	_	_
@@ -916,9 +880,6 @@
 1	formation	formation	NOUN	NN	_	_	_	_	_
 
 
-1	ever	ever	ADV	RB	_	_	_	_	_
-
-
 1	spectroscopy	spectroscopy	NOUN	NN	_	_	_	_	_
 
 
@@ -952,16 +913,10 @@
 1	wavelength	wavelength	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	_	_	_	_
-
-
 1	time	time	NOUN	NN	_	_	_	_	_
 
 
 1	spectra	spectra	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	mainly	mainly	ADV	RB	_	_	_	_	_
@@ -979,9 +934,6 @@
 1	redshift	redshift	NOUN	NN	_	_	_	_	_
 
 
-1	thus	thus	ADV	RB	_	_	_	_	_
-
-
 1	determine	determine	VERB	VB	_	_	_	_	_
 
 
@@ -995,9 +947,6 @@
 
 
 1	galaxy	galaxy	PROPN	NNP	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	explore	explore	VERB	VB	_	_	_	_	_
@@ -1141,16 +1090,7 @@
 1	feasible	feasible	ADJ	JJ	_	_	_	_	_
 
 
-1	unless	unless	SCONJ	IN	_	_	_	_	_
-
-
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	introduce	introduce	VERB	VB	_	_	_	_	_
@@ -1201,16 +1141,10 @@
 1	ensemble	ensemble	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	include	include	VERB	VB	_	_	_	_	_
 
 
 1	large	large	ADJ	JJ	_	_	_	_	_
-
-
-1	amount	amount	NOUN	NN	_	_	_	_	_
 
 
 1	high	high	ADJ	JJ	_	_	_	_	_
@@ -1264,13 +1198,7 @@
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	somehow	somehow	ADV	RB	_	_	_	_	_
-
-
 1	interpolate	interpolate	VERB	VB	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	en	en	PROPN	NNP	_	_	_	_	_
@@ -1363,9 +1291,6 @@
 1	commonly	commonly	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
@@ -1397,9 +1322,6 @@
 
 
 1	2010	2010	NUM	CD	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	help	help	VERB	VB	_	_	_	_	_
@@ -1447,9 +1369,6 @@
 1	2025	2025	NUM	CD	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	linear	linear	ADJ	JJ	_	_	_	_	_
 
 
@@ -1459,9 +1378,6 @@
 1	pca	pca	NOUN	NN	_	_	_	_	_
 
 
-1	less	less	ADJ	JJR	_	_	_	_	_
-
-
 1	versatile	versatile	ADJ	JJ	_	_	_	_	_
 
 
@@ -1469,9 +1385,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	intricacy	intricacy	NOUN	NN	_	_	_	_	_
@@ -1603,9 +1516,6 @@
 1	20	20	NUM	LS	_	_	_	_	_
 
 
-1	many	many	ADJ	JJ	_	_	_	_	_
-
-
 1	spectra	spectra	NOUN	NN	_	_	_	_	_
 
 
@@ -1672,9 +1582,6 @@
 1	etc	etc	NOUN	FW	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	observation	observation	NOUN	NN	_	_	_	_	_
 
 
@@ -1717,16 +1624,10 @@
 1	add	add	VERB	VB	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	low	low	ADJ	JJ	_	_	_	_	_
 
 
 1	sample	sample	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	present	present	ADJ	JJ	_	_	_	_	_
@@ -1745,9 +1646,6 @@
 
 
 1	motivation	motivation	NOUN	NN	_	_	_	_	_
-
-
-1	behind	behind	ADP	IN	_	_	_	_	_
 
 
 1	constraint	constraint	NOUN	NN	_	_	_	_	_
@@ -1823,9 +1721,6 @@
 
 
 1	range	range	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	introduce	introduce	VERB	VB	_	_	_	_	_
@@ -2008,9 +1903,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	constrain	constrain	VERB	VB	_	_	_	_	_
 
 
@@ -2032,9 +1924,6 @@
 1	average	average	ADJ	JJ	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	sdss	sdss	NOUN	NN	_	_	_	_	_
 
 
@@ -2048,9 +1937,6 @@
 
 
 1	15	15	NUM	LS	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	pixel	pixel	NOUN	NN	_	_	_	_	_
@@ -2218,9 +2104,6 @@
 1	finally	finally	ADV	RB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	test	test	NOUN	NN	_	_	_	_	_
 
 
@@ -2239,9 +2122,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	con	con	NOUN	NN	_	_	_	_	_
 
 
@@ -2249,9 +2129,6 @@
 
 
 1	purpose	purpose	NOUN	NN	_	_	_	_	_
-
-
-1	take	take	VERB	VB	_	_	_	_	_
 
 
 1	robust	robust	ADJ	JJ	_	_	_	_	_
@@ -2302,12 +2179,6 @@
 1	sample	sample	NOUN	NN	_	_	_	_	_
 
 
-1	please	please	INTJ	UH	_	_	_	_	_
-
-
-1	see	see	VERB	VB	_	_	_	_	_
-
-
 1	sharbaf	sharbaf	PROPN	NNP	_	_	_	_	_
 
 
@@ -2342,9 +2213,6 @@
 
 
 1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	throughout	throughout	ADP	IN	_	_	_	_	_
 
 
 1	astronomy	astronomy	NOUN	NN	_	_	_	_	_
@@ -2587,9 +2455,6 @@
 1	legacy	legacy	NOUN	NN	_	_	_	_	_
 
 
-1	part	part	NOUN	NN	_	_	_	_	_
-
-
 1	sdss	sdss	NOUN	NN	_	_	_	_	_
 
 
@@ -2734,9 +2599,6 @@
 1	make	make	VERB	VB	_	_	_	_	_
 
 
-1	please	please	INTJ	UH	_	_	_	_	_
-
-
 1	note	note	NOUN	NN	_	_	_	_	_
 
 
@@ -2759,9 +2621,6 @@
 
 
 1	way	way	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	emphasise	emphasise	VERB	VB	_	_	_	_	_
@@ -2893,9 +2752,6 @@
 1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	regard	regard	VERB	VB	_	_	_	_	_
-
-
 1	relationship	relationship	NOUN	NN	_	_	_	_	_
 
 
@@ -2924,9 +2780,6 @@
 
 
 1	2023	2023	NUM	CD	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	consider	consider	VERB	VB	_	_	_	_	_
@@ -2960,9 +2813,6 @@
 
 
 1	result	result	NOUN	NN	_	_	_	_	_
-
-
-1	mostly	mostly	ADV	RB	_	_	_	_	_
 
 
 1	focus	focus	VERB	VB	_	_	_	_	_
@@ -2999,9 +2849,6 @@
 
 
 1	author	author	NOUN	NN	_	_	_	_	_
-
-
-1	indeed	indeed	ADV	RB	_	_	_	_	_
 
 
 1	suggest	suggest	VERB	VB	_	_	_	_	_
@@ -3058,9 +2905,6 @@
 1	commonly	commonly	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	constrain	constrain	VERB	VB	_	_	_	_	_
 
 
@@ -3083,9 +2927,6 @@
 
 
 1	history	history	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	consider	consider	VERB	VB	_	_	_	_	_
@@ -3166,9 +3007,6 @@
 1	follow	follow	VERB	VB	_	_	_	_	_
 
 
-1	give	give	VERB	VB	_	_	_	_	_
-
-
 1	brief	brief	ADJ	JJ	_	_	_	_	_
 
 
@@ -3184,16 +3022,10 @@
 1	2	2	NUM	LS	_	_	_	_	_
 
 
-1	along	along	ADV	RB	_	_	_	_	_
-
-
 1	de	de	PROPN	NNP	_	_	_	_	_
 
 
 1	scription	scription	NOUN	NN	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	method	method	NOUN	NN	_	_	_	_	_
@@ -3280,9 +3112,6 @@
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	selectively	selectively	ADV	RB	_	_	_	_	_
 
 
@@ -3293,9 +3122,6 @@
 
 
 1	frequency	frequency	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	general	general	ADJ	JJ	_	_	_	_	_
@@ -3559,16 +3385,10 @@
 1	represent	represent	VERB	VB	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
 1	cover	cover	VERB	VB	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	adopt	adopt	VERB	VB	_	_	_	_	_
@@ -3706,9 +3526,6 @@
 1	5	5	NUM	LS	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	note	note	NOUN	NN	_	_	_	_	_
 
 
@@ -3733,13 +3550,7 @@
 1	define	define	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	way	way	NOUN	NN	_	_	_	_	_
-
-
-1	either	either	CCONJ	CC	_	_	_	_	_
 
 
 1	noiseless	noiseless	ADJ	JJ	_	_	_	_	_
@@ -3769,9 +3580,6 @@
 1	n	n	NOUN	NN	_	_	_	_	_
 
 
-1	former	former	ADJ	JJ	_	_	_	_	_
-
-
 1	allow	allow	VERB	VB	_	_	_	_	_
 
 
@@ -3782,15 +3590,6 @@
 
 
 1	process	process	NOUN	NN	_	_	_	_	_
-
-
-1	whereas	whereas	ADV	RB	_	_	_	_	_
-
-
-1	latter	latter	ADJ	JJ	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	test	test	NOUN	NN	_	_	_	_	_
@@ -3880,9 +3679,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
@@ -3893,9 +3689,6 @@
 
 
 1	n	n	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	trivially	trivially	ADV	RB	_	_	_	_	_
@@ -3976,9 +3769,6 @@
 1	n	n	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	indicative	indicative	ADJ	JJ	_	_	_	_	_
 
 
@@ -3989,9 +3779,6 @@
 
 
 1	opposite	opposite	ADV	RB	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	suggestive	suggestive	ADJ	JJ	_	_	_	_	_
@@ -4087,9 +3874,6 @@
 1	panel	panel	NOUN	NN	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	bf	bf	NOUN	NN	_	_	_	_	_
 
 
@@ -4171,16 +3955,10 @@
 1	circle	circle	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	thing	thing	NOUN	NN	_	_	_	_	_
 
 
 1	stand	stand	VERB	VB	_	_	_	_	_
-
-
-1	quite	quite	ADV	RB	_	_	_	_	_
 
 
 1	clearly	clearly	ADV	RB	_	_	_	_	_
@@ -4207,12 +3985,6 @@
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
-1	quite	quite	ADV	RB	_	_	_	_	_
-
-
 1	expect	expect	VERB	VB	_	_	_	_	_
 
 
@@ -4225,25 +3997,16 @@
 1	wide	wide	ADJ	JJ	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	rely	rely	VERB	VB	_	_	_	_	_
 
 
 1	continuum	continuum	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	perform	perform	VERB	VB	_	_	_	_	_
 
 
 1	test	test	NOUN	NN	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	know	know	VERB	VB	_	_	_	_	_
@@ -4321,9 +4084,6 @@
 1	spectrum	spectrum	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	encode	encode	VERB	VB	_	_	_	_	_
 
 
@@ -4361,9 +4121,6 @@
 
 
 1	figure	figure	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	show	show	VERB	VB	_	_	_	_	_
@@ -4435,19 +4192,10 @@
 1	frequency	frequency	NOUN	NN	_	_	_	_	_
 
 
-1	many	many	ADJ	JJ	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	ascribe	ascribe	VERB	VB	_	_	_	_	_
 
 
 1	noise	noise	NOUN	NN	_	_	_	_	_
-
-
-1	would	would	AUX	MD	_	_	_	_	_
 
 
 1	equivalent	equivalent	ADJ	JJ	_	_	_	_	_
@@ -4490,9 +4238,6 @@
 
 
 1	reconstruction	reconstruction	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	noisy	noisy	ADJ	JJ	_	_	_	_	_
@@ -4990,13 +4735,7 @@
 1	0.8	0.8	NUM	CD	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	index	index	NOUN	NN	_	_	_	_	_
-
-
-1	show	show	VERB	VB	_	_	_	_	_
 
 
 1	characteristic	characteristic	ADJ	JJ	_	_	_	_	_
@@ -5048,9 +4787,6 @@
 
 
 1	f	f	PROPN	NNP	_	_	_	_	_
-
-
-1	whereas	whereas	ADV	RB	_	_	_	_	_
 
 
 1	bf	bf	NOUN	NN	_	_	_	_	_
@@ -5957,9 +5693,6 @@
 
 
 1	paper	paper	NOUN	NN	_	_	_	_	_
-
-
-1	make	make	VERB	VB	_	_	_	_	_
 
 
 1	openly	openly	ADV	RB	_	_	_	_	_

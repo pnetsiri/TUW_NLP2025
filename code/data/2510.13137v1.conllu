@@ -64,9 +64,6 @@
 1	recognition	recognition	NOUN	NN	_	_	_	_	_
 
 
-1	though	though	ADV	RB	_	_	_	_	_
-
-
 1	3d	3d	NUM	LS	_	_	_	_	_
 
 
@@ -131,9 +128,6 @@
 
 
 1	sign	sign	VERB	VB	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	50	50	NUM	LS	_	_	_	_	_
@@ -203,9 +197,6 @@
 
 
 1	time	time	NOUN	NN	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	frame	frame	NOUN	NN	_	_	_	_	_
@@ -538,9 +529,6 @@
 1	applicability	applicability	NOUN	NN	_	_	_	_	_
 
 
-1	another	another	DET	DT	_	_	_	_	_
-
-
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
@@ -608,9 +596,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	public	public	ADJ	JJ	_	_	_	_	_
@@ -883,12 +868,6 @@
 1	communicate	communicate	VERB	VB	_	_	_	_	_
 
 
-1	yet	yet	ADV	RB	_	_	_	_	_
-
-
-1	still	still	ADV	RB	_	_	_	_	_
-
-
 1	big	big	ADJ	JJ	_	_	_	_	_
 
 
@@ -905,9 +884,6 @@
 
 
 1	widely	widely	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	recent	recent	ADJ	JJ	_	_	_	_	_
@@ -959,9 +935,6 @@
 
 
 1	text	text	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	prominent	prominent	ADJ	JJ	_	_	_	_	_
@@ -1105,9 +1078,6 @@
 1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
@@ -1141,9 +1111,6 @@
 1	accurate	accurate	ADJ	JJ	_	_	_	_	_
 
 
-1	much	much	ADV	RB	_	_	_	_	_
-
-
 1	compute	compute	VERB	VB	_	_	_	_	_
 
 
@@ -1159,9 +1126,6 @@
 1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	work	work	NOUN	NN	_	_	_	_	_
 
 
@@ -1172,9 +1136,6 @@
 
 
 1	situation	situation	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	medium	medium	ADJ	JJ	_	_	_	_	_
@@ -1315,9 +1276,6 @@
 1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	validate	validate	VERB	VB	_	_	_	_	_
 
 
@@ -1337,9 +1295,6 @@
 
 
 1	efficiency	efficiency	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	sacrifice	sacrifice	NOUN	NN	_	_	_	_	_
@@ -1489,9 +1444,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	though	though	ADV	RB	_	_	_	_	_
-
-
 1	cost	cost	NOUN	NN	_	_	_	_	_
 
 
@@ -1520,9 +1472,6 @@
 
 
 1	independently	independently	ADV	RB	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	highlight	highlight	VERB	VB	_	_	_	_	_
@@ -1657,9 +1606,6 @@
 1	dependency	dependency	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	frame	frame	NOUN	NN	_	_	_	_	_
 
 
@@ -1724,9 +1670,6 @@
 
 
 1	ucf101	ucf101	NOUN	NN	_	_	_	_	_
-
-
-1	though	though	ADV	RB	_	_	_	_	_
 
 
 1	note	note	NOUN	NN	_	_	_	_	_
@@ -1840,9 +1783,6 @@
 1	gesture	gesture	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	indian	indian	ADJ	JJ	_	_	_	_	_
 
 
@@ -1952,9 +1892,6 @@
 
 
 1	work	work	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	validate	validate	VERB	VB	_	_	_	_	_
@@ -2566,9 +2503,6 @@
 1	wlasl	wlasl	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	author	author	NOUN	NN	_	_	_	_	_
 
 
@@ -2944,9 +2878,6 @@
 1	structure	structure	NOUN	NN	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	main	main	ADJ	JJ	_	_	_	_	_
 
 
@@ -3229,9 +3160,6 @@
 1	exactly	exactly	ADV	RB	_	_	_	_	_
 
 
-1	many	many	ADJ	JJ	_	_	_	_	_
-
-
 1	unit	unit	NOUN	NN	_	_	_	_	_
 
 
@@ -3335,9 +3263,6 @@
 
 
 1	character	character	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	provide	provide	VERB	VB	_	_	_	_	_
@@ -3514,9 +3439,6 @@
 1	hardware	hardware	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	require	require	VERB	VB	_	_	_	_	_
 
 
@@ -3527,9 +3449,6 @@
 
 
 1	tolerance	tolerance	NOUN	NN	_	_	_	_	_
-
-
-1	since	since	ADV	RB	_	_	_	_	_
 
 
 1	input	input	NOUN	NN	_	_	_	_	_
@@ -3547,9 +3466,6 @@
 1	landmark	landmark	NOUN	NN	_	_	_	_	_
 
 
-1	rather	rather	ADV	RB	_	_	_	_	_
-
-
 1	raw	raw	ADJ	JJ	_	_	_	_	_
 
 
@@ -3560,9 +3476,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
 
 
 1	sensitive	sensitive	ADJ	JJ	_	_	_	_	_
@@ -3608,9 +3521,6 @@
 
 
 1	phrase	phrase	NOUN	NN	_	_	_	_	_
-
-
-1	full	full	ADJ	JJ	_	_	_	_	_
 
 
 1	sign	sign	VERB	VB	_	_	_	_	_
@@ -3748,9 +3658,6 @@
 1	filter	filter	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	spatial	spatial	ADJ	JJ	_	_	_	_	_
 
 
@@ -3838,9 +3745,6 @@
 1	pipe	pipe	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	extract	extract	NOUN	NN	_	_	_	_	_
 
 
@@ -3857,9 +3761,6 @@
 
 
 1	point	point	NOUN	NN	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	hand	hand	NOUN	NN	_	_	_	_	_
@@ -3881,9 +3782,6 @@
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	frame	frame	NOUN	NN	_	_	_	_	_
@@ -3982,9 +3880,6 @@
 1	particularly	particularly	ADV	RB	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	suited	suited	VERB	VBN	_	_	_	_	_
 
 
@@ -4007,9 +3902,6 @@
 
 
 1	dependency	dependency	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	time	time	NOUN	NN	_	_	_	_	_
@@ -4052,9 +3944,6 @@
 
 
 1	posture	posture	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	use	use	VERB	VB	_	_	_	_	_
@@ -4198,9 +4087,6 @@
 1	hand	hand	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	time	time	NOUN	NN	_	_	_	_	_
 
 
@@ -4211,9 +4097,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	make	make	VERB	VB	_	_	_	_	_
 
 
 1	lstm	lstm	PROPN	NNP	_	_	_	_	_
@@ -4249,13 +4132,7 @@
 1	gesture	gesture	NOUN	NN	_	_	_	_	_
 
 
-1	rather	rather	ADV	RB	_	_	_	_	_
-
-
 1	position	position	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	moment	moment	NOUN	NN	_	_	_	_	_
@@ -4444,9 +4321,6 @@
 1	sharp	sharp	ADJ	JJ	_	_	_	_	_
 
 
-1	even	even	ADV	RB	_	_	_	_	_
-
-
 1	tool	tool	NOUN	NN	_	_	_	_	_
 
 
@@ -4585,9 +4459,6 @@
 1	evaluate	evaluate	VERB	VB	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	spatial	spatial	ADJ	JJ	_	_	_	_	_
 
 
@@ -4669,9 +4540,6 @@
 1	clip	clip	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	volumetric	volumetric	NOUN	NN	_	_	_	_	_
 
 
@@ -4736,12 +4604,6 @@
 
 
 1	area	area	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	consecutive	consecutive	ADJ	JJ	_	_	_	_	_
@@ -4847,12 +4709,6 @@
 
 
 1	lstm	lstm	PROPN	NNP	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
-
-
-1	move	move	VERB	VB	_	_	_	_	_
 
 
 1	crucial	crucial	ADJ	JJ	_	_	_	_	_
@@ -5029,9 +4885,6 @@
 1	awareness	awareness	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	access	access	NOUN	NN	_	_	_	_	_
 
 
@@ -5101,9 +4954,6 @@
 1	gesture	gesture	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	strong	strong	ADJ	JJ	_	_	_	_	_
 
 
@@ -5132,15 +4982,6 @@
 
 
 1	pull	pull	VERB	VB	_	_	_	_	_
-
-
-1	everything	everything	PRON	NN	_	_	_	_	_
-
-
-1	together	together	ADV	RB	_	_	_	_	_
-
-
-1	make	make	VERB	VB	_	_	_	_	_
 
 
 1	final	final	ADJ	JJ	_	_	_	_	_
@@ -5230,9 +5071,6 @@
 1	efficient	efficient	ADJ	JJ	_	_	_	_	_
 
 
-1	enough	enough	ADJ	JJ	_	_	_	_	_
-
-
 1	practical	practical	ADJ	JJ	_	_	_	_	_
 
 
@@ -5246,9 +5084,6 @@
 
 
 1	require	require	VERB	VB	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
 
 
 1	memory	memory	NOUN	NN	_	_	_	_	_
@@ -5350,9 +5185,6 @@
 1	frame	frame	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	need	need	VERB	VB	_	_	_	_	_
 
 
@@ -5396,9 +5228,6 @@
 
 
 1	landmark	landmark	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	medium	medium	ADJ	JJ	_	_	_	_	_
@@ -5450,9 +5279,6 @@
 
 
 1	movement	movement	NOUN	NN	_	_	_	_	_
-
-
-1	might	might	AUX	MD	_	_	_	_	_
 
 
 1	lose	lose	VERB	VB	_	_	_	_	_
@@ -5575,16 +5401,10 @@
 1	generalize	generalize	VERB	VB	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	small	small	ADJ	JJ	_	_	_	_	_
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	trainable	trainable	ADJ	JJ	_	_	_	_	_
@@ -5650,9 +5470,6 @@
 1	extraction	extraction	NOUN	NN	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	medium	medium	ADJ	JJ	_	_	_	_	_
 
 
@@ -5687,9 +5504,6 @@
 
 
 1	clip	clip	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	crop	crop	NOUN	NN	_	_	_	_	_
@@ -5804,9 +5618,6 @@
 
 
 1	point	point	NOUN	NN	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	frame	frame	NOUN	NN	_	_	_	_	_
@@ -6103,9 +5914,6 @@
 1	good	good	ADJ	JJ	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	static	static	ADJ	JJ	_	_	_	_	_
 
 
@@ -6116,9 +5924,6 @@
 
 
 1	static	static	ADJ	JJ	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	visually	visually	ADV	RB	_	_	_	_	_
@@ -6232,16 +6037,10 @@
 1	tool	tool	NOUN	NN	_	_	_	_	_
 
 
-1	meanwhile	meanwhile	ADV	RB	_	_	_	_	_
-
-
 1	3d	3d	NUM	LS	_	_	_	_	_
 
 
 1	cnn	cnn	PROPN	NNP	_	_	_	_	_
-
-
-1	although	although	SCONJ	IN	_	_	_	_	_
 
 
 1	precise	precise	ADJ	JJ	_	_	_	_	_
@@ -6331,9 +6130,6 @@
 1	efficiency	efficiency	NOUN	NN	_	_	_	_	_
 
 
-1	thus	thus	ADV	RB	_	_	_	_	_
-
-
 1	make	make	VERB	VB	_	_	_	_	_
 
 
@@ -6370,9 +6166,6 @@
 1	moderate	moderate	ADJ	JJ	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	3d	3d	NUM	LS	_	_	_	_	_
 
 
@@ -6395,9 +6188,6 @@
 
 
 1	strong	strong	ADJ	JJ	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	lstm	lstm	PROPN	NNP	_	_	_	_	_
@@ -6589,9 +6379,6 @@
 1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
@@ -6748,9 +6535,6 @@
 1	device	device	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	lightweight	lightweight	ADJ	JJ	_	_	_	_	_
 
 
@@ -6790,9 +6574,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	consecutive	consecutive	ADJ	JJ	_	_	_	_	_
 
 
@@ -6820,9 +6601,6 @@
 1	scenario	scenario	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	3d	3d	NUM	LS	_	_	_	_	_
 
 
@@ -6845,9 +6623,6 @@
 
 
 1	latency	latency	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	hinder	hinder	VERB	VB	_	_	_	_	_
@@ -6890,9 +6665,6 @@
 
 
 1	pattern	pattern	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	space	space	NOUN	NN	_	_	_	_	_
@@ -6941,9 +6713,6 @@
 
 
 1	gui	gui	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	enhance	enhance	VERB	VB	_	_	_	_	_
@@ -7010,9 +6779,6 @@
 
 
 1	prototype	prototype	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	provide	provide	VERB	VB	_	_	_	_	_
@@ -7222,9 +6988,6 @@
 1	dependency	dependency	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	sequential	sequential	ADJ	JJ	_	_	_	_	_
 
 
@@ -7325,9 +7088,6 @@
 
 
 1	prediction	prediction	NOUN	NN	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	low	low	ADJ	JJ	_	_	_	_	_
@@ -7432,9 +7192,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	volumetric	volumetric	NOUN	NN	_	_	_	_	_
 
 
@@ -7486,9 +7243,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	frame	frame	NOUN	NN	_	_	_	_	_
 
 
@@ -7516,9 +7270,6 @@
 1	sign	sign	VERB	VB	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
@@ -7538,9 +7289,6 @@
 
 
 1	time	time	NOUN	NN	_	_	_	_	_
-
-
-1	around	around	ADV	RB	_	_	_	_	_
 
 
 1	65	65	NUM	LS	_	_	_	_	_
@@ -7567,9 +7315,6 @@
 1	make	make	VERB	VB	_	_	_	_	_
 
 
-1	less	less	ADJ	JJR	_	_	_	_	_
-
-
 1	suitable	suitable	ADJ	JJ	_	_	_	_	_
 
 
@@ -7580,9 +7325,6 @@
 
 
 1	application	application	NOUN	NN	_	_	_	_	_
-
-
-1	unless	unless	SCONJ	IN	_	_	_	_	_
 
 
 1	run	run	NOUN	NN	_	_	_	_	_
@@ -7666,9 +7408,6 @@
 1	acknowledgment	acknowledgment	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	_	_	_	_
-
-
 1	like	like	INTJ	UH	_	_	_	_	_
 
 
@@ -7706,9 +7445,6 @@
 
 
 1	encouragement	encouragement	NOUN	NN	_	_	_	_	_
-
-
-1	throughout	throughout	ADP	IN	_	_	_	_	_
 
 
 1	development	development	NOUN	NN	_	_	_	_	_
@@ -7751,9 +7487,6 @@
 
 
 1	website	website	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	grateful	grateful	ADJ	JJ	_	_	_	_	_

@@ -202,9 +202,6 @@
 1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
@@ -283,12 +280,6 @@
 1	information	information	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	challenge	challenge	VERB	VB	_	_	_	_	_
 
 
@@ -335,9 +326,6 @@
 
 
 1	problem	problem	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	deep	deep	ADJ	JJ	_	_	_	_	_
@@ -394,9 +382,6 @@
 1	gnn	gnn	PROPN	NNP	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
@@ -433,9 +418,6 @@
 1	information	information	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	graph	graph	NOUN	NN	_	_	_	_	_
 
 
@@ -458,9 +440,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
@@ -518,9 +497,6 @@
 
 
 1	offer	offer	VERB	VB	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	potential	potential	ADJ	JJ	_	_	_	_	_
@@ -688,9 +664,6 @@
 1	past	past	ADJ	JJ	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	decade	decade	NOUN	NN	_	_	_	_	_
 
 
@@ -698,9 +671,6 @@
 
 
 1	largely	largely	ADV	RB	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	observation	observation	NOUN	NN	_	_	_	_	_
@@ -772,9 +742,6 @@
 1	represent	represent	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -817,9 +784,6 @@
 1	simultaneously	simultaneously	ADV	RB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	array	array	NOUN	NN	_	_	_	_	_
 
 
@@ -830,9 +794,6 @@
 
 
 1	information	information	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	reconstruct	reconstruct	VERB	VB	_	_	_	_	_
@@ -866,9 +827,6 @@
 
 
 1	statistic	statistic	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	dominate	dominate	ADJ	JJ	_	_	_	_	_
@@ -1003,9 +961,6 @@
 1	separate	separate	ADJ	JJ	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	event	event	NOUN	NN	_	_	_	_	_
 
 
@@ -1109,9 +1064,6 @@
 
 
 1	directly	directly	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
@@ -1219,9 +1171,6 @@
 1	aggregation	aggregation	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	event	event	NOUN	NN	_	_	_	_	_
 
 
@@ -1250,9 +1199,6 @@
 
 
 1	cloud	cloud	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	establish	establish	VERB	VB	_	_	_	_	_
@@ -1304,9 +1250,6 @@
 
 
 1	trivial	trivial	ADJ	JJ	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	variety	variety	NOUN	NN	_	_	_	_	_
@@ -1411,9 +1354,6 @@
 1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	towards	towards	ADP	IN	_	_	_	_	_
-
-
 1	physically	physically	ADV	RB	_	_	_	_	_
 
 
@@ -1477,9 +1417,6 @@
 1	apply	apply	VERB	VB	_	_	_	_	_
 
 
-1	thus	thus	ADV	RB	_	_	_	_	_
-
-
 1	contribute	contribute	VERB	VB	_	_	_	_	_
 
 
@@ -1525,9 +1462,6 @@
 1	shift	shift	VERB	VB	_	_	_	_	_
 
 
-1	towards	towards	ADP	IN	_	_	_	_	_
-
-
 1	explore	explore	VERB	VB	_	_	_	_	_
 
 
@@ -1538,9 +1472,6 @@
 
 
 1	information	information	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	multiple	multiple	ADJ	JJ	_	_	_	_	_
@@ -1630,13 +1561,7 @@
 1	mehta	mehta	PROPN	NNP	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	distinct	distinct	ADJ	JJ	_	_	_	_	_
@@ -1792,9 +1717,6 @@
 1	consist	consist	VERB	VB	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	12	12	NUM	LS	_	_	_	_	_
 
 
@@ -1814,9 +1736,6 @@
 
 
 1	square	square	ADJ	JJ	_	_	_	_	_
-
-
-1	side	side	NOUN	NN	_	_	_	_	_
 
 
 1	120	120	NUM	CD	_	_	_	_	_
@@ -1879,9 +1798,6 @@
 1	choose	choose	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	event	event	NOUN	NN	_	_	_	_	_
 
 
@@ -1895,9 +1811,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	train	train	NOUN	NN	_	_	_	_	_
@@ -1969,9 +1882,6 @@
 1	framework	framework	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	ctapipe	ctapipe	PROPN	NNP	_	_	_	_	_
 
 
@@ -1979,9 +1889,6 @@
 
 
 1	package	package	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	handle	handle	NOUN	NN	_	_	_	_	_
@@ -2030,9 +1937,6 @@
 
 
 1	implement	implement	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	py	py	NOUN	NN	_	_	_	_	_
@@ -2203,13 +2107,7 @@
 1	cnn	cnn	PROPN	NNP	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	form	form	NOUN	NN	_	_	_	_	_
-
-
-1	part	part	NOUN	NN	_	_	_	_	_
 
 
 1	input	input	NOUN	NN	_	_	_	_	_
@@ -2287,9 +2185,6 @@
 1	array	array	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	relevant	relevant	ADJ	JJ	_	_	_	_	_
 
 
@@ -2300,9 +2195,6 @@
 
 
 1	operate	operate	VERB	VB	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	technical	technical	ADJ	JJ	_	_	_	_	_
@@ -2321,9 +2213,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	allow	allow	VERB	VB	_	_	_	_	_
@@ -2431,9 +2320,6 @@
 1	scale	scale	NOUN	NN	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	convolution	convolution	NOUN	NN	_	_	_	_	_
 
 
@@ -2467,9 +2353,6 @@
 1	pass	pass	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	additional	additional	ADJ	JJ	_	_	_	_	_
 
 
@@ -2492,9 +2375,6 @@
 
 
 1	process	process	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	fully	fully	ADV	RB	_	_	_	_	_
@@ -2599,9 +2479,6 @@
 1	concatenation	concatenation	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
@@ -2633,9 +2510,6 @@
 
 
 1	globally	globally	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	combination	combination	NOUN	NN	_	_	_	_	_
@@ -2671,9 +2545,6 @@
 1	embed	embed	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
@@ -2690,9 +2561,6 @@
 
 
 1	gatconv	gatconv	PROPN	NNP	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	explore	explore	VERB	VB	_	_	_	_	_
@@ -2747,9 +2615,6 @@
 
 
 1	consequently	consequently	ADV	RB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
@@ -2843,9 +2708,6 @@
 
 
 1	intensity	intensity	NOUN	NN	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
@@ -3001,9 +2863,6 @@
 1	direction	direction	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	reconstruct	reconstruct	VERB	VB	_	_	_	_	_
 
 
@@ -3151,12 +3010,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
-1	upon	upon	ADP	IN	_	_	_	_	_
-
-
 1	testing	testing	NOUN	NN	_	_	_	_	_
 
 
@@ -3206,9 +3059,6 @@
 
 
 1	result	result	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	see	see	VERB	VB	_	_	_	_	_
@@ -3334,9 +3184,6 @@
 1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	split	split	VERB	VBN	_	_	_	_	_
 
 
@@ -3407,9 +3254,6 @@
 
 
 1	tion	tion	INTJ	UH	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	thank	thank	VERB	VBP	_	_	_	_	_

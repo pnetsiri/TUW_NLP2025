@@ -22,9 +22,6 @@
 1	intervention	intervention	NOUN	NN	_	_	_	_	_
 
 
-1	yet	yet	ADV	RB	_	_	_	_	_
-
-
 1	infrequent	infrequent	ADJ	JJ	_	_	_	_	_
 
 
@@ -32,9 +29,6 @@
 
 
 1	assessment	assessment	NOUN	NN	_	_	_	_	_
-
-
-1	often	often	ADV	RB	_	_	_	_	_
 
 
 1	lack	lack	NOUN	NN	_	_	_	_	_
@@ -163,9 +157,6 @@
 1	ongoe	ongoe	INTJ	UH	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	year	year	NOUN	NN	_	_	_	_	_
 
 
@@ -184,9 +175,6 @@
 1	contribution	contribution	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	technique	technique	NOUN	NN	_	_	_	_	_
 
 
@@ -197,9 +185,6 @@
 
 
 1	generalizability	generalizability	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	participant	participant	NOUN	NN	_	_	_	_	_
@@ -448,9 +433,6 @@
 1	function	function	NOUN	NN	_	_	_	_	_
 
 
-1	thereby	thereby	ADV	RB	_	_	_	_	_
-
-
 1	reduce	reduce	VERB	VB	_	_	_	_	_
 
 
@@ -482,9 +464,6 @@
 
 
 1	intervention	intervention	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	clinical	clinical	ADJ	JJ	_	_	_	_	_
@@ -844,9 +823,6 @@
 1	ieee	ieee	NOUN	NN	_	_	_	_	_
 
 
-1	must	must	AUX	MD	_	_	_	_	_
-
-
 1	obtain	obtain	VERB	VB	_	_	_	_	_
 
 
@@ -997,9 +973,6 @@
 1	leave	leave	VERB	VB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	participant	participant	NOUN	NN	_	_	_	_	_
 
 
@@ -1013,9 +986,6 @@
 
 
 1	scheme	scheme	NOUN	NN	_	_	_	_	_
-
-
-1	rather	rather	ADV	RB	_	_	_	_	_
 
 
 1	raw	raw	ADJ	JJ	_	_	_	_	_
@@ -1123,9 +1093,6 @@
 1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	fine	fine	ADJ	JJ	_	_	_	_	_
 
 
@@ -1141,13 +1108,7 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	small	small	ADJ	JJ	_	_	_	_	_
-
-
-1	amount	amount	NOUN	NN	_	_	_	_	_
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
@@ -1210,9 +1171,6 @@
 1	individual	individual	NOUN	NN	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	require	require	VERB	VB	_	_	_	_	_
 
 
@@ -1252,9 +1210,6 @@
 1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	whereas	whereas	ADV	RB	_	_	_	_	_
-
-
 1	wellbeing	wellbeing	NOUN	NN	_	_	_	_	_
 
 
@@ -1265,9 +1220,6 @@
 
 
 1	obtain	obtain	VERB	VB	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	survey	survey	NOUN	NN	_	_	_	_	_
@@ -1307,9 +1259,6 @@
 
 
 1	assessment	assessment	NOUN	NN	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
@@ -1402,22 +1351,13 @@
 1	score	score	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	reduce	reduce	VERB	VB	_	_	_	_	_
-
-
-1	amount	amount	NOUN	NN	_	_	_	_	_
 
 
 1	training	training	NOUN	NN	_	_	_	_	_
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	suboptimal	suboptimal	ADJ	JJ	_	_	_	_	_
@@ -1720,13 +1660,7 @@
 1	participant	participant	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	year	year	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	smart	smart	ADJ	JJ	_	_	_	_	_
@@ -1807,12 +1741,6 @@
 1	decline	decline	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
-
-
 1	smartphone	smartphone	NOUN	NN	_	_	_	_	_
 
 
@@ -1885,9 +1813,6 @@
 1	build	build	VERB	VB	_	_	_	_	_
 
 
-1	upon	upon	ADP	IN	_	_	_	_	_
-
-
 1	effort	effort	NOUN	NN	_	_	_	_	_
 
 
@@ -1913,9 +1838,6 @@
 
 
 1	pattern	pattern	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	diverse	diverse	ADJ	JJ	_	_	_	_	_
@@ -1970,9 +1892,6 @@
 
 
 1	sense	sense	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	year	year	NOUN	NN	_	_	_	_	_
@@ -2086,9 +2005,6 @@
 1	remotely	remotely	ADV	RB	_	_	_	_	_
 
 
-1	every	every	DET	DT	_	_	_	_	_
-
-
 1	6	6	NUM	LS	_	_	_	_	_
 
 
@@ -2155,9 +2071,6 @@
 1	determine	determine	VERB	VB	_	_	_	_	_
 
 
-1	whether	whether	SCONJ	IN	_	_	_	_	_
-
-
 1	participant	participant	NOUN	NN	_	_	_	_	_
 
 
@@ -2170,16 +2083,10 @@
 1	impairment	impairment	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	_	_	_	_
-
-
 1	2025	2025	NUM	CD	_	_	_	_	_
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
-
-
-1	still	still	ADV	RB	_	_	_	_	_
 
 
 1	actively	actively	ADV	RB	_	_	_	_	_
@@ -2216,9 +2123,6 @@
 
 
 1	enrol	enrol	VERB	VB	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	2023	2023	NUM	CD	_	_	_	_	_
@@ -2287,19 +2191,10 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	among	among	ADP	IN	_	_	_	_	_
-
-
 1	lstm	lstm	PROPN	NNP	_	_	_	_	_
 
 
 1	widely	widely	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	lightweight	lightweight	ADJ	JJ	_	_	_	_	_
@@ -2335,9 +2230,6 @@
 1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	lstm	lstm	PROPN	NNP	_	_	_	_	_
 
 
@@ -2362,13 +2254,7 @@
 1	collect	collect	VERB	VB	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	_	_	_	_
-
-
 1	wearable	wearable	ADJ	JJ	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
 
 
 1	month	month	NOUN	NN	_	_	_	_	_
@@ -2473,9 +2359,6 @@
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	promise	promise	NOUN	NN	_	_	_	_	_
 
 
@@ -2536,9 +2419,6 @@
 1	widely	widely	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	technique	technique	NOUN	NN	_	_	_	_	_
 
 
@@ -2579,9 +2459,6 @@
 
 
 1	apply	apply	VERB	VB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	signal	signal	VERB	VB	_	_	_	_	_
@@ -2668,9 +2545,6 @@
 1	background	background	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	require	require	VERB	VB	_	_	_	_	_
 
 
@@ -2687,9 +2561,6 @@
 
 
 1	utilize	utilize	VERB	VB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	os	os	INTJ	UH	_	_	_	_	_
@@ -2890,13 +2761,7 @@
 1	fi	fi	NOUN	NN	_	_	_	_	_
 
 
-1	either	either	CCONJ	CC	_	_	_	_	_
-
-
 1	charge	charge	NOUN	NN	_	_	_	_	_
-
-
-1	least	least	ADJ	JJS	_	_	_	_	_
 
 
 1	50	50	NUM	LS	_	_	_	_	_
@@ -2920,9 +2785,6 @@
 1	record	record	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	10	10	NUM	LS	_	_	_	_	_
 
 
@@ -2930,9 +2792,6 @@
 
 
 1	window	window	NOUN	NN	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
 
 
 1	200	200	NUM	CD	_	_	_	_	_
@@ -2951,9 +2810,6 @@
 
 
 1	quantify	quantify	VERB	VB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	aspect	aspect	NOUN	NN	_	_	_	_	_
@@ -2975,9 +2831,6 @@
 
 
 1	assess	assess	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	location	location	NOUN	NN	_	_	_	_	_
@@ -3083,9 +2936,6 @@
 
 
 1	duration	duration	NOUN	NN	_	_	_	_	_
-
-
-1	along	along	ADV	RB	_	_	_	_	_
 
 
 1	early	early	ADJ	JJ	_	_	_	_	_
@@ -3202,9 +3052,6 @@
 1	spend	spend	VERB	VB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	cluster	cluster	NOUN	NN	_	_	_	_	_
 
 
@@ -3212,9 +3059,6 @@
 
 
 1	home	home	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	compute	compute	VERB	VB	_	_	_	_	_
@@ -3232,9 +3076,6 @@
 1	cluster	cluster	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
-
-
 1	home	home	NOUN	NN	_	_	_	_	_
 
 
@@ -3248,9 +3089,6 @@
 
 
 1	relationship	relationship	NOUN	NN	_	_	_	_	_
-
-
-1	among	among	ADP	IN	_	_	_	_	_
 
 
 1	significant	significant	ADJ	JJ	_	_	_	_	_
@@ -3281,9 +3119,6 @@
 
 
 1	cluster	cluster	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	quantify	quantify	VERB	VB	_	_	_	_	_
@@ -3317,9 +3152,6 @@
 
 
 1	spend	spend	VERB	VB	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	cluster	cluster	NOUN	NN	_	_	_	_	_
@@ -3365,9 +3197,6 @@
 
 
 1	usage	usage	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	extract	extract	NOUN	NN	_	_	_	_	_
@@ -3419,9 +3248,6 @@
 
 
 1	name	name	NOUN	NN	_	_	_	_	_
-
-
-1	third	third	ADJ	JJ	_	_	_	_	_
 
 
 1	party	party	NOUN	NN	_	_	_	_	_
@@ -3646,9 +3472,6 @@
 1	frequency	frequency	NOUN	NN	_	_	_	_	_
 
 
-1	various	various	ADJ	JJ	_	_	_	_	_
-
-
 1	type	type	NOUN	NN	_	_	_	_	_
 
 
@@ -3692,9 +3515,6 @@
 
 
 1	dynamic	dynamic	ADJ	JJ	_	_	_	_	_
-
-
-1	beyond	beyond	ADV	RB	_	_	_	_	_
 
 
 1	aggregate	aggregate	NOUN	NN	_	_	_	_	_
@@ -3763,9 +3583,6 @@
 1	speed	speed	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	transition	transition	NOUN	NN	_	_	_	_	_
 
 
@@ -3779,9 +3596,6 @@
 
 
 1	input	input	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	obtain	obtain	VERB	VB	_	_	_	_	_
@@ -3887,9 +3701,6 @@
 
 
 1	describe	describe	VERB	VB	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	infer	infer	VERB	VB	_	_	_	_	_
@@ -4027,9 +3838,6 @@
 1	travel	travel	NOUN	NN	_	_	_	_	_
 
 
-1	every	every	DET	DT	_	_	_	_	_
-
-
 1	second	second	ADV	RB	_	_	_	_	_
 
 
@@ -4132,16 +3940,10 @@
 1	level	level	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	time	time	NOUN	NN	_	_	_	_	_
 
 
 1	day	day	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	step	step	NOUN	NN	_	_	_	_	_
@@ -4177,9 +3979,6 @@
 1	detail	detail	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	step	step	NOUN	NN	_	_	_	_	_
 
 
@@ -4196,9 +3995,6 @@
 
 
 1	period	period	NOUN	NN	_	_	_	_	_
-
-
-1	least	least	ADJ	JJS	_	_	_	_	_
 
 
 1	10	10	NUM	LS	_	_	_	_	_
@@ -4247,9 +4043,6 @@
 
 
 1	meter	meter	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	period	period	NOUN	NN	_	_	_	_	_
@@ -4328,9 +4121,6 @@
 
 
 1	maximum	maximum	NOUN	NN	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
 
 
 1	gait	gait	NOUN	NN	_	_	_	_	_
@@ -4549,9 +4339,6 @@
 1	one	one	NUM	CD	_	_	_	_	_
 
 
-1	either	either	CCONJ	CC	_	_	_	_	_
-
-
 1	stationary	stationary	ADJ	JJ	_	_	_	_	_
 
 
@@ -4642,9 +4429,6 @@
 1	statistic	statistic	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	pedometer	pedometer	NOUN	NN	_	_	_	_	_
 
 
@@ -4726,9 +4510,6 @@
 1	number	number	NOUN	NN	_	_	_	_	_
 
 
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
 1	summarize	summarize	VERB	VB	_	_	_	_	_
 
 
@@ -4751,9 +4532,6 @@
 
 
 1	total	total	ADJ	JJ	_	_	_	_	_
-
-
-1	call	call	VERB	VB	_	_	_	_	_
 
 
 1	duration	duration	NOUN	NN	_	_	_	_	_
@@ -4826,9 +4604,6 @@
 
 
 1	average	average	ADJ	JJ	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	time	time	NOUN	NN	_	_	_	_	_
@@ -5074,9 +4849,6 @@
 1	slice	slice	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	capture	capture	VERB	VB	_	_	_	_	_
 
 
@@ -5149,9 +4921,6 @@
 1	window	window	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	day	day	NOUN	NN	_	_	_	_	_
 
 
@@ -5188,9 +4957,6 @@
 1	prediction	prediction	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
 
 
@@ -5224,12 +4990,6 @@
 1	day	day	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
-1	least	least	ADJ	JJS	_	_	_	_	_
-
-
 1	14	14	NUM	LS	_	_	_	_	_
 
 
@@ -5255,9 +5015,6 @@
 
 
 1	duration	duration	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	include	include	VERB	VB	_	_	_	_	_
@@ -5290,9 +5047,6 @@
 1	contain	contain	VERB	VB	_	_	_	_	_
 
 
-1	least	least	ADJ	JJS	_	_	_	_	_
-
-
 1	23	23	NUM	LS	_	_	_	_	_
 
 
@@ -5300,9 +5054,6 @@
 
 
 1	day	day	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	exclude	exclude	VERB	VB	_	_	_	_	_
@@ -5363,9 +5114,6 @@
 
 
 1	participant	participant	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	6	6	NUM	LS	_	_	_	_	_
@@ -5701,9 +5449,6 @@
 1	day	day	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	valid	valid	ADJ	JJ	_	_	_	_	_
 
 
@@ -5812,9 +5557,6 @@
 1	standardize	standardize	VERB	VB	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
@@ -5888,9 +5630,6 @@
 
 
 1	wj	wj	PROPN	NNP	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	softmax	softmax	NOUN	NN	_	_	_	_	_
@@ -5998,12 +5737,6 @@
 1	weight	weight	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	sample	sample	NOUN	NN	_	_	_	_	_
 
 
@@ -6019,9 +5752,6 @@
 1	weight	weight	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	apply	apply	VERB	VB	_	_	_	_	_
 
 
@@ -6032,9 +5762,6 @@
 
 
 1	weight	weight	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	training	training	NOUN	NN	_	_	_	_	_
@@ -6130,9 +5857,6 @@
 1	assess	assess	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	area	area	NOUN	NN	_	_	_	_	_
 
 
@@ -6208,9 +5932,6 @@
 1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	lstm	lstm	PROPN	NNP	_	_	_	_	_
 
 
@@ -6229,9 +5950,6 @@
 1	1	1	NUM	LS	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	process	process	NOUN	NN	_	_	_	_	_
 
 
@@ -6245,9 +5963,6 @@
 
 
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	comparability	comparability	NOUN	NN	_	_	_	_	_
@@ -6275,12 +5990,6 @@
 
 
 1	class	class	NOUN	NN	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	suited	suited	VERB	VBN	_	_	_	_	_
@@ -6428,9 +6137,6 @@
 
 
 1	loss	loss	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	adam	adam	PROPN	NNP	_	_	_	_	_
@@ -6598,9 +6304,6 @@
 1	comparison	comparison	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	train	train	NOUN	NN	_	_	_	_	_
 
 
@@ -6664,9 +6367,6 @@
 1	loss	loss	NOUN	NN	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	include	include	VERB	VB	_	_	_	_	_
 
 
@@ -6698,9 +6398,6 @@
 
 
 1	context	context	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	lstm	lstm	PROPN	NNP	_	_	_	_	_
@@ -6811,16 +6508,10 @@
 1	seed	seed	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	set	set	VERB	VB	_	_	_	_	_
 
 
 1	seed	seed	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	experiment	experiment	VERB	VB	_	_	_	_	_
@@ -6842,9 +6533,6 @@
 
 
 1	sd	sd	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	seed	seed	NOUN	NN	_	_	_	_	_
@@ -6946,9 +6634,6 @@
 1	.001	.001	NUM	CD	_	_	_	_	_
 
 
-1	except	except	ADP	IN	_	_	_	_	_
-
-
 1	increase	increase	NOUN	NN	_	_	_	_	_
 
 
@@ -6977,9 +6662,6 @@
 
 
 1	personalization	personalization	NOUN	NN	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	pronounce	pronounce	VERB	VB	_	_	_	_	_
@@ -7045,9 +6727,6 @@
 1	respectively	respectively	ADV	RB	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	personalization	personalization	NOUN	NN	_	_	_	_	_
 
 
@@ -7061,9 +6740,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	experiment	experiment	VERB	VB	_	_	_	_	_
@@ -7082,9 +6758,6 @@
 
 
 1	0.766	0.766	NUM	CD	_	_	_	_	_
-
-
-1	put	put	VERB	VB	_	_	_	_	_
 
 
 1	result	result	NOUN	NN	_	_	_	_	_
@@ -7109,9 +6782,6 @@
 
 
 1	0.701	0.701	NUM	CD	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	xgboost	xgboost	PROPN	NNP	_	_	_	_	_
@@ -7147,9 +6817,6 @@
 1	information	information	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	outperform	outperform	VERB	VB	_	_	_	_	_
 
 
@@ -7163,9 +6830,6 @@
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
-
-
-1	alone	alone	ADV	RB	_	_	_	_	_
 
 
 1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
@@ -7202,12 +6866,6 @@
 
 
 1	significant	significant	ADJ	JJ	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	gradient	gradient	NOUN	NN	_	_	_	_	_
@@ -7300,9 +6958,6 @@
 1	type	type	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	report	report	NOUN	NN	_	_	_	_	_
 
 
@@ -7363,9 +7018,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	different	different	ADJ	JJ	_	_	_	_	_
 
 
@@ -7384,16 +7036,7 @@
 1	setting	setting	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	side	side	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	sample	sample	NOUN	NN	_	_	_	_	_
@@ -7415,9 +7058,6 @@
 
 
 1	baseline	baseline	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	side	side	NOUN	NN	_	_	_	_	_
@@ -7624,9 +7264,6 @@
 1	augmentation	augmentation	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	increase	increase	NOUN	NN	_	_	_	_	_
 
 
@@ -7723,9 +7360,6 @@
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
@@ -7777,9 +7411,6 @@
 1	variance	variance	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	distribute	distribute	VERB	VB	_	_	_	_	_
 
 
@@ -7799,9 +7430,6 @@
 
 
 1	component	component	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
@@ -7864,16 +7492,10 @@
 1	behavior	behavior	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	day	day	NOUN	NN	_	_	_	_	_
 
 
 1	specifically	specifically	ADV	RB	_	_	_	_	_
-
-
-1	many	many	ADJ	JJ	_	_	_	_	_
 
 
 1	participant	participant	NOUN	NN	_	_	_	_	_
@@ -7889,9 +7511,6 @@
 
 
 1	reflect	reflect	VERB	VB	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	separate	separate	ADJ	JJ	_	_	_	_	_
@@ -7925,9 +7544,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -7964,9 +7580,6 @@
 
 
 1	augmentation	augmentation	NOUN	NN	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	indicate	indicate	VERB	VB	_	_	_	_	_
@@ -8140,9 +7753,6 @@
 1	aug	aug	PROPN	NNP	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	0.814	0.814	NUM	CD	_	_	_	_	_
 
 
@@ -8239,9 +7849,6 @@
 1	aug	aug	PROPN	NNP	_	_	_	_	_
 
 
-1	per	per	ADP	IN	_	_	_	_	_
-
-
 1	0.832	0.832	NUM	CD	_	_	_	_	_
 
 
@@ -8276,9 +7883,6 @@
 
 
 1	plot	plot	NOUN	NN	_	_	_	_	_
-
-
-1	moreover	moreover	ADV	RB	_	_	_	_	_
 
 
 1	atypical	atypical	ADJ	JJ	_	_	_	_	_
@@ -8354,9 +7958,6 @@
 
 
 1	sequence	sequence	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	provide	provide	VERB	VB	_	_	_	_	_
@@ -8509,9 +8110,6 @@
 1	remove	remove	VERB	VB	_	_	_	_	_
 
 
-1	either	either	CCONJ	CC	_	_	_	_	_
-
-
 1	softmax	softmax	NOUN	NN	_	_	_	_	_
 
 
@@ -8561,9 +8159,6 @@
 
 
 1	sample	sample	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	batch	batch	NOUN	NN	_	_	_	_	_
@@ -8647,9 +8242,6 @@
 1	identify	identify	VERB	VB	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	direction	direction	NOUN	NN	_	_	_	_	_
 
 
@@ -8659,13 +8251,7 @@
 1	research	research	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	work	work	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	behavioral	behavioral	NOUN	NN	_	_	_	_	_
@@ -8693,9 +8279,6 @@
 
 
 1	work	work	NOUN	NN	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
 
 
 1	examine	examine	VERB	VB	_	_	_	_	_
@@ -8728,9 +8311,6 @@
 1	summarize	summarize	VERB	VB	_	_	_	_	_
 
 
-1	every	every	DET	DT	_	_	_	_	_
-
-
 1	15	15	NUM	LS	_	_	_	_	_
 
 
@@ -8744,9 +8324,6 @@
 
 
 1	infer	infer	VERB	VB	_	_	_	_	_
-
-
-1	every	every	DET	DT	_	_	_	_	_
 
 
 1	second	second	ADV	RB	_	_	_	_	_
@@ -8765,9 +8342,6 @@
 
 
 1	series	series	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	allow	allow	VERB	VB	_	_	_	_	_
@@ -8809,13 +8383,7 @@
 1	coverage	coverage	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	day	day	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	30	30	NUM	LS	_	_	_	_	_
@@ -8842,16 +8410,10 @@
 1	extraction	extraction	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	criterion	criterion	NOUN	NN	_	_	_	_	_
 
 
 1	exclude	exclude	VERB	VB	_	_	_	_	_
-
-
-1	several	several	ADJ	JJ	_	_	_	_	_
 
 
 1	participant	participant	NOUN	NN	_	_	_	_	_
@@ -8869,9 +8431,6 @@
 1	notably	notably	ADV	RB	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	_	_	_	_
-
-
 1	smartphone	smartphone	NOUN	NN	_	_	_	_	_
 
 
@@ -8885,9 +8444,6 @@
 
 
 1	inconsistency	inconsistency	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	carry	carry	VERB	VB	_	_	_	_	_
@@ -8906,9 +8462,6 @@
 
 
 1	research	research	NOUN	NN	_	_	_	_	_
-
-
-1	could	could	AUX	MD	_	_	_	_	_
 
 
 1	explore	explore	VERB	VB	_	_	_	_	_
@@ -9088,9 +8641,6 @@
 1	status	status	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	participant	participant	NOUN	NN	_	_	_	_	_
 
 
@@ -9116,9 +8666,6 @@
 
 
 1	approximately	approximately	ADV	RB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	year	year	NOUN	NN	_	_	_	_	_
@@ -9218,9 +8765,6 @@
 
 
 1	impairment	impairment	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	explore	explore	VERB	VB	_	_	_	_	_
@@ -9397,9 +8941,6 @@
 1	introduce	introduce	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	strategy	strategy	NOUN	NN	_	_	_	_	_
 
 
@@ -9464,9 +9005,6 @@
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
-
-
-1	alone	alone	ADV	RB	_	_	_	_	_
 
 
 1	0.637	0.637	NUM	CD	_	_	_	_	_
@@ -9748,9 +9286,6 @@
 1	adaptation	adaptation	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
@@ -9830,9 +9365,6 @@
 
 
 1	state	state	NOUN	NN	_	_	_	_	_
-
-
-1	via	via	ADV	RB	_	_	_	_	_
 
 
 1	smartphone	smartphone	NOUN	NN	_	_	_	_	_
@@ -9932,9 +9464,6 @@
 
 
 1	insight	insight	NOUN	NN	_	_	_	_	_
-
-
-1	towards	towards	ADP	IN	_	_	_	_	_
 
 
 1	analyze	analyze	VERB	VB	_	_	_	_	_
@@ -10120,9 +9649,6 @@
 1	monitor	monitor	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
 
 
@@ -10199,9 +9725,6 @@
 
 
 1	crosscheck	crosscheck	NOUN	NN	_	_	_	_	_
-
-
-1	toward	toward	ADP	IN	_	_	_	_	_
 
 
 1	passive	passive	ADJ	JJ	_	_	_	_	_
@@ -10750,9 +10273,6 @@
 1	weibel	weibel	PROPN	NNP	_	_	_	_	_
 
 
-1	towards	towards	ADP	IN	_	_	_	_	_
-
-
 1	comprehensive	comprehensive	ADJ	JJ	_	_	_	_	_
 
 
@@ -11057,9 +10577,6 @@
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	sne	sne	PROPN	NNP	_	_	_	_	_

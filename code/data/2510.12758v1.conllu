@@ -184,9 +184,6 @@
 1	motion	motion	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	second	second	ADV	RB	_	_	_	_	_
 
 
@@ -265,9 +262,6 @@
 1	hmc	hmc	PROPN	NNP	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	pet	pet	NOUN	NN	_	_	_	_	_
 
 
@@ -278,9 +272,6 @@
 
 
 1	ct	ct	PROPN	ADD	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	radiotracer	radiotracer	PROPN	NNP	_	_	_	_	_
@@ -562,9 +553,6 @@
 1	tion	tion	INTJ	UH	_	_	_	_	_
 
 
-1	beyond	beyond	ADV	RB	_	_	_	_	_
-
-
 1	research	research	NOUN	NN	_	_	_	_	_
 
 
@@ -673,9 +661,6 @@
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	availability	availability	NOUN	NN	_	_	_	_	_
 
 
@@ -700,9 +685,6 @@
 1	tigation	tigation	NOUN	NN	_	_	_	_	_
 
 
-1	various	various	ADJ	JJ	_	_	_	_	_
-
-
 1	neurotransmitter	neurotransmitter	NOUN	NN	_	_	_	_	_
 
 
@@ -719,9 +701,6 @@
 
 
 1	target	target	NOUN	NN	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
@@ -784,9 +763,6 @@
 1	tumor	tumor	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	presence	presence	NOUN	NN	_	_	_	_	_
 
 
@@ -839,9 +815,6 @@
 
 
 1	analysis	analysis	NOUN	NN	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	minor	minor	ADJ	JJ	_	_	_	_	_
@@ -919,9 +892,6 @@
 1	problem	problem	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	exacerbate	exacerbate	VERB	VB	_	_	_	_	_
 
 
@@ -941,12 +911,6 @@
 
 
 1	involuntarily	involuntarily	ADV	RB	_	_	_	_	_
-
-
-1	move	move	VERB	VB	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	physical	physical	ADJ	JJ	_	_	_	_	_
@@ -986,9 +950,6 @@
 
 
 1	observe	observe	VERB	VB	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	accurate	accurate	ADJ	JJ	_	_	_	_	_
@@ -1037,9 +998,6 @@
 
 
 1	patient	patient	NOUN	NN	_	_	_	_	_
-
-
-1	move	move	VERB	VB	_	_	_	_	_
 
 
 1	ment	ment	NOUN	NN	_	_	_	_	_
@@ -1111,9 +1069,6 @@
 1	rotation	rotation	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	dimension	dimension	NOUN	NN	_	_	_	_	_
 
 
@@ -1165,9 +1120,6 @@
 1	reconstruct	reconstruct	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	standard	standard	ADJ	JJ	_	_	_	_	_
 
 
@@ -1190,9 +1142,6 @@
 
 
 1	mc	mc	PROPN	NNP	_	_	_	_	_
-
-
-1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
 1	accurate	accurate	ADJ	JJ	_	_	_	_	_
@@ -1852,9 +1801,6 @@
 1	effect	effect	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
@@ -1871,9 +1817,6 @@
 
 
 1	approach	approach	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	uncomfortable	uncomfortable	ADJ	JJ	_	_	_	_	_
@@ -2101,9 +2044,6 @@
 1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	thereby	thereby	ADV	RB	_	_	_	_	_
-
-
 1	compromise	compromise	NOUN	NN	_	_	_	_	_
 
 
@@ -2120,9 +2060,6 @@
 
 
 1	hmt	hmt	INTJ	UH	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	develop	develop	VERB	VB	_	_	_	_	_
@@ -2246,9 +2183,6 @@
 
 
 1	estimation	estimation	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	system	system	NOUN	NN	_	_	_	_	_
@@ -2662,9 +2596,6 @@
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	develop	develop	VERB	VB	_	_	_	_	_
 
 
@@ -2752,9 +2683,6 @@
 1	pcis	pcis	PROPN	NNP	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	vicra	vicra	NOUN	NN	_	_	_	_	_
 
 
@@ -2773,12 +2701,6 @@
 1	information	information	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	noisy	noisy	ADJ	JJ	_	_	_	_	_
 
 
@@ -2789,9 +2711,6 @@
 
 
 1	generalization	generalization	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
@@ -2852,9 +2771,6 @@
 
 
 1	explore	explore	VERB	VB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	strategy	strategy	NOUN	NN	_	_	_	_	_
@@ -2971,9 +2887,6 @@
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	intra	intra	NOUN	NN	_	_	_	_	_
 
 
@@ -2999,9 +2912,6 @@
 
 
 1	navigator	navigator	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
@@ -3100,9 +3010,6 @@
 1	representation	representation	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	network	network	NOUN	NN	_	_	_	_	_
 
 
@@ -3163,9 +3070,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	thereby	thereby	ADV	RB	_	_	_	_	_
-
-
 1	predict	predict	VERB	VB	_	_	_	_	_
 
 
@@ -3179,9 +3083,6 @@
 
 
 1	subframe	subframe	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	training	training	NOUN	NN	_	_	_	_	_
@@ -3427,9 +3328,6 @@
 1	hmc	hmc	PROPN	NNP	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	large	large	ADJ	JJ	_	_	_	_	_
 
 
@@ -3485,12 +3383,6 @@
 
 
 1	generalization	generalization	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -3586,9 +3478,6 @@
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	_	_	_	_
-
-
 1	state	state	NOUN	NN	_	_	_	_	_
 
 
@@ -3631,9 +3520,6 @@
 1	hmc	hmc	PROPN	NNP	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	extensive	extensive	ADJ	JJ	_	_	_	_	_
 
 
@@ -3661,9 +3547,6 @@
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	raw	raw	ADJ	JJ	_	_	_	_	_
 
 
@@ -3673,13 +3556,7 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	need	need	VERB	VB	_	_	_	_	_
-
-
-1	either	either	CCONJ	CC	_	_	_	_	_
 
 
 1	reconstruction	reconstruction	NOUN	NN	_	_	_	_	_
@@ -3751,9 +3628,6 @@
 1	motion	motion	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	second	second	ADV	RB	_	_	_	_	_
 
 
@@ -3782,9 +3656,6 @@
 
 
 1	utilize	utilize	VERB	VB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	second	second	ADV	RB	_	_	_	_	_
@@ -3832,9 +3703,6 @@
 1	create	create	VERB	VB	_	_	_	_	_
 
 
-1	back	back	ADV	RB	_	_	_	_	_
-
-
 1	project	project	NOUN	NN	_	_	_	_	_
 
 
@@ -3845,9 +3713,6 @@
 
 
 1	datum	datum	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	second	second	ADV	RB	_	_	_	_	_
@@ -3869,9 +3734,6 @@
 
 
 1	respectively	respectively	ADV	RB	_	_	_	_	_
-
-
-1	along	along	ADV	RB	_	_	_	_	_
 
 
 1	line	line	NOUN	NN	_	_	_	_	_
@@ -3899,9 +3761,6 @@
 
 
 1	evaluation	evaluation	NOUN	NN	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	second	second	ADV	RB	_	_	_	_	_
@@ -4003,9 +3862,6 @@
 1	estimation	estimation	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	supervise	supervise	VERB	VB	_	_	_	_	_
 
 
@@ -4030,16 +3886,10 @@
 1	include	include	VERB	VB	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	translation	translation	NOUN	NN	_	_	_	_	_
 
 
 1	td	td	NOUN	NN	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	rotation	rotation	NOUN	NN	_	_	_	_	_
@@ -4165,9 +4015,6 @@
 1	consist	consist	VERB	VB	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	_	_	_	_
-
-
 1	main	main	ADJ	JJ	_	_	_	_	_
 
 
@@ -4270,9 +4117,6 @@
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	res	res	INTJ	UH	_	_	_	_	_
 
 
@@ -4310,9 +4154,6 @@
 
 
 1	utilize	utilize	VERB	VB	_	_	_	_	_
-
-
-1	three	three	NUM	CD	_	_	_	_	_
 
 
 1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
@@ -4555,9 +4396,6 @@
 1	infer	infer	VERB	VB	_	_	_	_	_
 
 
-1	six	six	NUM	CD	_	_	_	_	_
-
-
 1	rigid	rigid	ADJ	JJ	_	_	_	_	_
 
 
@@ -4795,9 +4633,6 @@
 1	pci	pci	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	_	_	_	_
-
-
 1	retain	retain	VERB	VB	_	_	_	_	_
 
 
@@ -4814,9 +4649,6 @@
 
 
 1	gate	gate	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	feature	feature	NOUN	NN	_	_	_	_	_
@@ -4981,9 +4813,6 @@
 1	duration	duration	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	second	second	ADV	RB	_	_	_	_	_
 
 
@@ -5015,9 +4844,6 @@
 
 
 1	bias	bias	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	pci	pci	NOUN	NN	_	_	_	_	_
@@ -5129,9 +4955,6 @@
 
 
 1	take	take	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	input	input	NOUN	NN	_	_	_	_	_
@@ -5284,9 +5107,6 @@
 1	estimation	estimation	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	diverse	diverse	ADJ	JJ	_	_	_	_	_
 
 
@@ -5300,9 +5120,6 @@
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -5443,9 +5260,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	_	_	_	_
-
-
 1	different	different	ADJ	JJ	_	_	_	_	_
 
 
@@ -5453,9 +5267,6 @@
 
 
 1	acquire	acquire	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -5522,9 +5333,6 @@
 
 
 1	germany	germany	PROPN	NNP	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	time	time	NOUN	NN	_	_	_	_	_
@@ -5668,9 +5476,6 @@
 1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	8	8	NUM	LS	_	_	_	_	_
 
 
@@ -5764,9 +5569,6 @@
 1	matrix	matrix	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	follow	follow	VERB	VB	_	_	_	_	_
 
 
@@ -5825,9 +5627,6 @@
 
 
 1	kref	kref	PROPN	NNP	_	_	_	_	_
-
-
-1	upon	upon	ADP	IN	_	_	_	_	_
 
 
 1	compute	compute	VERB	VB	_	_	_	_	_
@@ -6193,9 +5992,6 @@
 1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	top	top	NOUN	NN	_	_	_	_	_
-
-
 1	share	share	NOUN	NN	_	_	_	_	_
 
 
@@ -6322,9 +6118,6 @@
 1	motion	motion	NOUN	NN	_	_	_	_	_
 
 
-1	bottom	bottom	NOUN	NN	_	_	_	_	_
-
-
 1	detail	detail	NOUN	NN	_	_	_	_	_
 
 
@@ -6400,9 +6193,6 @@
 1	sd	sd	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	subject	subject	NOUN	NN	_	_	_	_	_
 
 
@@ -6416,9 +6206,6 @@
 
 
 1	great	great	ADJ	JJ	_	_	_	_	_
-
-
-1	twenty	twenty	NUM	CD	_	_	_	_	_
 
 
 1	motion	motion	NOUN	NN	_	_	_	_	_
@@ -6443,12 +6230,6 @@
 
 
 1	motion	motion	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	whole	whole	ADJ	JJ	_	_	_	_	_
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
@@ -6835,9 +6616,6 @@
 1	information	information	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	gold	gold	NOUN	NN	_	_	_	_	_
 
 
@@ -6961,9 +6739,6 @@
 1	duration	duration	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	method	method	NOUN	NN	_	_	_	_	_
 
 
@@ -7043,9 +6818,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	quantitative	quantitative	ADJ	JJ	_	_	_	_	_
@@ -7147,12 +6919,6 @@
 1	separately	separately	ADV	RB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	full	full	ADJ	JJ	_	_	_	_	_
-
-
 1	scan	scan	VERB	VB	_	_	_	_	_
 
 
@@ -7169,9 +6935,6 @@
 
 
 1	estimation	estimation	NOUN	NN	_	_	_	_	_
-
-
-1	per	per	ADP	IN	_	_	_	_	_
 
 
 1	formance	formance	NOUN	NN	_	_	_	_	_
@@ -7213,9 +6976,6 @@
 1	estimation	estimation	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	supervise	supervise	VERB	VB	_	_	_	_	_
 
 
@@ -7238,9 +6998,6 @@
 
 
 1	error	error	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	testing	testing	NOUN	NN	_	_	_	_	_
@@ -7277,12 +7034,6 @@
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	tail	tail	NOUN	NN	_	_	_	_	_
@@ -7367,9 +7118,6 @@
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	test	test	NOUN	NN	_	_	_	_	_
@@ -7588,9 +7336,6 @@
 1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	free	free	ADJ	JJ	_	_	_	_	_
 
 
@@ -7622,9 +7367,6 @@
 
 
 1	suv	suv	NOUN	NN	_	_	_	_	_
-
-
-1	within	within	ADP	IN	_	_	_	_	_
 
 
 1	roi	roi	NOUN	NN	_	_	_	_	_
@@ -7705,9 +7447,6 @@
 1	thalamus	thalamus	PROPN	NNP	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	white	white	ADJ	JJ	_	_	_	_	_
 
 
@@ -7747,9 +7486,6 @@
 1	suv	suv	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	roi	roi	NOUN	NN	_	_	_	_	_
 
 
@@ -7757,9 +7493,6 @@
 
 
 1	derive	derive	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	vicra	vicra	NOUN	NN	_	_	_	_	_
@@ -7823,9 +7556,6 @@
 
 
 1	rois	rois	PROPN	NNP	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	free	free	ADJ	JJ	_	_	_	_	_
@@ -7931,9 +7661,6 @@
 
 
 1	comest	comest	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	rois	rois	PROPN	NNP	_	_	_	_	_
@@ -8077,9 +7804,6 @@
 1	loss	loss	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	prior	prior	ADJ	JJ	_	_	_	_	_
 
 
@@ -8159,9 +7883,6 @@
 
 
 1	hmc	hmc	PROPN	NNP	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	time	time	NOUN	NN	_	_	_	_	_
@@ -8266,9 +7987,6 @@
 1	registration	registration	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	enhance	enhance	VERB	VB	_	_	_	_	_
 
 
@@ -8299,9 +8017,6 @@
 1	resolution	resolution	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	second	second	ADV	RB	_	_	_	_	_
 
 
@@ -8318,9 +8033,6 @@
 
 
 1	generate	generate	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	cpu	cpu	NOUN	NN	_	_	_	_	_
@@ -8350,9 +8062,6 @@
 1	imr	imr	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	fris	fris	INTJ	UH	_	_	_	_	_
 
 
@@ -8375,9 +8084,6 @@
 
 
 1	result	result	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	compare	compare	VERB	VB	_	_	_	_	_
@@ -8483,9 +8189,6 @@
 
 
 1	mm3	mm3	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	area	area	NOUN	NN	_	_	_	_	_
@@ -8638,9 +8341,6 @@
 1	pair	pair	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	pcis	pcis	PROPN	NNP	_	_	_	_	_
 
 
@@ -8689,9 +8389,6 @@
 1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	mini	mini	NOUN	NN	_	_	_	_	_
 
 
@@ -8729,9 +8426,6 @@
 
 
 1	vicra	vicra	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	adam	adam	PROPN	NNP	_	_	_	_	_
@@ -8816,9 +8510,6 @@
 
 
 1	iref	iref	PROPN	NNP	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	time	time	NOUN	NN	_	_	_	_	_
@@ -8909,9 +8600,6 @@
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	ebe	ebe	PROPN	NNP	_	_	_	_	_
@@ -9035,9 +8723,6 @@
 
 
 1	mm	mm	INTJ	UH	_	_	_	_	_
-
-
-1	full	full	ADJ	JJ	_	_	_	_	_
 
 
 1	width	width	NOUN	NN	_	_	_	_	_
@@ -9191,9 +8876,6 @@
 
 
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	fine	fine	ADJ	JJ	_	_	_	_	_
@@ -9359,9 +9041,6 @@
 
 
 1	generalizability	generalizability	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	diverse	diverse	ADJ	JJ	_	_	_	_	_
@@ -9664,9 +9343,6 @@
 1	imr	imr	NOUN	NN	_	_	_	_	_
 
 
-1	even	even	ADV	RB	_	_	_	_	_
-
-
 1	utilize	utilize	VERB	VB	_	_	_	_	_
 
 
@@ -9713,9 +9389,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	noticeable	noticeable	ADJ	JJ	_	_	_	_	_
@@ -9829,9 +9502,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	less	less	ADJ	JJR	_	_	_	_	_
-
-
 1	accurate	accurate	ADJ	JJ	_	_	_	_	_
 
 
@@ -9842,9 +9512,6 @@
 
 
 1	likely	likely	ADJ	JJ	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	relatively	relatively	ADV	RB	_	_	_	_	_
@@ -9986,9 +9653,6 @@
 
 
 1	axis	axis	NOUN	NN	_	_	_	_	_
-
-
-1	however	however	ADV	RB	_	_	_	_	_
 
 
 1	error	error	NOUN	NN	_	_	_	_	_
@@ -10375,9 +10039,6 @@
 1	vicra	vicra	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	dl	dl	PROPN	NNP	_	_	_	_	_
 
 
@@ -10394,9 +10055,6 @@
 
 
 1	mismatch	mismatch	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	attribute	attribute	NOUN	NN	_	_	_	_	_
@@ -10420,16 +10078,10 @@
 1	frame	frame	NOUN	NN	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
 1	perform	perform	VERB	VB	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	period	period	NOUN	NN	_	_	_	_	_
@@ -10531,9 +10183,6 @@
 1	confirm	confirm	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	grad	grad	NOUN	NN	_	_	_	_	_
 
 
@@ -10622,9 +10271,6 @@
 
 
 1	build	build	VERB	VB	_	_	_	_	_
-
-
-1	upon	upon	ADP	IN	_	_	_	_	_
 
 
 1	promise	promise	NOUN	NN	_	_	_	_	_
@@ -10765,9 +10411,6 @@
 1	4	4	NUM	LS	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	present	present	ADJ	JJ	_	_	_	_	_
 
 
@@ -10828,9 +10471,6 @@
 1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	red	red	ADJ	JJ	_	_	_	_	_
 
 
@@ -10850,9 +10490,6 @@
 
 
 1	vicra	vicra	NOUN	NN	_	_	_	_	_
-
-
-1	due	due	ADJ	JJ	_	_	_	_	_
 
 
 1	continuous	continuous	ADJ	JJ	_	_	_	_	_
@@ -10946,9 +10583,6 @@
 
 
 1	method	method	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	diverse	diverse	ADJ	JJ	_	_	_	_	_
@@ -11060,9 +10694,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	evaluation	evaluation	NOUN	NN	_	_	_	_	_
@@ -11191,9 +10822,6 @@
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	11c	11c	NUM	LS	_	_	_	_	_
 
 
@@ -11207,9 +10835,6 @@
 
 
 1	2	2	NUM	LS	_	_	_	_	_
-
-
-1	third	third	ADJ	JJ	_	_	_	_	_
 
 
 1	column	column	NOUN	NN	_	_	_	_	_
@@ -11240,9 +10865,6 @@
 
 
 1	pattern	pattern	NOUN	NN	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	challenge	challenge	VERB	VB	_	_	_	_	_
@@ -11360,9 +10982,6 @@
 
 
 1	magnitude	magnitude	NOUN	NN	_	_	_	_	_
-
-
-1	even	even	ADV	RB	_	_	_	_	_
 
 
 1	10	10	NUM	LS	_	_	_	_	_
@@ -11497,9 +11116,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	self	self	NOUN	NN	_	_	_	_	_
 
 
@@ -11512,9 +11128,6 @@
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	dnf	dnf	NOUN	NN	_	_	_	_	_
 
 
@@ -11522,9 +11135,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	self	self	NOUN	NN	_	_	_	_	_
@@ -11540,9 +11150,6 @@
 
 
 1	hmc	hmc	PROPN	NNP	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	cai	cai	NOUN	NN	_	_	_	_	_
@@ -11564,9 +11171,6 @@
 
 
 1	estimation	estimation	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	supervise	supervise	VERB	VB	_	_	_	_	_
@@ -11749,9 +11353,6 @@
 1	row	row	NOUN	NN	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	rigid	rigid	ADJ	JJ	_	_	_	_	_
 
 
@@ -11759,12 +11360,6 @@
 
 
 1	parameter	parameter	NOUN	NN	_	_	_	_	_
-
-
-1	top	top	NOUN	NN	_	_	_	_	_
-
-
-1	bottom	bottom	NOUN	NN	_	_	_	_	_
 
 
 1	translation	translation	NOUN	NN	_	_	_	_	_
@@ -11914,9 +11509,6 @@
 1	standard	standard	ADJ	JJ	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	pet	pet	NOUN	NN	_	_	_	_	_
 
 
@@ -11927,12 +11519,6 @@
 
 
 1	mct	mct	PROPN	NNP	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	radiotracer	radiotracer	PROPN	NNP	_	_	_	_	_
@@ -12583,13 +12169,7 @@
 1	track	track	NOUN	NN	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	result	result	NOUN	NN	_	_	_	_	_
-
-
-1	show	show	VERB	VB	_	_	_	_	_
 
 
 1	remove	remove	VERB	VB	_	_	_	_	_
@@ -12724,9 +12304,6 @@
 1	similarity	similarity	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	_	_	_	_
-
-
 1	input	input	NOUN	NN	_	_	_	_	_
 
 
@@ -12848,9 +12425,6 @@
 
 
 1	time	time	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	list	list	VERB	VB	_	_	_	_	_
@@ -12988,9 +12562,6 @@
 1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	20	20	NUM	LS	_	_	_	_	_
 
 
@@ -13093,9 +12664,6 @@
 1	view	view	NOUN	NN	_	_	_	_	_
 
 
-1	five	five	NUM	CD	_	_	_	_	_
-
-
 1	different	different	ADJ	JJ	_	_	_	_	_
 
 
@@ -13162,9 +12730,6 @@
 1	hmc	hmc	PROPN	NNP	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	attention	attention	NOUN	NN	_	_	_	_	_
 
 
@@ -13196,9 +12761,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	3d	3d	NUM	LS	_	_	_	_	_
@@ -13267,9 +12829,6 @@
 1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	increase	increase	NOUN	NN	_	_	_	_	_
 
 
@@ -13283,9 +12842,6 @@
 
 
 1	pcis	pcis	PROPN	NNP	_	_	_	_	_
-
-
-1	see	see	VERB	VB	_	_	_	_	_
 
 
 1	fig	fig	NOUN	NN	_	_	_	_	_
@@ -13438,9 +12994,6 @@
 1	encoder	encoder	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	evaluate	evaluate	VERB	VB	_	_	_	_	_
 
 
@@ -13540,9 +13093,6 @@
 1	encoder	encoder	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	dl	dl	PROPN	NNP	_	_	_	_	_
 
 
@@ -13595,9 +13145,6 @@
 
 
 1	ablation	ablation	NOUN	NN	_	_	_	_	_
-
-
-1	part	part	NOUN	NN	_	_	_	_	_
 
 
 1	trans	trans	NOUN	NN	_	_	_	_	_
@@ -13843,9 +13390,6 @@
 1	7	7	NUM	LS	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	molar	molar	NOUN	NN	_	_	_	_	_
 
 
@@ -13882,9 +13426,6 @@
 1	select	select	VERB	VB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	subject	subject	NOUN	NN	_	_	_	_	_
 
 
@@ -13901,9 +13442,6 @@
 
 
 1	set	set	VERB	VB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	subject	subject	NOUN	NN	_	_	_	_	_
@@ -13934,9 +13472,6 @@
 
 
 1	reconstruction	reconstruction	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	dl	dl	PROPN	NNP	_	_	_	_	_
@@ -13978,9 +13513,6 @@
 1	reconstruction	reconstruction	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	dl	dl	PROPN	NNP	_	_	_	_	_
 
 
@@ -14000,9 +13532,6 @@
 
 
 1	delineation	delineation	NOUN	NN	_	_	_	_	_
-
-
-1	least	least	ADJ	JJS	_	_	_	_	_
 
 
 1	deviation	deviation	NOUN	NN	_	_	_	_	_
@@ -14119,9 +13648,6 @@
 1	clearly	clearly	ADV	RB	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	gyrus	gyrus	NOUN	NN	_	_	_	_	_
 
 
@@ -14171,9 +13697,6 @@
 
 
 1	view	view	NOUN	NN	_	_	_	_	_
-
-
-1	well	well	INTJ	UH	_	_	_	_	_
 
 
 1	parietal	parietal	NOUN	NN	_	_	_	_	_
@@ -14305,9 +13828,6 @@
 1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	cross	cross	NOUN	NN	_	_	_	_	_
 
 
@@ -14401,9 +13921,6 @@
 1	subject	subject	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	model	model	NOUN	NN	_	_	_	_	_
 
 
@@ -14414,9 +13931,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	20	20	NUM	LS	_	_	_	_	_
@@ -14494,9 +14008,6 @@
 1	rotation	rotation	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	100	100	NUM	CD	_	_	_	_	_
 
 
@@ -14537,9 +14048,6 @@
 
 
 1	estimation	estimation	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	supervise	supervise	VERB	VB	_	_	_	_	_
@@ -14716,9 +14224,6 @@
 1	row	row	NOUN	NN	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	rigid	rigid	ADJ	JJ	_	_	_	_	_
 
 
@@ -14726,12 +14231,6 @@
 
 
 1	parameter	parameter	NOUN	NN	_	_	_	_	_
-
-
-1	top	top	NOUN	NN	_	_	_	_	_
-
-
-1	bottom	bottom	NOUN	NN	_	_	_	_	_
 
 
 1	translation	translation	NOUN	NN	_	_	_	_	_
@@ -14957,9 +14456,6 @@
 
 
 1	mde	mde	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	maintain	maintain	VERB	VB	_	_	_	_	_
@@ -15208,9 +14704,6 @@
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	20	20	NUM	LS	_	_	_	_	_
 
 
@@ -15314,9 +14807,6 @@
 
 
 1	deviation	deviation	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	study	study	NOUN	NN	_	_	_	_	_
@@ -15514,9 +15004,6 @@
 1	motion	motion	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	poor	poor	ADJ	JJ	_	_	_	_	_
 
 
@@ -15559,9 +15046,6 @@
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	cross	cross	NOUN	NN	_	_	_	_	_
 
 
@@ -15569,9 +15053,6 @@
 
 
 1	task	task	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	dl	dl	PROPN	NNP	_	_	_	_	_
@@ -15649,9 +15130,6 @@
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	_	_	_	_
-
-
 1	0.20	0.20	NUM	CD	_	_	_	_	_
 
 
@@ -15686,9 +15164,6 @@
 
 
 1	result	result	NOUN	NN	_	_	_	_	_
-
-
-1	still	still	ADV	RB	_	_	_	_	_
 
 
 1	outperform	outperform	VERB	VB	_	_	_	_	_
@@ -16828,9 +16303,6 @@
 1	example	example	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	second	second	ADV	RB	_	_	_	_	_
 
 
@@ -16855,9 +16327,6 @@
 1	resolution	resolution	NOUN	NN	_	_	_	_	_
 
 
-1	top	top	NOUN	NN	_	_	_	_	_
-
-
 1	323	323	NUM	CD	_	_	_	_	_
 
 
@@ -16871,9 +16340,6 @@
 
 
 1	voxel	voxel	NOUN	NN	_	_	_	_	_
-
-
-1	bottom	bottom	NOUN	NN	_	_	_	_	_
 
 
 1	963	963	NUM	CD	_	_	_	_	_
@@ -17041,16 +16507,10 @@
 1	subject	subject	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	different	different	ADJ	JJ	_	_	_	_	_
 
 
 1	scanner	scanner	NOUN	NN	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -17074,9 +16534,6 @@
 1	tion	tion	INTJ	UH	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	different	different	ADJ	JJ	_	_	_	_	_
 
 
@@ -17090,12 +16547,6 @@
 
 
 1	ct	ct	PROPN	ADD	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
-
-
-1	four	four	NUM	CD	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -17371,16 +16822,10 @@
 1	timation	timation	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	improve	improve	VERB	VB	_	_	_	_	_
 
 
 1	robustness	robustness	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	scan	scan	VERB	VB	_	_	_	_	_
@@ -17477,9 +16922,6 @@
 
 
 1	estimation	estimation	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	supervise	supervise	VERB	VB	_	_	_	_	_
@@ -17899,9 +17341,6 @@
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
 1	motion	motion	NOUN	NN	_	_	_	_	_
 
 
@@ -17953,9 +17392,6 @@
 1	imr	imr	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	8	8	NUM	LS	_	_	_	_	_
 
 
@@ -17999,9 +17435,6 @@
 
 
 1	performance	performance	NOUN	NN	_	_	_	_	_
-
-
-1	without	without	ADP	IN	_	_	_	_	_
 
 
 1	6	6	NUM	LS	_	_	_	_	_
@@ -18166,9 +17599,6 @@
 1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	patient	patient	NOUN	NN	_	_	_	_	_
 
 
@@ -18185,9 +17615,6 @@
 
 
 1	rotation	rotation	NOUN	NN	_	_	_	_	_
-
-
-1	along	along	ADV	RB	_	_	_	_	_
 
 
 1	axis	axis	NOUN	NN	_	_	_	_	_
@@ -18424,9 +17851,6 @@
 1	expect	expect	VERB	VB	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	intensity	intensity	NOUN	NN	_	_	_	_	_
 
 
@@ -18455,9 +17879,6 @@
 
 
 1	difference	difference	NOUN	NN	_	_	_	_	_
-
-
-1	first	first	ADV	RB	_	_	_	_	_
 
 
 1	reference	reference	NOUN	NN	_	_	_	_	_
@@ -18892,16 +18313,10 @@
 1	capture	capture	VERB	VB	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	reason	reason	NOUN	NN	_	_	_	_	_
 
 
 1	rotation	rotation	NOUN	NN	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
 
 
 1	frequent	frequent	ADJ	JJ	_	_	_	_	_
@@ -18940,9 +18355,6 @@
 1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	less	less	ADJ	JJR	_	_	_	_	_
-
-
 1	variability	variability	NOUN	NN	_	_	_	_	_
 
 
@@ -18973,9 +18385,6 @@
 1	reason	reason	NOUN	NN	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	_	_	_	_
-
-
 1	difficult	difficult	ADJ	JJ	_	_	_	_	_
 
 
@@ -19000,22 +18409,13 @@
 1	change	change	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
 1	possible	possible	ADJ	JJ	_	_	_	_	_
 
 
 1	solution	solution	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	alleviate	alleviate	VERB	VB	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
 
 
 1	assign	assign	VERB	VB	_	_	_	_	_
@@ -19054,9 +18454,6 @@
 1	rotation	rotation	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	_	_	_	_
-
-
 1	compare	compare	VERB	VB	_	_	_	_	_
 
 
@@ -19067,9 +18464,6 @@
 
 
 1	efficiency	efficiency	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	deep	deep	ADJ	JJ	_	_	_	_	_
@@ -19347,13 +18741,7 @@
 1	hmc	hmc	PROPN	NNP	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
-
-
-1	far	far	ADV	RB	_	_	_	_	_
 
 
 1	underscore	underscore	VERB	VB	_	_	_	_	_
@@ -19378,9 +18766,6 @@
 
 
 1	experimentation	experimentation	NOUN	NN	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
 
 
 1	diverse	diverse	ADJ	JJ	_	_	_	_	_
@@ -19440,9 +18825,6 @@
 1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	_	_	_	_
-
-
 1	module	module	NOUN	NN	_	_	_	_	_
 
 
@@ -19473,9 +18855,6 @@
 1	estimation	estimation	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	supervise	supervise	VERB	VB	_	_	_	_	_
 
 
@@ -19492,9 +18871,6 @@
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	tracer	tracer	NOUN	NN	_	_	_	_	_
@@ -19536,9 +18912,6 @@
 1	resolution	resolution	NOUN	NN	_	_	_	_	_
 
 
-1	less	less	ADJ	JJR	_	_	_	_	_
-
-
 1	2.0	2.0	NUM	CD	_	_	_	_	_
 
 
@@ -19552,9 +18925,6 @@
 
 
 1	effect	effect	NOUN	NN	_	_	_	_	_
-
-
-1	also	also	ADV	RB	_	_	_	_	_
 
 
 1	investigate	investigate	VERB	VB	_	_	_	_	_
@@ -19773,12 +19143,6 @@
 1	correlation	correlation	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	_	_	_	_
-
-
-1	one	one	NUM	CD	_	_	_	_	_
-
-
 1	second	second	ADV	RB	_	_	_	_	_
 
 
@@ -19819,9 +19183,6 @@
 
 
 1	correspondence	correspondence	NOUN	NN	_	_	_	_	_
-
-
-1	two	two	NUM	CD	_	_	_	_	_
 
 
 1	image	image	NOUN	NN	_	_	_	_	_
@@ -19989,9 +19350,6 @@
 1	pet	pet	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	_	_	_	_
-
-
 1	need	need	VERB	VB	_	_	_	_	_
 
 
@@ -20041,12 +19399,6 @@
 
 
 1	generalize	generalize	VERB	VB	_	_	_	_	_
-
-
-1	across	across	ADV	RB	_	_	_	_	_
-
-
-1	various	various	ADJ	JJ	_	_	_	_	_
 
 
 1	tracer	tracer	NOUN	NN	_	_	_	_	_
@@ -20136,9 +19488,6 @@
 1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	already	already	ADV	RB	_	_	_	_	_
-
-
 1	provide	provide	VERB	VB	_	_	_	_	_
 
 
@@ -20188,9 +19537,6 @@
 
 
 1	explore	explore	VERB	VB	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	different	different	ADJ	JJ	_	_	_	_	_
@@ -20322,9 +19668,6 @@
 1	motion	motion	NOUN	NN	_	_	_	_	_
 
 
-1	even	even	ADV	RB	_	_	_	_	_
-
-
 1	noisy	noisy	ADJ	JJ	_	_	_	_	_
 
 
@@ -20349,9 +19692,6 @@
 1	possibility	possibility	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	_	_	_	_
-
-
 1	pre	pre	NOUN	NN	_	_	_	_	_
 
 
@@ -20370,9 +19710,6 @@
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	_	_	_	_
-
-
 1	intrinsic	intrinsic	ADJ	JJ	_	_	_	_	_
 
 
@@ -20386,9 +19723,6 @@
 
 
 1	noisy	noisy	ADJ	JJ	_	_	_	_	_
-
-
-1	thus	thus	ADV	RB	_	_	_	_	_
 
 
 1	challenge	challenge	VERB	VB	_	_	_	_	_
@@ -20457,16 +19791,10 @@
 1	alizability	alizability	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	_	_	_	_
-
-
 1	different	different	ADJ	JJ	_	_	_	_	_
 
 
 1	tracer	tracer	NOUN	NN	_	_	_	_	_
-
-
-1	less	less	ADJ	JJR	_	_	_	_	_
 
 
 1	intuitively	intuitively	ADV	RB	_	_	_	_	_
@@ -20488,9 +19816,6 @@
 
 
 1	manner	manner	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	model	model	NOUN	NN	_	_	_	_	_
@@ -20556,9 +19881,6 @@
 1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	consider	consider	VERB	VB	_	_	_	_	_
 
 
@@ -20572,9 +19894,6 @@
 
 
 1	site	site	NOUN	NN	_	_	_	_	_
-
-
-1	use	use	VERB	VB	_	_	_	_	_
 
 
 1	pre	pre	NOUN	NN	_	_	_	_	_
@@ -20664,9 +19983,6 @@
 1	parameter	parameter	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	_	_	_	_
-
-
 1	directly	directly	ADV	RB	_	_	_	_	_
 
 
@@ -20694,12 +20010,6 @@
 1	purpose	purpose	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	_	_	_	_
-
-
-1	part	part	NOUN	NN	_	_	_	_	_
-
-
 1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
@@ -20719,9 +20029,6 @@
 
 
 1	size	size	NOUN	NN	_	_	_	_	_
-
-
-1	much	much	ADV	RB	_	_	_	_	_
 
 
 1	large	large	ADJ	JJ	_	_	_	_	_
@@ -20785,9 +20092,6 @@
 
 
 1	tation	tation	NOUN	NN	_	_	_	_	_
-
-
-1	although	although	SCONJ	IN	_	_	_	_	_
 
 
 1	dl	dl	PROPN	NNP	_	_	_	_	_
@@ -20862,9 +20166,6 @@
 1	change	change	VERB	VB	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	_	_	_	_
-
-
 1	10	10	NUM	LS	_	_	_	_	_
 
 
@@ -20877,9 +20178,6 @@
 1	injection	injection	NOUN	NN	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	_	_	_	_
-
-
 1	vicra	vicra	NOUN	NN	_	_	_	_	_
 
 
@@ -20887,9 +20185,6 @@
 
 
 1	inaccuracy	inaccuracy	NOUN	NN	_	_	_	_	_
-
-
-1	may	may	AUX	MD	_	_	_	_	_
 
 
 1	negative	negative	ADJ	JJ	_	_	_	_	_
