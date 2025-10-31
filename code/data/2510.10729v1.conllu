@@ -1,3807 +1,3807 @@
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	nuanced	nuanced	ADJ	JJ	_	0	root	_	_
+1	nuanced	nuanced	ADJ	JJ	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	0	root	_	_
+1	often	often	ADV	RB	_	_	_	_	_
 
 
-1	misinterpret	misinterpret	VERB	VB	_	0	root	_	_
+1	misinterpret	misinterpret	VERB	VB	_	_	_	_	_
 
 
-1	form	form	NOUN	NN	_	0	root	_	_
+1	form	form	NOUN	NN	_	_	_	_	_
 
 
-1	communication	communication	NOUN	NN	_	0	root	_	_
+1	communication	communication	NOUN	NN	_	_	_	_	_
 
 
-1	especially	especially	ADV	RB	_	0	root	_	_
+1	especially	especially	ADV	RB	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	tone	tone	NOUN	NN	_	0	root	_	_
+1	tone	tone	NOUN	NN	_	_	_	_	_
 
 
-1	body	body	NOUN	NN	_	0	root	_	_
+1	body	body	NOUN	NN	_	_	_	_	_
 
 
-1	language	language	NOUN	NN	_	0	root	_	_
+1	language	language	NOUN	NN	_	_	_	_	_
 
 
-1	absent	absent	ADJ	JJ	_	0	root	_	_
+1	absent	absent	ADJ	JJ	_	_	_	_	_
 
 
-1	paper	paper	NOUN	NN	_	0	root	_	_
+1	paper	paper	NOUN	NN	_	_	_	_	_
 
 
-1	present	present	ADJ	JJ	_	0	root	_	_
+1	present	present	ADJ	JJ	_	_	_	_	_
 
 
-1	propose	propose	VERB	VB	_	0	root	_	_
+1	propose	propose	VERB	VB	_	_	_	_	_
 
 
-1	modular	modular	ADJ	JJ	_	0	root	_	_
+1	modular	modular	ADJ	JJ	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	framework	framework	NOUN	NN	_	0	root	_	_
+1	framework	framework	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	leverage	leverage	NOUN	NN	_	0	root	_	_
+1	leverage	leverage	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	dcnns	dcnns	PROPN	NNP	_	0	root	_	_
+1	dcnns	dcnns	PROPN	NNP	_	_	_	_	_
 
 
-1	contextual	contextual	NOUN	NN	_	0	root	_	_
+1	contextual	contextual	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	like	like	INTJ	UH	_	0	root	_	_
+1	like	like	INTJ	UH	_	_	_	_	_
 
 
-1	bert	bert	PROPN	NNP	_	0	root	_	_
+1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
-1	analyze	analyze	VERB	VB	_	0	root	_	_
+1	analyze	analyze	VERB	VB	_	_	_	_	_
 
 
-1	linguistic	linguistic	ADJ	JJ	_	0	root	_	_
+1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
 
 
-1	emotional	emotional	ADJ	JJ	_	0	root	_	_
+1	emotional	emotional	ADJ	JJ	_	_	_	_	_
 
 
-1	contextual	contextual	NOUN	NN	_	0	root	_	_
+1	contextual	contextual	NOUN	NN	_	_	_	_	_
 
 
-1	cue	cue	NOUN	NN	_	0	root	_	_
+1	cue	cue	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	conceptually	conceptually	ADV	RB	_	0	root	_	_
+1	conceptually	conceptually	ADV	RB	_	_	_	_	_
 
 
-1	design	design	NOUN	NN	_	0	root	_	_
+1	design	design	NOUN	NN	_	_	_	_	_
 
 
-1	integrate	integrate	VERB	VB	_	0	root	_	_
+1	integrate	integrate	VERB	VB	_	_	_	_	_
 
 
-1	sentiment	sentiment	NOUN	NN	_	0	root	_	_
+1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
 
 
-1	analysis	analysis	NOUN	NN	_	0	root	_	_
+1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	contextual	contextual	NOUN	NN	_	0	root	_	_
+1	contextual	contextual	NOUN	NN	_	_	_	_	_
 
 
-1	embedding	embedding	NOUN	NN	_	0	root	_	_
+1	embedding	embedding	NOUN	NN	_	_	_	_	_
 
 
-1	linguistic	linguistic	ADJ	JJ	_	0	root	_	_
+1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	extraction	extraction	NOUN	NN	_	0	root	_	_
+1	extraction	extraction	NOUN	NN	_	_	_	_	_
 
 
-1	emotion	emotion	NOUN	NN	_	0	root	_	_
+1	emotion	emotion	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	multi	multi	NOUN	NN	_	0	root	_	_
+1	multi	multi	NOUN	NN	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	0	root	_	_
+1	although	although	SCONJ	IN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	yet	yet	ADV	RB	_	0	root	_	_
+1	yet	yet	ADV	RB	_	_	_	_	_
 
 
-1	implement	implement	VERB	VB	_	0	root	_	_
+1	implement	implement	VERB	VB	_	_	_	_	_
 
 
-1	design	design	NOUN	NN	_	0	root	_	_
+1	design	design	NOUN	NN	_	_	_	_	_
 
 
-1	demonstrate	demonstrate	VERB	VB	_	0	root	_	_
+1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
 
 
-1	feasi	feasi	NOUN	NN	_	0	root	_	_
+1	feasi	feasi	NOUN	NN	_	_	_	_	_
 
 
-1	bility	bility	INTJ	UH	_	0	root	_	_
+1	bility	bility	INTJ	UH	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	world	world	NOUN	NN	_	0	root	_	_
+1	world	world	NOUN	NN	_	_	_	_	_
 
 
-1	application	application	NOUN	NN	_	0	root	_	_
+1	application	application	NOUN	NN	_	_	_	_	_
 
 
-1	like	like	INTJ	UH	_	0	root	_	_
+1	like	like	INTJ	UH	_	_	_	_	_
 
 
-1	chatbot	chatbot	NOUN	NN	_	0	root	_	_
+1	chatbot	chatbot	NOUN	NN	_	_	_	_	_
 
 
-1	social	social	ADJ	JJ	_	0	root	_	_
+1	social	social	ADJ	JJ	_	_	_	_	_
 
 
-1	medium	medium	ADJ	JJ	_	0	root	_	_
+1	medium	medium	ADJ	JJ	_	_	_	_	_
 
 
-1	monitor	monitor	VERB	VB	_	0	root	_	_
+1	monitor	monitor	VERB	VB	_	_	_	_	_
 
 
-1	additional	additional	ADJ	JJ	_	0	root	_	_
+1	additional	additional	ADJ	JJ	_	_	_	_	_
 
 
-1	discussion	discussion	NOUN	NN	_	0	root	_	_
+1	discussion	discussion	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	0	root	_	_
+1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
 
 
-1	technique	technique	NOUN	NN	_	0	root	_	_
+1	technique	technique	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	evaluation	evaluation	NOUN	NN	_	0	root	_	_
+1	evaluation	evaluation	NOUN	NN	_	_	_	_	_
 
 
-1	strategy	strategy	NOUN	NN	_	0	root	_	_
+1	strategy	strategy	NOUN	NN	_	_	_	_	_
 
 
-1	ethical	ethical	ADJ	JJ	_	0	root	_	_
+1	ethical	ethical	ADJ	JJ	_	_	_	_	_
 
 
-1	implication	implication	NOUN	NN	_	0	root	_	_
+1	implication	implication	NOUN	NN	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	0	root	_	_
+1	far	far	ADV	RB	_	_	_	_	_
 
 
-1	contextualize	contextualize	VERB	VB	_	0	root	_	_
+1	contextualize	contextualize	VERB	VB	_	_	_	_	_
 
 
-1	approach	approach	NOUN	NN	_	0	root	_	_
+1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	index	index	NOUN	NN	_	0	root	_	_
+1	index	index	NOUN	NN	_	_	_	_	_
 
 
-1	term	term	NOUN	NN	_	0	root	_	_
+1	term	term	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	convolu	convolu	NOUN	NN	_	0	root	_	_
+1	convolu	convolu	NOUN	NN	_	_	_	_	_
 
 
-1	tional	tional	INTJ	UH	_	0	root	_	_
+1	tional	tional	INTJ	UH	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	natural	natural	ADJ	JJ	_	0	root	_	_
+1	natural	natural	ADJ	JJ	_	_	_	_	_
 
 
-1	language	language	NOUN	NN	_	0	root	_	_
+1	language	language	NOUN	NN	_	_	_	_	_
 
 
-1	processing	processing	NOUN	NN	_	0	root	_	_
+1	processing	processing	NOUN	NN	_	_	_	_	_
 
 
-1	bert	bert	PROPN	NNP	_	0	root	_	_
+1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
-1	multimodal	multimodal	ADJ	JJ	_	0	root	_	_
+1	multimodal	multimodal	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	analysis	analysis	NOUN	NN	_	0	root	_	_
+1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	emotion	emotion	NOUN	NN	_	0	root	_	_
+1	emotion	emotion	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	iii	iii	INTJ	UH	_	0	root	_	_
+1	iii	iii	INTJ	UH	_	_	_	_	_
 
 
-1	literature	literature	NOUN	NN	_	0	root	_	_
+1	literature	literature	NOUN	NN	_	_	_	_	_
 
 
-1	survey	survey	NOUN	NN	_	0	root	_	_
+1	survey	survey	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	active	active	ADJ	JJ	_	0	root	_	_
+1	active	active	ADJ	JJ	_	_	_	_	_
 
 
-1	area	area	NOUN	NN	_	0	root	_	_
+1	area	area	NOUN	NN	_	_	_	_	_
 
 
-1	research	research	NOUN	NN	_	0	root	_	_
+1	research	research	NOUN	NN	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	0	root	_	_
+1	due	due	ADJ	JJ	_	_	_	_	_
 
 
-1	implication	implication	NOUN	NN	_	0	root	_	_
+1	implication	implication	NOUN	NN	_	_	_	_	_
 
 
-1	sentiment	sentiment	NOUN	NN	_	0	root	_	_
+1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
 
 
-1	analysis	analysis	NOUN	NN	_	0	root	_	_
+1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	opinion	opinion	NOUN	NN	_	0	root	_	_
+1	opinion	opinion	NOUN	NN	_	_	_	_	_
 
 
-1	mining	mining	NOUN	NN	_	0	root	_	_
+1	mining	mining	NOUN	NN	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	0	root	_	_
+1	several	several	ADJ	JJ	_	_	_	_	_
 
 
-1	study	study	NOUN	NN	_	0	root	_	_
+1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	propose	propose	VERB	VB	_	0	root	_	_
+1	propose	propose	VERB	VB	_	_	_	_	_
 
 
-1	diverse	diverse	ADJ	JJ	_	0	root	_	_
+1	diverse	diverse	ADJ	JJ	_	_	_	_	_
 
 
-1	approach	approach	NOUN	NN	_	0	root	_	_
+1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	range	range	NOUN	NN	_	0	root	_	_
+1	range	range	NOUN	NN	_	_	_	_	_
 
 
-1	rule	rule	NOUN	NN	_	0	root	_	_
+1	rule	rule	NOUN	NN	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	jamil	jamil	PROPN	NNP	_	0	root	_	_
+1	jamil	jamil	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	introduce	introduce	VERB	VB	_	0	root	_	_
+1	introduce	introduce	VERB	VB	_	_	_	_	_
 
 
-1	hybrid	hybrid	NOUN	NN	_	0	root	_	_
+1	hybrid	hybrid	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	con	con	NOUN	NN	_	0	root	_	_
+1	con	con	NOUN	NN	_	_	_	_	_
 
 
-1	volutional	volutional	ADJ	JJ	_	0	root	_	_
+1	volutional	volutional	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
-1	long	long	ADJ	JJ	_	0	root	_	_
+1	long	long	ADJ	JJ	_	_	_	_	_
 
 
-1	short	short	ADJ	JJ	_	0	root	_	_
+1	short	short	ADJ	JJ	_	_	_	_	_
 
 
-1	term	term	NOUN	NN	_	0	root	_	_
+1	term	term	NOUN	NN	_	_	_	_	_
 
 
-1	memory	memory	NOUN	NN	_	0	root	_	_
+1	memory	memory	NOUN	NN	_	_	_	_	_
 
 
-1	lstm	lstm	PROPN	NNP	_	0	root	_	_
+1	lstm	lstm	PROPN	NNP	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	0	root	_	_
+1	across	across	ADV	RB	_	_	_	_	_
 
 
-1	multi	multi	NOUN	NN	_	0	root	_	_
+1	multi	multi	NOUN	NN	_	_	_	_	_
 
 
-1	domain	domain	NOUN	NN	_	0	root	_	_
+1	domain	domain	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	work	work	NOUN	NN	_	0	root	_	_
+1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	emphasize	emphasize	VERB	VB	_	0	root	_	_
+1	emphasize	emphasize	VERB	VB	_	_	_	_	_
 
 
-1	combination	combination	NOUN	NN	_	0	root	_	_
+1	combination	combination	NOUN	NN	_	_	_	_	_
 
 
-1	spatial	spatial	ADJ	JJ	_	0	root	_	_
+1	spatial	spatial	ADJ	JJ	_	_	_	_	_
 
 
-1	sequential	sequential	ADJ	JJ	_	0	root	_	_
+1	sequential	sequential	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	improve	improve	VERB	VB	_	0	root	_	_
+1	improve	improve	VERB	VB	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	razali	razali	PROPN	NNP	_	0	root	_	_
+1	razali	razali	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	explore	explore	VERB	VB	_	0	root	_	_
+1	explore	explore	VERB	VB	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	contextual	contextual	NOUN	NN	_	0	root	_	_
+1	contextual	contextual	NOUN	NN	_	_	_	_	_
 
 
-1	embed	embed	VERB	VB	_	0	root	_	_
+1	embed	embed	VERB	VB	_	_	_	_	_
 
 
-1	tech	tech	NOUN	NN	_	0	root	_	_
+1	tech	tech	NOUN	NN	_	_	_	_	_
 
 
-1	nique	nique	PROPN	NNP	_	0	root	_	_
+1	nique	nique	PROPN	NNP	_	_	_	_	_
 
 
-1	highlight	highlight	VERB	VB	_	0	root	_	_
+1	highlight	highlight	VERB	VB	_	_	_	_	_
 
 
-1	importance	importance	NOUN	NN	_	0	root	_	_
+1	importance	importance	NOUN	NN	_	_	_	_	_
 
 
-1	semantic	semantic	ADJ	JJ	_	0	root	_	_
+1	semantic	semantic	ADJ	JJ	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	domain	domain	NOUN	NN	_	0	root	_	_
+1	domain	domain	NOUN	NN	_	_	_	_	_
 
 
-1	knowledge	knowledge	NOUN	NN	_	0	root	_	_
+1	knowledge	knowledge	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	signifi	signifi	VERB	VB	_	0	root	_	_
+1	signifi	signifi	VERB	VB	_	_	_	_	_
 
 
-1	cantly	cantly	INTJ	UH	_	0	root	_	_
+1	cantly	cantly	INTJ	UH	_	_	_	_	_
 
 
-1	enhance	enhance	VERB	VB	_	0	root	_	_
+1	enhance	enhance	VERB	VB	_	_	_	_	_
 
 
-1	performance	performance	NOUN	NN	_	0	root	_	_
+1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	consider	consider	VERB	VB	_	0	root	_	_
+1	consider	consider	VERB	VB	_	_	_	_	_
 
 
-1	word	word	NOUN	NN	_	0	root	_	_
+1	word	word	NOUN	NN	_	_	_	_	_
 
 
-1	context	context	NOUN	NN	_	0	root	_	_
+1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	sentence	sentence	NOUN	NN	_	0	root	_	_
+1	sentence	sentence	NOUN	NN	_	_	_	_	_
 
 
-1	level	level	NOUN	NN	_	0	root	_	_
+1	level	level	NOUN	NN	_	_	_	_	_
 
 
-1	poria	poria	PROPN	NNP	_	0	root	_	_
+1	poria	poria	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	present	present	ADJ	JJ	_	0	root	_	_
+1	present	present	ADJ	JJ	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+1	cnn	cnn	PROPN	NNP	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	0	root	_	_
+1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
 
 
-1	tweet	tweet	NOUN	NN	_	0	root	_	_
+1	tweet	tweet	NOUN	NN	_	_	_	_	_
 
 
-1	classification	classification	NOUN	NN	_	0	root	_	_
+1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	capture	capture	VERB	VB	_	0	root	_	_
+1	capture	capture	VERB	VB	_	_	_	_	_
 
 
-1	local	local	ADJ	JJ	_	0	root	_	_
+1	local	local	ADJ	JJ	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	pattern	pattern	NOUN	NN	_	0	root	_	_
+1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	contribute	contribute	VERB	VB	_	0	root	_	_
+1	contribute	contribute	VERB	VB	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	0	root	_	_
+1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
 
 
-1	undertone	undertone	NOUN	NN	_	0	root	_	_
+1	undertone	undertone	NOUN	NN	_	_	_	_	_
 
 
-1	research	research	NOUN	NN	_	0	root	_	_
+1	research	research	NOUN	NN	_	_	_	_	_
 
 
-1	focus	focus	VERB	VB	_	0	root	_	_
+1	focus	focus	VERB	VB	_	_	_	_	_
 
 
-1	leverage	leverage	NOUN	NN	_	0	root	_	_
+1	leverage	leverage	NOUN	NN	_	_	_	_	_
 
 
-1	spatial	spatial	ADJ	JJ	_	0	root	_	_
+1	spatial	spatial	ADJ	JJ	_	_	_	_	_
 
 
-1	hierarchy	hierarchy	NOUN	NN	_	0	root	_	_
+1	hierarchy	hierarchy	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	0	root	_	_
+1	within	within	ADP	IN	_	_	_	_	_
 
 
-1	tweet	tweet	NOUN	NN	_	0	root	_	_
+1	tweet	tweet	NOUN	NN	_	_	_	_	_
 
 
-1	liu	liu	PROPN	NNP	_	0	root	_	_
+1	liu	liu	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	design	design	NOUN	NN	_	0	root	_	_
+1	design	design	NOUN	NN	_	_	_	_	_
 
 
-1	multitask	multitask	NOUN	NN	_	0	root	_	_
+1	multitask	multitask	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	general	general	ADJ	JJ	_	0	root	_	_
+1	general	general	ADJ	JJ	_	_	_	_	_
 
 
-1	language	language	NOUN	NN	_	0	root	_	_
+1	language	language	NOUN	NN	_	_	_	_	_
 
 
-1	understand	understand	VERB	VB	_	0	root	_	_
+1	understand	understand	VERB	VB	_	_	_	_	_
 
 
-1	task	task	NOUN	NN	_	0	root	_	_
+1	task	task	NOUN	NN	_	_	_	_	_
 
 
-1	provide	provide	VERB	VB	_	0	root	_	_
+1	provide	provide	VERB	VB	_	_	_	_	_
 
 
-1	foundational	foundational	ADJ	JJ	_	0	root	_	_
+1	foundational	foundational	ADJ	JJ	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	indirectly	indirectly	ADV	RB	_	0	root	_	_
+1	indirectly	indirectly	ADV	RB	_	_	_	_	_
 
 
-1	benefit	benefit	NOUN	NN	_	0	root	_	_
+1	benefit	benefit	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	share	share	NOUN	NN	_	0	root	_	_
+1	share	share	NOUN	NN	_	_	_	_	_
 
 
-1	contextual	contextual	NOUN	NN	_	0	root	_	_
+1	contextual	contextual	NOUN	NN	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	0	root	_	_
+1	across	across	ADV	RB	_	_	_	_	_
 
 
-1	relate	relate	VERB	VB	_	0	root	_	_
+1	relate	relate	VERB	VB	_	_	_	_	_
 
 
-1	task	task	NOUN	NN	_	0	root	_	_
+1	task	task	NOUN	NN	_	_	_	_	_
 
 
-1	zhang	zhang	PROPN	NNP	_	0	root	_	_
+1	zhang	zhang	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	propose	propose	VERB	VB	_	0	root	_	_
+1	propose	propose	VERB	VB	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	approach	approach	NOUN	NN	_	0	root	_	_
+1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	specifically	specifically	ADV	RB	_	0	root	_	_
+1	specifically	specifically	ADV	RB	_	_	_	_	_
 
 
-1	tailor	tailor	NOUN	NN	_	0	root	_	_
+1	tailor	tailor	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	tweet	tweet	NOUN	NN	_	0	root	_	_
+1	tweet	tweet	NOUN	NN	_	_	_	_	_
 
 
-1	incorpo	incorpo	PROPN	NNP	_	0	root	_	_
+1	incorpo	incorpo	PROPN	NNP	_	_	_	_	_
 
 
-1	rating	rating	NOUN	NN	_	0	root	_	_
+1	rating	rating	NOUN	NN	_	_	_	_	_
 
 
-1	embed	embed	VERB	VB	_	0	root	_	_
+1	embed	embed	VERB	VB	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
 
 
-1	filter	filter	NOUN	NN	_	0	root	_	_
+1	filter	filter	NOUN	NN	_	_	_	_	_
 
 
-1	capture	capture	VERB	VB	_	0	root	_	_
+1	capture	capture	VERB	VB	_	_	_	_	_
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	0	root	_	_
+1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
 
 
-1	phrase	phrase	NOUN	NN	_	0	root	_	_
+1	phrase	phrase	NOUN	NN	_	_	_	_	_
 
 
-1	sentence	sentence	NOUN	NN	_	0	root	_	_
+1	sentence	sentence	NOUN	NN	_	_	_	_	_
 
 
-1	structure	structure	NOUN	NN	_	0	root	_	_
+1	structure	structure	NOUN	NN	_	_	_	_	_
 
 
-1	du	du	PROPN	NNP	_	0	root	_	_
+1	du	du	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	propose	propose	VERB	VB	_	0	root	_	_
+1	propose	propose	VERB	VB	_	_	_	_	_
 
 
-1	approach	approach	NOUN	NN	_	0	root	_	_
+1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	sentimen	sentimen	NOUN	NN	_	0	root	_	_
+1	sentimen	sentimen	NOUN	NN	_	_	_	_	_
 
 
-1	tal	tal	INTJ	UH	_	0	root	_	_
+1	tal	tal	INTJ	UH	_	_	_	_	_
 
 
-1	context	context	NOUN	NN	_	0	root	_	_
+1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	individual	individual	NOUN	NN	_	0	root	_	_
+1	individual	individual	NOUN	NN	_	_	_	_	_
 
 
-1	expression	expression	NOUN	NN	_	0	root	_	_
+1	expression	expression	NOUN	NN	_	_	_	_	_
 
 
-1	pattern	pattern	NOUN	NN	_	0	root	_	_
+1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	reliably	reliably	ADV	RB	_	0	root	_	_
+1	reliably	reliably	ADV	RB	_	_	_	_	_
 
 
-1	study	study	NOUN	NN	_	0	root	_	_
+1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	emphasize	emphasize	VERB	VB	_	0	root	_	_
+1	emphasize	emphasize	VERB	VB	_	_	_	_	_
 
 
-1	personalize	personalize	VERB	VB	_	0	root	_	_
+1	personalize	personalize	VERB	VB	_	_	_	_	_
 
 
-1	modeling	modeling	NOUN	NN	_	0	root	_	_
+1	modeling	modeling	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	0	root	_	_
+1	well	well	INTJ	UH	_	_	_	_	_
 
 
-1	generalization	generalization	NOUN	NN	_	0	root	_	_
+1	generalization	generalization	NOUN	NN	_	_	_	_	_
 
 
-1	bharti	bharti	PROPN	NNP	_	0	root	_	_
+1	bharti	bharti	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	extend	extend	VERB	VB	_	0	root	_	_
+1	extend	extend	VERB	VB	_	_	_	_	_
 
 
-1	problem	problem	NOUN	NN	_	0	root	_	_
+1	problem	problem	NOUN	NN	_	_	_	_	_
 
 
-1	multimodal	multimodal	ADJ	JJ	_	0	root	_	_
+1	multimodal	multimodal	ADJ	JJ	_	_	_	_	_
 
 
-1	domain	domain	NOUN	NN	_	0	root	_	_
+1	domain	domain	NOUN	NN	_	_	_	_	_
 
 
-1	integrate	integrate	VERB	VB	_	0	root	_	_
+1	integrate	integrate	VERB	VB	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	alongside	alongside	ADP	IN	_	0	root	_	_
+1	alongside	alongside	ADP	IN	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	bert	bert	PROPN	NNP	_	0	root	_	_
+1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	embedding	embedding	NOUN	NN	_	0	root	_	_
+1	embedding	embedding	NOUN	NN	_	_	_	_	_
 
 
-1	dense	dense	ADJ	JJ	_	0	root	_	_
+1	dense	dense	ADJ	JJ	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	visual	visual	ADJ	JJ	_	0	root	_	_
+1	visual	visual	ADJ	JJ	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	fusion	fusion	NOUN	NN	_	0	root	_	_
+1	fusion	fusion	NOUN	NN	_	_	_	_	_
 
 
-1	introduction	introduction	NOUN	NN	_	0	root	_	_
+1	introduction	introduction	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	vital	vital	ADJ	JJ	_	0	root	_	_
+1	vital	vital	ADJ	JJ	_	_	_	_	_
 
 
-1	enhance	enhance	VERB	VB	_	0	root	_	_
+1	enhance	enhance	VERB	VB	_	_	_	_	_
 
 
-1	interpretabil	interpretabil	ADJ	JJ	_	0	root	_	_
+1	interpretabil	interpretabil	ADJ	JJ	_	_	_	_	_
 
 
-1	ity	ity	NOUN	NN	_	0	root	_	_
+1	ity	ity	NOUN	NN	_	_	_	_	_
 
 
-1	automate	automate	VERB	VB	_	0	root	_	_
+1	automate	automate	VERB	VB	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	like	like	INTJ	UH	_	0	root	_	_
+1	like	like	INTJ	UH	_	_	_	_	_
 
 
-1	sentiment	sentiment	NOUN	NN	_	0	root	_	_
+1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
 
 
-1	analyzer	analyzer	NOUN	NN	_	0	root	_	_
+1	analyzer	analyzer	NOUN	NN	_	_	_	_	_
 
 
-1	chatbot	chatbot	NOUN	NN	_	0	root	_	_
+1	chatbot	chatbot	NOUN	NN	_	_	_	_	_
 
 
-1	recommendation	recommendation	NOUN	NN	_	0	root	_	_
+1	recommendation	recommendation	NOUN	NN	_	_	_	_	_
 
 
-1	engine	engine	NOUN	NN	_	0	root	_	_
+1	engine	engine	NOUN	NN	_	_	_	_	_
 
 
-1	human	human	ADJ	JJ	_	0	root	_	_
+1	human	human	ADJ	JJ	_	_	_	_	_
 
 
-1	rely	rely	VERB	VB	_	0	root	_	_
+1	rely	rely	VERB	VB	_	_	_	_	_
 
 
-1	context	context	NOUN	NN	_	0	root	_	_
+1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	tone	tone	NOUN	NN	_	0	root	_	_
+1	tone	tone	NOUN	NN	_	_	_	_	_
 
 
-1	expression	expression	NOUN	NN	_	0	root	_	_
+1	expression	expression	NOUN	NN	_	_	_	_	_
 
 
-1	machine	machine	NOUN	NN	_	0	root	_	_
+1	machine	machine	NOUN	NN	_	_	_	_	_
 
 
-1	must	must	AUX	MD	_	0	root	_	_
+1	must	must	AUX	MD	_	_	_	_	_
 
 
-1	infer	infer	VERB	VB	_	0	root	_	_
+1	infer	infer	VERB	VB	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	textual	textual	ADJ	JJ	_	0	root	_	_
+1	textual	textual	ADJ	JJ	_	_	_	_	_
 
 
-1	pattern	pattern	NOUN	NN	_	0	root	_	_
+1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	alone	alone	ADV	RB	_	0	root	_	_
+1	alone	alone	ADV	RB	_	_	_	_	_
 
 
-1	paper	paper	NOUN	NN	_	0	root	_	_
+1	paper	paper	NOUN	NN	_	_	_	_	_
 
 
-1	explore	explore	VERB	VB	_	0	root	_	_
+1	explore	explore	VERB	VB	_	_	_	_	_
 
 
-1	concep	concep	NOUN	NN	_	0	root	_	_
+1	concep	concep	NOUN	NN	_	_	_	_	_
 
 
-1	tual	tual	INTJ	UH	_	0	root	_	_
+1	tual	tual	INTJ	UH	_	_	_	_	_
 
 
-1	solution	solution	NOUN	NN	_	0	root	_	_
+1	solution	solution	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	dcnns	dcnns	PROPN	NNP	_	0	root	_	_
+1	dcnns	dcnns	PROPN	NNP	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	contextual	contextual	NOUN	NN	_	0	root	_	_
+1	contextual	contextual	NOUN	NN	_	_	_	_	_
 
 
-1	embed	embed	VERB	VB	_	0	root	_	_
+1	embed	embed	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	understand	understand	VERB	VB	_	0	root	_	_
+1	understand	understand	VERB	VB	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	complex	complex	ADJ	JJ	_	0	root	_	_
+1	complex	complex	ADJ	JJ	_	_	_	_	_
 
 
-1	indicator	indicator	NOUN	NN	_	0	root	_	_
+1	indicator	indicator	NOUN	NN	_	_	_	_	_
 
 
-1	irony	irony	NOUN	NN	_	0	root	_	_
+1	irony	irony	NOUN	NN	_	_	_	_	_
 
 
-1	sentiment	sentiment	NOUN	NN	_	0	root	_	_
+1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
 
 
-1	contradiction	contradiction	NOUN	NN	_	0	root	_	_
+1	contradiction	contradiction	NOUN	NN	_	_	_	_	_
 
 
-1	hyper	hyper	NOUN	NN	_	0	root	_	_
+1	hyper	hyper	NOUN	NN	_	_	_	_	_
 
 
-1	bole	bole	INTJ	UH	_	0	root	_	_
+1	bole	bole	INTJ	UH	_	_	_	_	_
 
 
-1	application	application	NOUN	NN	_	0	root	_	_
+1	application	application	NOUN	NN	_	_	_	_	_
 
 
-1	range	range	NOUN	NN	_	0	root	_	_
+1	range	range	NOUN	NN	_	_	_	_	_
 
 
-1	content	content	NOUN	NN	_	0	root	_	_
+1	content	content	NOUN	NN	_	_	_	_	_
 
 
-1	moderation	moderation	NOUN	NN	_	0	root	_	_
+1	moderation	moderation	NOUN	NN	_	_	_	_	_
 
 
-1	social	social	ADJ	JJ	_	0	root	_	_
+1	social	social	ADJ	JJ	_	_	_	_	_
 
 
-1	platform	platform	NOUN	NN	_	0	root	_	_
+1	platform	platform	NOUN	NN	_	_	_	_	_
 
 
-1	enhance	enhance	VERB	VB	_	0	root	_	_
+1	enhance	enhance	VERB	VB	_	_	_	_	_
 
 
-1	virtual	virtual	ADJ	JJ	_	0	root	_	_
+1	virtual	virtual	ADJ	JJ	_	_	_	_	_
 
 
-1	assistant	assistant	NOUN	NN	_	0	root	_	_
+1	assistant	assistant	NOUN	NN	_	_	_	_	_
 
 
-1	interaction	interaction	NOUN	NN	_	0	root	_	_
+1	interaction	interaction	NOUN	NN	_	_	_	_	_
 
 
-1	ii	ii	INTJ	UH	_	0	root	_	_
+1	ii	ii	INTJ	UH	_	_	_	_	_
 
 
-1	background	background	NOUN	NN	_	0	root	_	_
+1	background	background	NOUN	NN	_	_	_	_	_
 
 
-1	motivation	motivation	NOUN	NN	_	0	root	_	_
+1	motivation	motivation	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	complex	complex	ADJ	JJ	_	0	root	_	_
+1	complex	complex	ADJ	JJ	_	_	_	_	_
 
 
-1	form	form	NOUN	NN	_	0	root	_	_
+1	form	form	NOUN	NN	_	_	_	_	_
 
 
-1	communication	communication	NOUN	NN	_	0	root	_	_
+1	communication	communication	NOUN	NN	_	_	_	_	_
 
 
-1	rely	rely	VERB	VB	_	0	root	_	_
+1	rely	rely	VERB	VB	_	_	_	_	_
 
 
-1	heavily	heavily	ADV	RB	_	0	root	_	_
+1	heavily	heavily	ADV	RB	_	_	_	_	_
 
 
-1	tone	tone	NOUN	NN	_	0	root	_	_
+1	tone	tone	NOUN	NN	_	_	_	_	_
 
 
-1	context	context	NOUN	NN	_	0	root	_	_
+1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	cultural	cultural	ADJ	JJ	_	0	root	_	_
+1	cultural	cultural	ADJ	JJ	_	_	_	_	_
 
 
-1	cue	cue	NOUN	NN	_	0	root	_	_
+1	cue	cue	NOUN	NN	_	_	_	_	_
 
 
-1	human	human	ADJ	JJ	_	0	root	_	_
+1	human	human	ADJ	JJ	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	0	root	_	_
+1	often	often	ADV	RB	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	recognize	recognize	VERB	VB	_	0	root	_	_
+1	recognize	recognize	VERB	VB	_	_	_	_	_
 
 
-1	exaggerated	exaggerated	ADJ	JJ	_	0	root	_	_
+1	exaggerated	exaggerated	ADJ	JJ	_	_	_	_	_
 
 
-1	language	language	NOUN	NN	_	0	root	_	_
+1	language	language	NOUN	NN	_	_	_	_	_
 
 
-1	contra	contra	NOUN	NN	_	0	root	_	_
+1	contra	contra	NOUN	NN	_	_	_	_	_
 
 
-1	diction	diction	NOUN	NN	_	0	root	_	_
+1	diction	diction	NOUN	NN	_	_	_	_	_
 
 
-1	situational	situational	ADJ	JJ	_	0	root	_	_
+1	situational	situational	ADJ	JJ	_	_	_	_	_
 
 
-1	irony	irony	NOUN	NN	_	0	root	_	_
+1	irony	irony	NOUN	NN	_	_	_	_	_
 
 
-1	difficult	difficult	ADJ	JJ	_	0	root	_	_
+1	difficult	difficult	ADJ	JJ	_	_	_	_	_
 
 
-1	machine	machine	NOUN	NN	_	0	root	_	_
+1	machine	machine	NOUN	NN	_	_	_	_	_
 
 
-1	grasp	grasp	NOUN	NN	_	0	root	_	_
+1	grasp	grasp	NOUN	NN	_	_	_	_	_
 
 
-1	traditional	traditional	ADJ	JJ	_	0	root	_	_
+1	traditional	traditional	ADJ	JJ	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	processing	processing	NOUN	NN	_	0	root	_	_
+1	processing	processing	NOUN	NN	_	_	_	_	_
 
 
-1	tool	tool	NOUN	NN	_	0	root	_	_
+1	tool	tool	NOUN	NN	_	_	_	_	_
 
 
-1	typically	typically	ADV	RB	_	0	root	_	_
+1	typically	typically	ADV	RB	_	_	_	_	_
 
 
-1	fail	fail	VERB	VB	_	0	root	_	_
+1	fail	fail	VERB	VB	_	_	_	_	_
 
 
-1	interpret	interpret	VERB	VB	_	0	root	_	_
+1	interpret	interpret	VERB	VB	_	_	_	_	_
 
 
-1	nuanced	nuanced	ADJ	JJ	_	0	root	_	_
+1	nuanced	nuanced	ADJ	JJ	_	_	_	_	_
 
 
-1	expression	expression	NOUN	NN	_	0	root	_	_
+1	expression	expression	NOUN	NN	_	_	_	_	_
 
 
-1	emergence	emergence	NOUN	NN	_	0	root	_	_
+1	emergence	emergence	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	like	like	INTJ	UH	_	0	root	_	_
+1	like	like	INTJ	UH	_	_	_	_	_
 
 
-1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
-1	transformer	transformer	NOUN	NN	_	0	root	_	_
+1	transformer	transformer	NOUN	NN	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	0	root	_	_
+1	become	become	VERB	VB	_	_	_	_	_
 
 
-1	feasible	feasible	ADJ	JJ	_	0	root	_	_
+1	feasible	feasible	ADJ	JJ	_	_	_	_	_
 
 
-1	explore	explore	VERB	VB	_	0	root	_	_
+1	explore	explore	VERB	VB	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	machine	machine	NOUN	NN	_	0	root	_	_
+1	machine	machine	NOUN	NN	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	paper	paper	NOUN	NN	_	0	root	_	_
+1	paper	paper	NOUN	NN	_	_	_	_	_
 
 
-1	propose	propose	VERB	VB	_	0	root	_	_
+1	propose	propose	VERB	VB	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	mimic	mimic	VERB	VB	_	0	root	_	_
+1	mimic	mimic	VERB	VB	_	_	_	_	_
 
 
-1	human	human	ADJ	JJ	_	0	root	_	_
+1	human	human	ADJ	JJ	_	_	_	_	_
 
 
-1	like	like	INTJ	UH	_	0	root	_	_
+1	like	like	INTJ	UH	_	_	_	_	_
 
 
-1	understand	understand	VERB	VB	_	0	root	_	_
+1	understand	understand	VERB	VB	_	_	_	_	_
 
 
-1	analyze	analyze	VERB	VB	_	0	root	_	_
+1	analyze	analyze	VERB	VB	_	_	_	_	_
 
 
-1	multiple	multiple	ADJ	JJ	_	0	root	_	_
+1	multiple	multiple	ADJ	JJ	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	achieve	achieve	VERB	VB	_	0	root	_	_
+1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
-1	superior	superior	ADJ	JJ	_	0	root	_	_
+1	superior	superior	ADJ	JJ	_	_	_	_	_
 
 
-1	performance	performance	NOUN	NN	_	0	root	_	_
+1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	social	social	ADJ	JJ	_	0	root	_	_
+1	social	social	ADJ	JJ	_	_	_	_	_
 
 
-1	medium	medium	ADJ	JJ	_	0	root	_	_
+1	medium	medium	ADJ	JJ	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	sharma	sharma	PROPN	NNP	_	0	root	_	_
+1	sharma	sharma	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	develop	develop	VERB	VB	_	0	root	_	_
+1	develop	develop	VERB	VB	_	_	_	_	_
 
 
-1	hybrid	hybrid	NOUN	NN	_	0	root	_	_
+1	hybrid	hybrid	NOUN	NN	_	_	_	_	_
 
 
-1	autoencoder	autoencoder	PROPN	NNP	_	0	root	_	_
+1	autoencoder	autoencoder	PROPN	NNP	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	capable	capable	ADJ	JJ	_	0	root	_	_
+1	capable	capable	ADJ	JJ	_	_	_	_	_
 
 
-1	capture	capture	VERB	VB	_	0	root	_	_
+1	capture	capture	VERB	VB	_	_	_	_	_
 
 
-1	shallow	shallow	ADJ	JJ	_	0	root	_	_
+1	shallow	shallow	ADJ	JJ	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	semantic	semantic	ADJ	JJ	_	0	root	_	_
+1	semantic	semantic	ADJ	JJ	_	_	_	_	_
 
 
-1	pattern	pattern	NOUN	NN	_	0	root	_	_
+1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	contribute	contribute	VERB	VB	_	0	root	_	_
+1	contribute	contribute	VERB	VB	_	_	_	_	_
 
 
-1	accurate	accurate	ADJ	JJ	_	0	root	_	_
+1	accurate	accurate	ADJ	JJ	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	classification	classification	NOUN	NN	_	0	root	_	_
+1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	social	social	ADJ	JJ	_	0	root	_	_
+1	social	social	ADJ	JJ	_	_	_	_	_
 
 
-1	medium	medium	ADJ	JJ	_	0	root	_	_
+1	medium	medium	ADJ	JJ	_	_	_	_	_
 
 
-1	post	post	NOUN	NN	_	0	root	_	_
+1	post	post	NOUN	NN	_	_	_	_	_
 
 
-1	eke	eke	NOUN	NN	_	0	root	_	_
+1	eke	eke	NOUN	NN	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	focus	focus	VERB	VB	_	0	root	_	_
+1	focus	focus	VERB	VB	_	_	_	_	_
 
 
-1	context	context	NOUN	NN	_	0	root	_	_
+1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	engineering	engineering	NOUN	NN	_	0	root	_	_
+1	engineering	engineering	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	bert	bert	PROPN	NNP	_	0	root	_	_
+1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
-1	propose	propose	VERB	VB	_	0	root	_	_
+1	propose	propose	VERB	VB	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	leverage	leverage	NOUN	NN	_	0	root	_	_
+1	leverage	leverage	NOUN	NN	_	_	_	_	_
 
 
-1	sentence	sentence	NOUN	NN	_	0	root	_	_
+1	sentence	sentence	NOUN	NN	_	_	_	_	_
 
 
-1	level	level	NOUN	NN	_	0	root	_	_
+1	level	level	NOUN	NN	_	_	_	_	_
 
 
-1	embedding	embedding	NOUN	NN	_	0	root	_	_
+1	embedding	embedding	NOUN	NN	_	_	_	_	_
 
 
-1	fine	fine	ADJ	JJ	_	0	root	_	_
+1	fine	fine	ADJ	JJ	_	_	_	_	_
 
 
-1	tune	tune	NOUN	NN	_	0	root	_	_
+1	tune	tune	NOUN	NN	_	_	_	_	_
 
 
-1	transformer	transformer	NOUN	NN	_	0	root	_	_
+1	transformer	transformer	NOUN	NN	_	_	_	_	_
 
 
-1	boost	boost	VERB	VB	_	0	root	_	_
+1	boost	boost	VERB	VB	_	_	_	_	_
 
 
-1	classification	classification	NOUN	NN	_	0	root	_	_
+1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	prior	prior	ADJ	JJ	_	0	root	_	_
+1	prior	prior	ADJ	JJ	_	_	_	_	_
 
 
-1	work	work	NOUN	NN	_	0	root	_	_
+1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	demonstrate	demonstrate	VERB	VB	_	0	root	_	_
+1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
 
 
-1	effectiveness	effectiveness	NOUN	NN	_	0	root	_	_
+1	effectiveness	effectiveness	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	method	method	NOUN	NN	_	0	root	_	_
+1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	0	root	_	_
+1	however	however	ADV	RB	_	_	_	_	_
 
 
-1	many	many	ADJ	JJ	_	0	root	_	_
+1	many	many	ADJ	JJ	_	_	_	_	_
 
 
-1	lack	lack	NOUN	NN	_	0	root	_	_
+1	lack	lack	NOUN	NN	_	_	_	_	_
 
 
-1	scalability	scalability	NOUN	NN	_	0	root	_	_
+1	scalability	scalability	NOUN	NN	_	_	_	_	_
 
 
-1	explainability	explainability	NOUN	NN	_	0	root	_	_
+1	explainability	explainability	NOUN	NN	_	_	_	_	_
 
 
-1	modularity	modularity	NOUN	NN	_	0	root	_	_
+1	modularity	modularity	NOUN	NN	_	_	_	_	_
 
 
-1	work	work	NOUN	NN	_	0	root	_	_
+1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	build	build	VERB	VB	_	0	root	_	_
+1	build	build	VERB	VB	_	_	_	_	_
 
 
-1	upon	upon	ADP	IN	_	0	root	_	_
+1	upon	upon	ADP	IN	_	_	_	_	_
 
 
-1	foundation	foundation	NOUN	NN	_	0	root	_	_
+1	foundation	foundation	NOUN	NN	_	_	_	_	_
 
 
-1	propose	propose	VERB	VB	_	0	root	_	_
+1	propose	propose	VERB	VB	_	_	_	_	_
 
 
-1	modular	modular	ADJ	JJ	_	0	root	_	_
+1	modular	modular	ADJ	JJ	_	_	_	_	_
 
 
-1	framework	framework	NOUN	NN	_	0	root	_	_
+1	framework	framework	NOUN	NN	_	_	_	_	_
 
 
-1	uni	uni	NOUN	NN	_	0	root	_	_
+1	uni	uni	NOUN	NN	_	_	_	_	_
 
 
-1	fie	fie	NOUN	NN	_	0	root	_	_
+1	fie	fie	NOUN	NN	_	_	_	_	_
 
 
-1	sentiment	sentiment	NOUN	NN	_	0	root	_	_
+1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
 
 
-1	context	context	NOUN	NN	_	0	root	_	_
+1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	linguistic	linguistic	ADJ	JJ	_	0	root	_	_
+1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
 
 
-1	cue	cue	NOUN	NN	_	0	root	_	_
+1	cue	cue	NOUN	NN	_	_	_	_	_
 
 
-1	emotion	emotion	NOUN	NN	_	0	root	_	_
+1	emotion	emotion	NOUN	NN	_	_	_	_	_
 
 
-1	analysis	analysis	NOUN	NN	_	0	root	_	_
+1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	adaptable	adaptable	ADJ	JJ	_	0	root	_	_
+1	adaptable	adaptable	ADJ	JJ	_	_	_	_	_
 
 
-1	extensible	extensible	ADJ	JJ	_	0	root	_	_
+1	extensible	extensible	ADJ	JJ	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	robust	robust	ADJ	JJ	_	0	root	_	_
+1	robust	robust	ADJ	JJ	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	fig	fig	NOUN	NN	_	0	root	_	_
+1	fig	fig	NOUN	NN	_	_	_	_	_
 
 
-1	2	2	NUM	LS	_	0	root	_	_
+1	2	2	NUM	LS	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	iv	iv	INTJ	UH	_	0	root	_	_
+1	iv	iv	INTJ	UH	_	_	_	_	_
 
 
-1	technical	technical	ADJ	JJ	_	0	root	_	_
+1	technical	technical	ADJ	JJ	_	_	_	_	_
 
 
-1	background	background	NOUN	NN	_	0	root	_	_
+1	background	background	NOUN	NN	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	machine	machine	NOUN	NN	_	0	root	_	_
+1	machine	machine	NOUN	NN	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	inspire	inspire	VERB	VB	_	0	root	_	_
+1	inspire	inspire	VERB	VB	_	_	_	_	_
 
 
-1	human	human	ADJ	JJ	_	0	root	_	_
+1	human	human	ADJ	JJ	_	_	_	_	_
 
 
-1	brain	brain	NOUN	NN	_	0	root	_	_
+1	brain	brain	NOUN	NN	_	_	_	_	_
 
 
-1	consist	consist	VERB	VB	_	0	root	_	_
+1	consist	consist	VERB	VB	_	_	_	_	_
 
 
-1	interconnected	interconnected	VERB	VBN	_	0	root	_	_
+1	interconnected	interconnected	VERB	VBN	_	_	_	_	_
 
 
-1	neuron	neuron	NOUN	NN	_	0	root	_	_
+1	neuron	neuron	NOUN	NN	_	_	_	_	_
 
 
-1	arrange	arrange	VERB	VB	_	0	root	_	_
+1	arrange	arrange	VERB	VB	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	process	process	NOUN	NN	_	0	root	_	_
+1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	input	input	NOUN	NN	_	0	root	_	_
+1	input	input	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	weight	weight	NOUN	NN	_	0	root	_	_
+1	weight	weight	NOUN	NN	_	_	_	_	_
 
 
-1	connection	connection	NOUN	NN	_	0	root	_	_
+1	connection	connection	NOUN	NN	_	_	_	_	_
 
 
-1	activation	activation	NOUN	NN	_	0	root	_	_
+1	activation	activation	NOUN	NN	_	_	_	_	_
 
 
-1	function	function	NOUN	NN	_	0	root	_	_
+1	function	function	NOUN	NN	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	pattern	pattern	NOUN	NN	_	0	root	_	_
+1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	0	root	_	_
+1	make	make	VERB	VB	_	_	_	_	_
 
 
-1	decision	decision	NOUN	NN	_	0	root	_	_
+1	decision	decision	NOUN	NN	_	_	_	_	_
 
 
-1	fig	fig	NOUN	NN	_	0	root	_	_
+1	fig	fig	NOUN	NN	_	_	_	_	_
 
 
-1	3	3	NUM	LS	_	0	root	_	_
+1	3	3	NUM	LS	_	_	_	_	_
 
 
-1	structure	structure	NOUN	NN	_	0	root	_	_
+1	structure	structure	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	v	v	NUM	LS	_	0	root	_	_
+1	v	v	NUM	LS	_	_	_	_	_
 
 
-1	propose	propose	VERB	VB	_	0	root	_	_
+1	propose	propose	VERB	VB	_	_	_	_	_
 
 
-1	methodology	methodology	NOUN	NN	_	0	root	_	_
+1	methodology	methodology	NOUN	NN	_	_	_	_	_
 
 
-1	propose	propose	VERB	VB	_	0	root	_	_
+1	propose	propose	VERB	VB	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	design	design	NOUN	NN	_	0	root	_	_
+1	design	design	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	modular	modular	ADJ	JJ	_	0	root	_	_
+1	modular	modular	ADJ	JJ	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	compose	compose	VERB	VB	_	0	root	_	_
+1	compose	compose	VERB	VB	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	0	root	_	_
+1	four	four	NUM	CD	_	_	_	_	_
 
 
-1	specialized	specialized	VERB	VBN	_	0	root	_	_
+1	specialized	specialized	VERB	VBN	_	_	_	_	_
 
 
-1	detec	detec	NOUN	NN	_	0	root	_	_
+1	detec	detec	NOUN	NN	_	_	_	_	_
 
 
-1	tion	tion	INTJ	UH	_	0	root	_	_
+1	tion	tion	INTJ	UH	_	_	_	_	_
 
 
-1	module	module	NOUN	NN	_	0	root	_	_
+1	module	module	NOUN	NN	_	_	_	_	_
 
 
-1	collaboratively	collaboratively	ADV	RB	_	0	root	_	_
+1	collaboratively	collaboratively	ADV	RB	_	_	_	_	_
 
 
-1	interpret	interpret	VERB	VB	_	0	root	_	_
+1	interpret	interpret	VERB	VB	_	_	_	_	_
 
 
-1	different	different	ADJ	JJ	_	0	root	_	_
+1	different	different	ADJ	JJ	_	_	_	_	_
 
 
-1	linguistic	linguistic	ADJ	JJ	_	0	root	_	_
+1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
 
 
-1	signal	signal	VERB	VB	_	0	root	_	_
+1	signal	signal	VERB	VB	_	_	_	_	_
 
 
-1	include	include	VERB	VB	_	0	root	_	_
+1	include	include	VERB	VB	_	_	_	_	_
 
 
-1	sentiment	sentiment	NOUN	NN	_	0	root	_	_
+1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
 
 
-1	analysis	analysis	NOUN	NN	_	0	root	_	_
+1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	module	module	NOUN	NN	_	0	root	_	_
+1	module	module	NOUN	NN	_	_	_	_	_
 
 
-1	employ	employ	VERB	VB	_	0	root	_	_
+1	employ	employ	VERB	VB	_	_	_	_	_
 
 
-1	vader	vader	PROPN	NNP	_	0	root	_	_
+1	vader	vader	PROPN	NNP	_	_	_	_	_
 
 
-1	bert	bert	PROPN	NNP	_	0	root	_	_
+1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	sentiment	sentiment	NOUN	NN	_	0	root	_	_
+1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
 
 
-1	analysis	analysis	NOUN	NN	_	0	root	_	_
+1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	capture	capture	VERB	VB	_	0	root	_	_
+1	capture	capture	VERB	VB	_	_	_	_	_
 
 
-1	emotional	emotional	ADJ	JJ	_	0	root	_	_
+1	emotional	emotional	ADJ	JJ	_	_	_	_	_
 
 
-1	polarity	polarity	NOUN	NN	_	0	root	_	_
+1	polarity	polarity	NOUN	NN	_	_	_	_	_
 
 
-1	sentence	sentence	NOUN	NN	_	0	root	_	_
+1	sentence	sentence	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	0	root	_	_
+1	often	often	ADV	RB	_	_	_	_	_
 
 
-1	involve	involve	VERB	VB	_	0	root	_	_
+1	involve	involve	VERB	VB	_	_	_	_	_
 
 
-1	polarity	polarity	NOUN	NN	_	0	root	_	_
+1	polarity	polarity	NOUN	NN	_	_	_	_	_
 
 
-1	flip	flip	VERB	VB	_	0	root	_	_
+1	flip	flip	VERB	VB	_	_	_	_	_
 
 
-1	positive	positive	ADJ	JJ	_	0	root	_	_
+1	positive	positive	ADJ	JJ	_	_	_	_	_
 
 
-1	sentiment	sentiment	NOUN	NN	_	0	root	_	_
+1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
 
 
-1	ex	ex	NOUN	NN	_	0	root	_	_
+1	ex	ex	NOUN	NN	_	_	_	_	_
 
 
-1	press	press	NOUN	NN	_	0	root	_	_
+1	press	press	NOUN	NN	_	_	_	_	_
 
 
-1	negative	negative	ADJ	JJ	_	0	root	_	_
+1	negative	negative	ADJ	JJ	_	_	_	_	_
 
 
-1	undertone	undertone	NOUN	NN	_	0	root	_	_
+1	undertone	undertone	NOUN	NN	_	_	_	_	_
 
 
-1	vice	vice	NOUN	NN	_	0	root	_	_
+1	vice	vice	NOUN	NN	_	_	_	_	_
 
 
-1	versa	versa	INTJ	UH	_	0	root	_	_
+1	versa	versa	INTJ	UH	_	_	_	_	_
 
 
-1	vader	vader	PROPN	NNP	_	0	root	_	_
+1	vader	vader	PROPN	NNP	_	_	_	_	_
 
 
-1	rule	rule	NOUN	NN	_	0	root	_	_
+1	rule	rule	NOUN	NN	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	sentiment	sentiment	NOUN	NN	_	0	root	_	_
+1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
 
 
-1	score	score	NOUN	NN	_	0	root	_	_
+1	score	score	NOUN	NN	_	_	_	_	_
 
 
-1	excel	excel	PROPN	NNP	_	0	root	_	_
+1	excel	excel	PROPN	NNP	_	_	_	_	_
 
 
-1	social	social	ADJ	JJ	_	0	root	_	_
+1	social	social	ADJ	JJ	_	_	_	_	_
 
 
-1	medium	medium	ADJ	JJ	_	0	root	_	_
+1	medium	medium	ADJ	JJ	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	bert	bert	PROPN	NNP	_	0	root	_	_
+1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
-1	capture	capture	VERB	VB	_	0	root	_	_
+1	capture	capture	VERB	VB	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	contextual	contextual	NOUN	NN	_	0	root	_	_
+1	contextual	contextual	NOUN	NN	_	_	_	_	_
 
 
-1	sen	sen	INTJ	UH	_	0	root	_	_
+1	sen	sen	INTJ	UH	_	_	_	_	_
 
 
-1	timent	timent	NOUN	NN	_	0	root	_	_
+1	timent	timent	NOUN	NN	_	_	_	_	_
 
 
-1	shift	shift	VERB	VB	_	0	root	_	_
+1	shift	shift	VERB	VB	_	_	_	_	_
 
 
-1	contextual	contextual	NOUN	NN	_	0	root	_	_
+1	contextual	contextual	NOUN	NN	_	_	_	_	_
 
 
-1	embed	embed	VERB	VB	_	0	root	_	_
+1	embed	embed	VERB	VB	_	_	_	_	_
 
 
-1	power	power	NOUN	NN	_	0	root	_	_
+1	power	power	NOUN	NN	_	_	_	_	_
 
 
-1	bert	bert	PROPN	NNP	_	0	root	_	_
+1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
-1	module	module	NOUN	NN	_	0	root	_	_
+1	module	module	NOUN	NN	_	_	_	_	_
 
 
-1	encode	encode	VERB	VB	_	0	root	_	_
+1	encode	encode	VERB	VB	_	_	_	_	_
 
 
-1	input	input	NOUN	NN	_	0	root	_	_
+1	input	input	NOUN	NN	_	_	_	_	_
 
 
-1	sentence	sentence	NOUN	NN	_	0	root	_	_
+1	sentence	sentence	NOUN	NN	_	_	_	_	_
 
 
-1	high	high	ADJ	JJ	_	0	root	_	_
+1	high	high	ADJ	JJ	_	_	_	_	_
 
 
-1	dimensional	dimensional	ADJ	JJ	_	0	root	_	_
+1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
 
 
-1	vector	vector	NOUN	NN	_	0	root	_	_
+1	vector	vector	NOUN	NN	_	_	_	_	_
 
 
-1	reflect	reflect	VERB	VB	_	0	root	_	_
+1	reflect	reflect	VERB	VB	_	_	_	_	_
 
 
-1	contextual	contextual	NOUN	NN	_	0	root	_	_
+1	contextual	contextual	NOUN	NN	_	_	_	_	_
 
 
-1	mean	mean	VERB	VB	_	0	root	_	_
+1	mean	mean	VERB	VB	_	_	_	_	_
 
 
-1	unlike	unlike	ADP	IN	_	0	root	_	_
+1	unlike	unlike	ADP	IN	_	_	_	_	_
 
 
-1	traditional	traditional	ADJ	JJ	_	0	root	_	_
+1	traditional	traditional	ADJ	JJ	_	_	_	_	_
 
 
-1	embedding	embedding	NOUN	NN	_	0	root	_	_
+1	embedding	embedding	NOUN	NN	_	_	_	_	_
 
 
-1	e.g	e.g	SYM	NFP	_	0	root	_	_
+1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	word2vec	word2vec	PROPN	ADD	_	0	root	_	_
+1	word2vec	word2vec	PROPN	ADD	_	_	_	_	_
 
 
-1	bert	bert	PROPN	NNP	_	0	root	_	_
+1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
-1	dynamically	dynamically	ADV	RB	_	0	root	_	_
+1	dynamically	dynamically	ADV	RB	_	_	_	_	_
 
 
-1	adjust	adjust	VERB	VB	_	0	root	_	_
+1	adjust	adjust	VERB	VB	_	_	_	_	_
 
 
-1	word	word	NOUN	NN	_	0	root	_	_
+1	word	word	NOUN	NN	_	_	_	_	_
 
 
-1	meaning	meaning	NOUN	NN	_	0	root	_	_
+1	meaning	meaning	NOUN	NN	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	sentence	sentence	NOUN	NN	_	0	root	_	_
+1	sentence	sentence	NOUN	NN	_	_	_	_	_
 
 
-1	context	context	NOUN	NN	_	0	root	_	_
+1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	crucial	crucial	ADJ	JJ	_	0	root	_	_
+1	crucial	crucial	ADJ	JJ	_	_	_	_	_
 
 
-1	understand	understand	VERB	VB	_	0	root	_	_
+1	understand	understand	VERB	VB	_	_	_	_	_
 
 
-1	nuanced	nuanced	ADJ	JJ	_	0	root	_	_
+1	nuanced	nuanced	ADJ	JJ	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	linguistic	linguistic	ADJ	JJ	_	0	root	_	_
+1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	component	component	NOUN	NN	_	0	root	_	_
+1	component	component	NOUN	NN	_	_	_	_	_
 
 
-1	utilize	utilize	VERB	VB	_	0	root	_	_
+1	utilize	utilize	VERB	VB	_	_	_	_	_
 
 
-1	spa	spa	NOUN	NN	_	0	root	_	_
+1	spa	spa	NOUN	NN	_	_	_	_	_
 
 
-1	cy	cy	PROPN	NNP	_	0	root	_	_
+1	cy	cy	PROPN	NNP	_	_	_	_	_
 
 
-1	custom	custom	NOUN	NN	_	0	root	_	_
+1	custom	custom	NOUN	NN	_	_	_	_	_
 
 
-1	nlp	nlp	NOUN	NN	_	0	root	_	_
+1	nlp	nlp	NOUN	NN	_	_	_	_	_
 
 
-1	rule	rule	NOUN	NN	_	0	root	_	_
+1	rule	rule	NOUN	NN	_	_	_	_	_
 
 
-1	extract	extract	NOUN	NN	_	0	root	_	_
+1	extract	extract	NOUN	NN	_	_	_	_	_
 
 
-1	syntactic	syntactic	ADJ	JJ	_	0	root	_	_
+1	syntactic	syntactic	ADJ	JJ	_	_	_	_	_
 
 
-1	semantic	semantic	ADJ	JJ	_	0	root	_	_
+1	semantic	semantic	ADJ	JJ	_	_	_	_	_
 
 
-1	cue	cue	NOUN	NN	_	0	root	_	_
+1	cue	cue	NOUN	NN	_	_	_	_	_
 
 
-1	punctuation	punctuation	NOUN	NN	_	0	root	_	_
+1	punctuation	punctuation	NOUN	NN	_	_	_	_	_
 
 
-1	usage	usage	NOUN	NN	_	0	root	_	_
+1	usage	usage	NOUN	NN	_	_	_	_	_
 
 
-1	exaggerated	exaggerated	ADJ	JJ	_	0	root	_	_
+1	exaggerated	exaggerated	ADJ	JJ	_	_	_	_	_
 
 
-1	expression	expression	NOUN	NN	_	0	root	_	_
+1	expression	expression	NOUN	NN	_	_	_	_	_
 
 
-1	cap	cap	NOUN	NN	_	0	root	_	_
+1	cap	cap	NOUN	NN	_	_	_	_	_
 
 
-1	interjection	interjection	NOUN	NN	_	0	root	_	_
+1	interjection	interjection	NOUN	NN	_	_	_	_	_
 
 
-1	e.g	e.g	SYM	NFP	_	0	root	_	_
+1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	yeah	yeah	INTJ	UH	_	0	root	_	_
+1	yeah	yeah	INTJ	UH	_	_	_	_	_
 
 
-1	right	right	ADJ	JJ	_	0	root	_	_
+1	right	right	ADJ	JJ	_	_	_	_	_
 
 
-1	fig	fig	NOUN	NN	_	0	root	_	_
+1	fig	fig	NOUN	NN	_	_	_	_	_
 
 
-1	1	1	NUM	LS	_	0	root	_	_
+1	1	1	NUM	LS	_	_	_	_	_
 
 
-1	illustration	illustration	NOUN	NN	_	0	root	_	_
+1	illustration	illustration	NOUN	NN	_	_	_	_	_
 
 
-1	basic	basic	ADJ	JJ	_	0	root	_	_
+1	basic	basic	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	emotion	emotion	NOUN	NN	_	0	root	_	_
+1	emotion	emotion	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+1	cnn	cnn	PROPN	NNP	_	_	_	_	_
 
 
-1	lstm	lstm	PROPN	NNP	_	0	root	_	_
+1	lstm	lstm	PROPN	NNP	_	_	_	_	_
 
 
-1	hybrid	hybrid	NOUN	NN	_	0	root	_	_
+1	hybrid	hybrid	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	underlie	underlie	VERB	VB	_	0	root	_	_
+1	underlie	underlie	VERB	VB	_	_	_	_	_
 
 
-1	emotional	emotional	ADJ	JJ	_	0	root	_	_
+1	emotional	emotional	ADJ	JJ	_	_	_	_	_
 
 
-1	tone	tone	NOUN	NN	_	0	root	_	_
+1	tone	tone	NOUN	NN	_	_	_	_	_
 
 
-1	frustration	frustration	NOUN	NN	_	0	root	_	_
+1	frustration	frustration	NOUN	NN	_	_	_	_	_
 
 
-1	amusement	amusement	NOUN	NN	_	0	root	_	_
+1	amusement	amusement	NOUN	NN	_	_	_	_	_
 
 
-1	confusion	confusion	NOUN	NN	_	0	root	_	_
+1	confusion	confusion	NOUN	NN	_	_	_	_	_
 
 
-1	emotion	emotion	NOUN	NN	_	0	root	_	_
+1	emotion	emotion	NOUN	NN	_	_	_	_	_
 
 
-1	mismatched	mismatched	VERB	VBN	_	0	root	_	_
+1	mismatched	mismatched	VERB	VBN	_	_	_	_	_
 
 
-1	surface	surface	NOUN	NN	_	0	root	_	_
+1	surface	surface	NOUN	NN	_	_	_	_	_
 
 
-1	sentiment	sentiment	NOUN	NN	_	0	root	_	_
+1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	0	root	_	_
+1	often	often	ADV	RB	_	_	_	_	_
 
 
-1	signal	signal	VERB	VB	_	0	root	_	_
+1	signal	signal	VERB	VB	_	_	_	_	_
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	0	root	_	_
+1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
 
 
-1	intent	intent	NOUN	NN	_	0	root	_	_
+1	intent	intent	NOUN	NN	_	_	_	_	_
 
 
-1	b	b	NOUN	NN	_	0	root	_	_
+1	b	b	NOUN	NN	_	_	_	_	_
 
 
-1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
-1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
-1	specialized	specialized	VERB	VBN	_	0	root	_	_
+1	specialized	specialized	VERB	VBN	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	design	design	NOUN	NN	_	0	root	_	_
+1	design	design	NOUN	NN	_	_	_	_	_
 
 
-1	process	process	NOUN	NN	_	0	root	_	_
+1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	grid	grid	NOUN	NN	_	0	root	_	_
+1	grid	grid	NOUN	NN	_	_	_	_	_
 
 
-1	like	like	INTJ	UH	_	0	root	_	_
+1	like	like	INTJ	UH	_	_	_	_	_
 
 
-1	topology	topology	NOUN	NN	_	0	root	_	_
+1	topology	topology	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	matrix	matrix	NOUN	NN	_	0	root	_	_
+1	matrix	matrix	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	pattern	pattern	NOUN	NN	_	0	root	_	_
+1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	like	like	INTJ	UH	_	0	root	_	_
+1	like	like	INTJ	UH	_	_	_	_	_
 
 
-1	edge	edge	NOUN	NN	_	0	root	_	_
+1	edge	edge	NOUN	NN	_	_	_	_	_
 
 
-1	textual	textual	ADJ	JJ	_	0	root	_	_
+1	textual	textual	ADJ	JJ	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	follow	follow	VERB	VB	_	0	root	_	_
+1	follow	follow	VERB	VB	_	_	_	_	_
 
 
-1	pool	pool	NOUN	NN	_	0	root	_	_
+1	pool	pool	NOUN	NN	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	reduce	reduce	VERB	VB	_	0	root	_	_
+1	reduce	reduce	VERB	VB	_	_	_	_	_
 
 
-1	dimensionality	dimensionality	NOUN	NN	_	0	root	_	_
+1	dimensionality	dimensionality	NOUN	NN	_	_	_	_	_
 
 
-1	output	output	NOUN	NN	_	0	root	_	_
+1	output	output	NOUN	NN	_	_	_	_	_
 
 
-1	module	module	NOUN	NN	_	0	root	_	_
+1	module	module	NOUN	NN	_	_	_	_	_
 
 
-1	concatenate	concatenate	VERB	VB	_	0	root	_	_
+1	concatenate	concatenate	VERB	VB	_	_	_	_	_
 
 
-1	unify	unify	VERB	VB	_	0	root	_	_
+1	unify	unify	VERB	VB	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	vector	vector	NOUN	NN	_	0	root	_	_
+1	vector	vector	NOUN	NN	_	_	_	_	_
 
 
-1	follow	follow	VERB	VB	_	0	root	_	_
+1	follow	follow	VERB	VB	_	_	_	_	_
 
 
-1	normalization	normalization	NOUN	NN	_	0	root	_	_
+1	normalization	normalization	NOUN	NN	_	_	_	_	_
 
 
-1	trans	trans	NOUN	NN	_	0	root	_	_
+1	trans	trans	NOUN	NN	_	_	_	_	_
 
 
-1	formation	formation	NOUN	NN	_	0	root	_	_
+1	formation	formation	NOUN	NN	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	fuse	fuse	NOUN	NN	_	0	root	_	_
+1	fuse	fuse	NOUN	NN	_	_	_	_	_
 
 
-1	vector	vector	NOUN	NN	_	0	root	_	_
+1	vector	vector	NOUN	NN	_	_	_	_	_
 
 
-1	pass	pass	VERB	VB	_	0	root	_	_
+1	pass	pass	VERB	VB	_	_	_	_	_
 
 
-1	meta	meta	NOUN	NN	_	0	root	_	_
+1	meta	meta	NOUN	NN	_	_	_	_	_
 
 
-1	classifier	classifier	NOUN	NN	_	0	root	_	_
+1	classifier	classifier	NOUN	NN	_	_	_	_	_
 
 
-1	typically	typically	ADV	RB	_	0	root	_	_
+1	typically	typically	ADV	RB	_	_	_	_	_
 
 
-1	logistic	logistic	ADJ	JJ	_	0	root	_	_
+1	logistic	logistic	ADJ	JJ	_	_	_	_	_
 
 
-1	regression	regression	NOUN	NN	_	0	root	_	_
+1	regression	regression	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	shallow	shallow	ADJ	JJ	_	0	root	_	_
+1	shallow	shallow	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	output	output	NOUN	NN	_	0	root	_	_
+1	output	output	NOUN	NN	_	_	_	_	_
 
 
-1	binary	binary	ADJ	JJ	_	0	root	_	_
+1	binary	binary	ADJ	JJ	_	_	_	_	_
 
 
-1	classification	classification	NOUN	NN	_	0	root	_	_
+1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	sarcas	sarcas	NOUN	NNS	_	0	root	_	_
+1	sarcas	sarcas	NOUN	NNS	_	_	_	_	_
 
 
-1	tic	tic	INTJ	UH	_	0	root	_	_
+1	tic	tic	INTJ	UH	_	_	_	_	_
 
 
-1	non	non	INTJ	UH	_	0	root	_	_
+1	non	non	INTJ	UH	_	_	_	_	_
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	0	root	_	_
+1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	support	support	VERB	VB	_	0	root	_	_
+1	support	support	VERB	VB	_	_	_	_	_
 
 
-1	flexibility	flexibility	NOUN	NN	_	0	root	_	_
+1	flexibility	flexibility	NOUN	NN	_	_	_	_	_
 
 
-1	c	c	NOUN	NN	_	0	root	_	_
+1	c	c	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	dcnns	dcnns	PROPN	NNP	_	0	root	_	_
+1	dcnns	dcnns	PROPN	NNP	_	_	_	_	_
 
 
-1	dcnns	dcnns	PROPN	NNP	_	0	root	_	_
+1	dcnns	dcnns	PROPN	NNP	_	_	_	_	_
 
 
-1	extend	extend	VERB	VB	_	0	root	_	_
+1	extend	extend	VERB	VB	_	_	_	_	_
 
 
-1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
-1	add	add	VERB	VB	_	0	root	_	_
+1	add	add	VERB	VB	_	_	_	_	_
 
 
-1	multiple	multiple	ADJ	JJ	_	0	root	_	_
+1	multiple	multiple	ADJ	JJ	_	_	_	_	_
 
 
-1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
 
 
-1	pool	pool	NOUN	NN	_	0	root	_	_
+1	pool	pool	NOUN	NN	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	enable	enable	VERB	VB	_	0	root	_	_
+1	enable	enable	VERB	VB	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	abstract	abstract	ADJ	JJ	_	0	root	_	_
+1	abstract	abstract	ADJ	JJ	_	_	_	_	_
 
 
-1	complex	complex	ADJ	JJ	_	0	root	_	_
+1	complex	complex	ADJ	JJ	_	_	_	_	_
 
 
-1	representation	representation	NOUN	NN	_	0	root	_	_
+1	representation	representation	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	extensibility	extensibility	NOUN	NN	_	0	root	_	_
+1	extensibility	extensibility	NOUN	NN	_	_	_	_	_
 
 
-1	allow	allow	VERB	VB	_	0	root	_	_
+1	allow	allow	VERB	VB	_	_	_	_	_
 
 
-1	individual	individual	NOUN	NN	_	0	root	_	_
+1	individual	individual	NOUN	NN	_	_	_	_	_
 
 
-1	module	module	NOUN	NN	_	0	root	_	_
+1	module	module	NOUN	NN	_	_	_	_	_
 
 
-1	improve	improve	VERB	VB	_	0	root	_	_
+1	improve	improve	VERB	VB	_	_	_	_	_
 
 
-1	swap	swap	NOUN	NN	_	0	root	_	_
+1	swap	swap	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	0	root	_	_
+1	without	without	ADP	IN	_	_	_	_	_
 
 
-1	affect	affect	VERB	VB	_	0	root	_	_
+1	affect	affect	VERB	VB	_	_	_	_	_
 
 
-1	entire	entire	ADJ	JJ	_	0	root	_	_
+1	entire	entire	ADJ	JJ	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	vii	vii	INTJ	UH	_	0	root	_	_
+1	vii	vii	INTJ	UH	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	0	root	_	_
+1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
 
 
-1	ensure	ensure	VERB	VB	_	0	root	_	_
+1	ensure	ensure	VERB	VB	_	_	_	_	_
 
 
-1	fairness	fairness	NOUN	NN	_	0	root	_	_
+1	fairness	fairness	NOUN	NN	_	_	_	_	_
 
 
-1	begin	begin	VERB	VB	_	0	root	_	_
+1	begin	begin	VERB	VB	_	_	_	_	_
 
 
-1	curate	curate	NOUN	NN	_	0	root	_	_
+1	curate	curate	NOUN	NN	_	_	_	_	_
 
 
-1	diverse	diverse	ADJ	JJ	_	0	root	_	_
+1	diverse	diverse	ADJ	JJ	_	_	_	_	_
 
 
-1	repre	repre	NOUN	NN	_	0	root	_	_
+1	repre	repre	NOUN	NN	_	_	_	_	_
 
 
-1	sentative	sentative	NOUN	NN	_	0	root	_	_
+1	sentative	sentative	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	heavily	heavily	ADV	RB	_	0	root	_	_
+1	heavily	heavily	ADV	RB	_	_	_	_	_
 
 
-1	culture	culture	NOUN	NN	_	0	root	_	_
+1	culture	culture	NOUN	NN	_	_	_	_	_
 
 
-1	dependent	dependent	ADJ	JJ	_	0	root	_	_
+1	dependent	dependent	ADJ	JJ	_	_	_	_	_
 
 
-1	vary	vary	VERB	VB	_	0	root	_	_
+1	vary	vary	VERB	VB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	0	root	_	_
+1	across	across	ADV	RB	_	_	_	_	_
 
 
-1	language	language	NOUN	NN	_	0	root	_	_
+1	language	language	NOUN	NN	_	_	_	_	_
 
 
-1	dialect	dialect	NOUN	NN	_	0	root	_	_
+1	dialect	dialect	NOUN	NN	_	_	_	_	_
 
 
-1	social	social	ADJ	JJ	_	0	root	_	_
+1	social	social	ADJ	JJ	_	_	_	_	_
 
 
-1	group	group	NOUN	NN	_	0	root	_	_
+1	group	group	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	train	train	NOUN	NN	_	0	root	_	_
+1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	primarily	primarily	ADV	RB	_	0	root	_	_
+1	primarily	primarily	ADV	RB	_	_	_	_	_
 
 
-1	english	english	PROPN	NNP	_	0	root	_	_
+1	english	english	PROPN	NNP	_	_	_	_	_
 
 
-1	tweet	tweet	NOUN	NN	_	0	root	_	_
+1	tweet	tweet	NOUN	NN	_	_	_	_	_
 
 
-1	specific	specific	ADJ	JJ	_	0	root	_	_
+1	specific	specific	ADJ	JJ	_	_	_	_	_
 
 
-1	region	region	NOUN	NN	_	0	root	_	_
+1	region	region	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	0	root	_	_
+1	may	may	AUX	MD	_	_	_	_	_
 
 
-1	generalize	generalize	VERB	VB	_	0	root	_	_
+1	generalize	generalize	VERB	VB	_	_	_	_	_
 
 
-1	poorly	poorly	ADV	RB	_	0	root	_	_
+1	poorly	poorly	ADV	RB	_	_	_	_	_
 
 
-1	linguistic	linguistic	ADJ	JJ	_	0	root	_	_
+1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
 
 
-1	context	context	NOUN	NN	_	0	root	_	_
+1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	incorpo	incorpo	PROPN	NNP	_	0	root	_	_
+1	incorpo	incorpo	PROPN	NNP	_	_	_	_	_
 
 
-1	rating	rating	NOUN	NN	_	0	root	_	_
+1	rating	rating	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	varied	varied	ADJ	JJ	_	0	root	_	_
+1	varied	varied	ADJ	JJ	_	_	_	_	_
 
 
-1	cultural	cultural	ADJ	JJ	_	0	root	_	_
+1	cultural	cultural	ADJ	JJ	_	_	_	_	_
 
 
-1	demographic	demographic	NOUN	NN	_	0	root	_	_
+1	demographic	demographic	NOUN	NN	_	_	_	_	_
 
 
-1	source	source	NOUN	NN	_	0	root	_	_
+1	source	source	NOUN	NN	_	_	_	_	_
 
 
-1	improve	improve	VERB	VB	_	0	root	_	_
+1	improve	improve	VERB	VB	_	_	_	_	_
 
 
-1	fairness	fairness	NOUN	NN	_	0	root	_	_
+1	fairness	fairness	NOUN	NN	_	_	_	_	_
 
 
-1	inclusivity	inclusivity	NOUN	NN	_	0	root	_	_
+1	inclusivity	inclusivity	NOUN	NN	_	_	_	_	_
 
 
-1	transparency	transparency	NOUN	NN	_	0	root	_	_
+1	transparency	transparency	NOUN	NN	_	_	_	_	_
 
 
-1	explainability	explainability	NOUN	NN	_	0	root	_	_
+1	explainability	explainability	NOUN	NN	_	_	_	_	_
 
 
-1	equally	equally	ADV	RB	_	0	root	_	_
+1	equally	equally	ADV	RB	_	_	_	_	_
 
 
-1	critical	critical	ADJ	JJ	_	0	root	_	_
+1	critical	critical	ADJ	JJ	_	_	_	_	_
 
 
-1	end	end	NOUN	NN	_	0	root	_	_
+1	end	end	NOUN	NN	_	_	_	_	_
 
 
-1	user	user	NOUN	NN	_	0	root	_	_
+1	user	user	NOUN	NN	_	_	_	_	_
 
 
-1	developer	developer	NOUN	NN	_	0	root	_	_
+1	developer	developer	NOUN	NN	_	_	_	_	_
 
 
-1	able	able	ADJ	JJ	_	0	root	_	_
+1	able	able	ADJ	JJ	_	_	_	_	_
 
 
-1	understand	understand	VERB	VB	_	0	root	_	_
+1	understand	understand	VERB	VB	_	_	_	_	_
 
 
-1	specific	specific	ADJ	JJ	_	0	root	_	_
+1	specific	specific	ADJ	JJ	_	_	_	_	_
 
 
-1	piece	piece	NOUN	NN	_	0	root	_	_
+1	piece	piece	NOUN	NN	_	_	_	_	_
 
 
-1	content	content	NOUN	NN	_	0	root	_	_
+1	content	content	NOUN	NN	_	_	_	_	_
 
 
-1	label	label	VERB	VB	_	0	root	_	_
+1	label	label	VERB	VB	_	_	_	_	_
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	0	root	_	_
+1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
 
 
-1	technique	technique	NOUN	NN	_	0	root	_	_
+1	technique	technique	NOUN	NN	_	_	_	_	_
 
 
-1	like	like	INTJ	UH	_	0	root	_	_
+1	like	like	INTJ	UH	_	_	_	_	_
 
 
-1	lime	lime	NOUN	NN	_	0	root	_	_
+1	lime	lime	NOUN	NN	_	_	_	_	_
 
 
-1	shap	shap	NOUN	NN	_	0	root	_	_
+1	shap	shap	NOUN	NN	_	_	_	_	_
 
 
-1	help	help	VERB	VB	_	0	root	_	_
+1	help	help	VERB	VB	_	_	_	_	_
 
 
-1	visualize	visualize	VERB	VB	_	0	root	_	_
+1	visualize	visualize	VERB	VB	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	importance	importance	NOUN	NN	_	0	root	_	_
+1	importance	importance	NOUN	NN	_	_	_	_	_
 
 
-1	decision	decision	NOUN	NN	_	0	root	_	_
+1	decision	decision	NOUN	NN	_	_	_	_	_
 
 
-1	rationale	rationale	NOUN	NN	_	0	root	_	_
+1	rationale	rationale	NOUN	NN	_	_	_	_	_
 
 
-1	moreover	moreover	ADV	RB	_	0	root	_	_
+1	moreover	moreover	ADV	RB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	include	include	VERB	VB	_	0	root	_	_
+1	include	include	VERB	VB	_	_	_	_	_
 
 
-1	feedback	feedback	NOUN	NN	_	0	root	_	_
+1	feedback	feedback	NOUN	NN	_	_	_	_	_
 
 
-1	loop	loop	NOUN	NN	_	0	root	_	_
+1	loop	loop	NOUN	NN	_	_	_	_	_
 
 
-1	allow	allow	VERB	VB	_	0	root	_	_
+1	allow	allow	VERB	VB	_	_	_	_	_
 
 
-1	user	user	NOUN	NN	_	0	root	_	_
+1	user	user	NOUN	NN	_	_	_	_	_
 
 
-1	flag	flag	NOUN	NN	_	0	root	_	_
+1	flag	flag	NOUN	NN	_	_	_	_	_
 
 
-1	misclassification	misclassification	NOUN	NN	_	0	root	_	_
+1	misclassification	misclassification	NOUN	NN	_	_	_	_	_
 
 
-1	facilitate	facilitate	VERB	VB	_	0	root	_	_
+1	facilitate	facilitate	VERB	VB	_	_	_	_	_
 
 
-1	continual	continual	ADJ	JJ	_	0	root	_	_
+1	continual	continual	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	correction	correction	NOUN	NN	_	0	root	_	_
+1	correction	correction	NOUN	NN	_	_	_	_	_
 
 
-1	privacy	privacy	NOUN	NN	_	0	root	_	_
+1	privacy	privacy	NOUN	NN	_	_	_	_	_
 
 
-1	preservation	preservation	NOUN	NN	_	0	root	_	_
+1	preservation	preservation	NOUN	NN	_	_	_	_	_
 
 
-1	essential	essential	ADJ	JJ	_	0	root	_	_
+1	essential	essential	ADJ	JJ	_	_	_	_	_
 
 
-1	scrape	scrape	VERB	VB	_	0	root	_	_
+1	scrape	scrape	VERB	VB	_	_	_	_	_
 
 
-1	social	social	ADJ	JJ	_	0	root	_	_
+1	social	social	ADJ	JJ	_	_	_	_	_
 
 
-1	medium	medium	ADJ	JJ	_	0	root	_	_
+1	medium	medium	ADJ	JJ	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	training	training	NOUN	NN	_	0	root	_	_
+1	training	training	NOUN	NN	_	_	_	_	_
 
 
-1	proper	proper	ADJ	JJ	_	0	root	_	_
+1	proper	proper	ADJ	JJ	_	_	_	_	_
 
 
-1	anonymization	anonymization	NOUN	NN	_	0	root	_	_
+1	anonymization	anonymization	NOUN	NN	_	_	_	_	_
 
 
-1	ethical	ethical	ADJ	JJ	_	0	root	_	_
+1	ethical	ethical	ADJ	JJ	_	_	_	_	_
 
 
-1	approval	approval	NOUN	NN	_	0	root	_	_
+1	approval	approval	NOUN	NN	_	_	_	_	_
 
 
-1	must	must	AUX	MD	_	0	root	_	_
+1	must	must	AUX	MD	_	_	_	_	_
 
 
-1	obtain	obtain	VERB	VB	_	0	root	_	_
+1	obtain	obtain	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	development	development	NOUN	NN	_	0	root	_	_
+1	development	development	NOUN	NN	_	_	_	_	_
 
 
-1	finally	finally	ADV	RB	_	0	root	_	_
+1	finally	finally	ADV	RB	_	_	_	_	_
 
 
-1	regular	regular	ADJ	JJ	_	0	root	_	_
+1	regular	regular	ADJ	JJ	_	_	_	_	_
 
 
-1	audit	audit	NOUN	NN	_	0	root	_	_
+1	audit	audit	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	bias	bias	NOUN	NN	_	0	root	_	_
+1	bias	bias	NOUN	NN	_	_	_	_	_
 
 
-1	drift	drift	VERB	VB	_	0	root	_	_
+1	drift	drift	VERB	VB	_	_	_	_	_
 
 
-1	ethical	ethical	ADJ	JJ	_	0	root	_	_
+1	ethical	ethical	ADJ	JJ	_	_	_	_	_
 
 
-1	compliance	compliance	NOUN	NN	_	0	root	_	_
+1	compliance	compliance	NOUN	NN	_	_	_	_	_
 
 
-1	en	en	PROPN	NNP	_	0	root	_	_
+1	en	en	PROPN	NNP	_	_	_	_	_
 
 
-1	sure	sure	ADJ	JJ	_	0	root	_	_
+1	sure	sure	ADJ	JJ	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	remain	remain	VERB	VB	_	0	root	_	_
+1	remain	remain	VERB	VB	_	_	_	_	_
 
 
-1	accountable	accountable	ADJ	JJ	_	0	root	_	_
+1	accountable	accountable	ADJ	JJ	_	_	_	_	_
 
 
-1	socially	socially	ADV	RB	_	0	root	_	_
+1	socially	socially	ADV	RB	_	_	_	_	_
 
 
-1	responsible	responsible	ADJ	JJ	_	0	root	_	_
+1	responsible	responsible	ADJ	JJ	_	_	_	_	_
 
 
-1	throughout	throughout	ADP	IN	_	0	root	_	_
+1	throughout	throughout	ADP	IN	_	_	_	_	_
 
 
-1	lifecycle	lifecycle	NOUN	NN	_	0	root	_	_
+1	lifecycle	lifecycle	NOUN	NN	_	_	_	_	_
 
 
-1	vi	vi	NOUN	NN	_	0	root	_	_
+1	vi	vi	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	fig	fig	NOUN	NN	_	0	root	_	_
+1	fig	fig	NOUN	NN	_	_	_	_	_
 
 
-1	4	4	NUM	LS	_	0	root	_	_
+1	4	4	NUM	LS	_	_	_	_	_
 
 
-1	propose	propose	VERB	VB	_	0	root	_	_
+1	propose	propose	VERB	VB	_	_	_	_	_
 
 
-1	modular	modular	ADJ	JJ	_	0	root	_	_
+1	modular	modular	ADJ	JJ	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	viii	viii	INTJ	UH	_	0	root	_	_
+1	viii	viii	INTJ	UH	_	_	_	_	_
 
 
-1	case	case	NOUN	NN	_	0	root	_	_
+1	case	case	NOUN	NN	_	_	_	_	_
 
 
-1	study	study	NOUN	NN	_	0	root	_	_
+1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	structure	structure	NOUN	NN	_	0	root	_	_
+1	structure	structure	NOUN	NN	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	pipeline	pipeline	NOUN	NN	_	0	root	_	_
+1	pipeline	pipeline	NOUN	NN	_	_	_	_	_
 
 
-1	start	start	VERB	VB	_	0	root	_	_
+1	start	start	VERB	VB	_	_	_	_	_
 
 
-1	input	input	NOUN	NN	_	0	root	_	_
+1	input	input	NOUN	NN	_	_	_	_	_
 
 
-1	ingestion	ingestion	NOUN	NN	_	0	root	_	_
+1	ingestion	ingestion	NOUN	NN	_	_	_	_	_
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	0	root	_	_
+1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
 
 
-1	follow	follow	VERB	VB	_	0	root	_	_
+1	follow	follow	VERB	VB	_	_	_	_	_
 
 
-1	parallel	parallel	ADJ	JJ	_	0	root	_	_
+1	parallel	parallel	ADJ	JJ	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	extraction	extraction	NOUN	NN	_	0	root	_	_
+1	extraction	extraction	NOUN	NN	_	_	_	_	_
 
 
-1	stream	stream	NOUN	NN	_	0	root	_	_
+1	stream	stream	NOUN	NN	_	_	_	_	_
 
 
-1	final	final	ADJ	JJ	_	0	root	_	_
+1	final	final	ADJ	JJ	_	_	_	_	_
 
 
-1	aggregation	aggregation	NOUN	NN	_	0	root	_	_
+1	aggregation	aggregation	NOUN	NN	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	1	1	NUM	LS	_	0	root	_	_
+1	1	1	NUM	LS	_	_	_	_	_
 
 
-1	input	input	NOUN	NN	_	0	root	_	_
+1	input	input	NOUN	NN	_	_	_	_	_
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	0	root	_	_
+1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	collect	collect	VERB	VB	_	0	root	_	_
+1	collect	collect	VERB	VB	_	_	_	_	_
 
 
-1	social	social	ADJ	JJ	_	0	root	_	_
+1	social	social	ADJ	JJ	_	_	_	_	_
 
 
-1	medium	medium	ADJ	JJ	_	0	root	_	_
+1	medium	medium	ADJ	JJ	_	_	_	_	_
 
 
-1	platform	platform	NOUN	NN	_	0	root	_	_
+1	platform	platform	NOUN	NN	_	_	_	_	_
 
 
-1	undergo	undergo	VERB	VB	_	0	root	_	_
+1	undergo	undergo	VERB	VB	_	_	_	_	_
 
 
-1	extensive	extensive	ADJ	JJ	_	0	root	_	_
+1	extensive	extensive	ADJ	JJ	_	_	_	_	_
 
 
-1	clean	clean	ADJ	JJ	_	0	root	_	_
+1	clean	clean	ADJ	JJ	_	_	_	_	_
 
 
-1	removal	removal	NOUN	NN	_	0	root	_	_
+1	removal	removal	NOUN	NN	_	_	_	_	_
 
 
-1	special	special	ADJ	JJ	_	0	root	_	_
+1	special	special	ADJ	JJ	_	_	_	_	_
 
 
-1	character	character	NOUN	NN	_	0	root	_	_
+1	character	character	NOUN	NN	_	_	_	_	_
 
 
-1	hashtag	hashtag	NOUN	NN	_	0	root	_	_
+1	hashtag	hashtag	NOUN	NN	_	_	_	_	_
 
 
-1	emoji	emoji	PROPN	NNP	_	0	root	_	_
+1	emoji	emoji	PROPN	NNP	_	_	_	_	_
 
 
-1	link	link	NOUN	NN	_	0	root	_	_
+1	link	link	NOUN	NN	_	_	_	_	_
 
 
-1	user	user	NOUN	NN	_	0	root	_	_
+1	user	user	NOUN	NN	_	_	_	_	_
 
 
-1	handle	handle	NOUN	NN	_	0	root	_	_
+1	handle	handle	NOUN	NN	_	_	_	_	_
 
 
-1	clean	clean	ADJ	JJ	_	0	root	_	_
+1	clean	clean	ADJ	JJ	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	tokenize	tokenize	NOUN	NN	_	0	root	_	_
+1	tokenize	tokenize	NOUN	NN	_	_	_	_	_
 
 
-1	pass	pass	VERB	VB	_	0	root	_	_
+1	pass	pass	VERB	VB	_	_	_	_	_
 
 
-1	lemmatiza	lemmatiza	PROPN	NNP	_	0	root	_	_
+1	lemmatiza	lemmatiza	PROPN	NNP	_	_	_	_	_
 
 
-1	tion	tion	INTJ	UH	_	0	root	_	_
+1	tion	tion	INTJ	UH	_	_	_	_	_
 
 
-1	standardization	standardization	NOUN	NN	_	0	root	_	_
+1	standardization	standardization	NOUN	NN	_	_	_	_	_
 
 
-1	2	2	NUM	LS	_	0	root	_	_
+1	2	2	NUM	LS	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	extraction	extraction	NOUN	NN	_	0	root	_	_
+1	extraction	extraction	NOUN	NN	_	_	_	_	_
 
 
-1	module	module	NOUN	NN	_	0	root	_	_
+1	module	module	NOUN	NN	_	_	_	_	_
 
 
-1	input	input	NOUN	NN	_	0	root	_	_
+1	input	input	NOUN	NN	_	_	_	_	_
 
 
-1	feed	feed	VERB	VB	_	0	root	_	_
+1	feed	feed	VERB	VB	_	_	_	_	_
 
 
-1	simul	simul	INTJ	UH	_	0	root	_	_
+1	simul	simul	INTJ	UH	_	_	_	_	_
 
 
-1	taneously	taneously	ADV	RB	_	0	root	_	_
+1	taneously	taneously	ADV	RB	_	_	_	_	_
 
 
-1	sentiment	sentiment	NOUN	NN	_	0	root	_	_
+1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
 
 
-1	contextual	contextual	NOUN	NN	_	0	root	_	_
+1	contextual	contextual	NOUN	NN	_	_	_	_	_
 
 
-1	linguistic	linguistic	ADJ	JJ	_	0	root	_	_
+1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
 
 
-1	emotion	emotion	NOUN	NN	_	0	root	_	_
+1	emotion	emotion	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	module	module	NOUN	NN	_	0	root	_	_
+1	module	module	NOUN	NN	_	_	_	_	_
 
 
-1	module	module	NOUN	NN	_	0	root	_	_
+1	module	module	NOUN	NN	_	_	_	_	_
 
 
-1	process	process	NOUN	NN	_	0	root	_	_
+1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	indepen	indepen	INTJ	UH	_	0	root	_	_
+1	indepen	indepen	INTJ	UH	_	_	_	_	_
 
 
-1	dently	dently	ADV	RB	_	0	root	_	_
+1	dently	dently	ADV	RB	_	_	_	_	_
 
 
-1	produce	produce	VERB	VB	_	0	root	_	_
+1	produce	produce	VERB	VB	_	_	_	_	_
 
 
-1	output	output	NOUN	NN	_	0	root	_	_
+1	output	output	NOUN	NN	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	vector	vector	NOUN	NN	_	0	root	_	_
+1	vector	vector	NOUN	NN	_	_	_	_	_
 
 
-1	encapsulate	encapsulate	VERB	VB	_	0	root	_	_
+1	encapsulate	encapsulate	VERB	VB	_	_	_	_	_
 
 
-1	specialized	specialized	VERB	VBN	_	0	root	_	_
+1	specialized	specialized	VERB	VBN	_	_	_	_	_
 
 
-1	analysis	analysis	NOUN	NN	_	0	root	_	_
+1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	3	3	NUM	LS	_	0	root	_	_
+1	3	3	NUM	LS	_	_	_	_	_
 
 
-1	aggregation	aggregation	NOUN	NN	_	0	root	_	_
+1	aggregation	aggregation	NOUN	NN	_	_	_	_	_
 
 
-1	fusion	fusion	NOUN	NN	_	0	root	_	_
+1	fusion	fusion	NOUN	NN	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	vector	vector	NOUN	NN	_	0	root	_	_
+1	vector	vector	NOUN	NN	_	_	_	_	_
 
 
-1	mod	mod	NOUN	NN	_	0	root	_	_
+1	mod	mod	NOUN	NN	_	_	_	_	_
 
 
-1	ule	ule	INTJ	UH	_	0	root	_	_
+1	ule	ule	INTJ	UH	_	_	_	_	_
 
 
-1	aggregate	aggregate	NOUN	NN	_	0	root	_	_
+1	aggregate	aggregate	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	concatenation	concatenation	NOUN	NN	_	0	root	_	_
+1	concatenation	concatenation	NOUN	NN	_	_	_	_	_
 
 
-1	pass	pass	VERB	VB	_	0	root	_	_
+1	pass	pass	VERB	VB	_	_	_	_	_
 
 
-1	dimensionality	dimensionality	NOUN	NN	_	0	root	_	_
+1	dimensionality	dimensionality	NOUN	NN	_	_	_	_	_
 
 
-1	reduction	reduction	NOUN	NN	_	0	root	_	_
+1	reduction	reduction	NOUN	NN	_	_	_	_	_
 
 
-1	e.g	e.g	SYM	NFP	_	0	root	_	_
+1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	pca	pca	NOUN	NN	_	0	root	_	_
+1	pca	pca	NOUN	NN	_	_	_	_	_
 
 
-1	attention	attention	NOUN	NN	_	0	root	_	_
+1	attention	attention	NOUN	NN	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	fusion	fusion	NOUN	NN	_	0	root	_	_
+1	fusion	fusion	NOUN	NN	_	_	_	_	_
 
 
-1	form	form	NOUN	NN	_	0	root	_	_
+1	form	form	NOUN	NN	_	_	_	_	_
 
 
-1	composite	composite	NOUN	NN	_	0	root	_	_
+1	composite	composite	NOUN	NN	_	_	_	_	_
 
 
-1	representation	representation	NOUN	NN	_	0	root	_	_
+1	representation	representation	NOUN	NN	_	_	_	_	_
 
 
-1	vector	vector	NOUN	NN	_	0	root	_	_
+1	vector	vector	NOUN	NN	_	_	_	_	_
 
 
-1	process	process	NOUN	NN	_	0	root	_	_
+1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	classification	classification	NOUN	NN	_	0	root	_	_
+1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	engine	engine	NOUN	NN	_	0	root	_	_
+1	engine	engine	NOUN	NN	_	_	_	_	_
 
 
-1	4	4	NUM	LS	_	0	root	_	_
+1	4	4	NUM	LS	_	_	_	_	_
 
 
-1	classification	classification	NOUN	NN	_	0	root	_	_
+1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	meta	meta	NOUN	NN	_	0	root	_	_
+1	meta	meta	NOUN	NN	_	_	_	_	_
 
 
-1	classifier	classifier	NOUN	NN	_	0	root	_	_
+1	classifier	classifier	NOUN	NN	_	_	_	_	_
 
 
-1	train	train	NOUN	NN	_	0	root	_	_
+1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	la	la	PROPN	NNP	_	0	root	_	_
+1	la	la	PROPN	NNP	_	_	_	_	_
 
 
-1	bele	bele	PROPN	NNP	_	0	root	_	_
+1	bele	bele	PROPN	NNP	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	take	take	VERB	VB	_	0	root	_	_
+1	take	take	VERB	VB	_	_	_	_	_
 
 
-1	fuse	fuse	NOUN	NN	_	0	root	_	_
+1	fuse	fuse	NOUN	NN	_	_	_	_	_
 
 
-1	representation	representation	NOUN	NN	_	0	root	_	_
+1	representation	representation	NOUN	NN	_	_	_	_	_
 
 
-1	output	output	NOUN	NN	_	0	root	_	_
+1	output	output	NOUN	NN	_	_	_	_	_
 
 
-1	probability	probability	NOUN	NN	_	0	root	_	_
+1	probability	probability	NOUN	NN	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	0	root	_	_
+1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
 
 
-1	logistic	logistic	ADJ	JJ	_	0	root	_	_
+1	logistic	logistic	ADJ	JJ	_	_	_	_	_
 
 
-1	gression	gression	NOUN	NN	_	0	root	_	_
+1	gression	gression	NOUN	NN	_	_	_	_	_
 
 
-1	shallow	shallow	ADJ	JJ	_	0	root	_	_
+1	shallow	shallow	ADJ	JJ	_	_	_	_	_
 
 
-1	feedforward	feedforward	ADJ	JJ	_	0	root	_	_
+1	feedforward	feedforward	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	typically	typically	ADV	RB	_	0	root	_	_
+1	typically	typically	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	stage	stage	NOUN	NN	_	0	root	_	_
+1	stage	stage	NOUN	NN	_	_	_	_	_
 
 
-1	5	5	NUM	LS	_	0	root	_	_
+1	5	5	NUM	LS	_	_	_	_	_
 
 
-1	feedback	feedback	NOUN	NN	_	0	root	_	_
+1	feedback	feedback	NOUN	NN	_	_	_	_	_
 
 
-1	loop	loop	NOUN	NN	_	0	root	_	_
+1	loop	loop	NOUN	NN	_	_	_	_	_
 
 
-1	user	user	NOUN	NN	_	0	root	_	_
+1	user	user	NOUN	NN	_	_	_	_	_
 
 
-1	feedback	feedback	NOUN	NN	_	0	root	_	_
+1	feedback	feedback	NOUN	NN	_	_	_	_	_
 
 
-1	capture	capture	VERB	VB	_	0	root	_	_
+1	capture	capture	VERB	VB	_	_	_	_	_
 
 
-1	upvote	upvote	NOUN	NN	_	0	root	_	_
+1	upvote	upvote	NOUN	NN	_	_	_	_	_
 
 
-1	downvote	downvote	NOUN	NN	_	0	root	_	_
+1	downvote	downvote	NOUN	NN	_	_	_	_	_
 
 
-1	flag	flag	NOUN	NN	_	0	root	_	_
+1	flag	flag	NOUN	NN	_	_	_	_	_
 
 
-1	enable	enable	VERB	VB	_	0	root	_	_
+1	enable	enable	VERB	VB	_	_	_	_	_
 
 
-1	continuous	continuous	ADJ	JJ	_	0	root	_	_
+1	continuous	continuous	ADJ	JJ	_	_	_	_	_
 
 
-1	retrain	retrain	VERB	VB	_	0	root	_	_
+1	retrain	retrain	VERB	VB	_	_	_	_	_
 
 
-1	improve	improve	VERB	VB	_	0	root	_	_
+1	improve	improve	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	precision	precision	NOUN	NN	_	0	root	_	_
+1	precision	precision	NOUN	NN	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	adaptive	adaptive	ADJ	JJ	_	0	root	_	_
+1	adaptive	adaptive	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	loop	loop	NOUN	NN	_	0	root	_	_
+1	loop	loop	NOUN	NN	_	_	_	_	_
 
 
-1	enhance	enhance	VERB	VB	_	0	root	_	_
+1	enhance	enhance	VERB	VB	_	_	_	_	_
 
 
-1	robustness	robustness	NOUN	NN	_	0	root	_	_
+1	robustness	robustness	NOUN	NN	_	_	_	_	_
 
 
-1	evolve	evolve	VERB	VB	_	0	root	_	_
+1	evolve	evolve	VERB	VB	_	_	_	_	_
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	0	root	_	_
+1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
 
 
-1	trend	trend	NOUN	NN	_	0	root	_	_
+1	trend	trend	NOUN	NN	_	_	_	_	_
 
 
-1	modular	modular	ADJ	JJ	_	0	root	_	_
+1	modular	modular	ADJ	JJ	_	_	_	_	_
 
 
-1	design	design	NOUN	NN	_	0	root	_	_
+1	design	design	NOUN	NN	_	_	_	_	_
 
 
-1	support	support	VERB	VB	_	0	root	_	_
+1	support	support	VERB	VB	_	_	_	_	_
 
 
-1	horizontal	horizontal	ADJ	JJ	_	0	root	_	_
+1	horizontal	horizontal	ADJ	JJ	_	_	_	_	_
 
 
-1	scalabil	scalabil	NOUN	NN	_	0	root	_	_
+1	scalabil	scalabil	NOUN	NN	_	_	_	_	_
 
 
-1	ity	ity	NOUN	NN	_	0	root	_	_
+1	ity	ity	NOUN	NN	_	_	_	_	_
 
 
-1	module	module	NOUN	NN	_	0	root	_	_
+1	module	module	NOUN	NN	_	_	_	_	_
 
 
-1	parallelize	parallelize	VERB	VB	_	0	root	_	_
+1	parallelize	parallelize	VERB	VB	_	_	_	_	_
 
 
-1	independently	independently	ADV	RB	_	0	root	_	_
+1	independently	independently	ADV	RB	_	_	_	_	_
 
 
-1	opti	opti	NOUN	NN	_	0	root	_	_
+1	opti	opti	NOUN	NN	_	_	_	_	_
 
 
-1	mized	mized	ADJ	JJ	_	0	root	_	_
+1	mized	mized	ADJ	JJ	_	_	_	_	_
 
 
-1	ensure	ensure	VERB	VB	_	0	root	_	_
+1	ensure	ensure	VERB	VB	_	_	_	_	_
 
 
-1	maintainability	maintainability	NOUN	NN	_	0	root	_	_
+1	maintainability	maintainability	NOUN	NN	_	_	_	_	_
 
 
-1	extensibility	extensibility	NOUN	NN	_	0	root	_	_
+1	extensibility	extensibility	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	conceptual	conceptual	ADJ	JJ	_	0	root	_	_
+1	conceptual	conceptual	ADJ	JJ	_	_	_	_	_
 
 
-1	case	case	NOUN	NN	_	0	root	_	_
+1	case	case	NOUN	NN	_	_	_	_	_
 
 
-1	study	study	NOUN	NN	_	0	root	_	_
+1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	evaluate	evaluate	VERB	VB	_	0	root	_	_
+1	evaluate	evaluate	VERB	VB	_	_	_	_	_
 
 
-1	framework	framework	NOUN	NN	_	0	root	_	_
+1	framework	framework	NOUN	NN	_	_	_	_	_
 
 
-1	multimodal	multimodal	ADJ	JJ	_	0	root	_	_
+1	multimodal	multimodal	ADJ	JJ	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	comprise	comprise	VERB	VB	_	0	root	_	_
+1	comprise	comprise	VERB	VB	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	tweet	tweet	NOUN	NN	_	0	root	_	_
+1	tweet	tweet	NOUN	NN	_	_	_	_	_
 
 
-1	pair	pair	NOUN	NN	_	0	root	_	_
+1	pair	pair	NOUN	NN	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	encode	encode	VERB	VB	_	0	root	_	_
+1	encode	encode	VERB	VB	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	0	root	_	_
+1	via	via	ADV	RB	_	_	_	_	_
 
 
-1	bert	bert	PROPN	NNP	_	0	root	_	_
+1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	process	process	NOUN	NN	_	0	root	_	_
+1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	dense	dense	ADJ	JJ	_	0	root	_	_
+1	dense	dense	ADJ	JJ	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	visual	visual	ADJ	JJ	_	0	root	_	_
+1	visual	visual	ADJ	JJ	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	facial	facial	ADJ	JJ	_	0	root	_	_
+1	facial	facial	ADJ	JJ	_	_	_	_	_
 
 
-1	expres	expres	VERB	VB	_	0	root	_	_
+1	expres	expres	VERB	VB	_	_	_	_	_
 
 
-1	sion	sion	NOUN	NN	_	0	root	_	_
+1	sion	sion	NOUN	NN	_	_	_	_	_
 
 
-1	contextual	contextual	NOUN	NN	_	0	root	_	_
+1	contextual	contextual	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	cue	cue	NOUN	NN	_	0	root	_	_
+1	cue	cue	NOUN	NN	_	_	_	_	_
 
 
-1	meme	meme	NOUN	NN	_	0	root	_	_
+1	meme	meme	NOUN	NN	_	_	_	_	_
 
 
-1	style	style	NOUN	NN	_	0	root	_	_
+1	style	style	NOUN	NN	_	_	_	_	_
 
 
-1	exaggeration	exaggeration	NOUN	NN	_	0	root	_	_
+1	exaggeration	exaggeration	NOUN	NN	_	_	_	_	_
 
 
-1	method	method	NOUN	NN	_	0	root	_	_
+1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	ensure	ensure	VERB	VB	_	0	root	_	_
+1	ensure	ensure	VERB	VB	_	_	_	_	_
 
 
-1	language	language	NOUN	NN	_	0	root	_	_
+1	language	language	NOUN	NN	_	_	_	_	_
 
 
-1	visual	visual	ADJ	JJ	_	0	root	_	_
+1	visual	visual	ADJ	JJ	_	_	_	_	_
 
 
-1	content	content	NOUN	NN	_	0	root	_	_
+1	content	content	NOUN	NN	_	_	_	_	_
 
 
-1	contribute	contribute	VERB	VB	_	0	root	_	_
+1	contribute	contribute	VERB	VB	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	prediction	prediction	NOUN	NN	_	0	root	_	_
+1	prediction	prediction	NOUN	NN	_	_	_	_	_
 
 
-1	process	process	NOUN	NN	_	0	root	_	_
+1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	study	study	NOUN	NN	_	0	root	_	_
+1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	include	include	VERB	VB	_	0	root	_	_
+1	include	include	VERB	VB	_	_	_	_	_
 
 
-1	publicly	publicly	ADV	RB	_	0	root	_	_
+1	publicly	publicly	ADV	RB	_	_	_	_	_
 
 
-1	available	available	ADJ	JJ	_	0	root	_	_
+1	available	available	ADJ	JJ	_	_	_	_	_
 
 
-1	label	label	VERB	VB	_	0	root	_	_
+1	label	label	VERB	VB	_	_	_	_	_
 
 
-1	tweet	tweet	NOUN	NN	_	0	root	_	_
+1	tweet	tweet	NOUN	NN	_	_	_	_	_
 
 
-1	contain	contain	VERB	VB	_	0	root	_	_
+1	contain	contain	VERB	VB	_	_	_	_	_
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	0	root	_	_
+1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
 
 
-1	hashtag	hashtag	NOUN	NN	_	0	root	_	_
+1	hashtag	hashtag	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	irony	irony	NOUN	NN	_	0	root	_	_
+1	irony	irony	NOUN	NN	_	_	_	_	_
 
 
-1	tweet	tweet	NOUN	NN	_	0	root	_	_
+1	tweet	tweet	NOUN	NN	_	_	_	_	_
 
 
-1	pair	pair	NOUN	NN	_	0	root	_	_
+1	pair	pair	NOUN	NN	_	_	_	_	_
 
 
-1	respective	respective	ADJ	JJ	_	0	root	_	_
+1	respective	respective	ADJ	JJ	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	0	root	_	_
+1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
 
 
-1	text	text	NOUN	NN	_	0	root	_	_
+1	text	text	NOUN	NN	_	_	_	_	_
 
 
-1	tokenize	tokenize	NOUN	NN	_	0	root	_	_
+1	tokenize	tokenize	NOUN	NN	_	_	_	_	_
 
 
-1	em	em	PRON	PRP	_	0	root	_	_
+1	em	em	PRON	PRP	_	_	_	_	_
 
 
-1	bed	bed	NOUN	NN	_	0	root	_	_
+1	bed	bed	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	bert	bert	PROPN	NNP	_	0	root	_	_
+1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	resize	resize	VERB	VB	_	0	root	_	_
+1	resize	resize	VERB	VB	_	_	_	_	_
 
 
-1	feed	feed	VERB	VB	_	0	root	_	_
+1	feed	feed	VERB	VB	_	_	_	_	_
 
 
-1	pre	pre	NOUN	NN	_	0	root	_	_
+1	pre	pre	NOUN	NN	_	_	_	_	_
 
 
-1	train	train	NOUN	NN	_	0	root	_	_
+1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	dense	dense	ADJ	JJ	_	0	root	_	_
+1	dense	dense	ADJ	JJ	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	vector	vector	NOUN	NN	_	0	root	_	_
+1	vector	vector	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	concatenate	concatenate	VERB	VB	_	0	root	_	_
+1	concatenate	concatenate	VERB	VB	_	_	_	_	_
 
 
-1	pass	pass	VERB	VB	_	0	root	_	_
+1	pass	pass	VERB	VB	_	_	_	_	_
 
 
-1	fusion	fusion	NOUN	NN	_	0	root	_	_
+1	fusion	fusion	NOUN	NN	_	_	_	_	_
 
 
-1	classifier	classifier	NOUN	NN	_	0	root	_	_
+1	classifier	classifier	NOUN	NN	_	_	_	_	_
 
 
-1	final	final	ADJ	JJ	_	0	root	_	_
+1	final	final	ADJ	JJ	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	prediction	prediction	NOUN	NN	_	0	root	_	_
+1	prediction	prediction	NOUN	NN	_	_	_	_	_
 
 
-1	fig	fig	NOUN	NN	_	0	root	_	_
+1	fig	fig	NOUN	NN	_	_	_	_	_
 
 
-1	5	5	NUM	LS	_	0	root	_	_
+1	5	5	NUM	LS	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	comparison	comparison	NOUN	NN	_	0	root	_	_
+1	comparison	comparison	NOUN	NN	_	_	_	_	_
 
 
-1	twitter	twitter	PROPN	NNP	_	0	root	_	_
+1	twitter	twitter	PROPN	NNP	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	demonstrate	demonstrate	VERB	VB	_	0	root	_	_
+1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
 
 
-1	clear	clear	ADJ	JJ	_	0	root	_	_
+1	clear	clear	ADJ	JJ	_	_	_	_	_
 
 
-1	advantage	advantage	NOUN	NN	_	0	root	_	_
+1	advantage	advantage	NOUN	NN	_	_	_	_	_
 
 
-1	multimodal	multimodal	ADJ	JJ	_	0	root	_	_
+1	multimodal	multimodal	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	bert	bert	PROPN	NNP	_	0	root	_	_
+1	bert	bert	PROPN	NNP	_	_	_	_	_
 
 
-1	alone	alone	ADV	RB	_	0	root	_	_
+1	alone	alone	ADV	RB	_	_	_	_	_
 
 
-1	achieve	achieve	VERB	VB	_	0	root	_	_
+1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	88.6	88.6	NUM	CD	_	0	root	_	_
+1	88.6	88.6	NUM	CD	_	_	_	_	_
 
 
-1	dense	dense	ADJ	JJ	_	0	root	_	_
+1	dense	dense	ADJ	JJ	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	alone	alone	ADV	RB	_	0	root	_	_
+1	alone	alone	ADV	RB	_	_	_	_	_
 
 
-1	achieve	achieve	VERB	VB	_	0	root	_	_
+1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
-1	74.3	74.3	NUM	CD	_	0	root	_	_
+1	74.3	74.3	NUM	CD	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	reach	reach	VERB	VB	_	0	root	_	_
+1	reach	reach	VERB	VB	_	_	_	_	_
 
 
-1	93.2	93.2	NUM	CD	_	0	root	_	_
+1	93.2	93.2	NUM	CD	_	_	_	_	_
 
 
-1	finding	finding	VERB	VBG	_	0	root	_	_
+1	finding	finding	VERB	VBG	_	_	_	_	_
 
 
-1	confirm	confirm	VERB	VB	_	0	root	_	_
+1	confirm	confirm	VERB	VB	_	_	_	_	_
 
 
-1	visual	visual	ADJ	JJ	_	0	root	_	_
+1	visual	visual	ADJ	JJ	_	_	_	_	_
 
 
-1	signal	signal	VERB	VB	_	0	root	_	_
+1	signal	signal	VERB	VB	_	_	_	_	_
 
 
-1	add	add	VERB	VB	_	0	root	_	_
+1	add	add	VERB	VB	_	_	_	_	_
 
 
-1	significant	significant	ADJ	JJ	_	0	root	_	_
+1	significant	significant	ADJ	JJ	_	_	_	_	_
 
 
-1	value	value	NOUN	NN	_	0	root	_	_
+1	value	value	NOUN	NN	_	_	_	_	_
 
 
-1	identify	identify	VERB	VB	_	0	root	_	_
+1	identify	identify	VERB	VB	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	especially	especially	ADV	RB	_	0	root	_	_
+1	especially	especially	ADV	RB	_	_	_	_	_
 
 
-1	textual	textual	ADJ	JJ	_	0	root	_	_
+1	textual	textual	ADJ	JJ	_	_	_	_	_
 
 
-1	cue	cue	NOUN	NN	_	0	root	_	_
+1	cue	cue	NOUN	NN	_	_	_	_	_
 
 
-1	ambiguous	ambiguous	ADJ	JJ	_	0	root	_	_
+1	ambiguous	ambiguous	ADJ	JJ	_	_	_	_	_
 
 
-1	practical	practical	ADJ	JJ	_	0	root	_	_
+1	practical	practical	ADJ	JJ	_	_	_	_	_
 
 
-1	application	application	NOUN	NN	_	0	root	_	_
+1	application	application	NOUN	NN	_	_	_	_	_
 
 
-1	scenario	scenario	NOUN	NN	_	0	root	_	_
+1	scenario	scenario	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	0	root	_	_
+1	could	could	AUX	MD	_	_	_	_	_
 
 
-1	assist	assist	NOUN	NN	_	0	root	_	_
+1	assist	assist	NOUN	NN	_	_	_	_	_
 
 
-1	content	content	NOUN	NN	_	0	root	_	_
+1	content	content	NOUN	NN	_	_	_	_	_
 
 
-1	moderator	moderator	NOUN	NN	_	0	root	_	_
+1	moderator	moderator	NOUN	NN	_	_	_	_	_
 
 
-1	automatically	automatically	ADV	RB	_	0	root	_	_
+1	automatically	automatically	ADV	RB	_	_	_	_	_
 
 
-1	flag	flag	NOUN	NN	_	0	root	_	_
+1	flag	flag	NOUN	NN	_	_	_	_	_
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	0	root	_	_
+1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
 
 
-1	content	content	NOUN	NN	_	0	root	_	_
+1	content	content	NOUN	NN	_	_	_	_	_
 
 
-1	thus	thus	ADV	RB	_	0	root	_	_
+1	thus	thus	ADV	RB	_	_	_	_	_
 
 
-1	enhance	enhance	VERB	VB	_	0	root	_	_
+1	enhance	enhance	VERB	VB	_	_	_	_	_
 
 
-1	sentiment	sentiment	NOUN	NN	_	0	root	_	_
+1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
 
 
-1	analysis	analysis	NOUN	NN	_	0	root	_	_
+1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	future	future	NOUN	NN	_	0	root	_	_
+1	future	future	NOUN	NN	_	_	_	_	_
 
 
-1	study	study	NOUN	NN	_	0	root	_	_
+1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	0	root	_	_
+1	could	could	AUX	MD	_	_	_	_	_
 
 
-1	expand	expand	VERB	VB	_	0	root	_	_
+1	expand	expand	VERB	VB	_	_	_	_	_
 
 
-1	work	work	NOUN	NN	_	0	root	_	_
+1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	explore	explore	VERB	VB	_	0	root	_	_
+1	explore	explore	VERB	VB	_	_	_	_	_
 
 
-1	multilingual	multilingual	ADJ	JJ	_	0	root	_	_
+1	multilingual	multilingual	ADJ	JJ	_	_	_	_	_
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	0	root	_	_
+1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
 
 
-1	tweet	tweet	NOUN	NN	_	0	root	_	_
+1	tweet	tweet	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	emotion	emotion	NOUN	NN	_	0	root	_	_
+1	emotion	emotion	NOUN	NN	_	_	_	_	_
 
 
-1	label	label	VERB	VB	_	0	root	_	_
+1	label	label	VERB	VB	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	integrate	integrate	VERB	VB	_	0	root	_	_
+1	integrate	integrate	VERB	VB	_	_	_	_	_
 
 
-1	audio	audio	NOUN	NN	_	0	root	_	_
+1	audio	audio	NOUN	NN	_	_	_	_	_
 
 
-1	cue	cue	NOUN	NN	_	0	root	_	_
+1	cue	cue	NOUN	NN	_	_	_	_	_
 
 
-1	tone	tone	NOUN	NN	_	0	root	_	_
+1	tone	tone	NOUN	NN	_	_	_	_	_
 
 
-1	inflection	inflection	NOUN	NN	_	0	root	_	_
+1	inflection	inflection	NOUN	NN	_	_	_	_	_
 
 
-1	user	user	NOUN	NN	_	0	root	_	_
+1	user	user	NOUN	NN	_	_	_	_	_
 
 
-1	center	center	NOUN	NN	_	0	root	_	_
+1	center	center	NOUN	NN	_	_	_	_	_
 
 
-1	evaluation	evaluation	NOUN	NN	_	0	root	_	_
+1	evaluation	evaluation	NOUN	NN	_	_	_	_	_
 
 
-1	crowdsource	crowdsource	NOUN	NN	_	0	root	_	_
+1	crowdsource	crowdsource	NOUN	NN	_	_	_	_	_
 
 
-1	platform	platform	NOUN	NN	_	0	root	_	_
+1	platform	platform	NOUN	NN	_	_	_	_	_
 
 
-1	e.g	e.g	SYM	NFP	_	0	root	_	_
+1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	amazon	amazon	PROPN	NNP	_	0	root	_	_
+1	amazon	amazon	PROPN	NNP	_	_	_	_	_
 
 
-1	mechanical	mechanical	ADJ	JJ	_	0	root	_	_
+1	mechanical	mechanical	ADJ	JJ	_	_	_	_	_
 
 
-1	turk	turk	PROPN	NNP	_	0	root	_	_
+1	turk	turk	PROPN	NNP	_	_	_	_	_
 
 
-1	far	far	ADV	RB	_	0	root	_	_
+1	far	far	ADV	RB	_	_	_	_	_
 
 
-1	validate	validate	VERB	VB	_	0	root	_	_
+1	validate	validate	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	prediction	prediction	NOUN	NN	_	0	root	_	_
+1	prediction	prediction	NOUN	NN	_	_	_	_	_
 
 
-1	compare	compare	VERB	VB	_	0	root	_	_
+1	compare	compare	VERB	VB	_	_	_	_	_
 
 
-1	human	human	ADJ	JJ	_	0	root	_	_
+1	human	human	ADJ	JJ	_	_	_	_	_
 
 
-1	judg	judg	NOUN	NN	_	0	root	_	_
+1	judg	judg	NOUN	NN	_	_	_	_	_
 
 
-1	ment	ment	NOUN	NN	_	0	root	_	_
+1	ment	ment	NOUN	NN	_	_	_	_	_
 
 
-1	process	process	NOUN	NN	_	0	root	_	_
+1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	enhance	enhance	VERB	VB	_	0	root	_	_
+1	enhance	enhance	VERB	VB	_	_	_	_	_
 
 
-1	credibility	credibility	NOUN	NN	_	0	root	_	_
+1	credibility	credibility	NOUN	NN	_	_	_	_	_
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	0	root	_	_
+1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
 
 
-1	clas	clas	NOUN	NN	_	0	root	_	_
+1	clas	clas	NOUN	NN	_	_	_	_	_
 
 
-1	sification	sification	NOUN	NN	_	0	root	_	_
+1	sification	sification	NOUN	NN	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	world	world	NOUN	NN	_	0	root	_	_
+1	world	world	NOUN	NN	_	_	_	_	_
 
 
-1	deployment	deployment	NOUN	NN	_	0	root	_	_
+1	deployment	deployment	NOUN	NN	_	_	_	_	_
 
 
-1	x	x	NOUN	NN	_	0	root	_	_
+1	x	x	NOUN	NN	_	_	_	_	_
 
 
-1	reference	reference	NOUN	NN	_	0	root	_	_
+1	reference	reference	NOUN	NN	_	_	_	_	_
 
 

@@ -1,6048 +1,6048 @@
-1	paper	paper	NOUN	NN	_	0	root	_	_
+1	paper	paper	NOUN	NN	_	_	_	_	_
 
 
-1	present	present	ADJ	JJ	_	0	root	_	_
+1	present	present	ADJ	JJ	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	utilize	utilize	VERB	VB	_	0	root	_	_
+1	utilize	utilize	VERB	VB	_	_	_	_	_
 
 
-1	pretraine	pretraine	NOUN	NN	_	0	root	_	_
+1	pretraine	pretraine	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	classify	classify	VERB	VB	_	0	root	_	_
+1	classify	classify	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	vs	vs	ADP	IN	_	0	root	_	_
+1	vs	vs	ADP	IN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	scenario	scenario	NOUN	NN	_	0	root	_	_
+1	scenario	scenario	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	0	root	_	_
+1	across	across	ADV	RB	_	_	_	_	_
 
 
-1	varied	varied	ADJ	JJ	_	0	root	_	_
+1	varied	varied	ADJ	JJ	_	_	_	_	_
 
 
-1	environment	environment	NOUN	NN	_	0	root	_	_
+1	environment	environment	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	balanced	balanced	ADJ	JJ	_	0	root	_	_
+1	balanced	balanced	ADJ	JJ	_	_	_	_	_
 
 
-1	binary	binary	ADJ	JJ	_	0	root	_	_
+1	binary	binary	ADJ	JJ	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	4,000	4,000	NUM	CD	_	0	root	_	_
+1	4,000	4,000	NUM	CD	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	experiment	experiment	VERB	VB	_	0	root	_	_
+1	experiment	experiment	VERB	VB	_	_	_	_	_
 
 
-1	demonstrate	demonstrate	VERB	VB	_	0	root	_	_
+1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
 
 
-1	advantage	advantage	NOUN	NN	_	0	root	_	_
+1	advantage	advantage	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	inference	inference	NOUN	NN	_	0	root	_	_
+1	inference	inference	NOUN	NN	_	_	_	_	_
 
 
-1	speed	speed	NOUN	NN	_	0	root	_	_
+1	speed	speed	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	achieve	achieve	VERB	VB	_	0	root	_	_
+1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	lightweight	lightweight	ADJ	JJ	_	0	root	_	_
+1	lightweight	lightweight	ADJ	JJ	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	like	like	INTJ	UH	_	0	root	_	_
+1	like	like	INTJ	UH	_	_	_	_	_
 
 
-1	vgg19	vgg19	PROPN	ADD	_	0	root	_	_
+1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
 
 
-1	nas	nas	PROPN	NNP	_	0	root	_	_
+1	nas	nas	PROPN	NNP	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	perform	perform	VERB	VB	_	0	root	_	_
+1	perform	perform	VERB	VB	_	_	_	_	_
 
 
-1	fast	fast	ADJ	JJ	_	0	root	_	_
+1	fast	fast	ADJ	JJ	_	_	_	_	_
 
 
-1	robustly	robustly	ADV	RB	_	0	root	_	_
+1	robustly	robustly	ADV	RB	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	0	root	_	_
+1	across	across	ADV	RB	_	_	_	_	_
 
 
-1	different	different	ADJ	JJ	_	0	root	_	_
+1	different	different	ADJ	JJ	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	condition	condition	NOUN	NN	_	0	root	_	_
+1	condition	condition	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	run	run	NOUN	NN	_	0	root	_	_
+1	run	run	NOUN	NN	_	_	_	_	_
 
 
-1	consumer	consumer	NOUN	NN	_	0	root	_	_
+1	consumer	consumer	NOUN	NN	_	_	_	_	_
 
 
-1	grade	grade	NOUN	NN	_	0	root	_	_
+1	grade	grade	NOUN	NN	_	_	_	_	_
 
 
-1	hardware	hardware	NOUN	NN	_	0	root	_	_
+1	hardware	hardware	NOUN	NN	_	_	_	_	_
 
 
-1	rtx	rtx	PROPN	NNP	_	0	root	_	_
+1	rtx	rtx	PROPN	NNP	_	_	_	_	_
 
 
-1	4080	4080	NUM	CD	_	0	root	_	_
+1	4080	4080	NUM	CD	_	_	_	_	_
 
 
-1	achieve	achieve	VERB	VB	_	0	root	_	_
+1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
-1	inference	inference	NOUN	NN	_	0	root	_	_
+1	inference	inference	NOUN	NN	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	low	low	ADJ	JJ	_	0	root	_	_
+1	low	low	ADJ	JJ	_	_	_	_	_
 
 
-1	44	44	NUM	LS	_	0	root	_	_
+1	44	44	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	350	350	NUM	CD	_	0	root	_	_
+1	350	350	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	highlight	highlight	VERB	VB	_	0	root	_	_
+1	highlight	highlight	VERB	VB	_	_	_	_	_
 
 
-1	deployability	deployability	NOUN	NN	_	0	root	_	_
+1	deployability	deployability	NOUN	NN	_	_	_	_	_
 
 
-1	safety	safety	NOUN	NN	_	0	root	_	_
+1	safety	safety	NOUN	NN	_	_	_	_	_
 
 
-1	critical	critical	ADJ	JJ	_	0	root	_	_
+1	critical	critical	ADJ	JJ	_	_	_	_	_
 
 
-1	context	context	NOUN	NN	_	0	root	_	_
+1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	experiment	experiment	VERB	VB	_	0	root	_	_
+1	experiment	experiment	VERB	VB	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	robot	robot	NOUN	NN	_	0	root	_	_
+1	robot	robot	NOUN	NN	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	indicate	indicate	VERB	VB	_	0	root	_	_
+1	indicate	indicate	VERB	VB	_	_	_	_	_
 
 
-1	vgg19	vgg19	PROPN	ADD	_	0	root	_	_
+1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	train	train	NOUN	NN	_	0	root	_	_
+1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	perform	perform	VERB	VB	_	0	root	_	_
+1	perform	perform	VERB	VB	_	_	_	_	_
 
 
-1	good	good	ADJ	JJ	_	0	root	_	_
+1	good	good	ADJ	JJ	_	_	_	_	_
 
 
-1	additionally	additionally	ADV	RB	_	0	root	_	_
+1	additionally	additionally	ADV	RB	_	_	_	_	_
 
 
-1	warm	warm	ADJ	JJ	_	0	root	_	_
+1	warm	warm	ADJ	JJ	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	contact	contact	VERB	VB	_	0	root	_	_
+1	contact	contact	VERB	VB	_	_	_	_	_
 
 
-1	cool	cool	ADJ	JJ	_	0	root	_	_
+1	cool	cool	ADJ	JJ	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	evaporation	evaporation	NOUN	NN	_	0	root	_	_
+1	evaporation	evaporation	NOUN	NN	_	_	_	_	_
 
 
-1	heat	heat	NOUN	NN	_	0	root	_	_
+1	heat	heat	NOUN	NN	_	_	_	_	_
 
 
-1	transfer	transfer	VERB	VB	_	0	root	_	_
+1	transfer	transfer	VERB	VB	_	_	_	_	_
 
 
-1	create	create	VERB	VB	_	0	root	_	_
+1	create	create	VERB	VB	_	_	_	_	_
 
 
-1	characteristic	characteristic	ADJ	JJ	_	0	root	_	_
+1	characteristic	characteristic	ADJ	JJ	_	_	_	_	_
 
 
-1	gradient	gradient	NOUN	NN	_	0	root	_	_
+1	gradient	gradient	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	boundary	boundary	NOUN	NN	_	0	root	_	_
+1	boundary	boundary	NOUN	NN	_	_	_	_	_
 
 
-1	gradient	gradient	NOUN	NN	_	0	root	_	_
+1	gradient	gradient	NOUN	NN	_	_	_	_	_
 
 
-1	increase	increase	NOUN	NN	_	0	root	_	_
+1	increase	increase	NOUN	NN	_	_	_	_	_
 
 
-1	effective	effective	ADJ	JJ	_	0	root	_	_
+1	effective	effective	ADJ	JJ	_	_	_	_	_
 
 
-1	contrast	contrast	NOUN	NN	_	0	root	_	_
+1	contrast	contrast	NOUN	NN	_	_	_	_	_
 
 
-1	edge	edge	NOUN	NN	_	0	root	_	_
+1	edge	edge	NOUN	NN	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	0	root	_	_
+1	make	make	VERB	VB	_	_	_	_	_
 
 
-1	spatial	spatial	ADJ	JJ	_	0	root	_	_
+1	spatial	spatial	ADJ	JJ	_	_	_	_	_
 
 
-1	pattern	pattern	NOUN	NN	_	0	root	_	_
+1	pattern	pattern	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	pronounce	pronounce	VERB	VB	_	0	root	_	_
+1	pronounce	pronounce	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imagery	imagery	NOUN	NN	_	0	root	_	_
+1	imagery	imagery	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	common	common	ADJ	JJ	_	0	root	_	_
+1	common	common	ADJ	JJ	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	material	material	NOUN	NN	_	0	root	_	_
+1	material	material	NOUN	NN	_	_	_	_	_
 
 
-1	e.g	e.g	SYM	NFP	_	0	root	_	_
+1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	tile	tile	NOUN	NN	_	0	root	_	_
+1	tile	tile	NOUN	NN	_	_	_	_	_
 
 
-1	wood	wood	NOUN	NN	_	0	root	_	_
+1	wood	wood	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	0	root	_	_
+1	often	often	ADV	RB	_	_	_	_	_
 
 
-1	different	different	ADJ	JJ	_	0	root	_	_
+1	different	different	ADJ	JJ	_	_	_	_	_
 
 
-1	emissivitie	emissivitie	NOUN	NN	_	0	root	_	_
+1	emissivitie	emissivitie	NOUN	NN	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	0	root	_	_
+1	well	well	INTJ	UH	_	_	_	_	_
 
 
-1	even	even	ADV	RB	_	0	root	_	_
+1	even	even	ADV	RB	_	_	_	_	_
 
 
-1	temperature	temperature	NOUN	NN	_	0	root	_	_
+1	temperature	temperature	NOUN	NN	_	_	_	_	_
 
 
-1	difference	difference	NOUN	NN	_	0	root	_	_
+1	difference	difference	NOUN	NN	_	_	_	_	_
 
 
-1	small	small	ADJ	JJ	_	0	root	_	_
+1	small	small	ADJ	JJ	_	_	_	_	_
 
 
-1	difference	difference	NOUN	NN	_	0	root	_	_
+1	difference	difference	NOUN	NN	_	_	_	_	_
 
 
-1	emissivity	emissivity	NOUN	NN	_	0	root	_	_
+1	emissivity	emissivity	NOUN	NN	_	_	_	_	_
 
 
-1	change	change	VERB	VB	_	0	root	_	_
+1	change	change	VERB	VB	_	_	_	_	_
 
 
-1	intensity	intensity	NOUN	NN	_	0	root	_	_
+1	intensity	intensity	NOUN	NN	_	_	_	_	_
 
 
-1	measure	measure	NOUN	NN	_	0	root	_	_
+1	measure	measure	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	help	help	VERB	VB	_	0	root	_	_
+1	help	help	VERB	VB	_	_	_	_	_
 
 
-1	contrast	contrast	NOUN	NN	_	0	root	_	_
+1	contrast	contrast	NOUN	NN	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	keyword	keyword	NOUN	NN	_	0	root	_	_
+1	keyword	keyword	NOUN	NN	_	_	_	_	_
 
 
-1	pretraine	pretraine	NOUN	NN	_	0	root	_	_
+1	pretraine	pretraine	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	computer	computer	NOUN	NN	_	0	root	_	_
+1	computer	computer	NOUN	NN	_	_	_	_	_
 
 
-1	vision	vision	NOUN	NN	_	0	root	_	_
+1	vision	vision	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	robotic	robotic	ADJ	JJ	_	0	root	_	_
+1	robotic	robotic	ADJ	JJ	_	_	_	_	_
 
 
-1	perception	perception	NOUN	NN	_	0	root	_	_
+1	perception	perception	NOUN	NN	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	0	root	_	_
+1	since	since	ADV	RB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	sense	sense	NOUN	NN	_	0	root	_	_
+1	sense	sense	NOUN	NN	_	_	_	_	_
 
 
-1	emit	emit	VERB	VB	_	0	root	_	_
+1	emit	emit	VERB	VB	_	_	_	_	_
 
 
-1	ir	ir	NOUN	NN	_	0	root	_	_
+1	ir	ir	NOUN	NN	_	_	_	_	_
 
 
-1	rather	rather	ADV	RB	_	0	root	_	_
+1	rather	rather	ADV	RB	_	_	_	_	_
 
 
-1	reflect	reflect	VERB	VB	_	0	root	_	_
+1	reflect	reflect	VERB	VB	_	_	_	_	_
 
 
-1	visible	visible	ADJ	JJ	_	0	root	_	_
+1	visible	visible	ADJ	JJ	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	remain	remain	VERB	VB	_	0	root	_	_
+1	remain	remain	VERB	VB	_	_	_	_	_
 
 
-1	effective	effective	ADJ	JJ	_	0	root	_	_
+1	effective	effective	ADJ	JJ	_	_	_	_	_
 
 
-1	low	low	ADJ	JJ	_	0	root	_	_
+1	low	low	ADJ	JJ	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	glare	glare	NOUN	NN	_	0	root	_	_
+1	glare	glare	NOUN	NN	_	_	_	_	_
 
 
-1	complex	complex	ADJ	JJ	_	0	root	_	_
+1	complex	complex	ADJ	JJ	_	_	_	_	_
 
 
-1	reflection	reflection	NOUN	NN	_	0	root	_	_
+1	reflection	reflection	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	detector	detector	NOUN	NN	_	0	root	_	_
+1	detector	detector	NOUN	NN	_	_	_	_	_
 
 
-1	commonly	commonly	ADV	RB	_	0	root	_	_
+1	commonly	commonly	ADV	RB	_	_	_	_	_
 
 
-1	fail	fail	VERB	VB	_	0	root	_	_
+1	fail	fail	VERB	VB	_	_	_	_	_
 
 
-1	potential	potential	ADJ	JJ	_	0	root	_	_
+1	potential	potential	ADJ	JJ	_	_	_	_	_
 
 
-1	impact	impact	VERB	VB	_	0	root	_	_
+1	impact	impact	VERB	VB	_	_	_	_	_
 
 
-1	variable	variable	ADJ	JJ	_	0	root	_	_
+1	variable	variable	ADJ	JJ	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	condition	condition	NOUN	NN	_	0	root	_	_
+1	condition	condition	NOUN	NN	_	_	_	_	_
 
 
-1	decrease	decrease	NOUN	NN	_	0	root	_	_
+1	decrease	decrease	NOUN	NN	_	_	_	_	_
 
 
-1	introduction	introduction	NOUN	NN	_	0	root	_	_
+1	introduction	introduction	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	essential	essential	ADJ	JJ	_	0	root	_	_
+1	essential	essential	ADJ	JJ	_	_	_	_	_
 
 
-1	public	public	ADJ	JJ	_	0	root	_	_
+1	public	public	ADJ	JJ	_	_	_	_	_
 
 
-1	safety	safety	NOUN	NN	_	0	root	_	_
+1	safety	safety	NOUN	NN	_	_	_	_	_
 
 
-1	dynamic	dynamic	ADJ	JJ	_	0	root	_	_
+1	dynamic	dynamic	ADJ	JJ	_	_	_	_	_
 
 
-1	environment	environment	NOUN	NN	_	0	root	_	_
+1	environment	environment	NOUN	NN	_	_	_	_	_
 
 
-1	cafe	cafe	NOUN	NN	_	0	root	_	_
+1	cafe	cafe	NOUN	NN	_	_	_	_	_
 
 
-1	restaurant	restaurant	NOUN	NN	_	0	root	_	_
+1	restaurant	restaurant	NOUN	NN	_	_	_	_	_
 
 
-1	retail	retail	NOUN	NN	_	0	root	_	_
+1	retail	retail	NOUN	NN	_	_	_	_	_
 
 
-1	space	space	NOUN	NN	_	0	root	_	_
+1	space	space	NOUN	NN	_	_	_	_	_
 
 
-1	unnoticed	unnoticed	ADJ	JJ	_	0	root	_	_
+1	unnoticed	unnoticed	ADJ	JJ	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	frequently	frequently	ADV	RB	_	0	root	_	_
+1	frequently	frequently	ADV	RB	_	_	_	_	_
 
 
-1	lead	lead	VERB	VB	_	0	root	_	_
+1	lead	lead	VERB	VB	_	_	_	_	_
 
 
-1	slip	slip	VERB	VB	_	0	root	_	_
+1	slip	slip	VERB	VB	_	_	_	_	_
 
 
-1	injury	injury	NOUN	NN	_	0	root	_	_
+1	injury	injury	NOUN	NN	_	_	_	_	_
 
 
-1	traditional	traditional	ADJ	JJ	_	0	root	_	_
+1	traditional	traditional	ADJ	JJ	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	method	method	NOUN	NN	_	0	root	_	_
+1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	0	root	_	_
+1	often	often	ADV	RB	_	_	_	_	_
 
 
-1	depend	depend	VERB	VB	_	0	root	_	_
+1	depend	depend	VERB	VB	_	_	_	_	_
 
 
-1	intrusive	intrusive	ADJ	JJ	_	0	root	_	_
+1	intrusive	intrusive	ADJ	JJ	_	_	_	_	_
 
 
-1	hardware	hardware	NOUN	NN	_	0	root	_	_
+1	hardware	hardware	NOUN	NN	_	_	_	_	_
 
 
-1	suffer	suffer	VERB	VB	_	0	root	_	_
+1	suffer	suffer	VERB	VB	_	_	_	_	_
 
 
-1	delay	delay	VERB	VB	_	0	root	_	_
+1	delay	delay	VERB	VB	_	_	_	_	_
 
 
-1	response	response	NOUN	NN	_	0	root	_	_
+1	response	response	NOUN	NN	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	highlight	highlight	VERB	VB	_	0	root	_	_
+1	highlight	highlight	VERB	VB	_	_	_	_	_
 
 
-1	need	need	VERB	VB	_	0	root	_	_
+1	need	need	VERB	VB	_	_	_	_	_
 
 
-1	fast	fast	ADJ	JJ	_	0	root	_	_
+1	fast	fast	ADJ	JJ	_	_	_	_	_
 
 
-1	vision	vision	NOUN	NN	_	0	root	_	_
+1	vision	vision	NOUN	NN	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	solution	solution	NOUN	NN	_	0	root	_	_
+1	solution	solution	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	0	root	_	_
+1	however	however	ADV	RB	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	computer	computer	NOUN	NN	_	0	root	_	_
+1	computer	computer	NOUN	NN	_	_	_	_	_
 
 
-1	vision	vision	NOUN	NN	_	0	root	_	_
+1	vision	vision	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	vulnerable	vulnerable	ADJ	JJ	_	0	root	_	_
+1	vulnerable	vulnerable	ADJ	JJ	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	change	change	VERB	VB	_	0	root	_	_
+1	change	change	VERB	VB	_	_	_	_	_
 
 
-1	surface	surface	NOUN	NN	_	0	root	_	_
+1	surface	surface	NOUN	NN	_	_	_	_	_
 
 
-1	reflection	reflection	NOUN	NN	_	0	root	_	_
+1	reflection	reflection	NOUN	NN	_	_	_	_	_
 
 
-1	address	address	NOUN	NN	_	0	root	_	_
+1	address	address	NOUN	NN	_	_	_	_	_
 
 
-1	limitation	limitation	NOUN	NN	_	0	root	_	_
+1	limitation	limitation	NOUN	NN	_	_	_	_	_
 
 
-1	integrate	integrate	VERB	VB	_	0	root	_	_
+1	integrate	integrate	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	evaluate	evaluate	VERB	VB	_	0	root	_	_
+1	evaluate	evaluate	VERB	VB	_	_	_	_	_
 
 
-1	effectiveness	effectiveness	NOUN	NN	_	0	root	_	_
+1	effectiveness	effectiveness	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	pretraine	pretraine	NOUN	NN	_	0	root	_	_
+1	pretraine	pretraine	NOUN	NN	_	_	_	_	_
 
 
-1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
 
 
-1	neural	neural	ADJ	JJ	_	0	root	_	_
+1	neural	neural	ADJ	JJ	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	accurate	accurate	ADJ	JJ	_	0	root	_	_
+1	accurate	accurate	ADJ	JJ	_	_	_	_	_
 
 
-1	lightweight	lightweight	ADJ	JJ	_	0	root	_	_
+1	lightweight	lightweight	ADJ	JJ	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	certain	certain	ADJ	JJ	_	0	root	_	_
+1	certain	certain	ADJ	JJ	_	_	_	_	_
 
 
-1	motivation	motivation	NOUN	NN	_	0	root	_	_
+1	motivation	motivation	NOUN	NN	_	_	_	_	_
 
 
-1	explore	explore	VERB	VB	_	0	root	_	_
+1	explore	explore	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	task	task	NOUN	NN	_	0	root	_	_
+1	task	task	NOUN	NN	_	_	_	_	_
 
 
-1	overall	overall	ADV	RB	_	0	root	_	_
+1	overall	overall	ADV	RB	_	_	_	_	_
 
 
-1	property	property	NOUN	NN	_	0	root	_	_
+1	property	property	NOUN	NN	_	_	_	_	_
 
 
-1	help	help	VERB	VB	_	0	root	_	_
+1	help	help	VERB	VB	_	_	_	_	_
 
 
-1	explain	explain	VERB	VB	_	0	root	_	_
+1	explain	explain	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	input	input	NOUN	NN	_	0	root	_	_
+1	input	input	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	0	root	_	_
+1	often	often	ADV	RB	_	_	_	_	_
 
 
-1	contain	contain	VERB	VB	_	0	root	_	_
+1	contain	contain	VERB	VB	_	_	_	_	_
 
 
-1	clean	clean	ADJ	JJ	_	0	root	_	_
+1	clean	clean	ADJ	JJ	_	_	_	_	_
 
 
-1	less	less	ADJ	JJR	_	0	root	_	_
+1	less	less	ADJ	JJR	_	_	_	_	_
 
 
-1	ambiguous	ambiguous	ADJ	JJ	_	0	root	_	_
+1	ambiguous	ambiguous	ADJ	JJ	_	_	_	_	_
 
 
-1	signal	signal	VERB	VB	_	0	root	_	_
+1	signal	signal	VERB	VB	_	_	_	_	_
 
 
-1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+1	cnn	cnn	PROPN	NNP	_	_	_	_	_
 
 
-1	exploit	exploit	VERB	VB	_	0	root	_	_
+1	exploit	exploit	VERB	VB	_	_	_	_	_
 
 
-1	parameter	parameter	NOUN	NN	_	0	root	_	_
+1	parameter	parameter	NOUN	NN	_	_	_	_	_
 
 
-1	less	less	ADJ	JJR	_	0	root	_	_
+1	less	less	ADJ	JJR	_	_	_	_	_
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	0	root	_	_
+1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
 
 
-1	despite	despite	ADP	IN	_	0	root	_	_
+1	despite	despite	ADP	IN	_	_	_	_	_
 
 
-1	advantage	advantage	NOUN	NN	_	0	root	_	_
+1	advantage	advantage	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	universally	universally	ADV	RB	_	0	root	_	_
+1	universally	universally	ADV	RB	_	_	_	_	_
 
 
-1	superior	superior	ADJ	JJ	_	0	root	_	_
+1	superior	superior	ADJ	JJ	_	_	_	_	_
 
 
-1	important	important	ADJ	JJ	_	0	root	_	_
+1	important	important	ADJ	JJ	_	_	_	_	_
 
 
-1	failure	failure	NOUN	NN	_	0	root	_	_
+1	failure	failure	NOUN	NN	_	_	_	_	_
 
 
-1	case	case	NOUN	NN	_	0	root	_	_
+1	case	case	NOUN	NN	_	_	_	_	_
 
 
-1	example	example	NOUN	NN	_	0	root	_	_
+1	example	example	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	temperature	temperature	NOUN	NN	_	0	root	_	_
+1	temperature	temperature	NOUN	NN	_	_	_	_	_
 
 
-1	surround	surround	VERB	VB	_	0	root	_	_
+1	surround	surround	VERB	VB	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	similar	similar	ADJ	JJ	_	0	root	_	_
+1	similar	similar	ADJ	JJ	_	_	_	_	_
 
 
-1	emissivity	emissivity	NOUN	NN	_	0	root	_	_
+1	emissivity	emissivity	NOUN	NN	_	_	_	_	_
 
 
-1	e.g	e.g	SYM	NFP	_	0	root	_	_
+1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	beverage	beverage	NOUN	NN	_	0	root	_	_
+1	beverage	beverage	NOUN	NN	_	_	_	_	_
 
 
-1	leave	leave	VERB	VB	_	0	root	_	_
+1	leave	leave	VERB	VB	_	_	_	_	_
 
 
-1	long	long	ADJ	JJ	_	0	root	_	_
+1	long	long	ADJ	JJ	_	_	_	_	_
 
 
-1	enough	enough	ADJ	JJ	_	0	root	_	_
+1	enough	enough	ADJ	JJ	_	_	_	_	_
 
 
-1	reach	reach	VERB	VB	_	0	root	_	_
+1	reach	reach	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	equilibrium	equilibrium	NOUN	NN	_	0	root	_	_
+1	equilibrium	equilibrium	NOUN	NN	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	contrast	contrast	NOUN	NN	_	0	root	_	_
+1	contrast	contrast	NOUN	NN	_	_	_	_	_
 
 
-1	vanish	vanish	VERB	VB	_	0	root	_	_
+1	vanish	vanish	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	0	root	_	_
+1	become	become	VERB	VB	_	_	_	_	_
 
 
-1	indistinguishable	indistinguishable	ADJ	JJ	_	0	root	_	_
+1	indistinguishable	indistinguishable	ADJ	JJ	_	_	_	_	_
 
 
-1	background	background	NOUN	NN	_	0	root	_	_
+1	background	background	NOUN	NN	_	_	_	_	_
 
 
-1	cause	cause	NOUN	NN	_	0	root	_	_
+1	cause	cause	NOUN	NN	_	_	_	_	_
 
 
-1	miss	miss	VERB	VB	_	0	root	_	_
+1	miss	miss	VERB	VB	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	thin	thin	ADJ	JJ	_	0	root	_	_
+1	thin	thin	ADJ	JJ	_	_	_	_	_
 
 
-1	film	film	NOUN	NN	_	0	root	_	_
+1	film	film	NOUN	NN	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	0	root	_	_
+1	also	also	ADV	RB	_	_	_	_	_
 
 
-1	exchange	exchange	NOUN	NN	_	0	root	_	_
+1	exchange	exchange	NOUN	NN	_	_	_	_	_
 
 
-1	heat	heat	NOUN	NN	_	0	root	_	_
+1	heat	heat	NOUN	NN	_	_	_	_	_
 
 
-1	rapidly	rapidly	ADV	RB	_	0	root	_	_
+1	rapidly	rapidly	ADV	RB	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	0	root	_	_
+1	may	may	AUX	MD	_	_	_	_	_
 
 
-1	equilibrate	equilibrate	VERB	VB	_	0	root	_	_
+1	equilibrate	equilibrate	VERB	VB	_	_	_	_	_
 
 
-1	fast	fast	ADJ	JJ	_	0	root	_	_
+1	fast	fast	ADJ	JJ	_	_	_	_	_
 
 
-1	bulk	bulk	NOUN	NN	_	0	root	_	_
+1	bulk	bulk	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	offer	offer	VERB	VB	_	0	root	_	_
+1	offer	offer	VERB	VB	_	_	_	_	_
 
 
-1	physical	physical	ADJ	JJ	_	0	root	_	_
+1	physical	physical	ADJ	JJ	_	_	_	_	_
 
 
-1	advantage	advantage	NOUN	NN	_	0	root	_	_
+1	advantage	advantage	NOUN	NN	_	_	_	_	_
 
 
-1	explain	explain	VERB	VB	_	0	root	_	_
+1	explain	explain	VERB	VB	_	_	_	_	_
 
 
-1	potential	potential	ADJ	JJ	_	0	root	_	_
+1	potential	potential	ADJ	JJ	_	_	_	_	_
 
 
-1	strong	strong	ADJ	JJ	_	0	root	_	_
+1	strong	strong	ADJ	JJ	_	_	_	_	_
 
 
-1	performance	performance	NOUN	NN	_	0	root	_	_
+1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	infrare	infrare	NOUN	NN	_	0	root	_	_
+1	infrare	infrare	NOUN	NN	_	_	_	_	_
 
 
-1	ir	ir	NOUN	NN	_	0	root	_	_
+1	ir	ir	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	measure	measure	NOUN	NN	_	0	root	_	_
+1	measure	measure	NOUN	NN	_	_	_	_	_
 
 
-1	emit	emit	VERB	VB	_	0	root	_	_
+1	emit	emit	VERB	VB	_	_	_	_	_
 
 
-1	long	long	ADJ	JJ	_	0	root	_	_
+1	long	long	ADJ	JJ	_	_	_	_	_
 
 
-1	wave	wave	NOUN	NN	_	0	root	_	_
+1	wave	wave	NOUN	NN	_	_	_	_	_
 
 
-1	ir	ir	NOUN	NN	_	0	root	_	_
+1	ir	ir	NOUN	NN	_	_	_	_	_
 
 
-1	radiation	radiation	NOUN	NN	_	0	root	_	_
+1	radiation	radiation	NOUN	NN	_	_	_	_	_
 
 
-1	surface	surface	NOUN	NN	_	0	root	_	_
+1	surface	surface	NOUN	NN	_	_	_	_	_
 
 
-1	rather	rather	ADV	RB	_	0	root	_	_
+1	rather	rather	ADV	RB	_	_	_	_	_
 
 
-1	visible	visible	ADJ	JJ	_	0	root	_	_
+1	visible	visible	ADJ	JJ	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	record	record	NOUN	NN	_	0	root	_	_
+1	record	record	NOUN	NN	_	_	_	_	_
 
 
-1	signal	signal	VERB	VB	_	0	root	_	_
+1	signal	signal	VERB	VB	_	_	_	_	_
 
 
-1	proportional	proportional	ADJ	JJ	_	0	root	_	_
+1	proportional	proportional	ADJ	JJ	_	_	_	_	_
 
 
-1	surface	surface	NOUN	NN	_	0	root	_	_
+1	surface	surface	NOUN	NN	_	_	_	_	_
 
 
-1	temperature	temperature	NOUN	NN	_	0	root	_	_
+1	temperature	temperature	NOUN	NN	_	_	_	_	_
 
 
-1	emissivity	emissivity	NOUN	NN	_	0	root	_	_
+1	emissivity	emissivity	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	produce	produce	VERB	VB	_	0	root	_	_
+1	produce	produce	VERB	VB	_	_	_	_	_
 
 
-1	detectable	detectable	ADJ	JJ	_	0	root	_	_
+1	detectable	detectable	ADJ	JJ	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	signature	signature	NOUN	NN	_	0	root	_	_
+1	signature	signature	NOUN	NN	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	0	root	_	_
+1	several	several	ADJ	JJ	_	_	_	_	_
 
 
-1	reason	reason	NOUN	NN	_	0	root	_	_
+1	reason	reason	NOUN	NN	_	_	_	_	_
 
 
-1	environmental	environmental	ADJ	JJ	_	0	root	_	_
+1	environmental	environmental	ADJ	JJ	_	_	_	_	_
 
 
-1	heat	heat	NOUN	NN	_	0	root	_	_
+1	heat	heat	NOUN	NN	_	_	_	_	_
 
 
-1	source	source	NOUN	NN	_	0	root	_	_
+1	source	source	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	0	root	_	_
+1	may	may	AUX	MD	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	0	root	_	_
+1	also	also	ADV	RB	_	_	_	_	_
 
 
-1	impact	impact	VERB	VB	_	0	root	_	_
+1	impact	impact	VERB	VB	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	nearby	nearby	ADV	RB	_	0	root	_	_
+1	nearby	nearby	ADV	RB	_	_	_	_	_
 
 
-1	heater	heater	NOUN	NN	_	0	root	_	_
+1	heater	heater	NOUN	NN	_	_	_	_	_
 
 
-1	sunlight	sunlight	NOUN	NN	_	0	root	_	_
+1	sunlight	sunlight	NOUN	NN	_	_	_	_	_
 
 
-1	patch	patch	NOUN	NN	_	0	root	_	_
+1	patch	patch	NOUN	NN	_	_	_	_	_
 
 
-1	warm	warm	ADJ	JJ	_	0	root	_	_
+1	warm	warm	ADJ	JJ	_	_	_	_	_
 
 
-1	machinery	machinery	NOUN	NN	_	0	root	_	_
+1	machinery	machinery	NOUN	NN	_	_	_	_	_
 
 
-1	create	create	VERB	VB	_	0	root	_	_
+1	create	create	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	clutter	clutter	NOUN	NN	_	0	root	_	_
+1	clutter	clutter	NOUN	NN	_	_	_	_	_
 
 
-1	false	false	ADJ	JJ	_	0	root	_	_
+1	false	false	ADJ	JJ	_	_	_	_	_
 
 
-1	positive	positive	ADJ	JJ	_	0	root	_	_
+1	positive	positive	ADJ	JJ	_	_	_	_	_
 
 
-1	reflection	reflection	NOUN	NN	_	0	root	_	_
+1	reflection	reflection	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	radiation	radiation	NOUN	NN	_	0	root	_	_
+1	radiation	radiation	NOUN	NN	_	_	_	_	_
 
 
-1	many	many	ADJ	JJ	_	0	root	_	_
+1	many	many	ADJ	JJ	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	hot	hot	ADJ	JJ	_	0	root	_	_
+1	hot	hot	ADJ	JJ	_	_	_	_	_
 
 
-1	cold	cold	ADJ	JJ	_	0	root	_	_
+1	cold	cold	ADJ	JJ	_	_	_	_	_
 
 
-1	beverage	beverage	NOUN	NN	_	0	root	_	_
+1	beverage	beverage	NOUN	NN	_	_	_	_	_
 
 
-1	temperature	temperature	NOUN	NN	_	0	root	_	_
+1	temperature	temperature	NOUN	NN	_	_	_	_	_
 
 
-1	differ	differ	VERB	VB	_	0	root	_	_
+1	differ	differ	VERB	VB	_	_	_	_	_
 
 
-1	ambient	ambient	ADJ	JJ	_	0	root	_	_
+1	ambient	ambient	ADJ	JJ	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	therefore	therefore	ADV	RB	_	0	root	_	_
+1	therefore	therefore	ADV	RB	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	0	root	_	_
+1	show	show	VERB	VB	_	_	_	_	_
 
 
-1	highly	highly	ADV	RB	_	0	root	_	_
+1	highly	highly	ADV	RB	_	_	_	_	_
 
 
-1	reflective	reflective	ADJ	JJ	_	0	root	_	_
+1	reflective	reflective	ADJ	JJ	_	_	_	_	_
 
 
-1	surface	surface	NOUN	NN	_	0	root	_	_
+1	surface	surface	NOUN	NN	_	_	_	_	_
 
 
-1	heat	heat	NOUN	NN	_	0	root	_	_
+1	heat	heat	NOUN	NN	_	_	_	_	_
 
 
-1	conduction	conduction	NOUN	NN	_	0	root	_	_
+1	conduction	conduction	NOUN	NN	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	produce	produce	VERB	VB	_	0	root	_	_
+1	produce	produce	VERB	VB	_	_	_	_	_
 
 
-1	artifact	artifact	NOUN	NN	_	0	root	_	_
+1	artifact	artifact	NOUN	NN	_	_	_	_	_
 
 
-1	mimic	mimic	VERB	VB	_	0	root	_	_
+1	mimic	mimic	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	like	like	INTJ	UH	_	0	root	_	_
+1	like	like	INTJ	UH	_	_	_	_	_
 
 
-1	signature	signature	NOUN	NN	_	0	root	_	_
+1	signature	signature	NOUN	NN	_	_	_	_	_
 
 
-1	multi	multi	NOUN	NN	_	0	root	_	_
+1	multi	multi	NOUN	NN	_	_	_	_	_
 
 
-1	modal	modal	ADJ	JJ	_	0	root	_	_
+1	modal	modal	ADJ	JJ	_	_	_	_	_
 
 
-1	hybrid	hybrid	NOUN	NN	_	0	root	_	_
+1	hybrid	hybrid	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	several	several	ADJ	JJ	_	0	root	_	_
+1	several	several	ADJ	JJ	_	_	_	_	_
 
 
-1	work	work	NOUN	NN	_	0	root	_	_
+1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	fuse	fuse	NOUN	NN	_	0	root	_	_
+1	fuse	fuse	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	modality	modality	NOUN	NN	_	0	root	_	_
+1	modality	modality	NOUN	NN	_	_	_	_	_
 
 
-1	improve	improve	VERB	VB	_	0	root	_	_
+1	improve	improve	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	note	note	NOUN	NN	_	0	root	_	_
+1	note	note	NOUN	NN	_	_	_	_	_
 
 
-1	yang	yang	PROPN	NNP	_	0	root	_	_
+1	yang	yang	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	p	p	NOUN	NN	_	0	root	_	_
+1	p	p	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	sensor	sensor	NOUN	NN	_	0	root	_	_
+1	sensor	sensor	NOUN	NN	_	_	_	_	_
 
 
-1	integrate	integrate	VERB	VB	_	0	root	_	_
+1	integrate	integrate	VERB	VB	_	_	_	_	_
 
 
-1	polarization	polarization	NOUN	NN	_	0	root	_	_
+1	polarization	polarization	NOUN	NN	_	_	_	_	_
 
 
-1	depth	depth	NOUN	NN	_	0	root	_	_
+1	depth	depth	NOUN	NN	_	_	_	_	_
 
 
-1	cue	cue	NOUN	NN	_	0	root	_	_
+1	cue	cue	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	water	water	NOUN	NN	_	0	root	_	_
+1	water	water	NOUN	NN	_	_	_	_	_
 
 
-1	bao	bao	PROPN	NNP	_	0	root	_	_
+1	bao	bao	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	explicitly	explicitly	ADV	RB	_	0	root	_	_
+1	explicitly	explicitly	ADV	RB	_	_	_	_	_
 
 
-1	fuse	fuse	NOUN	NN	_	0	root	_	_
+1	fuse	fuse	NOUN	NN	_	_	_	_	_
 
 
-1	infrare	infrare	NOUN	NN	_	0	root	_	_
+1	infrare	infrare	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	visible	visible	ADJ	JJ	_	0	root	_	_
+1	visible	visible	ADJ	JJ	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	0	root	_	_
+1	first	first	ADV	RB	_	_	_	_	_
 
 
-1	ir	ir	NOUN	NN	_	0	root	_	_
+1	ir	ir	NOUN	NN	_	_	_	_	_
 
 
-1	channel	channel	NOUN	NN	_	0	root	_	_
+1	channel	channel	NOUN	NN	_	_	_	_	_
 
 
-1	isolate	isolate	VERB	VB	_	0	root	_	_
+1	isolate	isolate	VERB	VB	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	region	region	NOUN	NN	_	0	root	_	_
+1	region	region	NOUN	NN	_	_	_	_	_
 
 
-1	visible	visible	ADJ	JJ	_	0	root	_	_
+1	visible	visible	ADJ	JJ	_	_	_	_	_
 
 
-1	channel	channel	NOUN	NN	_	0	root	_	_
+1	channel	channel	NOUN	NN	_	_	_	_	_
 
 
-1	refine	refine	VERB	VB	_	0	root	_	_
+1	refine	refine	VERB	VB	_	_	_	_	_
 
 
-1	similarly	similarly	ADV	RB	_	0	root	_	_
+1	similarly	similarly	ADV	RB	_	_	_	_	_
 
 
-1	zhang	zhang	PROPN	NNP	_	0	root	_	_
+1	zhang	zhang	PROPN	NNP	_	_	_	_	_
 
 
-1	zhang	zhang	PROPN	NNP	_	0	root	_	_
+1	zhang	zhang	PROPN	NNP	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	gas	gas	NOUN	NN	_	0	root	_	_
+1	gas	gas	NOUN	NN	_	_	_	_	_
 
 
-1	sensor	sensor	NOUN	NN	_	0	root	_	_
+1	sensor	sensor	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	pipeline	pipeline	NOUN	NN	_	0	root	_	_
+1	pipeline	pipeline	NOUN	NN	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	hybrid	hybrid	NOUN	NN	_	0	root	_	_
+1	hybrid	hybrid	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	leverage	leverage	NOUN	NN	_	0	root	_	_
+1	leverage	leverage	NOUN	NN	_	_	_	_	_
 
 
-1	complementary	complementary	ADJ	JJ	_	0	root	_	_
+1	complementary	complementary	ADJ	JJ	_	_	_	_	_
 
 
-1	modality	modality	NOUN	NN	_	0	root	_	_
+1	modality	modality	NOUN	NN	_	_	_	_	_
 
 
-1	instance	instance	NOUN	NN	_	0	root	_	_
+1	instance	instance	NOUN	NN	_	_	_	_	_
 
 
-1	ir	ir	NOUN	NN	_	0	root	_	_
+1	ir	ir	NOUN	NN	_	_	_	_	_
 
 
-1	distinguish	distinguish	VERB	VB	_	0	root	_	_
+1	distinguish	distinguish	VERB	VB	_	_	_	_	_
 
 
-1	cold	cold	ADJ	JJ	_	0	root	_	_
+1	cold	cold	ADJ	JJ	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	pool	pool	NOUN	NN	_	0	root	_	_
+1	pool	pool	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	provide	provide	VERB	VB	_	0	root	_	_
+1	provide	provide	VERB	VB	_	_	_	_	_
 
 
-1	high	high	ADJ	JJ	_	0	root	_	_
+1	high	high	ADJ	JJ	_	_	_	_	_
 
 
-1	resolution	resolution	NOUN	NN	_	0	root	_	_
+1	resolution	resolution	NOUN	NN	_	_	_	_	_
 
 
-1	spatial	spatial	ADJ	JJ	_	0	root	_	_
+1	spatial	spatial	ADJ	JJ	_	_	_	_	_
 
 
-1	detail	detail	NOUN	NN	_	0	root	_	_
+1	detail	detail	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	0	root	_	_
+1	however	however	ADV	RB	_	_	_	_	_
 
 
-1	many	many	ADJ	JJ	_	0	root	_	_
+1	many	many	ADJ	JJ	_	_	_	_	_
 
 
-1	exist	exist	VERB	VB	_	0	root	_	_
+1	exist	exist	VERB	VB	_	_	_	_	_
 
 
-1	hybrid	hybrid	NOUN	NN	_	0	root	_	_
+1	hybrid	hybrid	NOUN	NN	_	_	_	_	_
 
 
-1	method	method	NOUN	NN	_	0	root	_	_
+1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	hand	hand	NOUN	NN	_	0	root	_	_
+1	hand	hand	NOUN	NN	_	_	_	_	_
 
 
-1	engineer	engineer	NOUN	NN	_	0	root	_	_
+1	engineer	engineer	NOUN	NN	_	_	_	_	_
 
 
-1	fusion	fusion	NOUN	NN	_	0	root	_	_
+1	fusion	fusion	NOUN	NN	_	_	_	_	_
 
 
-1	multi	multi	NOUN	NN	_	0	root	_	_
+1	multi	multi	NOUN	NN	_	_	_	_	_
 
 
-1	stage	stage	NOUN	NN	_	0	root	_	_
+1	stage	stage	NOUN	NN	_	_	_	_	_
 
 
-1	pipeline	pipeline	NOUN	NN	_	0	root	_	_
+1	pipeline	pipeline	NOUN	NN	_	_	_	_	_
 
 
-1	contrast	contrast	NOUN	NN	_	0	root	_	_
+1	contrast	contrast	NOUN	NN	_	_	_	_	_
 
 
-1	approach	approach	NOUN	NN	_	0	root	_	_
+1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	efficacy	efficacy	NOUN	NN	_	0	root	_	_
+1	efficacy	efficacy	NOUN	NN	_	_	_	_	_
 
 
-1	end	end	NOUN	NN	_	0	root	_	_
+1	end	end	NOUN	NN	_	_	_	_	_
 
 
-1	end	end	NOUN	NN	_	0	root	_	_
+1	end	end	NOUN	NN	_	_	_	_	_
 
 
-1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	e.g	e.g	SYM	NFP	_	0	root	_	_
+1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	stack	stack	NOUN	NN	_	0	root	_	_
+1	stack	stack	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	channel	channel	NOUN	NN	_	0	root	_	_
+1	channel	channel	NOUN	NN	_	_	_	_	_
 
 
-1	single	single	ADJ	JJ	_	0	root	_	_
+1	single	single	ADJ	JJ	_	_	_	_	_
 
 
-1	pretraine	pretraine	NOUN	NN	_	0	root	_	_
+1	pretraine	pretraine	NOUN	NN	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	modality	modality	NOUN	NN	_	0	root	_	_
+1	modality	modality	NOUN	NN	_	_	_	_	_
 
 
-1	rather	rather	ADV	RB	_	0	root	_	_
+1	rather	rather	ADV	RB	_	_	_	_	_
 
 
-1	separate	separate	ADJ	JJ	_	0	root	_	_
+1	separate	separate	ADJ	JJ	_	_	_	_	_
 
 
-1	ir	ir	NOUN	NN	_	0	root	_	_
+1	ir	ir	NOUN	NN	_	_	_	_	_
 
 
-1	processing	processing	NOUN	NN	_	0	root	_	_
+1	processing	processing	NOUN	NN	_	_	_	_	_
 
 
-1	feed	feed	VERB	VB	_	0	root	_	_
+1	feed	feed	VERB	VB	_	_	_	_	_
 
 
-1	multi	multi	NOUN	NN	_	0	root	_	_
+1	multi	multi	NOUN	NN	_	_	_	_	_
 
 
-1	modal	modal	ADJ	JJ	_	0	root	_	_
+1	modal	modal	ADJ	JJ	_	_	_	_	_
 
 
-1	imagery	imagery	NOUN	NN	_	0	root	_	_
+1	imagery	imagery	NOUN	NN	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	0	root	_	_
+1	one	one	NUM	CD	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	ii	ii	INTJ	UH	_	0	root	_	_
+1	ii	ii	INTJ	UH	_	_	_	_	_
 
 
-1	relate	relate	VERB	VB	_	0	root	_	_
+1	relate	relate	VERB	VB	_	_	_	_	_
 
 
-1	work	work	NOUN	NN	_	0	root	_	_
+1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	vision	vision	NOUN	NN	_	0	root	_	_
+1	vision	vision	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	prior	prior	ADJ	JJ	_	0	root	_	_
+1	prior	prior	ADJ	JJ	_	_	_	_	_
 
 
-1	computer	computer	NOUN	NN	_	0	root	_	_
+1	computer	computer	NOUN	NN	_	_	_	_	_
 
 
-1	vision	vision	NOUN	NN	_	0	root	_	_
+1	vision	vision	NOUN	NN	_	_	_	_	_
 
 
-1	research	research	NOUN	NN	_	0	root	_	_
+1	research	research	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	wet	wet	ADJ	JJ	_	0	root	_	_
+1	wet	wet	ADJ	JJ	_	_	_	_	_
 
 
-1	surface	surface	NOUN	NN	_	0	root	_	_
+1	surface	surface	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	largely	largely	ADV	RB	_	0	root	_	_
+1	largely	largely	ADV	RB	_	_	_	_	_
 
 
-1	focus	focus	VERB	VB	_	0	root	_	_
+1	focus	focus	VERB	VB	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	imagery	imagery	NOUN	NN	_	0	root	_	_
+1	imagery	imagery	NOUN	NN	_	_	_	_	_
 
 
-1	occasionally	occasionally	ADV	RB	_	0	root	_	_
+1	occasionally	occasionally	ADV	RB	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	example	example	NOUN	NN	_	0	root	_	_
+1	example	example	NOUN	NN	_	_	_	_	_
 
 
-1	bhutad	bhutad	INTJ	UH	_	0	root	_	_
+1	bhutad	bhutad	INTJ	UH	_	_	_	_	_
 
 
-1	patil	patil	PROPN	NNP	_	0	root	_	_
+1	patil	patil	PROPN	NNP	_	_	_	_	_
 
 
-1	release	release	NOUN	NN	_	0	root	_	_
+1	release	release	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	1,976	1,976	NUM	CD	_	0	root	_	_
+1	1,976	1,976	NUM	CD	_	_	_	_	_
 
 
-1	label	label	VERB	VB	_	0	root	_	_
+1	label	label	VERB	VB	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	stagnant	stagnant	ADJ	JJ	_	0	root	_	_
+1	stagnant	stagnant	ADJ	JJ	_	_	_	_	_
 
 
-1	water	water	NOUN	NN	_	0	root	_	_
+1	water	water	NOUN	NN	_	_	_	_	_
 
 
-1	wet	wet	ADJ	JJ	_	0	root	_	_
+1	wet	wet	ADJ	JJ	_	_	_	_	_
 
 
-1	surface	surface	NOUN	NN	_	0	root	_	_
+1	surface	surface	NOUN	NN	_	_	_	_	_
 
 
-1	enable	enable	VERB	VB	_	0	root	_	_
+1	enable	enable	VERB	VB	_	_	_	_	_
 
 
-1	supervise	supervise	VERB	VB	_	0	root	_	_
+1	supervise	supervise	VERB	VB	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	water	water	NOUN	NN	_	0	root	_	_
+1	water	water	NOUN	NN	_	_	_	_	_
 
 
-1	vs	vs	ADP	IN	_	0	root	_	_
+1	vs	vs	ADP	IN	_	_	_	_	_
 
 
-1	dry	dry	ADJ	JJ	_	0	root	_	_
+1	dry	dry	ADJ	JJ	_	_	_	_	_
 
 
-1	classification	classification	NOUN	NN	_	0	root	_	_
+1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	gawdzik	gawdzik	PROPN	NNP	_	0	root	_	_
+1	gawdzik	gawdzik	PROPN	NNP	_	_	_	_	_
 
 
-1	owski	owski	INTJ	UH	_	0	root	_	_
+1	owski	owski	INTJ	UH	_	_	_	_	_
 
 
-1	apply	apply	VERB	VB	_	0	root	_	_
+1	apply	apply	VERB	VB	_	_	_	_	_
 
 
-1	mask	mask	NOUN	NN	_	0	root	_	_
+1	mask	mask	NOUN	NN	_	_	_	_	_
 
 
-1	r	r	X	LS	_	0	root	_	_
+1	r	r	X	LS	_	_	_	_	_
 
 
-1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+1	cnn	cnn	PROPN	NNP	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	segment	segment	NOUN	NN	_	0	root	_	_
+1	segment	segment	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	industrial	industrial	ADJ	JJ	_	0	root	_	_
+1	industrial	industrial	ADJ	JJ	_	_	_	_	_
 
 
-1	set	set	VERB	VB	_	0	root	_	_
+1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	approach	approach	NOUN	NN	_	0	root	_	_
+1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	train	train	NOUN	NN	_	0	root	_	_
+1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	0	root	_	_
+1	two	two	NUM	CD	_	_	_	_	_
 
 
-1	class	class	NOUN	NN	_	0	root	_	_
+1	class	class	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	detector	detector	NOUN	NN	_	0	root	_	_
+1	detector	detector	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	know	know	VERB	VB	_	0	root	_	_
+1	know	know	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	achieve	achieve	VERB	VB	_	0	root	_	_
+1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
-1	high	high	ADJ	JJ	_	0	root	_	_
+1	high	high	ADJ	JJ	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	identify	identify	VERB	VB	_	0	root	_	_
+1	identify	identify	VERB	VB	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	region	region	NOUN	NN	_	0	root	_	_
+1	region	region	NOUN	NN	_	_	_	_	_
 
 
-1	method	method	NOUN	NN	_	0	root	_	_
+1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	demonstrate	demonstrate	VERB	VB	_	0	root	_	_
+1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
 
 
-1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	visual	visual	ADJ	JJ	_	0	root	_	_
+1	visual	visual	ADJ	JJ	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	rely	rely	VERB	VB	_	0	root	_	_
+1	rely	rely	VERB	VB	_	_	_	_	_
 
 
-1	solely	solely	ADV	RB	_	0	root	_	_
+1	solely	solely	ADV	RB	_	_	_	_	_
 
 
-1	appearance	appearance	NOUN	NN	_	0	root	_	_
+1	appearance	appearance	NOUN	NN	_	_	_	_	_
 
 
-1	cue	cue	NOUN	NN	_	0	root	_	_
+1	cue	cue	NOUN	NN	_	_	_	_	_
 
 
-1	struggle	struggle	NOUN	NN	_	0	root	_	_
+1	struggle	struggle	NOUN	NN	_	_	_	_	_
 
 
-1	low	low	ADJ	JJ	_	0	root	_	_
+1	low	low	ADJ	JJ	_	_	_	_	_
 
 
-1	contrast	contrast	NOUN	NN	_	0	root	_	_
+1	contrast	contrast	NOUN	NN	_	_	_	_	_
 
 
-1	reflection	reflection	NOUN	NN	_	0	root	_	_
+1	reflection	reflection	NOUN	NN	_	_	_	_	_
 
 
-1	relate	relate	VERB	VB	_	0	root	_	_
+1	relate	relate	VERB	VB	_	_	_	_	_
 
 
-1	work	work	NOUN	NN	_	0	root	_	_
+1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	robotic	robotic	ADJ	JJ	_	0	root	_	_
+1	robotic	robotic	ADJ	JJ	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	sensor	sensor	NOUN	NN	_	0	root	_	_
+1	sensor	sensor	NOUN	NN	_	_	_	_	_
 
 
-1	aid	aid	NOUN	NN	_	0	root	_	_
+1	aid	aid	NOUN	NN	_	_	_	_	_
 
 
-1	water	water	NOUN	NN	_	0	root	_	_
+1	water	water	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	yang	yang	PROPN	NNP	_	0	root	_	_
+1	yang	yang	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	propose	propose	VERB	VB	_	0	root	_	_
+1	propose	propose	VERB	VB	_	_	_	_	_
 
 
-1	polarize	polarize	VERB	VB	_	0	root	_	_
+1	polarize	polarize	VERB	VB	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	p	p	NOUN	NN	_	0	root	_	_
+1	p	p	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	framework	framework	NOUN	NN	_	0	root	_	_
+1	framework	framework	NOUN	NN	_	_	_	_	_
 
 
-1	fuse	fuse	NOUN	NN	_	0	root	_	_
+1	fuse	fuse	NOUN	NN	_	_	_	_	_
 
 
-1	color	color	NOUN	NN	_	0	root	_	_
+1	color	color	NOUN	NN	_	_	_	_	_
 
 
-1	polarization	polarization	NOUN	NN	_	0	root	_	_
+1	polarization	polarization	NOUN	NN	_	_	_	_	_
 
 
-1	depth	depth	NOUN	NN	_	0	root	_	_
+1	depth	depth	NOUN	NN	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	water	water	NOUN	NN	_	0	root	_	_
+1	water	water	NOUN	NN	_	_	_	_	_
 
 
-1	hazard	hazard	NOUN	NN	_	0	root	_	_
+1	hazard	hazard	NOUN	NN	_	_	_	_	_
 
 
-1	puddle	puddle	NOUN	NN	_	0	root	_	_
+1	puddle	puddle	NOUN	NN	_	_	_	_	_
 
 
-1	visually	visually	ADV	RB	_	0	root	_	_
+1	visually	visually	ADV	RB	_	_	_	_	_
 
 
-1	impair	impair	VERB	VB	_	0	root	_	_
+1	impair	impair	VERB	VB	_	_	_	_	_
 
 
-1	navigation	navigation	NOUN	NN	_	0	root	_	_
+1	navigation	navigation	NOUN	NN	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	polarization	polarization	NOUN	NN	_	0	root	_	_
+1	polarization	polarization	NOUN	NN	_	_	_	_	_
 
 
-1	cue	cue	NOUN	NN	_	0	root	_	_
+1	cue	cue	NOUN	NN	_	_	_	_	_
 
 
-1	depth	depth	NOUN	NN	_	0	root	_	_
+1	depth	depth	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	p	p	NOUN	NN	_	0	root	_	_
+1	p	p	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	disambiguate	disambiguate	VERB	VB	_	0	root	_	_
+1	disambiguate	disambiguate	VERB	VB	_	_	_	_	_
 
 
-1	specular	specular	NOUN	NN	_	0	root	_	_
+1	specular	specular	NOUN	NN	_	_	_	_	_
 
 
-1	reflection	reflection	NOUN	NN	_	0	root	_	_
+1	reflection	reflection	NOUN	NN	_	_	_	_	_
 
 
-1	multi	multi	NOUN	NN	_	0	root	_	_
+1	multi	multi	NOUN	NN	_	_	_	_	_
 
 
-1	cue	cue	NOUN	NN	_	0	root	_	_
+1	cue	cue	NOUN	NN	_	_	_	_	_
 
 
-1	approach	approach	NOUN	NN	_	0	root	_	_
+1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	improve	improve	VERB	VB	_	0	root	_	_
+1	improve	improve	VERB	VB	_	_	_	_	_
 
 
-1	robustness	robustness	NOUN	NN	_	0	root	_	_
+1	robustness	robustness	NOUN	NN	_	_	_	_	_
 
 
-1	add	add	VERB	VB	_	0	root	_	_
+1	add	add	VERB	VB	_	_	_	_	_
 
 
-1	hardware	hardware	NOUN	NN	_	0	root	_	_
+1	hardware	hardware	NOUN	NN	_	_	_	_	_
 
 
-1	complexity	complexity	NOUN	NN	_	0	root	_	_
+1	complexity	complexity	NOUN	NN	_	_	_	_	_
 
 
-1	summary	summary	NOUN	NN	_	0	root	_	_
+1	summary	summary	NOUN	NN	_	_	_	_	_
 
 
-1	pure	pure	ADJ	JJ	_	0	root	_	_
+1	pure	pure	ADJ	JJ	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+1	cnn	cnn	PROPN	NNP	_	_	_	_	_
 
 
-1	method	method	NOUN	NN	_	0	root	_	_
+1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	e.g	e.g	SYM	NFP	_	0	root	_	_
+1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	mask	mask	NOUN	NN	_	0	root	_	_
+1	mask	mask	NOUN	NN	_	_	_	_	_
 
 
-1	r	r	X	LS	_	0	root	_	_
+1	r	r	X	LS	_	_	_	_	_
 
 
-1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+1	cnn	cnn	PROPN	NNP	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	ample	ample	ADJ	JJ	_	0	root	_	_
+1	ample	ample	ADJ	JJ	_	_	_	_	_
 
 
-1	label	label	VERB	VB	_	0	root	_	_
+1	label	label	VERB	VB	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	available	available	ADJ	JJ	_	0	root	_	_
+1	available	available	ADJ	JJ	_	_	_	_	_
 
 
-1	limited	limited	ADJ	JJ	_	0	root	_	_
+1	limited	limited	ADJ	JJ	_	_	_	_	_
 
 
-1	reliability	reliability	NOUN	NN	_	0	root	_	_
+1	reliability	reliability	NOUN	NN	_	_	_	_	_
 
 
-1	challenge	challenge	VERB	VB	_	0	root	_	_
+1	challenge	challenge	VERB	VB	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	surface	surface	NOUN	NN	_	0	root	_	_
+1	surface	surface	NOUN	NN	_	_	_	_	_
 
 
-1	condition	condition	NOUN	NN	_	0	root	_	_
+1	condition	condition	NOUN	NN	_	_	_	_	_
 
 
-1	e.g	e.g	SYM	NFP	_	0	root	_	_
+1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	dark	dark	ADJ	JJ	_	0	root	_	_
+1	dark	dark	ADJ	JJ	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	low	low	ADJ	JJ	_	0	root	_	_
+1	low	low	ADJ	JJ	_	_	_	_	_
 
 
-1	contrast	contrast	NOUN	NN	_	0	root	_	_
+1	contrast	contrast	NOUN	NN	_	_	_	_	_
 
 
-1	lightweight	lightweight	ADJ	JJ	_	0	root	_	_
+1	lightweight	lightweight	ADJ	JJ	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	robot	robot	NOUN	NN	_	0	root	_	_
+1	robot	robot	NOUN	NN	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	deployment	deployment	NOUN	NN	_	0	root	_	_
+1	deployment	deployment	NOUN	NN	_	_	_	_	_
 
 
-1	efficiency	efficiency	NOUN	NN	_	0	root	_	_
+1	efficiency	efficiency	NOUN	NN	_	_	_	_	_
 
 
-1	critical	critical	ADJ	JJ	_	0	root	_	_
+1	critical	critical	ADJ	JJ	_	_	_	_	_
 
 
-1	lightweight	lightweight	ADJ	JJ	_	0	root	_	_
+1	lightweight	lightweight	ADJ	JJ	_	_	_	_	_
 
 
-1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+1	cnn	cnn	PROPN	NNP	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	e.g	e.g	SYM	NFP	_	0	root	_	_
+1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	squeeze	squeeze	VERB	VB	_	0	root	_	_
+1	squeeze	squeeze	VERB	VB	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	tiny	tiny	ADJ	JJ	_	0	root	_	_
+1	tiny	tiny	ADJ	JJ	_	_	_	_	_
 
 
-1	yolo	yolo	PROPN	NNP	_	0	root	_	_
+1	yolo	yolo	PROPN	NNP	_	_	_	_	_
 
 
-1	become	become	VERB	VB	_	0	root	_	_
+1	become	become	VERB	VB	_	_	_	_	_
 
 
-1	popular	popular	ADJ	JJ	_	0	root	_	_
+1	popular	popular	ADJ	JJ	_	_	_	_	_
 
 
-1	device	device	NOUN	NN	_	0	root	_	_
+1	device	device	NOUN	NN	_	_	_	_	_
 
 
-1	vision	vision	NOUN	NN	_	0	root	_	_
+1	vision	vision	NOUN	NN	_	_	_	_	_
 
 
-1	example	example	NOUN	NN	_	0	root	_	_
+1	example	example	NOUN	NN	_	_	_	_	_
 
 
-1	bouguettaya	bouguettaya	PROPN	NNP	_	0	root	_	_
+1	bouguettaya	bouguettaya	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	survey	survey	NOUN	NN	_	0	root	_	_
+1	survey	survey	NOUN	NN	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
-1	note	note	NOUN	NN	_	0	root	_	_
+1	note	note	NOUN	NN	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	width	width	NOUN	NN	_	0	root	_	_
+1	width	width	NOUN	NN	_	_	_	_	_
 
 
-1	0.25	0.25	NUM	CD	_	0	root	_	_
+1	0.25	0.25	NUM	CD	_	_	_	_	_
 
 
-1	resolution	resolution	NOUN	NN	_	0	root	_	_
+1	resolution	resolution	NOUN	NN	_	_	_	_	_
 
 
-1	0.714	0.714	NUM	CD	_	0	root	_	_
+1	0.714	0.714	NUM	CD	_	_	_	_	_
 
 
-1	run	run	NOUN	NN	_	0	root	_	_
+1	run	run	NOUN	NN	_	_	_	_	_
 
 
-1	28	28	NUM	LS	_	0	root	_	_
+1	28	28	NUM	LS	_	_	_	_	_
 
 
-1	fps	fps	NOUN	NN	_	0	root	_	_
+1	fps	fps	NOUN	NN	_	_	_	_	_
 
 
-1	nvidia	nvidia	PROPN	NNP	_	0	root	_	_
+1	nvidia	nvidia	PROPN	NNP	_	_	_	_	_
 
 
-1	jetson	jetson	NOUN	NN	_	0	root	_	_
+1	jetson	jetson	NOUN	NN	_	_	_	_	_
 
 
-1	tx2	tx2	NOUN	NN	_	0	root	_	_
+1	tx2	tx2	NOUN	NN	_	_	_	_	_
 
 
-1	also	also	ADV	RB	_	0	root	_	_
+1	also	also	ADV	RB	_	_	_	_	_
 
 
-1	note	note	NOUN	NN	_	0	root	_	_
+1	note	note	NOUN	NN	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	ssd	ssd	NOUN	NN	_	0	root	_	_
+1	ssd	ssd	NOUN	NN	_	_	_	_	_
 
 
-1	object	object	NOUN	NN	_	0	root	_	_
+1	object	object	NOUN	NN	_	_	_	_	_
 
 
-1	detector	detector	NOUN	NN	_	0	root	_	_
+1	detector	detector	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	depthwise	depthwise	PROPN	NNP	_	0	root	_	_
+1	depthwise	depthwise	PROPN	NNP	_	_	_	_	_
 
 
-1	convolution	convolution	NOUN	NN	_	0	root	_	_
+1	convolution	convolution	NOUN	NN	_	_	_	_	_
 
 
-1	achieve	achieve	VERB	VB	_	0	root	_	_
+1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
-1	strong	strong	ADJ	JJ	_	0	root	_	_
+1	strong	strong	ADJ	JJ	_	_	_	_	_
 
 
-1	coco	coco	PROPN	NNP	_	0	root	_	_
+1	coco	coco	PROPN	NNP	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	ssdlite	ssdlite	NOUN	NN	_	0	root	_	_
+1	ssdlite	ssdlite	NOUN	NN	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	v2	v2	PROPN	NNP	_	0	root	_	_
+1	v2	v2	PROPN	NNP	_	_	_	_	_
 
 
-1	backbone	backbone	NOUN	NN	_	0	root	_	_
+1	backbone	backbone	NOUN	NN	_	_	_	_	_
 
 
-1	outperform	outperform	VERB	VB	_	0	root	_	_
+1	outperform	outperform	VERB	VB	_	_	_	_	_
 
 
-1	yolov2	yolov2	PROPN	ADD	_	0	root	_	_
+1	yolov2	yolov2	PROPN	ADD	_	_	_	_	_
 
 
-1	coco	coco	PROPN	NNP	_	0	root	_	_
+1	coco	coco	PROPN	NNP	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	20x	20x	NUM	CD	_	0	root	_	_
+1	20x	20x	NUM	CD	_	_	_	_	_
 
 
-1	efficiency	efficiency	NOUN	NN	_	0	root	_	_
+1	efficiency	efficiency	NOUN	NN	_	_	_	_	_
 
 
-1	10x	10x	NUM	LS	_	0	root	_	_
+1	10x	10x	NUM	LS	_	_	_	_	_
 
 
-1	small	small	ADJ	JJ	_	0	root	_	_
+1	small	small	ADJ	JJ	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	work	work	NOUN	NN	_	0	root	_	_
+1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	similarly	similarly	ADV	RB	_	0	root	_	_
+1	similarly	similarly	ADV	RB	_	_	_	_	_
 
 
-1	demonstrate	demonstrate	VERB	VB	_	0	root	_	_
+1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
 
 
-1	reduce	reduce	VERB	VB	_	0	root	_	_
+1	reduce	reduce	VERB	VB	_	_	_	_	_
 
 
-1	channel	channel	NOUN	NN	_	0	root	_	_
+1	channel	channel	NOUN	NN	_	_	_	_	_
 
 
-1	quantize	quantize	VERB	VB	_	0	root	_	_
+1	quantize	quantize	VERB	VB	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	meet	meet	VERB	VB	_	0	root	_	_
+1	meet	meet	VERB	VB	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	constraint	constraint	NOUN	NN	_	0	root	_	_
+1	constraint	constraint	NOUN	NN	_	_	_	_	_
 
 
-1	retain	retain	VERB	VB	_	0	root	_	_
+1	retain	retain	VERB	VB	_	_	_	_	_
 
 
-1	acceptable	acceptable	ADJ	JJ	_	0	root	_	_
+1	acceptable	acceptable	ADJ	JJ	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	context	context	NOUN	NN	_	0	root	_	_
+1	context	context	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	paper	paper	NOUN	NN	_	0	root	_	_
+1	paper	paper	NOUN	NN	_	_	_	_	_
 
 
-1	explicitly	explicitly	ADV	RB	_	0	root	_	_
+1	explicitly	explicitly	ADV	RB	_	_	_	_	_
 
 
-1	focus	focus	VERB	VB	_	0	root	_	_
+1	focus	focus	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	insight	insight	NOUN	NN	_	0	root	_	_
+1	insight	insight	NOUN	NN	_	_	_	_	_
 
 
-1	clear	clear	ADJ	JJ	_	0	root	_	_
+1	clear	clear	ADJ	JJ	_	_	_	_	_
 
 
-1	one	one	NUM	CD	_	0	root	_	_
+1	one	one	NUM	CD	_	_	_	_	_
 
 
-1	deploy	deploy	VERB	VB	_	0	root	_	_
+1	deploy	deploy	VERB	VB	_	_	_	_	_
 
 
-1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
-1	robot	robot	NOUN	NN	_	0	root	_	_
+1	robot	robot	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	lightweight	lightweight	ADJ	JJ	_	0	root	_	_
+1	lightweight	lightweight	ADJ	JJ	_	_	_	_	_
 
 
-1	variant	variant	NOUN	NN	_	0	root	_	_
+1	variant	variant	NOUN	NN	_	_	_	_	_
 
 
-1	work	work	NOUN	NN	_	0	root	_	_
+1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	differ	differ	VERB	VB	_	0	root	_	_
+1	differ	differ	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	pretraine	pretraine	NOUN	NN	_	0	root	_	_
+1	pretraine	pretraine	NOUN	NN	_	_	_	_	_
 
 
-1	network	network	NOUN	NN	_	0	root	_	_
+1	network	network	NOUN	NN	_	_	_	_	_
 
 
-1	like	like	INTJ	UH	_	0	root	_	_
+1	like	like	INTJ	UH	_	_	_	_	_
 
 
-1	full	full	ADJ	JJ	_	0	root	_	_
+1	full	full	ADJ	JJ	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	res	res	INTJ	UH	_	0	root	_	_
+1	res	res	INTJ	UH	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	efficient	efficient	ADJ	JJ	_	0	root	_	_
+1	efficient	efficient	ADJ	JJ	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	evaluate	evaluate	VERB	VB	_	0	root	_	_
+1	evaluate	evaluate	VERB	VB	_	_	_	_	_
 
 
-1	feasibility	feasibility	NOUN	NN	_	0	root	_	_
+1	feasibility	feasibility	NOUN	NN	_	_	_	_	_
 
 
-1	consumer	consumer	NOUN	NN	_	0	root	_	_
+1	consumer	consumer	NOUN	NN	_	_	_	_	_
 
 
-1	hardware	hardware	NOUN	NN	_	0	root	_	_
+1	hardware	hardware	NOUN	NN	_	_	_	_	_
 
 
-1	robotic	robotic	ADJ	JJ	_	0	root	_	_
+1	robotic	robotic	ADJ	JJ	_	_	_	_	_
 
 
-1	platform	platform	NOUN	NN	_	0	root	_	_
+1	platform	platform	NOUN	NN	_	_	_	_	_
 
 
-1	compare	compare	VERB	VB	_	0	root	_	_
+1	compare	compare	VERB	VB	_	_	_	_	_
 
 
-1	performance	performance	NOUN	NN	_	0	root	_	_
+1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	0	root	_	_
+1	across	across	ADV	RB	_	_	_	_	_
 
 
-1	standard	standard	ADJ	JJ	_	0	root	_	_
+1	standard	standard	ADJ	JJ	_	_	_	_	_
 
 
-1	pretraine	pretraine	NOUN	NN	_	0	root	_	_
+1	pretraine	pretraine	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	modality	modality	NOUN	NN	_	0	root	_	_
+1	modality	modality	NOUN	NN	_	_	_	_	_
 
 
-1	assess	assess	VERB	VB	_	0	root	_	_
+1	assess	assess	VERB	VB	_	_	_	_	_
 
 
-1	tradeoff	tradeoff	NOUN	NN	_	0	root	_	_
+1	tradeoff	tradeoff	NOUN	NN	_	_	_	_	_
 
 
-1	directly	directly	ADV	RB	_	0	root	_	_
+1	directly	directly	ADV	RB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	infrare	infrare	NOUN	NN	_	0	root	_	_
+1	infrare	infrare	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	study	study	NOUN	NN	_	0	root	_	_
+1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	leverage	leverage	NOUN	NN	_	0	root	_	_
+1	leverage	leverage	NOUN	NN	_	_	_	_	_
 
 
-1	temperature	temperature	NOUN	NN	_	0	root	_	_
+1	temperature	temperature	NOUN	NN	_	_	_	_	_
 
 
-1	contrast	contrast	NOUN	NN	_	0	root	_	_
+1	contrast	contrast	NOUN	NN	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	surrounding	surrounding	VERB	VBG	_	0	root	_	_
+1	surrounding	surrounding	VERB	VBG	_	_	_	_	_
 
 
-1	appuhamy	appuhamy	NOUN	NN	_	0	root	_	_
+1	appuhamy	appuhamy	NOUN	NN	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	develop	develop	VERB	VB	_	0	root	_	_
+1	develop	develop	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	method	method	NOUN	NN	_	0	root	_	_
+1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	map	map	NOUN	NN	_	0	root	_	_
+1	map	map	NOUN	NN	_	_	_	_	_
 
 
-1	surface	surface	NOUN	NN	_	0	root	_	_
+1	surface	surface	NOUN	NN	_	_	_	_	_
 
 
-1	moisture	moisture	NOUN	NN	_	0	root	_	_
+1	moisture	moisture	NOUN	NN	_	_	_	_	_
 
 
-1	spray	spray	NOUN	NN	_	0	root	_	_
+1	spray	spray	NOUN	NN	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	onto	onto	ADP	IN	_	0	root	_	_
+1	onto	onto	ADP	IN	_	_	_	_	_
 
 
-1	surface	surface	NOUN	NN	_	0	root	_	_
+1	surface	surface	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	ir	ir	NOUN	NN	_	0	root	_	_
+1	ir	ir	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	plus	plus	CCONJ	CC	_	0	root	_	_
+1	plus	plus	CCONJ	CC	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	processing	processing	NOUN	NN	_	0	root	_	_
+1	processing	processing	NOUN	NN	_	_	_	_	_
 
 
-1	highlight	highlight	VERB	VB	_	0	root	_	_
+1	highlight	highlight	VERB	VB	_	_	_	_	_
 
 
-1	area	area	NOUN	NN	_	0	root	_	_
+1	area	area	NOUN	NN	_	_	_	_	_
 
 
-1	large	large	ADJ	JJ	_	0	root	_	_
+1	large	large	ADJ	JJ	_	_	_	_	_
 
 
-1	temperature	temperature	NOUN	NN	_	0	root	_	_
+1	temperature	temperature	NOUN	NN	_	_	_	_	_
 
 
-1	gradient	gradient	NOUN	NN	_	0	root	_	_
+1	gradient	gradient	NOUN	NN	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	wet	wet	ADJ	JJ	_	0	root	_	_
+1	wet	wet	ADJ	JJ	_	_	_	_	_
 
 
-1	coverage	coverage	NOUN	NN	_	0	root	_	_
+1	coverage	coverage	NOUN	NN	_	_	_	_	_
 
 
-1	noninvasively	noninvasively	ADV	RB	_	0	root	_	_
+1	noninvasively	noninvasively	ADV	RB	_	_	_	_	_
 
 
-1	experiment	experiment	VERB	VB	_	0	root	_	_
+1	experiment	experiment	VERB	VB	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	0	root	_	_
+1	show	show	VERB	VB	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	5	5	NUM	LS	_	0	root	_	_
+1	5	5	NUM	LS	_	_	_	_	_
 
 
-1	c	c	NOUN	NN	_	0	root	_	_
+1	c	c	NOUN	NN	_	_	_	_	_
 
 
-1	difference	difference	NOUN	NN	_	0	root	_	_
+1	difference	difference	NOUN	NN	_	_	_	_	_
 
 
-1	background	background	NOUN	NN	_	0	root	_	_
+1	background	background	NOUN	NN	_	_	_	_	_
 
 
-1	reliably	reliably	ADV	RB	_	0	root	_	_
+1	reliably	reliably	ADV	RB	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	industrial	industrial	ADJ	JJ	_	0	root	_	_
+1	industrial	industrial	ADJ	JJ	_	_	_	_	_
 
 
-1	maintenance	maintenance	NOUN	NN	_	0	root	_	_
+1	maintenance	maintenance	NOUN	NN	_	_	_	_	_
 
 
-1	bao	bao	PROPN	NNP	_	0	root	_	_
+1	bao	bao	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	design	design	NOUN	NN	_	0	root	_	_
+1	design	design	NOUN	NN	_	_	_	_	_
 
 
-1	dual	dual	NOUN	NN	_	0	root	_	_
+1	dual	dual	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	ir	ir	NOUN	NN	_	0	root	_	_
+1	ir	ir	NOUN	NN	_	_	_	_	_
 
 
-1	visible	visible	ADJ	JJ	_	0	root	_	_
+1	visible	visible	ADJ	JJ	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	find	find	VERB	VB	_	0	root	_	_
+1	find	find	VERB	VB	_	_	_	_	_
 
 
-1	colorless	colorless	ADJ	JJ	_	0	root	_	_
+1	colorless	colorless	ADJ	JJ	_	_	_	_	_
 
 
-1	fluid	fluid	NOUN	NN	_	0	root	_	_
+1	fluid	fluid	NOUN	NN	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	e.g	e.g	SYM	NFP	_	0	root	_	_
+1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	water	water	NOUN	NN	_	0	root	_	_
+1	water	water	NOUN	NN	_	_	_	_	_
 
 
-1	hot	hot	ADJ	JJ	_	0	root	_	_
+1	hot	hot	ADJ	JJ	_	_	_	_	_
 
 
-1	pipework	pipework	NOUN	NN	_	0	root	_	_
+1	pipework	pipework	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	ir	ir	NOUN	NN	_	0	root	_	_
+1	ir	ir	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	locate	locate	VERB	VB	_	0	root	_	_
+1	locate	locate	VERB	VB	_	_	_	_	_
 
 
-1	cool	cool	ADJ	JJ	_	0	root	_	_
+1	cool	cool	ADJ	JJ	_	_	_	_	_
 
 
-1	effusion	effusion	NOUN	NN	_	0	root	_	_
+1	effusion	effusion	NOUN	NN	_	_	_	_	_
 
 
-1	region	region	NOUN	NN	_	0	root	_	_
+1	region	region	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	visible	visible	ADJ	JJ	_	0	root	_	_
+1	visible	visible	ADJ	JJ	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	refine	refine	VERB	VB	_	0	root	_	_
+1	refine	refine	VERB	VB	_	_	_	_	_
 
 
-1	contour	contour	NOUN	NN	_	0	root	_	_
+1	contour	contour	NOUN	NN	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	bao	bao	PROPN	NNP	_	0	root	_	_
+1	bao	bao	PROPN	NNP	_	_	_	_	_
 
 
-1	et	et	X	FW	_	0	root	_	_
+1	et	et	X	FW	_	_	_	_	_
 
 
-1	al	al	PROPN	NNP	_	0	root	_	_
+1	al	al	PROPN	NNP	_	_	_	_	_
 
 
-1	explain	explain	VERB	VB	_	0	root	_	_
+1	explain	explain	VERB	VB	_	_	_	_	_
 
 
-1	overall	overall	ADV	RB	_	0	root	_	_
+1	overall	overall	ADV	RB	_	_	_	_	_
 
 
-1	process	process	NOUN	NN	_	0	root	_	_
+1	process	process	NOUN	NN	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	0	root	_	_
+1	first	first	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	infrare	infrare	NOUN	NN	_	0	root	_	_
+1	infrare	infrare	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	locate	locate	VERB	VB	_	0	root	_	_
+1	locate	locate	VERB	VB	_	_	_	_	_
 
 
-1	potential	potential	ADJ	JJ	_	0	root	_	_
+1	potential	potential	ADJ	JJ	_	_	_	_	_
 
 
-1	effusion	effusion	NOUN	NN	_	0	root	_	_
+1	effusion	effusion	NOUN	NN	_	_	_	_	_
 
 
-1	conduct	conduct	VERB	VB	_	0	root	_	_
+1	conduct	conduct	VERB	VB	_	_	_	_	_
 
 
-1	secondary	secondary	NOUN	NN	_	0	root	_	_
+1	secondary	secondary	NOUN	NN	_	_	_	_	_
 
 
-1	assessment	assessment	NOUN	NN	_	0	root	_	_
+1	assessment	assessment	NOUN	NN	_	_	_	_	_
 
 
-1	final	final	ADJ	JJ	_	0	root	_	_
+1	final	final	ADJ	JJ	_	_	_	_	_
 
 
-1	effusion	effusion	NOUN	NN	_	0	root	_	_
+1	effusion	effusion	NOUN	NN	_	_	_	_	_
 
 
-1	characterization	characterization	NOUN	NN	_	0	root	_	_
+1	characterization	characterization	NOUN	NN	_	_	_	_	_
 
 
-1	pipeline	pipeline	NOUN	NN	_	0	root	_	_
+1	pipeline	pipeline	NOUN	NN	_	_	_	_	_
 
 
-1	approach	approach	NOUN	NN	_	0	root	_	_
+1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	isolate	isolate	VERB	VB	_	0	root	_	_
+1	isolate	isolate	VERB	VB	_	_	_	_	_
 
 
-1	candidate	candidate	NOUN	NN	_	0	root	_	_
+1	candidate	candidate	NOUN	NN	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	0	root	_	_
+1	via	via	ADV	RB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	contrast	contrast	NOUN	NN	_	0	root	_	_
+1	contrast	contrast	NOUN	NN	_	_	_	_	_
 
 
-1	confirm	confirm	VERB	VB	_	0	root	_	_
+1	confirm	confirm	VERB	VB	_	_	_	_	_
 
 
-1	via	via	ADV	RB	_	0	root	_	_
+1	via	via	ADV	RB	_	_	_	_	_
 
 
-1	visual	visual	ADJ	JJ	_	0	root	_	_
+1	visual	visual	ADJ	JJ	_	_	_	_	_
 
 
-1	processing	processing	NOUN	NN	_	0	root	_	_
+1	processing	processing	NOUN	NN	_	_	_	_	_
 
 
-1	broadly	broadly	ADV	RB	_	0	root	_	_
+1	broadly	broadly	ADV	RB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	widely	widely	ADV	RB	_	0	root	_	_
+1	widely	widely	ADV	RB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	gas	gas	NOUN	NN	_	0	root	_	_
+1	gas	gas	NOUN	NN	_	_	_	_	_
 
 
-1	pipeline	pipeline	NOUN	NN	_	0	root	_	_
+1	pipeline	pipeline	NOUN	NN	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	example	example	NOUN	NN	_	0	root	_	_
+1	example	example	NOUN	NN	_	_	_	_	_
 
 
-1	zhang	zhang	PROPN	NNP	_	0	root	_	_
+1	zhang	zhang	PROPN	NNP	_	_	_	_	_
 
 
-1	zhang	zhang	PROPN	NNP	_	0	root	_	_
+1	zhang	zhang	PROPN	NNP	_	_	_	_	_
 
 
-1	note	note	NOUN	NN	_	0	root	_	_
+1	note	note	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	often	often	ADV	RB	_	0	root	_	_
+1	often	often	ADV	RB	_	_	_	_	_
 
 
-1	optical	optical	ADJ	JJ	_	0	root	_	_
+1	optical	optical	ADJ	JJ	_	_	_	_	_
 
 
-1	gas	gas	NOUN	NN	_	0	root	_	_
+1	gas	gas	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	less	less	ADJ	JJR	_	0	root	_	_
+1	less	less	ADJ	JJR	_	_	_	_	_
 
 
-1	prone	prone	ADJ	JJ	_	0	root	_	_
+1	prone	prone	ADJ	JJ	_	_	_	_	_
 
 
-1	affect	affect	VERB	VB	_	0	root	_	_
+1	affect	affect	VERB	VB	_	_	_	_	_
 
 
-1	weather	weather	NOUN	NN	_	0	root	_	_
+1	weather	weather	NOUN	NN	_	_	_	_	_
 
 
-1	provide	provide	VERB	VB	_	0	root	_	_
+1	provide	provide	VERB	VB	_	_	_	_	_
 
 
-1	orthogonal	orthogonal	ADJ	JJ	_	0	root	_	_
+1	orthogonal	orthogonal	ADJ	JJ	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	source	source	NOUN	NN	_	0	root	_	_
+1	source	source	NOUN	NN	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	monitor	monitor	VERB	VB	_	0	root	_	_
+1	monitor	monitor	VERB	VB	_	_	_	_	_
 
 
-1	feed	feed	VERB	VB	_	0	root	_	_
+1	feed	feed	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
-1	alex	alex	PROPN	NNP	_	0	root	_	_
+1	alex	alex	PROPN	NNP	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	res	res	INTJ	UH	_	0	root	_	_
+1	res	res	INTJ	UH	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	net	net	NOUN	NN	_	0	root	_	_
+1	net	net	NOUN	NN	_	_	_	_	_
 
 
-1	etc	etc	NOUN	FW	_	0	root	_	_
+1	etc	etc	NOUN	FW	_	_	_	_	_
 
 
-1	part	part	NOUN	NN	_	0	root	_	_
+1	part	part	NOUN	NN	_	_	_	_	_
 
 
-1	multi	multi	NOUN	NN	_	0	root	_	_
+1	multi	multi	NOUN	NN	_	_	_	_	_
 
 
-1	sensor	sensor	NOUN	NN	_	0	root	_	_
+1	sensor	sensor	NOUN	NN	_	_	_	_	_
 
 
-1	pipeline	pipeline	NOUN	NN	_	0	root	_	_
+1	pipeline	pipeline	NOUN	NN	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	sum	sum	NOUN	NN	_	0	root	_	_
+1	sum	sum	NOUN	NN	_	_	_	_	_
 
 
-1	study	study	NOUN	NN	_	0	root	_	_
+1	study	study	NOUN	NN	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	0	root	_	_
+1	show	show	VERB	VB	_	_	_	_	_
 
 
-1	ir	ir	NOUN	NN	_	0	root	_	_
+1	ir	ir	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	reveal	reveal	VERB	VB	_	0	root	_	_
+1	reveal	reveal	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	invisible	invisible	ADJ	JJ	_	0	root	_	_
+1	invisible	invisible	ADJ	JJ	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	especially	especially	ADV	RB	_	0	root	_	_
+1	especially	especially	ADV	RB	_	_	_	_	_
 
 
-1	transparent	transparent	ADJ	JJ	_	0	root	_	_
+1	transparent	transparent	ADJ	JJ	_	_	_	_	_
 
 
-1	fluid	fluid	NOUN	NN	_	0	root	_	_
+1	fluid	fluid	NOUN	NN	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	ir	ir	NOUN	NN	_	0	root	_	_
+1	ir	ir	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	analysis	analysis	NOUN	NN	_	0	root	_	_
+1	analysis	analysis	NOUN	NN	_	_	_	_	_
 
 
-1	sometimes	sometimes	ADV	RB	_	0	root	_	_
+1	sometimes	sometimes	ADV	RB	_	_	_	_	_
 
 
-1	additional	additional	ADJ	JJ	_	0	root	_	_
+1	additional	additional	ADJ	JJ	_	_	_	_	_
 
 
-1	sensor	sensor	NOUN	NN	_	0	root	_	_
+1	sensor	sensor	NOUN	NN	_	_	_	_	_
 
 
-1	yield	yield	VERB	VB	_	0	root	_	_
+1	yield	yield	VERB	VB	_	_	_	_	_
 
 
-1	high	high	ADJ	JJ	_	0	root	_	_
+1	high	high	ADJ	JJ	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	comparison	comparison	NOUN	NN	_	0	root	_	_
+1	comparison	comparison	NOUN	NN	_	_	_	_	_
 
 
-1	approach	approach	NOUN	NN	_	0	root	_	_
+1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	summary	summary	NOUN	NN	_	0	root	_	_
+1	summary	summary	NOUN	NN	_	_	_	_	_
 
 
-1	prior	prior	ADJ	JJ	_	0	root	_	_
+1	prior	prior	ADJ	JJ	_	_	_	_	_
 
 
-1	method	method	NOUN	NN	_	0	root	_	_
+1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	specialized	specialized	VERB	VBN	_	0	root	_	_
+1	specialized	specialized	VERB	VBN	_	_	_	_	_
 
 
-1	cue	cue	NOUN	NN	_	0	root	_	_
+1	cue	cue	NOUN	NN	_	_	_	_	_
 
 
-1	multi	multi	NOUN	NN	_	0	root	_	_
+1	multi	multi	NOUN	NN	_	_	_	_	_
 
 
-1	stage	stage	NOUN	NN	_	0	root	_	_
+1	stage	stage	NOUN	NN	_	_	_	_	_
 
 
-1	pipeline	pipeline	NOUN	NN	_	0	root	_	_
+1	pipeline	pipeline	NOUN	NN	_	_	_	_	_
 
 
-1	e.g	e.g	SYM	NFP	_	0	root	_	_
+1	e.g	e.g	SYM	NFP	_	_	_	_	_
 
 
-1	polarization	polarization	NOUN	NN	_	0	root	_	_
+1	polarization	polarization	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	visible	visible	ADJ	JJ	_	0	root	_	_
+1	visible	visible	ADJ	JJ	_	_	_	_	_
 
 
-1	etc	etc	NOUN	FW	_	0	root	_	_
+1	etc	etc	NOUN	FW	_	_	_	_	_
 
 
-1	custom	custom	NOUN	NN	_	0	root	_	_
+1	custom	custom	NOUN	NN	_	_	_	_	_
 
 
-1	cnns	cnns	NOUN	NNS	_	0	root	_	_
+1	cnns	cnns	NOUN	NNS	_	_	_	_	_
 
 
-1	contrast	contrast	NOUN	NN	_	0	root	_	_
+1	contrast	contrast	NOUN	NN	_	_	_	_	_
 
 
-1	approach	approach	NOUN	NN	_	0	root	_	_
+1	approach	approach	NOUN	NN	_	_	_	_	_
 
 
-1	evaluate	evaluate	VERB	VB	_	0	root	_	_
+1	evaluate	evaluate	VERB	VB	_	_	_	_	_
 
 
-1	general	general	ADJ	JJ	_	0	root	_	_
+1	general	general	ADJ	JJ	_	_	_	_	_
 
 
-1	cnn	cnn	PROPN	NNP	_	0	root	_	_
+1	cnn	cnn	PROPN	NNP	_	_	_	_	_
 
 
-1	classifier	classifier	NOUN	NN	_	0	root	_	_
+1	classifier	classifier	NOUN	NN	_	_	_	_	_
 
 
-1	pretraine	pretraine	NOUN	NN	_	0	root	_	_
+1	pretraine	pretraine	NOUN	NN	_	_	_	_	_
 
 
-1	large	large	ADJ	JJ	_	0	root	_	_
+1	large	large	ADJ	JJ	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	fine	fine	ADJ	JJ	_	0	root	_	_
+1	fine	fine	ADJ	JJ	_	_	_	_	_
 
 
-1	tune	tune	NOUN	NN	_	0	root	_	_
+1	tune	tune	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	compare	compare	VERB	VB	_	0	root	_	_
+1	compare	compare	VERB	VB	_	_	_	_	_
 
 
-1	performance	performance	NOUN	NN	_	0	root	_	_
+1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	fuse	fuse	NOUN	NN	_	0	root	_	_
+1	fuse	fuse	NOUN	NN	_	_	_	_	_
 
 
-1	input	input	NOUN	NN	_	0	root	_	_
+1	input	input	NOUN	NN	_	_	_	_	_
 
 
-1	explicitly	explicitly	ADV	RB	_	0	root	_	_
+1	explicitly	explicitly	ADV	RB	_	_	_	_	_
 
 
-1	measure	measure	NOUN	NN	_	0	root	_	_
+1	measure	measure	NOUN	NN	_	_	_	_	_
 
 
-1	inference	inference	NOUN	NN	_	0	root	_	_
+1	inference	inference	NOUN	NN	_	_	_	_	_
 
 
-1	speed	speed	NOUN	NN	_	0	root	_	_
+1	speed	speed	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	unlike	unlike	ADP	IN	_	0	root	_	_
+1	unlike	unlike	ADP	IN	_	_	_	_	_
 
 
-1	engineer	engineer	NOUN	NN	_	0	root	_	_
+1	engineer	engineer	NOUN	NN	_	_	_	_	_
 
 
-1	modality	modality	NOUN	NN	_	0	root	_	_
+1	modality	modality	NOUN	NN	_	_	_	_	_
 
 
-1	specific	specific	ADJ	JJ	_	0	root	_	_
+1	specific	specific	ADJ	JJ	_	_	_	_	_
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	0	root	_	_
+1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
 
 
-1	investigate	investigate	VERB	VB	_	0	root	_	_
+1	investigate	investigate	VERB	VB	_	_	_	_	_
 
 
-1	extent	extent	NOUN	NN	_	0	root	_	_
+1	extent	extent	NOUN	NN	_	_	_	_	_
 
 
-1	shelf	shelf	NOUN	NN	_	0	root	_	_
+1	shelf	shelf	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	handle	handle	NOUN	NN	_	0	root	_	_
+1	handle	handle	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	different	different	ADJ	JJ	_	0	root	_	_
+1	different	different	ADJ	JJ	_	_	_	_	_
 
 
-1	modality	modality	NOUN	NN	_	0	root	_	_
+1	modality	modality	NOUN	NN	_	_	_	_	_
 
 
-1	yield	yield	VERB	VB	_	0	root	_	_
+1	yield	yield	VERB	VB	_	_	_	_	_
 
 
-1	insight	insight	NOUN	NN	_	0	root	_	_
+1	insight	insight	NOUN	NN	_	_	_	_	_
 
 
-1	whether	whether	SCONJ	IN	_	0	root	_	_
+1	whether	whether	SCONJ	IN	_	_	_	_	_
 
 
-1	unify	unify	VERB	VB	_	0	root	_	_
+1	unify	unify	VERB	VB	_	_	_	_	_
 
 
-1	learn	learn	VERB	VB	_	0	root	_	_
+1	learn	learn	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	replace	replace	VERB	VB	_	0	root	_	_
+1	replace	replace	VERB	VB	_	_	_	_	_
 
 
-1	complex	complex	ADJ	JJ	_	0	root	_	_
+1	complex	complex	ADJ	JJ	_	_	_	_	_
 
 
-1	hand	hand	NOUN	NN	_	0	root	_	_
+1	hand	hand	NOUN	NN	_	_	_	_	_
 
 
-1	tune	tune	NOUN	NN	_	0	root	_	_
+1	tune	tune	NOUN	NN	_	_	_	_	_
 
 
-1	pipeline	pipeline	NOUN	NN	_	0	root	_	_
+1	pipeline	pipeline	NOUN	NN	_	_	_	_	_
 
 
-1	iii	iii	INTJ	UH	_	0	root	_	_
+1	iii	iii	INTJ	UH	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	experimental	experimental	ADJ	JJ	_	0	root	_	_
+1	experimental	experimental	ADJ	JJ	_	_	_	_	_
 
 
-1	setup	setup	NOUN	NN	_	0	root	_	_
+1	setup	setup	NOUN	NN	_	_	_	_	_
 
 
-1	able	able	ADJ	JJ	_	0	root	_	_
+1	able	able	ADJ	JJ	_	_	_	_	_
 
 
-1	create	create	VERB	VB	_	0	root	_	_
+1	create	create	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	detect	detect	VERB	VB	_	0	root	_	_
+1	detect	detect	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	0	root	_	_
+1	first	first	ADV	RB	_	_	_	_	_
 
 
-1	necessary	necessary	ADJ	JJ	_	0	root	_	_
+1	necessary	necessary	ADJ	JJ	_	_	_	_	_
 
 
-1	collect	collect	VERB	VB	_	0	root	_	_
+1	collect	collect	VERB	VB	_	_	_	_	_
 
 
-1	sample	sample	NOUN	NN	_	0	root	_	_
+1	sample	sample	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	train	train	NOUN	NN	_	0	root	_	_
+1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	0	root	_	_
+1	since	since	ADV	RB	_	_	_	_	_
 
 
-1	standard	standard	ADJ	JJ	_	0	root	_	_
+1	standard	standard	ADJ	JJ	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	struggle	struggle	NOUN	NN	_	0	root	_	_
+1	struggle	struggle	NOUN	NN	_	_	_	_	_
 
 
-1	distinguish	distinguish	VERB	VB	_	0	root	_	_
+1	distinguish	distinguish	VERB	VB	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	water	water	NOUN	NN	_	0	root	_	_
+1	water	water	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	similar	similar	ADJ	JJ	_	0	root	_	_
+1	similar	similar	ADJ	JJ	_	_	_	_	_
 
 
-1	human	human	ADJ	JJ	_	0	root	_	_
+1	human	human	ADJ	JJ	_	_	_	_	_
 
 
-1	vision	vision	NOUN	NN	_	0	root	_	_
+1	vision	vision	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	collect	collect	VERB	VB	_	0	root	_	_
+1	collect	collect	VERB	VB	_	_	_	_	_
 
 
-1	combination	combination	NOUN	NN	_	0	root	_	_
+1	combination	combination	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	topdon	topdon	PROPN	NNP	_	0	root	_	_
+1	topdon	topdon	PROPN	NNP	_	_	_	_	_
 
 
-1	tc001	tc001	PROPN	ADD	_	0	root	_	_
+1	tc001	tc001	PROPN	ADD	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	genius	genius	NOUN	NN	_	0	root	_	_
+1	genius	genius	NOUN	NN	_	_	_	_	_
 
 
-1	wide	wide	ADJ	JJ	_	0	root	_	_
+1	wide	wide	ADJ	JJ	_	_	_	_	_
 
 
-1	cam	cam	NOUN	NN	_	0	root	_	_
+1	cam	cam	NOUN	NN	_	_	_	_	_
 
 
-1	f100	f100	NUM	LS	_	0	root	_	_
+1	f100	f100	NUM	LS	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	python	python	NOUN	NN	_	0	root	_	_
+1	python	python	NOUN	NN	_	_	_	_	_
 
 
-1	script	script	NOUN	NN	_	0	root	_	_
+1	script	script	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	save	save	VERB	VB	_	0	root	_	_
+1	save	save	VERB	VB	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	find	find	VERB	VB	_	0	root	_	_
+1	find	find	VERB	VB	_	_	_	_	_
 
 
-1	follow	follow	VERB	VB	_	0	root	_	_
+1	follow	follow	VERB	VB	_	_	_	_	_
 
 
-1	git	git	PROPN	NNP	_	0	root	_	_
+1	git	git	PROPN	NNP	_	_	_	_	_
 
 
-1	hub	hub	NOUN	NN	_	0	root	_	_
+1	hub	hub	NOUN	NN	_	_	_	_	_
 
 
-1	repository	repository	NOUN	NN	_	0	root	_	_
+1	repository	repository	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	capture	capture	VERB	VB	_	0	root	_	_
+1	capture	capture	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	put	put	VERB	VB	_	0	root	_	_
+1	put	put	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	folder	folder	NOUN	NN	_	0	root	_	_
+1	folder	folder	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	0	root	_	_
+1	without	without	ADP	IN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	put	put	VERB	VB	_	0	root	_	_
+1	put	put	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	folder	folder	NOUN	NN	_	0	root	_	_
+1	folder	folder	NOUN	NN	_	_	_	_	_
 
 
-1	end	end	NOUN	NN	_	0	root	_	_
+1	end	end	NOUN	NN	_	_	_	_	_
 
 
-1	research	research	NOUN	NN	_	0	root	_	_
+1	research	research	NOUN	NN	_	_	_	_	_
 
 
-1	4000	4000	NUM	CD	_	0	root	_	_
+1	4000	4000	NUM	CD	_	_	_	_	_
 
 
-1	total	total	ADJ	JJ	_	0	root	_	_
+1	total	total	ADJ	JJ	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	collect	collect	VERB	VB	_	0	root	_	_
+1	collect	collect	VERB	VB	_	_	_	_	_
 
 
-1	evenly	evenly	ADV	RB	_	0	root	_	_
+1	evenly	evenly	ADV	RB	_	_	_	_	_
 
 
-1	split	split	VERB	VBN	_	0	root	_	_
+1	split	split	VERB	VBN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	0	root	_	_
+1	across	across	ADV	RB	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	type	type	NOUN	NN	_	0	root	_	_
+1	type	type	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	evenly	evenly	ADV	RB	_	0	root	_	_
+1	evenly	evenly	ADV	RB	_	_	_	_	_
 
 
-1	split	split	VERB	VBN	_	0	root	_	_
+1	split	split	VERB	VBN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	0	root	_	_
+1	across	across	ADV	RB	_	_	_	_	_
 
 
-1	class	class	NOUN	NN	_	0	root	_	_
+1	class	class	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	four	four	NUM	CD	_	0	root	_	_
+1	four	four	NUM	CD	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	water	water	NOUN	NN	_	0	root	_	_
+1	water	water	NOUN	NN	_	_	_	_	_
 
 
-1	coke	coke	NOUN	NN	_	0	root	_	_
+1	coke	coke	NOUN	NN	_	_	_	_	_
 
 
-1	red	red	ADJ	JJ	_	0	root	_	_
+1	red	red	ADJ	JJ	_	_	_	_	_
 
 
-1	juice	juice	NOUN	NN	_	0	root	_	_
+1	juice	juice	NOUN	NN	_	_	_	_	_
 
 
-1	yellow	yellow	ADJ	JJ	_	0	root	_	_
+1	yellow	yellow	ADJ	JJ	_	_	_	_	_
 
 
-1	juice	juice	NOUN	NN	_	0	root	_	_
+1	juice	juice	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	0	root	_	_
+1	two	two	NUM	CD	_	_	_	_	_
 
 
-1	room	room	NOUN	NN	_	0	root	_	_
+1	room	room	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	collection	collection	NOUN	NN	_	0	root	_	_
+1	collection	collection	NOUN	NN	_	_	_	_	_
 
 
-1	atrium	atrium	NOUN	NN	_	0	root	_	_
+1	atrium	atrium	NOUN	NN	_	_	_	_	_
 
 
-1	j234	j234	NUM	CD	_	0	root	_	_
+1	j234	j234	NUM	CD	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	8	8	NUM	LS	_	0	root	_	_
+1	8	8	NUM	LS	_	_	_	_	_
 
 
-1	combination	combination	NOUN	NN	_	0	root	_	_
+1	combination	combination	NOUN	NN	_	_	_	_	_
 
 
-1	room	room	NOUN	NN	_	0	root	_	_
+1	room	room	NOUN	NN	_	_	_	_	_
 
 
-1	x	x	NOUN	NN	_	0	root	_	_
+1	x	x	NOUN	NN	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	x	x	NOUN	NN	_	0	root	_	_
+1	x	x	NOUN	NN	_	_	_	_	_
 
 
-1	modality	modality	NOUN	NN	_	0	root	_	_
+1	modality	modality	NOUN	NN	_	_	_	_	_
 
 
-1	variety	variety	NOUN	NN	_	0	root	_	_
+1	variety	variety	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	collect	collect	VERB	VB	_	0	root	_	_
+1	collect	collect	VERB	VB	_	_	_	_	_
 
 
-1	form	form	NOUN	NN	_	0	root	_	_
+1	form	form	NOUN	NN	_	_	_	_	_
 
 
-1	diverse	diverse	ADJ	JJ	_	0	root	_	_
+1	diverse	diverse	ADJ	JJ	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	within	within	ADP	IN	_	0	root	_	_
+1	within	within	ADP	IN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	typical	typical	ADJ	JJ	_	0	root	_	_
+1	typical	typical	ADJ	JJ	_	_	_	_	_
 
 
-1	small	small	ADJ	JJ	_	0	root	_	_
+1	small	small	ADJ	JJ	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	0	root	_	_
+1	would	would	AUX	MD	_	_	_	_	_
 
 
-1	diameter	diameter	NOUN	NN	_	0	root	_	_
+1	diameter	diameter	NOUN	NN	_	_	_	_	_
 
 
-1	2	2	NUM	LS	_	0	root	_	_
+1	2	2	NUM	LS	_	_	_	_	_
 
 
-1	4	4	NUM	LS	_	0	root	_	_
+1	4	4	NUM	LS	_	_	_	_	_
 
 
-1	inch	inch	NOUN	NN	_	0	root	_	_
+1	inch	inch	NOUN	NN	_	_	_	_	_
 
 
-1	region	region	NOUN	NN	_	0	root	_	_
+1	region	region	NOUN	NN	_	_	_	_	_
 
 
-1	approximately	approximately	ADV	RB	_	0	root	_	_
+1	approximately	approximately	ADV	RB	_	_	_	_	_
 
 
-1	circular	circular	ADJ	JJ	_	0	root	_	_
+1	circular	circular	ADJ	JJ	_	_	_	_	_
 
 
-1	typical	typical	ADJ	JJ	_	0	root	_	_
+1	typical	typical	ADJ	JJ	_	_	_	_	_
 
 
-1	large	large	ADJ	JJ	_	0	root	_	_
+1	large	large	ADJ	JJ	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	0	root	_	_
+1	would	would	AUX	MD	_	_	_	_	_
 
 
-1	diameter	diameter	NOUN	NN	_	0	root	_	_
+1	diameter	diameter	NOUN	NN	_	_	_	_	_
 
 
-1	12	12	NUM	LS	_	0	root	_	_
+1	12	12	NUM	LS	_	_	_	_	_
 
 
-1	inch	inch	NOUN	NN	_	0	root	_	_
+1	inch	inch	NOUN	NN	_	_	_	_	_
 
 
-1	assume	assume	VERB	VB	_	0	root	_	_
+1	assume	assume	VERB	VB	_	_	_	_	_
 
 
-1	approximately	approximately	ADV	RB	_	0	root	_	_
+1	approximately	approximately	ADV	RB	_	_	_	_	_
 
 
-1	circular	circular	ADJ	JJ	_	0	root	_	_
+1	circular	circular	ADJ	JJ	_	_	_	_	_
 
 
-1	region	region	NOUN	NN	_	0	root	_	_
+1	region	region	NOUN	NN	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	large	large	ADJ	JJ	_	0	root	_	_
+1	large	large	ADJ	JJ	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	region	region	NOUN	NN	_	0	root	_	_
+1	region	region	NOUN	NN	_	_	_	_	_
 
 
-1	deform	deform	VERB	VB	_	0	root	_	_
+1	deform	deform	VERB	VB	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	flow	flow	NOUN	NN	_	0	root	_	_
+1	flow	flow	NOUN	NN	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	0	root	_	_
+1	across	across	ADV	RB	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	lead	lead	VERB	VB	_	0	root	_	_
+1	lead	lead	VERB	VB	_	_	_	_	_
 
 
-1	increase	increase	NOUN	NN	_	0	root	_	_
+1	increase	increase	NOUN	NN	_	_	_	_	_
 
 
-1	certain	certain	ADJ	JJ	_	0	root	_	_
+1	certain	certain	ADJ	JJ	_	_	_	_	_
 
 
-1	dimension	dimension	NOUN	NN	_	0	root	_	_
+1	dimension	dimension	NOUN	NN	_	_	_	_	_
 
 
-1	atrium	atrium	NOUN	NN	_	0	root	_	_
+1	atrium	atrium	NOUN	NN	_	_	_	_	_
 
 
-1	porcelain	porcelain	NOUN	NN	_	0	root	_	_
+1	porcelain	porcelain	NOUN	NN	_	_	_	_	_
 
 
-1	tile	tile	NOUN	NN	_	0	root	_	_
+1	tile	tile	NOUN	NN	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	j234	j234	NUM	CD	_	0	root	_	_
+1	j234	j234	NUM	CD	_	_	_	_	_
 
 
-1	polished	polished	ADJ	JJ	_	0	root	_	_
+1	polished	polished	ADJ	JJ	_	_	_	_	_
 
 
-1	concrete	concrete	ADJ	JJ	_	0	root	_	_
+1	concrete	concrete	ADJ	JJ	_	_	_	_	_
 
 
-1	floor	floor	NOUN	NN	_	0	root	_	_
+1	floor	floor	NOUN	NN	_	_	_	_	_
 
 
-1	foot	foot	NOUN	NN	_	0	root	_	_
+1	foot	foot	NOUN	NN	_	_	_	_	_
 
 
-1	traffic	traffic	NOUN	NN	_	0	root	_	_
+1	traffic	traffic	NOUN	NN	_	_	_	_	_
 
 
-1	include	include	VERB	VB	_	0	root	_	_
+1	include	include	VERB	VB	_	_	_	_	_
 
 
-1	picture	picture	NOUN	NN	_	0	root	_	_
+1	picture	picture	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	atrium	atrium	NOUN	NN	_	0	root	_	_
+1	atrium	atrium	NOUN	NN	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	condition	condition	NOUN	NN	_	0	root	_	_
+1	condition	condition	NOUN	NN	_	_	_	_	_
 
 
-1	keep	keep	VERB	VB	_	0	root	_	_
+1	keep	keep	VERB	VB	_	_	_	_	_
 
 
-1	consistent	consistent	ADJ	JJ	_	0	root	_	_
+1	consistent	consistent	ADJ	JJ	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	condition	condition	NOUN	NN	_	0	root	_	_
+1	condition	condition	NOUN	NN	_	_	_	_	_
 
 
-1	j234	j234	NUM	CD	_	0	root	_	_
+1	j234	j234	NUM	CD	_	_	_	_	_
 
 
-1	dynamic	dynamic	ADJ	JJ	_	0	root	_	_
+1	dynamic	dynamic	ADJ	JJ	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	0	root	_	_
+1	due	due	ADJ	JJ	_	_	_	_	_
 
 
-1	high	high	ADJ	JJ	_	0	root	_	_
+1	high	high	ADJ	JJ	_	_	_	_	_
 
 
-1	presence	presence	NOUN	NN	_	0	root	_	_
+1	presence	presence	NOUN	NN	_	_	_	_	_
 
 
-1	natural	natural	ADJ	JJ	_	0	root	_	_
+1	natural	natural	ADJ	JJ	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	variability	variability	NOUN	NN	_	0	root	_	_
+1	variability	variability	NOUN	NN	_	_	_	_	_
 
 
-1	sunlight	sunlight	NOUN	NN	_	0	root	_	_
+1	sunlight	sunlight	NOUN	NN	_	_	_	_	_
 
 
-1	iv	iv	INTJ	UH	_	0	root	_	_
+1	iv	iv	INTJ	UH	_	_	_	_	_
 
 
-1	methodology	methodology	NOUN	NN	_	0	root	_	_
+1	methodology	methodology	NOUN	NN	_	_	_	_	_
 
 
-1	experimentation	experimentation	NOUN	NN	_	0	root	_	_
+1	experimentation	experimentation	NOUN	NN	_	_	_	_	_
 
 
-1	training	training	NOUN	NN	_	0	root	_	_
+1	training	training	NOUN	NN	_	_	_	_	_
 
 
-1	order	order	NOUN	NN	_	0	root	_	_
+1	order	order	NOUN	NN	_	_	_	_	_
 
 
-1	determine	determine	VERB	VB	_	0	root	_	_
+1	determine	determine	VERB	VB	_	_	_	_	_
 
 
-1	whether	whether	SCONJ	IN	_	0	root	_	_
+1	whether	whether	SCONJ	IN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	0	root	_	_
+1	would	would	AUX	MD	_	_	_	_	_
 
 
-1	yield	yield	VERB	VB	_	0	root	_	_
+1	yield	yield	VERB	VB	_	_	_	_	_
 
 
-1	good	good	ADJ	JJ	_	0	root	_	_
+1	good	good	ADJ	JJ	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	efficiency	efficiency	NOUN	NN	_	0	root	_	_
+1	efficiency	efficiency	NOUN	NN	_	_	_	_	_
 
 
-1	vgg19	vgg19	PROPN	ADD	_	0	root	_	_
+1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	train	train	NOUN	NN	_	0	root	_	_
+1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	type	type	NOUN	NN	_	0	root	_	_
+1	type	type	NOUN	NN	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	set	set	VERB	VB	_	0	root	_	_
+1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	input	input	NOUN	NN	_	0	root	_	_
+1	input	input	NOUN	NN	_	_	_	_	_
 
 
-1	hardware	hardware	NOUN	NN	_	0	root	_	_
+1	hardware	hardware	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	train	train	NOUN	NN	_	0	root	_	_
+1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	collect	collect	VERB	VB	_	0	root	_	_
+1	collect	collect	VERB	VB	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	lenovo	lenovo	PROPN	NNP	_	0	root	_	_
+1	lenovo	lenovo	PROPN	NNP	_	_	_	_	_
 
 
-1	legion	legion	NOUN	NN	_	0	root	_	_
+1	legion	legion	NOUN	NN	_	_	_	_	_
 
 
-1	pro	pro	NOUN	NN	_	0	root	_	_
+1	pro	pro	NOUN	NN	_	_	_	_	_
 
 
-1	7i	7i	NUM	LS	_	0	root	_	_
+1	7i	7i	NUM	LS	_	_	_	_	_
 
 
-1	nvidia	nvidia	PROPN	NNP	_	0	root	_	_
+1	nvidia	nvidia	PROPN	NNP	_	_	_	_	_
 
 
-1	rtx	rtx	PROPN	NNP	_	0	root	_	_
+1	rtx	rtx	PROPN	NNP	_	_	_	_	_
 
 
-1	4080	4080	NUM	CD	_	0	root	_	_
+1	4080	4080	NUM	CD	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	testing	testing	NOUN	NN	_	0	root	_	_
+1	testing	testing	NOUN	NN	_	_	_	_	_
 
 
-1	area	area	NOUN	NN	_	0	root	_	_
+1	area	area	NOUN	NN	_	_	_	_	_
 
 
-1	homogeneous	homogeneous	ADJ	JJ	_	0	root	_	_
+1	homogeneous	homogeneous	ADJ	JJ	_	_	_	_	_
 
 
-1	across	across	ADV	RB	_	0	root	_	_
+1	across	across	ADV	RB	_	_	_	_	_
 
 
-1	room	room	NOUN	NN	_	0	root	_	_
+1	room	room	NOUN	NN	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	type	type	NOUN	NN	_	0	root	_	_
+1	type	type	NOUN	NN	_	_	_	_	_
 
 
-1	comparison	comparison	NOUN	NN	_	0	root	_	_
+1	comparison	comparison	NOUN	NN	_	_	_	_	_
 
 
-1	training	training	NOUN	NN	_	0	root	_	_
+1	training	training	NOUN	NN	_	_	_	_	_
 
 
-1	strategy	strategy	NOUN	NN	_	0	root	_	_
+1	strategy	strategy	NOUN	NN	_	_	_	_	_
 
 
-1	last	last	ADJ	JJ	_	0	root	_	_
+1	last	last	ADJ	JJ	_	_	_	_	_
 
 
-1	5	5	NUM	LS	_	0	root	_	_
+1	5	5	NUM	LS	_	_	_	_	_
 
 
-1	layer	layer	NOUN	NN	_	0	root	_	_
+1	layer	layer	NOUN	NN	_	_	_	_	_
 
 
-1	fine	fine	ADJ	JJ	_	0	root	_	_
+1	fine	fine	ADJ	JJ	_	_	_	_	_
 
 
-1	tune	tune	NOUN	NN	_	0	root	_	_
+1	tune	tune	NOUN	NN	_	_	_	_	_
 
 
-1	rmsprop	rmsprop	PROPN	NNP	_	0	root	_	_
+1	rmsprop	rmsprop	PROPN	NNP	_	_	_	_	_
 
 
-1	optimizer	optimizer	NOUN	NN	_	0	root	_	_
+1	optimizer	optimizer	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	lr	lr	PROPN	NNP	_	0	root	_	_
+1	lr	lr	PROPN	NNP	_	_	_	_	_
 
 
-1	1e	1e	NUM	LS	_	0	root	_	_
+1	1e	1e	NUM	LS	_	_	_	_	_
 
 
-1	5	5	NUM	LS	_	0	root	_	_
+1	5	5	NUM	LS	_	_	_	_	_
 
 
-1	binary	binary	ADJ	JJ	_	0	root	_	_
+1	binary	binary	ADJ	JJ	_	_	_	_	_
 
 
-1	crossentropy	crossentropy	PROPN	NNP	_	0	root	_	_
+1	crossentropy	crossentropy	PROPN	NNP	_	_	_	_	_
 
 
-1	loss	loss	NOUN	NN	_	0	root	_	_
+1	loss	loss	NOUN	NN	_	_	_	_	_
 
 
-1	function	function	NOUN	NN	_	0	root	_	_
+1	function	function	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	early	early	ADJ	JJ	_	0	root	_	_
+1	early	early	ADJ	JJ	_	_	_	_	_
 
 
-1	stop	stop	VERB	VB	_	0	root	_	_
+1	stop	stop	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	patience	patience	NOUN	NN	_	0	root	_	_
+1	patience	patience	NOUN	NN	_	_	_	_	_
 
 
-1	5	5	NUM	LS	_	0	root	_	_
+1	5	5	NUM	LS	_	_	_	_	_
 
 
-1	batch	batch	NOUN	NN	_	0	root	_	_
+1	batch	batch	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	8	8	NUM	LS	_	0	root	_	_
+1	8	8	NUM	LS	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	training	training	NOUN	NN	_	0	root	_	_
+1	training	training	NOUN	NN	_	_	_	_	_
 
 
-1	validation	validation	NOUN	NN	_	0	root	_	_
+1	validation	validation	NOUN	NN	_	_	_	_	_
 
 
-1	batch	batch	NOUN	NN	_	0	root	_	_
+1	batch	batch	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	2	2	NUM	LS	_	0	root	_	_
+1	2	2	NUM	LS	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	train	train	NOUN	NN	_	0	root	_	_
+1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	50	50	NUM	LS	_	0	root	_	_
+1	50	50	NUM	LS	_	_	_	_	_
 
 
-1	epoch	epoch	NOUN	NN	_	0	root	_	_
+1	epoch	epoch	NOUN	NN	_	_	_	_	_
 
 
-1	however	however	ADV	RB	_	0	root	_	_
+1	however	however	ADV	RB	_	_	_	_	_
 
 
-1	never	never	ADV	RB	_	0	root	_	_
+1	never	never	ADV	RB	_	_	_	_	_
 
 
-1	reach	reach	VERB	VB	_	0	root	_	_
+1	reach	reach	VERB	VB	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	0	root	_	_
+1	due	due	ADJ	JJ	_	_	_	_	_
 
 
-1	application	application	NOUN	NN	_	0	root	_	_
+1	application	application	NOUN	NN	_	_	_	_	_
 
 
-1	early	early	ADJ	JJ	_	0	root	_	_
+1	early	early	ADJ	JJ	_	_	_	_	_
 
 
-1	stop	stop	VERB	VB	_	0	root	_	_
+1	stop	stop	VERB	VB	_	_	_	_	_
 
 
-1	mechanism	mechanism	NOUN	NN	_	0	root	_	_
+1	mechanism	mechanism	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	augmentation	augmentation	NOUN	NN	_	0	root	_	_
+1	augmentation	augmentation	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	randomly	randomly	ADV	RB	_	0	root	_	_
+1	randomly	randomly	ADV	RB	_	_	_	_	_
 
 
-1	flip	flip	VERB	VB	_	0	root	_	_
+1	flip	flip	VERB	VB	_	_	_	_	_
 
 
-1	horizontally	horizontally	ADV	RB	_	0	root	_	_
+1	horizontally	horizontally	ADV	RB	_	_	_	_	_
 
 
-1	slightly	slightly	ADV	RB	_	0	root	_	_
+1	slightly	slightly	ADV	RB	_	_	_	_	_
 
 
-1	rotate	rotate	VERB	VB	_	0	root	_	_
+1	rotate	rotate	VERB	VB	_	_	_	_	_
 
 
-1	small	small	ADJ	JJ	_	0	root	_	_
+1	small	small	ADJ	JJ	_	_	_	_	_
 
 
-1	variation	variation	NOUN	NN	_	0	root	_	_
+1	variation	variation	NOUN	NN	_	_	_	_	_
 
 
-1	contrast	contrast	NOUN	NN	_	0	root	_	_
+1	contrast	contrast	NOUN	NN	_	_	_	_	_
 
 
-1	training	training	NOUN	NN	_	0	root	_	_
+1	training	training	NOUN	NN	_	_	_	_	_
 
 
-1	random	random	NOUN	NN	_	0	root	_	_
+1	random	random	NOUN	NN	_	_	_	_	_
 
 
-1	rotation	rotation	NOUN	NN	_	0	root	_	_
+1	rotation	rotation	NOUN	NN	_	_	_	_	_
 
 
-1	contrast	contrast	NOUN	NN	_	0	root	_	_
+1	contrast	contrast	NOUN	NN	_	_	_	_	_
 
 
-1	factor	factor	NOUN	NN	_	0	root	_	_
+1	factor	factor	NOUN	NN	_	_	_	_	_
 
 
-1	0.01	0.01	NUM	CD	_	0	root	_	_
+1	0.01	0.01	NUM	CD	_	_	_	_	_
 
 
-1	standard	standard	ADJ	JJ	_	0	root	_	_
+1	standard	standard	ADJ	JJ	_	_	_	_	_
 
 
-1	vgg	vgg	NOUN	NN	_	0	root	_	_
+1	vgg	vgg	NOUN	NN	_	_	_	_	_
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	0	root	_	_
+1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
 
 
-1	pipeline	pipeline	NOUN	NN	_	0	root	_	_
+1	pipeline	pipeline	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	find	find	VERB	VB	_	0	root	_	_
+1	find	find	VERB	VB	_	_	_	_	_
 
 
-1	table	table	NOUN	NN	_	0	root	_	_
+1	table	table	NOUN	NN	_	_	_	_	_
 
 
-1	testing	testing	NOUN	NN	_	0	root	_	_
+1	testing	testing	NOUN	NN	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	0	root	_	_
+1	show	show	VERB	VB	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	0	root	_	_
+1	although	although	SCONJ	IN	_	_	_	_	_
 
 
-1	accurate	accurate	ADJ	JJ	_	0	root	_	_
+1	accurate	accurate	ADJ	JJ	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	effective	effective	ADJ	JJ	_	0	root	_	_
+1	effective	effective	ADJ	JJ	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	testing	testing	NOUN	NN	_	0	root	_	_
+1	testing	testing	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	0	root	_	_
+1	although	although	SCONJ	IN	_	_	_	_	_
 
 
-1	effective	effective	ADJ	JJ	_	0	root	_	_
+1	effective	effective	ADJ	JJ	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	testing	testing	NOUN	NN	_	0	root	_	_
+1	testing	testing	NOUN	NN	_	_	_	_	_
 
 
-1	near	near	ADV	RB	_	0	root	_	_
+1	near	near	ADV	RB	_	_	_	_	_
 
 
-1	perfect	perfect	ADJ	JJ	_	0	root	_	_
+1	perfect	perfect	ADJ	JJ	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	set	set	VERB	VB	_	0	root	_	_
+1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	slow	slow	ADJ	JJ	_	0	root	_	_
+1	slow	slow	ADJ	JJ	_	_	_	_	_
 
 
-1	inference	inference	NOUN	NN	_	0	root	_	_
+1	inference	inference	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	0	root	_	_
+1	three	three	NUM	CD	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	perform	perform	VERB	VB	_	0	root	_	_
+1	perform	perform	VERB	VB	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	set	set	VERB	VB	_	0	root	_	_
+1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	testing	testing	NOUN	NN	_	0	root	_	_
+1	testing	testing	NOUN	NN	_	_	_	_	_
 
 
-1	along	along	ADV	RB	_	0	root	_	_
+1	along	along	ADV	RB	_	_	_	_	_
 
 
-1	offer	offer	VERB	VB	_	0	root	_	_
+1	offer	offer	VERB	VB	_	_	_	_	_
 
 
-1	short	short	ADJ	JJ	_	0	root	_	_
+1	short	short	ADJ	JJ	_	_	_	_	_
 
 
-1	inference	inference	NOUN	NN	_	0	root	_	_
+1	inference	inference	NOUN	NN	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	small	small	ADJ	JJ	_	0	root	_	_
+1	small	small	ADJ	JJ	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	align	align	VERB	VB	_	0	root	_	_
+1	align	align	VERB	VB	_	_	_	_	_
 
 
-1	recent	recent	ADJ	JJ	_	0	root	_	_
+1	recent	recent	ADJ	JJ	_	_	_	_	_
 
 
-1	finding	finding	VERB	VBG	_	0	root	_	_
+1	finding	finding	VERB	VBG	_	_	_	_	_
 
 
-1	show	show	VERB	VB	_	0	root	_	_
+1	show	show	VERB	VB	_	_	_	_	_
 
 
-1	effectiveness	effectiveness	NOUN	NN	_	0	root	_	_
+1	effectiveness	effectiveness	NOUN	NN	_	_	_	_	_
 
 
-1	deep	deep	ADJ	JJ	_	0	root	_	_
+1	deep	deep	ADJ	JJ	_	_	_	_	_
 
 
-1	convolutional	convolutional	ADJ	JJ	_	0	root	_	_
+1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
 
 
-1	architecture	architecture	NOUN	NN	_	0	root	_	_
+1	architecture	architecture	NOUN	NN	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	task	task	NOUN	NN	_	0	root	_	_
+1	task	task	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	collection	collection	NOUN	NN	_	0	root	_	_
+1	collection	collection	NOUN	NN	_	_	_	_	_
 
 
-1	perform	perform	VERB	VB	_	0	root	_	_
+1	perform	perform	VERB	VB	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	robot	robot	NOUN	NN	_	0	root	_	_
+1	robot	robot	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	mount	mount	VERB	VB	_	0	root	_	_
+1	mount	mount	VERB	VB	_	_	_	_	_
 
 
-1	lenovo	lenovo	PROPN	NNP	_	0	root	_	_
+1	lenovo	lenovo	PROPN	NNP	_	_	_	_	_
 
 
-1	legion	legion	NOUN	NN	_	0	root	_	_
+1	legion	legion	NOUN	NN	_	_	_	_	_
 
 
-1	pro	pro	NOUN	NN	_	0	root	_	_
+1	pro	pro	NOUN	NN	_	_	_	_	_
 
 
-1	7i	7i	NUM	LS	_	0	root	_	_
+1	7i	7i	NUM	LS	_	_	_	_	_
 
 
-1	nvidia	nvidia	PROPN	NNP	_	0	root	_	_
+1	nvidia	nvidia	PROPN	NNP	_	_	_	_	_
 
 
-1	rtx	rtx	PROPN	NNP	_	0	root	_	_
+1	rtx	rtx	PROPN	NNP	_	_	_	_	_
 
 
-1	4080	4080	NUM	CD	_	0	root	_	_
+1	4080	4080	NUM	CD	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	control	control	NOUN	NN	_	0	root	_	_
+1	control	control	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	collection	collection	NOUN	NN	_	0	root	_	_
+1	collection	collection	NOUN	NN	_	_	_	_	_
 
 
-1	camera	camera	NOUN	NN	_	0	root	_	_
+1	camera	camera	NOUN	NN	_	_	_	_	_
 
 
-1	plug	plug	NOUN	NN	_	0	root	_	_
+1	plug	plug	NOUN	NN	_	_	_	_	_
 
 
-1	directly	directly	ADV	RB	_	0	root	_	_
+1	directly	directly	ADV	RB	_	_	_	_	_
 
 
-1	laptop	laptop	NOUN	NN	_	0	root	_	_
+1	laptop	laptop	NOUN	NN	_	_	_	_	_
 
 
-1	robot	robot	NOUN	NN	_	0	root	_	_
+1	robot	robot	NOUN	NN	_	_	_	_	_
 
 
-1	control	control	NOUN	NN	_	0	root	_	_
+1	control	control	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	usb	usb	NOUN	NN	_	0	root	_	_
+1	usb	usb	NOUN	NN	_	_	_	_	_
 
 
-1	joystick	joystick	NOUN	NN	_	0	root	_	_
+1	joystick	joystick	NOUN	NN	_	_	_	_	_
 
 
-1	plug	plug	NOUN	NN	_	0	root	_	_
+1	plug	plug	NOUN	NN	_	_	_	_	_
 
 
-1	laptop	laptop	NOUN	NN	_	0	root	_	_
+1	laptop	laptop	NOUN	NN	_	_	_	_	_
 
 
-1	input	input	NOUN	NN	_	0	root	_	_
+1	input	input	NOUN	NN	_	_	_	_	_
 
 
-1	relay	relay	VERB	VB	_	0	root	_	_
+1	relay	relay	VERB	VB	_	_	_	_	_
 
 
-1	robot	robot	NOUN	NN	_	0	root	_	_
+1	robot	robot	NOUN	NN	_	_	_	_	_
 
 
-1	serial	serial	NOUN	NN	_	0	root	_	_
+1	serial	serial	NOUN	NN	_	_	_	_	_
 
 
-1	communication	communication	NOUN	NN	_	0	root	_	_
+1	communication	communication	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	collect	collect	VERB	VB	_	0	root	_	_
+1	collect	collect	VERB	VB	_	_	_	_	_
 
 
-1	variety	variety	NOUN	NN	_	0	root	_	_
+1	variety	variety	NOUN	NN	_	_	_	_	_
 
 
-1	position	position	NOUN	NN	_	0	root	_	_
+1	position	position	NOUN	NN	_	_	_	_	_
 
 
-1	angle	angle	NOUN	NN	_	0	root	_	_
+1	angle	angle	NOUN	NN	_	_	_	_	_
 
 
-1	isolation	isolation	NOUN	NN	_	0	root	_	_
+1	isolation	isolation	NOUN	NN	_	_	_	_	_
 
 
-1	environmental	environmental	ADJ	JJ	_	0	root	_	_
+1	environmental	environmental	ADJ	JJ	_	_	_	_	_
 
 
-1	heat	heat	NOUN	NN	_	0	root	_	_
+1	heat	heat	NOUN	NN	_	_	_	_	_
 
 
-1	source	source	NOUN	NN	_	0	root	_	_
+1	source	source	NOUN	NN	_	_	_	_	_
 
 
-1	robotic	robotic	ADJ	JJ	_	0	root	_	_
+1	robotic	robotic	ADJ	JJ	_	_	_	_	_
 
 
-1	inspection	inspection	NOUN	NN	_	0	root	_	_
+1	inspection	inspection	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	vision	vision	NOUN	NN	_	0	root	_	_
+1	vision	vision	NOUN	NN	_	_	_	_	_
 
 
-1	prove	prove	VERB	VB	_	0	root	_	_
+1	prove	prove	VERB	VB	_	_	_	_	_
 
 
-1	effective	effective	ADJ	JJ	_	0	root	_	_
+1	effective	effective	ADJ	JJ	_	_	_	_	_
 
 
-1	industrial	industrial	ADJ	JJ	_	0	root	_	_
+1	industrial	industrial	ADJ	JJ	_	_	_	_	_
 
 
-1	environment	environment	NOUN	NN	_	0	root	_	_
+1	environment	environment	NOUN	NN	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	implement	implement	VERB	VB	_	0	root	_	_
+1	implement	implement	VERB	VB	_	_	_	_	_
 
 
-1	pipeline	pipeline	NOUN	NN	_	0	root	_	_
+1	pipeline	pipeline	NOUN	NN	_	_	_	_	_
 
 
-1	inspection	inspection	NOUN	NN	_	0	root	_	_
+1	inspection	inspection	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	proceed	proceed	VERB	VB	_	0	root	_	_
+1	proceed	proceed	VERB	VB	_	_	_	_	_
 
 
-1	probe	probe	NOUN	NN	_	0	root	_	_
+1	probe	probe	NOUN	NN	_	_	_	_	_
 
 
-1	efficacy	efficacy	NOUN	NN	_	0	root	_	_
+1	efficacy	efficacy	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	vgg19	vgg19	PROPN	ADD	_	0	root	_	_
+1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
 
 
-1	configuration	configuration	NOUN	NN	_	0	root	_	_
+1	configuration	configuration	NOUN	NN	_	_	_	_	_
 
 
-1	create	create	VERB	VB	_	0	root	_	_
+1	create	create	VERB	VB	_	_	_	_	_
 
 
-1	individual	individual	NOUN	NN	_	0	root	_	_
+1	individual	individual	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	room	room	NOUN	NN	_	0	root	_	_
+1	room	room	NOUN	NN	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	combination	combination	NOUN	NN	_	0	root	_	_
+1	combination	combination	NOUN	NN	_	_	_	_	_
 
 
-1	note	note	NOUN	NN	_	0	root	_	_
+1	note	note	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	testing	testing	NOUN	NN	_	0	root	_	_
+1	testing	testing	NOUN	NN	_	_	_	_	_
 
 
-1	training	training	NOUN	NN	_	0	root	_	_
+1	training	training	NOUN	NN	_	_	_	_	_
 
 
-1	strategy	strategy	NOUN	NN	_	0	root	_	_
+1	strategy	strategy	NOUN	NN	_	_	_	_	_
 
 
-1	employ	employ	VERB	VB	_	0	root	_	_
+1	employ	employ	VERB	VB	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	find	find	VERB	VB	_	0	root	_	_
+1	find	find	VERB	VB	_	_	_	_	_
 
 
-1	table	table	NOUN	NN	_	0	root	_	_
+1	table	table	NOUN	NN	_	_	_	_	_
 
 
-1	ii	ii	INTJ	UH	_	0	root	_	_
+1	ii	ii	INTJ	UH	_	_	_	_	_
 
 
-1	split	split	VERB	VBN	_	0	root	_	_
+1	split	split	VERB	VBN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	another	another	DET	DT	_	0	root	_	_
+1	another	another	DET	DT	_	_	_	_	_
 
 
-1	script	script	NOUN	NN	_	0	root	_	_
+1	script	script	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	collect	collect	VERB	VB	_	0	root	_	_
+1	collect	collect	VERB	VB	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	split	split	VERB	VBN	_	0	root	_	_
+1	split	split	VERB	VBN	_	_	_	_	_
 
 
-1	70	70	NUM	LS	_	0	root	_	_
+1	70	70	NUM	LS	_	_	_	_	_
 
 
-1	20	20	NUM	LS	_	0	root	_	_
+1	20	20	NUM	LS	_	_	_	_	_
 
 
-1	10	10	NUM	LS	_	0	root	_	_
+1	10	10	NUM	LS	_	_	_	_	_
 
 
-1	training	training	NOUN	NN	_	0	root	_	_
+1	training	training	NOUN	NN	_	_	_	_	_
 
 
-1	validation	validation	NOUN	NN	_	0	root	_	_
+1	validation	validation	NOUN	NN	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	another	another	DET	DT	_	0	root	_	_
+1	another	another	DET	DT	_	_	_	_	_
 
 
-1	script	script	NOUN	NN	_	0	root	_	_
+1	script	script	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	match	match	NOUN	NN	_	0	root	_	_
+1	match	match	NOUN	NN	_	_	_	_	_
 
 
-1	view	view	NOUN	NN	_	0	root	_	_
+1	view	view	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	crop	crop	NOUN	NN	_	0	root	_	_
+1	crop	crop	NOUN	NN	_	_	_	_	_
 
 
-1	perspective	perspective	NOUN	NN	_	0	root	_	_
+1	perspective	perspective	NOUN	NN	_	_	_	_	_
 
 
-1	transformation	transformation	NOUN	NN	_	0	root	_	_
+1	transformation	transformation	NOUN	NN	_	_	_	_	_
 
 
-1	additionally	additionally	ADV	RB	_	0	root	_	_
+1	additionally	additionally	ADV	RB	_	_	_	_	_
 
 
-1	purpose	purpose	NOUN	NN	_	0	root	_	_
+1	purpose	purpose	NOUN	NN	_	_	_	_	_
 
 
-1	experimentation	experimentation	NOUN	NN	_	0	root	_	_
+1	experimentation	experimentation	NOUN	NN	_	_	_	_	_
 
 
-1	third	third	ADJ	JJ	_	0	root	_	_
+1	third	third	ADJ	JJ	_	_	_	_	_
 
 
-1	modality	modality	NOUN	NN	_	0	root	_	_
+1	modality	modality	NOUN	NN	_	_	_	_	_
 
 
-1	introduce	introduce	VERB	VB	_	0	root	_	_
+1	introduce	introduce	VERB	VB	_	_	_	_	_
 
 
-1	side	side	NOUN	NN	_	0	root	_	_
+1	side	side	NOUN	NN	_	_	_	_	_
 
 
-1	side	side	NOUN	NN	_	0	root	_	_
+1	side	side	NOUN	NN	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	transform	transform	VERB	VB	_	0	root	_	_
+1	transform	transform	VERB	VB	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	side	side	NOUN	NN	_	0	root	_	_
+1	side	side	NOUN	NN	_	_	_	_	_
 
 
-1	side	side	NOUN	NN	_	0	root	_	_
+1	side	side	NOUN	NN	_	_	_	_	_
 
 
-1	concatenation	concatenation	NOUN	NN	_	0	root	_	_
+1	concatenation	concatenation	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	leave	leave	VERB	VB	_	0	root	_	_
+1	leave	leave	VERB	VB	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	right	right	ADJ	JJ	_	0	root	_	_
+1	right	right	ADJ	JJ	_	_	_	_	_
 
 
-1	resolution	resolution	NOUN	NN	_	0	root	_	_
+1	resolution	resolution	NOUN	NN	_	_	_	_	_
 
 
-1	256x192	256x192	NUM	CD	_	0	root	_	_
+1	256x192	256x192	NUM	CD	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	640x360	640x360	NUM	CD	_	0	root	_	_
+1	640x360	640x360	NUM	CD	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	512x192	512x192	NUM	CD	_	0	root	_	_
+1	512x192	512x192	NUM	CD	_	_	_	_	_
 
 
-1	side	side	NOUN	NN	_	0	root	_	_
+1	side	side	NOUN	NN	_	_	_	_	_
 
 
-1	side	side	NOUN	NN	_	0	root	_	_
+1	side	side	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	downscale	downscale	ADJ	JJ	_	0	root	_	_
+1	downscale	downscale	ADJ	JJ	_	_	_	_	_
 
 
-1	256x192	256x192	NUM	CD	_	0	root	_	_
+1	256x192	256x192	NUM	CD	_	_	_	_	_
 
 
-1	prior	prior	ADJ	JJ	_	0	root	_	_
+1	prior	prior	ADJ	JJ	_	_	_	_	_
 
 
-1	concatenation	concatenation	NOUN	NN	_	0	root	_	_
+1	concatenation	concatenation	NOUN	NN	_	_	_	_	_
 
 
-1	base	base	NOUN	NN	_	0	root	_	_
+1	base	base	NOUN	NN	_	_	_	_	_
 
 
-1	high	high	ADJ	JJ	_	0	root	_	_
+1	high	high	ADJ	JJ	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	consistently	consistently	ADV	RB	_	0	root	_	_
+1	consistently	consistently	ADV	RB	_	_	_	_	_
 
 
-1	indicate	indicate	VERB	VB	_	0	root	_	_
+1	indicate	indicate	VERB	VB	_	_	_	_	_
 
 
-1	throughout	throughout	ADP	IN	_	0	root	_	_
+1	throughout	throughout	ADP	IN	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	note	note	NOUN	NN	_	0	root	_	_
+1	note	note	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	vgg19	vgg19	PROPN	ADD	_	0	root	_	_
+1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
 
 
-1	configuration	configuration	NOUN	NN	_	0	root	_	_
+1	configuration	configuration	NOUN	NN	_	_	_	_	_
 
 
-1	high	high	ADJ	JJ	_	0	root	_	_
+1	high	high	ADJ	JJ	_	_	_	_	_
 
 
-1	efficacy	efficacy	NOUN	NN	_	0	root	_	_
+1	efficacy	efficacy	NOUN	NN	_	_	_	_	_
 
 
-1	variety	variety	NOUN	NN	_	0	root	_	_
+1	variety	variety	NOUN	NN	_	_	_	_	_
 
 
-1	situation	situation	NOUN	NN	_	0	root	_	_
+1	situation	situation	NOUN	NN	_	_	_	_	_
 
 
-1	give	give	VERB	VB	_	0	root	_	_
+1	give	give	VERB	VB	_	_	_	_	_
 
 
-1	isolation	isolation	NOUN	NN	_	0	root	_	_
+1	isolation	isolation	NOUN	NN	_	_	_	_	_
 
 
-1	environmental	environmental	ADJ	JJ	_	0	root	_	_
+1	environmental	environmental	ADJ	JJ	_	_	_	_	_
 
 
-1	heat	heat	NOUN	NN	_	0	root	_	_
+1	heat	heat	NOUN	NN	_	_	_	_	_
 
 
-1	source	source	NOUN	NN	_	0	root	_	_
+1	source	source	NOUN	NN	_	_	_	_	_
 
 
-1	likely	likely	ADJ	JJ	_	0	root	_	_
+1	likely	likely	ADJ	JJ	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	0	root	_	_
+1	due	due	ADJ	JJ	_	_	_	_	_
 
 
-1	homogeneity	homogeneity	NOUN	NN	_	0	root	_	_
+1	homogeneity	homogeneity	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	environmental	environmental	ADJ	JJ	_	0	root	_	_
+1	environmental	environmental	ADJ	JJ	_	_	_	_	_
 
 
-1	heat	heat	NOUN	NN	_	0	root	_	_
+1	heat	heat	NOUN	NN	_	_	_	_	_
 
 
-1	source	source	NOUN	NN	_	0	root	_	_
+1	source	source	NOUN	NN	_	_	_	_	_
 
 
-1	introduce	introduce	VERB	VB	_	0	root	_	_
+1	introduce	introduce	VERB	VB	_	_	_	_	_
 
 
-1	differentiation	differentiation	NOUN	NN	_	0	root	_	_
+1	differentiation	differentiation	NOUN	NN	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	0	root	_	_
+1	two	two	NUM	CD	_	_	_	_	_
 
 
-1	class	class	NOUN	NN	_	0	root	_	_
+1	class	class	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	0	root	_	_
+1	may	may	AUX	MD	_	_	_	_	_
 
 
-1	potentially	potentially	ADV	RB	_	0	root	_	_
+1	potentially	potentially	ADV	RB	_	_	_	_	_
 
 
-1	reduce	reduce	VERB	VB	_	0	root	_	_
+1	reduce	reduce	VERB	VB	_	_	_	_	_
 
 
-1	identify	identify	VERB	VB	_	0	root	_	_
+1	identify	identify	VERB	VB	_	_	_	_	_
 
 
-1	change	change	VERB	VB	_	0	root	_	_
+1	change	change	VERB	VB	_	_	_	_	_
 
 
-1	homogeneity	homogeneity	NOUN	NN	_	0	root	_	_
+1	homogeneity	homogeneity	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	input	input	NOUN	NN	_	0	root	_	_
+1	input	input	NOUN	NN	_	_	_	_	_
 
 
-1	training	training	NOUN	NN	_	0	root	_	_
+1	training	training	NOUN	NN	_	_	_	_	_
 
 
-1	order	order	NOUN	NN	_	0	root	_	_
+1	order	order	NOUN	NN	_	_	_	_	_
 
 
-1	identify	identify	VERB	VB	_	0	root	_	_
+1	identify	identify	VERB	VB	_	_	_	_	_
 
 
-1	pretraine	pretraine	NOUN	NN	_	0	root	_	_
+1	pretraine	pretraine	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	high	high	ADJ	JJ	_	0	root	_	_
+1	high	high	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	efficiency	efficiency	NOUN	NN	_	0	root	_	_
+1	efficiency	efficiency	NOUN	NN	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	0	root	_	_
+1	without	without	ADP	IN	_	_	_	_	_
 
 
-1	sacrifice	sacrifice	NOUN	NN	_	0	root	_	_
+1	sacrifice	sacrifice	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	collection	collection	NOUN	NN	_	0	root	_	_
+1	collection	collection	NOUN	NN	_	_	_	_	_
 
 
-1	various	various	ADJ	JJ	_	0	root	_	_
+1	various	various	ADJ	JJ	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	train	train	NOUN	NN	_	0	root	_	_
+1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	comprehensive	comprehensive	ADJ	JJ	_	0	root	_	_
+1	comprehensive	comprehensive	ADJ	JJ	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	set	set	VERB	VB	_	0	root	_	_
+1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	set	set	VERB	VB	_	0	root	_	_
+1	set	set	VERB	VB	_	_	_	_	_
 
 
-1	log	log	NOUN	NN	_	0	root	_	_
+1	log	log	NOUN	NN	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	find	find	VERB	VB	_	0	root	_	_
+1	find	find	VERB	VB	_	_	_	_	_
 
 
-1	first	first	ADV	RB	_	0	root	_	_
+1	first	first	ADV	RB	_	_	_	_	_
 
 
-1	two	two	NUM	CD	_	0	root	_	_
+1	two	two	NUM	CD	_	_	_	_	_
 
 
-1	column	column	NOUN	NN	_	0	root	_	_
+1	column	column	NOUN	NN	_	_	_	_	_
 
 
-1	table	table	NOUN	NN	_	0	root	_	_
+1	table	table	NOUN	NN	_	_	_	_	_
 
 
-1	iii	iii	INTJ	UH	_	0	root	_	_
+1	iii	iii	INTJ	UH	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	testing	testing	NOUN	NN	_	0	root	_	_
+1	testing	testing	NOUN	NN	_	_	_	_	_
 
 
-1	although	although	SCONJ	IN	_	0	root	_	_
+1	although	although	SCONJ	IN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	choice	choice	NOUN	NN	_	0	root	_	_
+1	choice	choice	NOUN	NN	_	_	_	_	_
 
 
-1	perform	perform	VERB	VB	_	0	root	_	_
+1	perform	perform	VERB	VB	_	_	_	_	_
 
 
-1	high	high	ADJ	JJ	_	0	root	_	_
+1	high	high	ADJ	JJ	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	nasnet	nasnet	PROPN	NNP	_	0	root	_	_
+1	nasnet	nasnet	PROPN	NNP	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	seem	seem	VERB	VB	_	0	root	_	_
+1	seem	seem	VERB	VB	_	_	_	_	_
 
 
-1	promise	promise	NOUN	NN	_	0	root	_	_
+1	promise	promise	NOUN	NN	_	_	_	_	_
 
 
-1	see	see	VERB	VB	_	0	root	_	_
+1	see	see	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	0	root	_	_
+1	could	could	AUX	MD	_	_	_	_	_
 
 
-1	match	match	NOUN	NN	_	0	root	_	_
+1	match	match	NOUN	NN	_	_	_	_	_
 
 
-1	vgg19	vgg19	PROPN	ADD	_	0	root	_	_
+1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	order	order	NOUN	NN	_	0	root	_	_
+1	order	order	NOUN	NN	_	_	_	_	_
 
 
-1	determine	determine	VERB	VB	_	0	root	_	_
+1	determine	determine	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	would	would	AUX	MD	_	0	root	_	_
+1	would	would	AUX	MD	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	0	root	_	_
+1	well	well	INTJ	UH	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	life	life	NOUN	NN	_	0	root	_	_
+1	life	life	NOUN	NN	_	_	_	_	_
 
 
-1	scenario	scenario	NOUN	NN	_	0	root	_	_
+1	scenario	scenario	NOUN	NN	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	testing	testing	NOUN	NN	_	0	root	_	_
+1	testing	testing	NOUN	NN	_	_	_	_	_
 
 
-1	perform	perform	VERB	VB	_	0	root	_	_
+1	perform	perform	VERB	VB	_	_	_	_	_
 
 
-1	compare	compare	VERB	VB	_	0	root	_	_
+1	compare	compare	VERB	VB	_	_	_	_	_
 
 
-1	inference	inference	NOUN	NN	_	0	root	_	_
+1	inference	inference	NOUN	NN	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	goal	goal	NOUN	NN	_	0	root	_	_
+1	goal	goal	NOUN	NN	_	_	_	_	_
 
 
-1	select	select	VERB	VB	_	0	root	_	_
+1	select	select	VERB	VB	_	_	_	_	_
 
 
-1	efficient	efficient	ADJ	JJ	_	0	root	_	_
+1	efficient	efficient	ADJ	JJ	_	_	_	_	_
 
 
-1	fig	fig	NOUN	NN	_	0	root	_	_
+1	fig	fig	NOUN	NN	_	_	_	_	_
 
 
-1	1	1	NUM	LS	_	0	root	_	_
+1	1	1	NUM	LS	_	_	_	_	_
 
 
-1	diagram	diagram	NOUN	NN	_	0	root	_	_
+1	diagram	diagram	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	collection	collection	NOUN	NN	_	0	root	_	_
+1	collection	collection	NOUN	NN	_	_	_	_	_
 
 
-1	testing	testing	NOUN	NN	_	0	root	_	_
+1	testing	testing	NOUN	NN	_	_	_	_	_
 
 
-1	setup	setup	NOUN	NN	_	0	root	_	_
+1	setup	setup	NOUN	NN	_	_	_	_	_
 
 
-1	table	table	NOUN	NN	_	0	root	_	_
+1	table	table	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	vs	vs	ADP	IN	_	0	root	_	_
+1	vs	vs	ADP	IN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	vs	vs	ADP	IN	_	0	root	_	_
+1	vs	vs	ADP	IN	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	type	type	NOUN	NN	_	0	root	_	_
+1	type	type	NOUN	NN	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	demo	demo	NOUN	NN	_	0	root	_	_
+1	demo	demo	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	inference	inference	NOUN	NN	_	0	root	_	_
+1	inference	inference	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	324.6	324.6	NUM	CD	_	0	root	_	_
+1	324.6	324.6	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	44	44	NUM	LS	_	0	root	_	_
+1	44	44	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	98.84	98.84	NUM	CD	_	0	root	_	_
+1	98.84	98.84	NUM	CD	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	1.0	1.0	NUM	CD	_	0	root	_	_
+1	1.0	1.0	NUM	CD	_	_	_	_	_
 
 
-1	gb	gb	PROPN	NNP	_	0	root	_	_
+1	gb	gb	PROPN	NNP	_	_	_	_	_
 
 
-1	55	55	NUM	LS	_	0	root	_	_
+1	55	55	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	combine	combine	VERB	VB	_	0	root	_	_
+1	combine	combine	VERB	VB	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	60	60	NUM	CD	_	0	root	_	_
+1	60	60	NUM	CD	_	_	_	_	_
 
 
-1	525.9	525.9	NUM	CD	_	0	root	_	_
+1	525.9	525.9	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	47	47	NUM	LS	_	0	root	_	_
+1	47	47	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	table	table	NOUN	NN	_	0	root	_	_
+1	table	table	NOUN	NN	_	_	_	_	_
 
 
-1	ii	ii	INTJ	UH	_	0	root	_	_
+1	ii	ii	INTJ	UH	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	vgg19	vgg19	PROPN	ADD	_	0	root	_	_
+1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	fig	fig	NOUN	NN	_	0	root	_	_
+1	fig	fig	NOUN	NN	_	_	_	_	_
 
 
-1	2	2	NUM	LS	_	0	root	_	_
+1	2	2	NUM	LS	_	_	_	_	_
 
 
-1	side	side	NOUN	NN	_	0	root	_	_
+1	side	side	NOUN	NN	_	_	_	_	_
 
 
-1	side	side	NOUN	NN	_	0	root	_	_
+1	side	side	NOUN	NN	_	_	_	_	_
 
 
-1	comparison	comparison	NOUN	NN	_	0	root	_	_
+1	comparison	comparison	NOUN	NN	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	spill	spill	VERB	VB	_	0	root	_	_
+1	spill	spill	VERB	VB	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	room	room	NOUN	NN	_	0	root	_	_
+1	room	room	NOUN	NN	_	_	_	_	_
 
 
-1	liquid	liquid	NOUN	NN	_	0	root	_	_
+1	liquid	liquid	NOUN	NN	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	demo	demo	NOUN	NN	_	0	root	_	_
+1	demo	demo	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	inference	inference	NOUN	NN	_	0	root	_	_
+1	inference	inference	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	find	find	VERB	VB	_	0	root	_	_
+1	find	find	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	use	use	VERB	VB	_	0	root	_	_
+1	use	use	VERB	VB	_	_	_	_	_
 
 
-1	nasnet	nasnet	PROPN	NNP	_	0	root	_	_
+1	nasnet	nasnet	PROPN	NNP	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	yield	yield	VERB	VB	_	0	root	_	_
+1	yield	yield	VERB	VB	_	_	_	_	_
 
 
-1	great	great	ADJ	JJ	_	0	root	_	_
+1	great	great	ADJ	JJ	_	_	_	_	_
 
 
-1	inference	inference	NOUN	NN	_	0	root	_	_
+1	inference	inference	NOUN	NN	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	9	9	NUM	LS	_	0	root	_	_
+1	9	9	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	average	average	ADJ	JJ	_	0	root	_	_
+1	average	average	ADJ	JJ	_	_	_	_	_
 
 
-1	trial	trial	NOUN	NN	_	0	root	_	_
+1	trial	trial	NOUN	NN	_	_	_	_	_
 
 
-1	great	great	ADJ	JJ	_	0	root	_	_
+1	great	great	ADJ	JJ	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	115.7	115.7	NUM	CD	_	0	root	_	_
+1	115.7	115.7	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	well	well	INTJ	UH	_	0	root	_	_
+1	well	well	INTJ	UH	_	_	_	_	_
 
 
-1	vgg19	vgg19	PROPN	ADD	_	0	root	_	_
+1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
 
 
-1	perform	perform	VERB	VB	_	0	root	_	_
+1	perform	perform	VERB	VB	_	_	_	_	_
 
 
-1	quick	quick	ADJ	JJ	_	0	root	_	_
+1	quick	quick	ADJ	JJ	_	_	_	_	_
 
 
-1	inference	inference	NOUN	NN	_	0	root	_	_
+1	inference	inference	NOUN	NN	_	_	_	_	_
 
 
-1	small	small	ADJ	JJ	_	0	root	_	_
+1	small	small	ADJ	JJ	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	achieve	achieve	VERB	VB	_	0	root	_	_
+1	achieve	achieve	VERB	VB	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	determine	determine	VERB	VB	_	0	root	_	_
+1	determine	determine	VERB	VB	_	_	_	_	_
 
 
-1	vgg19	vgg19	PROPN	ADD	_	0	root	_	_
+1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
 
 
-1	remain	remain	VERB	VB	_	0	root	_	_
+1	remain	remain	VERB	VB	_	_	_	_	_
 
 
-1	appropriate	appropriate	ADJ	JJ	_	0	root	_	_
+1	appropriate	appropriate	ADJ	JJ	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	nasnet	nasnet	PROPN	NNP	_	0	root	_	_
+1	nasnet	nasnet	PROPN	NNP	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	application	application	NOUN	NN	_	0	root	_	_
+1	application	application	NOUN	NN	_	_	_	_	_
 
 
-1	atrium	atrium	NOUN	NN	_	0	root	_	_
+1	atrium	atrium	NOUN	NN	_	_	_	_	_
 
 
-1	water	water	NOUN	NN	_	0	root	_	_
+1	water	water	NOUN	NN	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	324.6	324.6	NUM	CD	_	0	root	_	_
+1	324.6	324.6	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	44	44	NUM	LS	_	0	root	_	_
+1	44	44	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	atrium	atrium	NOUN	NN	_	0	root	_	_
+1	atrium	atrium	NOUN	NN	_	_	_	_	_
 
 
-1	coke	coke	NOUN	NN	_	0	root	_	_
+1	coke	coke	NOUN	NN	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	324.6	324.6	NUM	CD	_	0	root	_	_
+1	324.6	324.6	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	45	45	NUM	LS	_	0	root	_	_
+1	45	45	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	atrium	atrium	NOUN	NN	_	0	root	_	_
+1	atrium	atrium	NOUN	NN	_	_	_	_	_
 
 
-1	red	red	ADJ	JJ	_	0	root	_	_
+1	red	red	ADJ	JJ	_	_	_	_	_
 
 
-1	juice	juice	NOUN	NN	_	0	root	_	_
+1	juice	juice	NOUN	NN	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	324.6	324.6	NUM	CD	_	0	root	_	_
+1	324.6	324.6	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	45	45	NUM	LS	_	0	root	_	_
+1	45	45	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	atrium	atrium	NOUN	NN	_	0	root	_	_
+1	atrium	atrium	NOUN	NN	_	_	_	_	_
 
 
-1	yellow	yellow	ADJ	JJ	_	0	root	_	_
+1	yellow	yellow	ADJ	JJ	_	_	_	_	_
 
 
-1	juice	juice	NOUN	NN	_	0	root	_	_
+1	juice	juice	NOUN	NN	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	324.6	324.6	NUM	CD	_	0	root	_	_
+1	324.6	324.6	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	45	45	NUM	LS	_	0	root	_	_
+1	45	45	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	v	v	NUM	LS	_	0	root	_	_
+1	v	v	NUM	LS	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	conclusion	conclusion	NOUN	NN	_	0	root	_	_
+1	conclusion	conclusion	NOUN	NN	_	_	_	_	_
 
 
-1	j234	j234	NUM	CD	_	0	root	_	_
+1	j234	j234	NUM	CD	_	_	_	_	_
 
 
-1	water	water	NOUN	NN	_	0	root	_	_
+1	water	water	NOUN	NN	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	324.6	324.6	NUM	CD	_	0	root	_	_
+1	324.6	324.6	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	45	45	NUM	LS	_	0	root	_	_
+1	45	45	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	experimentation	experimentation	NOUN	NN	_	0	root	_	_
+1	experimentation	experimentation	NOUN	NN	_	_	_	_	_
 
 
-1	find	find	VERB	VB	_	0	root	_	_
+1	find	find	VERB	VB	_	_	_	_	_
 
 
-1	environment	environment	NOUN	NN	_	0	root	_	_
+1	environment	environment	NOUN	NN	_	_	_	_	_
 
 
-1	diverse	diverse	ADJ	JJ	_	0	root	_	_
+1	diverse	diverse	ADJ	JJ	_	_	_	_	_
 
 
-1	light	light	NOUN	NN	_	0	root	_	_
+1	light	light	NOUN	NN	_	_	_	_	_
 
 
-1	condition	condition	NOUN	NN	_	0	root	_	_
+1	condition	condition	NOUN	NN	_	_	_	_	_
 
 
-1	isolation	isolation	NOUN	NN	_	0	root	_	_
+1	isolation	isolation	NOUN	NN	_	_	_	_	_
 
 
-1	environmental	environmental	ADJ	JJ	_	0	root	_	_
+1	environmental	environmental	ADJ	JJ	_	_	_	_	_
 
 
-1	heat	heat	NOUN	NN	_	0	root	_	_
+1	heat	heat	NOUN	NN	_	_	_	_	_
 
 
-1	source	source	NOUN	NN	_	0	root	_	_
+1	source	source	NOUN	NN	_	_	_	_	_
 
 
-1	vgg19	vgg19	PROPN	ADD	_	0	root	_	_
+1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
 
 
-1	image	image	NOUN	NN	_	0	root	_	_
+1	image	image	NOUN	NN	_	_	_	_	_
 
 
-1	classification	classification	NOUN	NN	_	0	root	_	_
+1	classification	classification	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	train	train	NOUN	NN	_	0	root	_	_
+1	train	train	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	offer	offer	VERB	VB	_	0	root	_	_
+1	offer	offer	VERB	VB	_	_	_	_	_
 
 
-1	good	good	ADJ	JJ	_	0	root	_	_
+1	good	good	ADJ	JJ	_	_	_	_	_
 
 
-1	performance	performance	NOUN	NN	_	0	root	_	_
+1	performance	performance	NOUN	NN	_	_	_	_	_
 
 
-1	measure	measure	NOUN	NN	_	0	root	_	_
+1	measure	measure	NOUN	NN	_	_	_	_	_
 
 
-1	inference	inference	NOUN	NN	_	0	root	_	_
+1	inference	inference	NOUN	NN	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	real	real	ADJ	JJ	_	0	root	_	_
+1	real	real	ADJ	JJ	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	deployment	deployment	NOUN	NN	_	0	root	_	_
+1	deployment	deployment	NOUN	NN	_	_	_	_	_
 
 
-1	j234	j234	NUM	CD	_	0	root	_	_
+1	j234	j234	NUM	CD	_	_	_	_	_
 
 
-1	coke	coke	NOUN	NN	_	0	root	_	_
+1	coke	coke	NOUN	NN	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	324.6	324.6	NUM	CD	_	0	root	_	_
+1	324.6	324.6	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	45	45	NUM	LS	_	0	root	_	_
+1	45	45	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	j234	j234	NUM	CD	_	0	root	_	_
+1	j234	j234	NUM	CD	_	_	_	_	_
 
 
-1	red	red	ADJ	JJ	_	0	root	_	_
+1	red	red	ADJ	JJ	_	_	_	_	_
 
 
-1	juice	juice	NOUN	NN	_	0	root	_	_
+1	juice	juice	NOUN	NN	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	324.6	324.6	NUM	CD	_	0	root	_	_
+1	324.6	324.6	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	45	45	NUM	LS	_	0	root	_	_
+1	45	45	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	j234	j234	NUM	CD	_	0	root	_	_
+1	j234	j234	NUM	CD	_	_	_	_	_
 
 
-1	yellow	yellow	ADJ	JJ	_	0	root	_	_
+1	yellow	yellow	ADJ	JJ	_	_	_	_	_
 
 
-1	juice	juice	NOUN	NN	_	0	root	_	_
+1	juice	juice	NOUN	NN	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	324.6	324.6	NUM	CD	_	0	root	_	_
+1	324.6	324.6	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	45	45	NUM	LS	_	0	root	_	_
+1	45	45	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	atrium	atrium	NOUN	NN	_	0	root	_	_
+1	atrium	atrium	NOUN	NN	_	_	_	_	_
 
 
-1	100	100	NUM	CD	_	0	root	_	_
+1	100	100	NUM	CD	_	_	_	_	_
 
 
-1	j234	j234	NUM	CD	_	0	root	_	_
+1	j234	j234	NUM	CD	_	_	_	_	_
 
 
-1	324.6	324.6	NUM	CD	_	0	root	_	_
+1	324.6	324.6	NUM	CD	_	_	_	_	_
 
 
-1	mb	mb	PROPN	NNP	_	0	root	_	_
+1	mb	mb	PROPN	NNP	_	_	_	_	_
 
 
-1	44	44	NUM	LS	_	0	root	_	_
+1	44	44	NUM	LS	_	_	_	_	_
 
 
-1	ms	ms	INTJ	UH	_	0	root	_	_
+1	ms	ms	INTJ	UH	_	_	_	_	_
 
 
-1	vi	vi	NOUN	NN	_	0	root	_	_
+1	vi	vi	NOUN	NN	_	_	_	_	_
 
 
-1	future	future	NOUN	NN	_	0	root	_	_
+1	future	future	NOUN	NN	_	_	_	_	_
 
 
-1	work	work	NOUN	NN	_	0	root	_	_
+1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	future	future	NOUN	NN	_	0	root	_	_
+1	future	future	NOUN	NN	_	_	_	_	_
 
 
-1	work	work	NOUN	NN	_	0	root	_	_
+1	work	work	NOUN	NN	_	_	_	_	_
 
 
-1	may	may	AUX	MD	_	0	root	_	_
+1	may	may	AUX	MD	_	_	_	_	_
 
 
-1	useful	useful	ADJ	JJ	_	0	root	_	_
+1	useful	useful	ADJ	JJ	_	_	_	_	_
 
 
-1	perform	perform	VERB	VB	_	0	root	_	_
+1	perform	perform	VERB	VB	_	_	_	_	_
 
 
-1	experiment	experiment	VERB	VB	_	0	root	_	_
+1	experiment	experiment	VERB	VB	_	_	_	_	_
 
 
-1	without	without	ADP	IN	_	0	root	_	_
+1	without	without	ADP	IN	_	_	_	_	_
 
 
-1	isolation	isolation	NOUN	NN	_	0	root	_	_
+1	isolation	isolation	NOUN	NN	_	_	_	_	_
 
 
-1	environmental	environmental	ADJ	JJ	_	0	root	_	_
+1	environmental	environmental	ADJ	JJ	_	_	_	_	_
 
 
-1	heat	heat	NOUN	NN	_	0	root	_	_
+1	heat	heat	NOUN	NN	_	_	_	_	_
 
 
-1	source	source	NOUN	NN	_	0	root	_	_
+1	source	source	NOUN	NN	_	_	_	_	_
 
 
-1	foot	foot	NOUN	NN	_	0	root	_	_
+1	foot	foot	NOUN	NN	_	_	_	_	_
 
 
-1	traffic	traffic	NOUN	NN	_	0	root	_	_
+1	traffic	traffic	NOUN	NN	_	_	_	_	_
 
 
-1	future	future	NOUN	NN	_	0	root	_	_
+1	future	future	NOUN	NN	_	_	_	_	_
 
 
-1	direction	direction	NOUN	NN	_	0	root	_	_
+1	direction	direction	NOUN	NN	_	_	_	_	_
 
 
-1	include	include	VERB	VB	_	0	root	_	_
+1	include	include	VERB	VB	_	_	_	_	_
 
 
-1	explore	explore	VERB	VB	_	0	root	_	_
+1	explore	explore	VERB	VB	_	_	_	_	_
 
 
-1	ensemble	ensemble	NOUN	NN	_	0	root	_	_
+1	ensemble	ensemble	NOUN	NN	_	_	_	_	_
 
 
-1	method	method	NOUN	NN	_	0	root	_	_
+1	method	method	NOUN	NN	_	_	_	_	_
 
 
-1	fuse	fuse	NOUN	NN	_	0	root	_	_
+1	fuse	fuse	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	feature	feature	NOUN	NN	_	0	root	_	_
+1	feature	feature	NOUN	NN	_	_	_	_	_
 
 
-1	motivated	motivated	VERB	VBN	_	0	root	_	_
+1	motivated	motivated	VERB	VBN	_	_	_	_	_
 
 
-1	recent	recent	ADJ	JJ	_	0	root	_	_
+1	recent	recent	ADJ	JJ	_	_	_	_	_
 
 
-1	survey	survey	NOUN	NN	_	0	root	_	_
+1	survey	survey	NOUN	NN	_	_	_	_	_
 
 
-1	multi	multi	NOUN	NN	_	0	root	_	_
+1	multi	multi	NOUN	NN	_	_	_	_	_
 
 
-1	sensor	sensor	NOUN	NN	_	0	root	_	_
+1	sensor	sensor	NOUN	NN	_	_	_	_	_
 
 
-1	datum	datum	NOUN	NN	_	0	root	_	_
+1	datum	datum	NOUN	NN	_	_	_	_	_
 
 
-1	fusion	fusion	NOUN	NN	_	0	root	_	_
+1	fusion	fusion	NOUN	NN	_	_	_	_	_
 
 
-1	leak	leak	NOUN	NN	_	0	root	_	_
+1	leak	leak	NOUN	NN	_	_	_	_	_
 
 
-1	detection	detection	NOUN	NN	_	0	root	_	_
+1	detection	detection	NOUN	NN	_	_	_	_	_
 
 
-1	system	system	NOUN	NN	_	0	root	_	_
+1	system	system	NOUN	NN	_	_	_	_	_
 
 
-1	could	could	AUX	MD	_	0	root	_	_
+1	could	could	AUX	MD	_	_	_	_	_
 
 
-1	potentially	potentially	ADV	RB	_	0	root	_	_
+1	potentially	potentially	ADV	RB	_	_	_	_	_
 
 
-1	allow	allow	VERB	VB	_	0	root	_	_
+1	allow	allow	VERB	VB	_	_	_	_	_
 
 
-1	misclassification	misclassification	NOUN	NN	_	0	root	_	_
+1	misclassification	misclassification	NOUN	NN	_	_	_	_	_
 
 
-1	environmental	environmental	ADJ	JJ	_	0	root	_	_
+1	environmental	environmental	ADJ	JJ	_	_	_	_	_
 
 
-1	heat	heat	NOUN	NN	_	0	root	_	_
+1	heat	heat	NOUN	NN	_	_	_	_	_
 
 
-1	source	source	NOUN	NN	_	0	root	_	_
+1	source	source	NOUN	NN	_	_	_	_	_
 
 
-1	thermal	thermal	NOUN	NN	_	0	root	_	_
+1	thermal	thermal	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	correct	correct	ADJ	JJ	_	0	root	_	_
+1	correct	correct	ADJ	JJ	_	_	_	_	_
 
 
-1	distinction	distinction	NOUN	NN	_	0	root	_	_
+1	distinction	distinction	NOUN	NN	_	_	_	_	_
 
 
-1	rgb	rgb	NOUN	NN	_	0	root	_	_
+1	rgb	rgb	NOUN	NN	_	_	_	_	_
 
 
-1	imaging	imaging	NOUN	NN	_	0	root	_	_
+1	imaging	imaging	NOUN	NN	_	_	_	_	_
 
 
-1	lightweight	lightweight	ADJ	JJ	_	0	root	_	_
+1	lightweight	lightweight	ADJ	JJ	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	result	result	NOUN	NN	_	0	root	_	_
+1	result	result	NOUN	NN	_	_	_	_	_
 
 
-1	find	find	VERB	VB	_	0	root	_	_
+1	find	find	VERB	VB	_	_	_	_	_
 
 
-1	last	last	ADJ	JJ	_	0	root	_	_
+1	last	last	ADJ	JJ	_	_	_	_	_
 
 
-1	three	three	NUM	CD	_	0	root	_	_
+1	three	three	NUM	CD	_	_	_	_	_
 
 
-1	column	column	NOUN	NN	_	0	root	_	_
+1	column	column	NOUN	NN	_	_	_	_	_
 
 
-1	table	table	NOUN	NN	_	0	root	_	_
+1	table	table	NOUN	NN	_	_	_	_	_
 
 
-1	iii	iii	INTJ	UH	_	0	root	_	_
+1	iii	iii	INTJ	UH	_	_	_	_	_
 
 
-1	demo	demo	NOUN	NN	_	0	root	_	_
+1	demo	demo	NOUN	NN	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	size	size	NOUN	NN	_	0	root	_	_
+1	size	size	NOUN	NN	_	_	_	_	_
 
 
-1	inference	inference	NOUN	NN	_	0	root	_	_
+1	inference	inference	NOUN	NN	_	_	_	_	_
 
 
-1	time	time	NOUN	NN	_	0	root	_	_
+1	time	time	NOUN	NN	_	_	_	_	_
 
 
-1	omit	omit	VERB	VB	_	0	root	_	_
+1	omit	omit	VERB	VB	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
-1	vgg19	vgg19	PROPN	ADD	_	0	root	_	_
+1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
 
 
-1	nasnet	nasnet	PROPN	NNP	_	0	root	_	_
+1	nasnet	nasnet	PROPN	NNP	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	table	table	NOUN	NN	_	0	root	_	_
+1	table	table	NOUN	NN	_	_	_	_	_
 
 
-1	iii	iii	INTJ	UH	_	0	root	_	_
+1	iii	iii	INTJ	UH	_	_	_	_	_
 
 
-1	since	since	ADV	RB	_	0	root	_	_
+1	since	since	ADV	RB	_	_	_	_	_
 
 
-1	comparison	comparison	NOUN	NN	_	0	root	_	_
+1	comparison	comparison	NOUN	NN	_	_	_	_	_
 
 
-1	make	make	VERB	VB	_	0	root	_	_
+1	make	make	VERB	VB	_	_	_	_	_
 
 
-1	vgg19	vgg19	PROPN	ADD	_	0	root	_	_
+1	vgg19	vgg19	PROPN	ADD	_	_	_	_	_
 
 
-1	nasnet	nasnet	PROPN	NNP	_	0	root	_	_
+1	nasnet	nasnet	PROPN	NNP	_	_	_	_	_
 
 
-1	mobile	mobile	ADJ	JJ	_	0	root	_	_
+1	mobile	mobile	ADJ	JJ	_	_	_	_	_
 
 
-1	due	due	ADJ	JJ	_	0	root	_	_
+1	due	due	ADJ	JJ	_	_	_	_	_
 
 
-1	accuracy	accuracy	NOUN	NN	_	0	root	_	_
+1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
 
 
-1	test	test	NOUN	NN	_	0	root	_	_
+1	test	test	NOUN	NN	_	_	_	_	_
 
 
-1	dataset	dataset	NOUN	NN	_	0	root	_	_
+1	dataset	dataset	NOUN	NN	_	_	_	_	_
 
 
-1	low	low	ADJ	JJ	_	0	root	_	_
+1	low	low	ADJ	JJ	_	_	_	_	_
 
 
-1	model	model	NOUN	NN	_	0	root	_	_
+1	model	model	NOUN	NN	_	_	_	_	_
 
 
