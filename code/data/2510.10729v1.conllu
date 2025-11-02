@@ -1,3669 +1,6114 @@
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	nuanced	nuanced	ADJ	JJ	_	_	_	_	_
+# text = nuanced
+# sent_id = 0
+1	nuanced	nuanced	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	misinterpret	misinterpret	VERB	VB	_	_	_	_	_
+# text = misinterpret
+# sent_id = 0
+1	misinterpret	misinterpret	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	form	form	NOUN	NN	_	_	_	_	_
+# text = form
+# sent_id = 0
+1	form	form	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	communication	communication	NOUN	NN	_	_	_	_	_
+# text = communication
+# sent_id = 0
+1	communication	communication	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	especially	especially	ADV	RB	_	_	_	_	_
+# text = especially
+# sent_id = 0
+1	especially	especially	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	tone	tone	NOUN	NN	_	_	_	_	_
+# text = tone
+# sent_id = 0
+1	tone	tone	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	body	body	NOUN	NN	_	_	_	_	_
+# text = body
+# sent_id = 0
+1	body	body	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	language	language	NOUN	NN	_	_	_	_	_
+# text = language
+# sent_id = 0
+1	language	language	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	absent	absent	ADJ	JJ	_	_	_	_	_
+# text = absent
+# sent_id = 0
+1	absent	absent	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	paper	paper	NOUN	NN	_	_	_	_	_
+# text = paper
+# sent_id = 0
+1	paper	paper	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	present	present	ADJ	JJ	_	_	_	_	_
+# text = present
+# sent_id = 0
+1	present	present	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	propose	propose	VERB	VB	_	_	_	_	_
+# text = propose
+# sent_id = 0
+1	propose	propose	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	modular	modular	ADJ	JJ	_	_	_	_	_
+# text = modular
+# sent_id = 0
+1	modular	modular	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	framework	framework	NOUN	NN	_	_	_	_	_
+# text = framework
+# sent_id = 0
+1	framework	framework	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	leverage	leverage	NOUN	NN	_	_	_	_	_
+# text = leverage
+# sent_id = 0
+1	leverage	leverage	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
+# text = convolutional
+# sent_id = 0
+1	convolutional	convolutional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	dcnns	dcnns	PROPN	NNP	_	_	_	_	_
+# text = dcnns
+# sent_id = 0
+1	dcnns	dcnn	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	contextual	contextual	NOUN	NN	_	_	_	_	_
+# text = contextual
+# sent_id = 0
+1	contextual	contextual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	like	like	INTJ	UH	_	_	_	_	_
+# text = like
+# sent_id = 0
+1	like	like	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	bert	bert	PROPN	NNP	_	_	_	_	_
+# text = bert
+# sent_id = 0
+1	bert	bert	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	analyze	analyze	VERB	VB	_	_	_	_	_
+# text = analyze
+# sent_id = 0
+1	analyze	analyze	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
+# text = linguistic
+# sent_id = 0
+1	linguistic	linguistic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	emotional	emotional	ADJ	JJ	_	_	_	_	_
+# text = emotional
+# sent_id = 0
+1	emotional	emotional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	contextual	contextual	NOUN	NN	_	_	_	_	_
+# text = contextual
+# sent_id = 0
+1	contextual	contextual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	cue	cue	NOUN	NN	_	_	_	_	_
+# text = cue
+# sent_id = 0
+1	cue	cue	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	conceptually	conceptually	ADV	RB	_	_	_	_	_
+# text = conceptually
+# sent_id = 0
+1	conceptually	conceptually	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	design	design	NOUN	NN	_	_	_	_	_
+# text = design
+# sent_id = 0
+1	design	design	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	integrate	integrate	VERB	VB	_	_	_	_	_
+# text = integrate
+# sent_id = 0
+1	integrate	integrate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
+# text = sentiment
+# sent_id = 0
+1	sentiment	sentiment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	analysis	analysis	NOUN	NN	_	_	_	_	_
+# text = analysis
+# sent_id = 0
+1	analysis	analysis	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	contextual	contextual	NOUN	NN	_	_	_	_	_
+# text = contextual
+# sent_id = 0
+1	contextual	contextual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	embedding	embedding	NOUN	NN	_	_	_	_	_
+# text = embedding
+# sent_id = 0
+1	embedding	embed	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
+# text = linguistic
+# sent_id = 0
+1	linguistic	linguistic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	extraction	extraction	NOUN	NN	_	_	_	_	_
+# text = extraction
+# sent_id = 0
+1	extraction	extraction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	emotion	emotion	NOUN	NN	_	_	_	_	_
+# text = emotion
+# sent_id = 0
+1	emotion	emotion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	multi	multi	NOUN	NN	_	_	_	_	_
+# text = multi
+# sent_id = 0
+1	multi	multi	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	layer	layer	NOUN	NN	_	_	_	_	_
+# text = layer
+# sent_id = 0
+1	layer	layer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	architecture	architecture	NOUN	NN	_	_	_	_	_
+# text = architecture
+# sent_id = 0
+1	architecture	architecture	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	implement	implement	VERB	VB	_	_	_	_	_
+# text = implement
+# sent_id = 0
+1	implement	implement	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	design	design	NOUN	NN	_	_	_	_	_
+# text = design
+# sent_id = 0
+1	design	design	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
+# text = demonstrate
+# sent_id = 0
+1	demonstrate	demonstrate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	feasi	feasi	NOUN	NN	_	_	_	_	_
+# text = feasi
+# sent_id = 0
+1	feasi	feasi	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	bility	bility	INTJ	UH	_	_	_	_	_
+# text = bility
+# sent_id = 0
+1	bility	bility	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	real	real	ADJ	JJ	_	_	_	_	_
+# text = real
+# sent_id = 0
+1	real	real	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	world	world	NOUN	NN	_	_	_	_	_
+# text = world
+# sent_id = 0
+1	world	world	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	application	application	NOUN	NN	_	_	_	_	_
+# text = application
+# sent_id = 0
+1	application	application	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	like	like	INTJ	UH	_	_	_	_	_
+# text = like
+# sent_id = 0
+1	like	like	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	chatbot	chatbot	NOUN	NN	_	_	_	_	_
+# text = chatbot
+# sent_id = 0
+1	chatbot	chatbot	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	social	social	ADJ	JJ	_	_	_	_	_
+# text = social
+# sent_id = 0
+1	social	social	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	medium	medium	ADJ	JJ	_	_	_	_	_
+# text = medium
+# sent_id = 0
+1	medium	medium	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	monitor	monitor	VERB	VB	_	_	_	_	_
+# text = monitor
+# sent_id = 0
+1	monitor	monitor	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	additional	additional	ADJ	JJ	_	_	_	_	_
+# text = additional
+# sent_id = 0
+1	additional	additional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	discussion	discussion	NOUN	NN	_	_	_	_	_
+# text = discussion
+# sent_id = 0
+1	discussion	discussion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	datum	datum	NOUN	NN	_	_	_	_	_
+# text = datum
+# sent_id = 0
+1	datum	datum	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
+# text = preprocesse
+# sent_id = 0
+1	preprocesse	preprocesse	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	technique	technique	NOUN	NN	_	_	_	_	_
+# text = technique
+# sent_id = 0
+1	technique	technique	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	evaluation	evaluation	NOUN	NN	_	_	_	_	_
+# text = evaluation
+# sent_id = 0
+1	evaluation	evaluation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	strategy	strategy	NOUN	NN	_	_	_	_	_
+# text = strategy
+# sent_id = 0
+1	strategy	strategy	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	ethical	ethical	ADJ	JJ	_	_	_	_	_
+# text = ethical
+# sent_id = 0
+1	ethical	ethical	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	implication	implication	NOUN	NN	_	_	_	_	_
+# text = implication
+# sent_id = 0
+1	implication	implication	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	contextualize	contextualize	VERB	VB	_	_	_	_	_
+# text = contextualize
+# sent_id = 0
+1	contextualize	contextualize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	approach	approach	NOUN	NN	_	_	_	_	_
+# text = approach
+# sent_id = 0
+1	approach	approach	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	index	index	NOUN	NN	_	_	_	_	_
+# text = index
+# sent_id = 0
+1	index	index	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	term	term	NOUN	NN	_	_	_	_	_
+# text = term
+# sent_id = 0
+1	term	term	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	convolu	convolu	NOUN	NN	_	_	_	_	_
+# text = convolu
+# sent_id = 0
+1	convolu	convolu	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	tional	tional	INTJ	UH	_	_	_	_	_
+# text = tional
+# sent_id = 0
+1	tional	tional	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	natural	natural	ADJ	JJ	_	_	_	_	_
+# text = natural
+# sent_id = 0
+1	natural	natural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	language	language	NOUN	NN	_	_	_	_	_
+# text = language
+# sent_id = 0
+1	language	language	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	processing	processing	NOUN	NN	_	_	_	_	_
+# text = processing
+# sent_id = 0
+1	processing	processing	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	bert	bert	PROPN	NNP	_	_	_	_	_
+# text = bert
+# sent_id = 0
+1	bert	bert	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	multimodal	multimodal	ADJ	JJ	_	_	_	_	_
+# text = multimodal
+# sent_id = 0
+1	multimodal	multimodal	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	analysis	analysis	NOUN	NN	_	_	_	_	_
+# text = analysis
+# sent_id = 0
+1	analysis	analysis	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	emotion	emotion	NOUN	NN	_	_	_	_	_
+# text = emotion
+# sent_id = 0
+1	emotion	emotion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	iii	iii	INTJ	UH	_	_	_	_	_
+# text = iii
+# sent_id = 0
+1	iii	iii	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	literature	literature	NOUN	NN	_	_	_	_	_
+# text = literature
+# sent_id = 0
+1	literature	literature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	survey	survey	NOUN	NN	_	_	_	_	_
+# text = survey
+# sent_id = 0
+1	survey	survey	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	active	active	ADJ	JJ	_	_	_	_	_
+# text = active
+# sent_id = 0
+1	active	active	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	area	area	NOUN	NN	_	_	_	_	_
+# text = area
+# sent_id = 0
+1	area	area	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	research	research	NOUN	NN	_	_	_	_	_
+# text = research
+# sent_id = 0
+1	research	research	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	implication	implication	NOUN	NN	_	_	_	_	_
+# text = implication
+# sent_id = 0
+1	implication	implication	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
+# text = sentiment
+# sent_id = 0
+1	sentiment	sentiment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	analysis	analysis	NOUN	NN	_	_	_	_	_
+# text = analysis
+# sent_id = 0
+1	analysis	analysis	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	opinion	opinion	NOUN	NN	_	_	_	_	_
+# text = opinion
+# sent_id = 0
+1	opinion	opinion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	mining	mining	NOUN	NN	_	_	_	_	_
+# text = mining
+# sent_id = 0
+1	mining	mining	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	study	study	NOUN	NN	_	_	_	_	_
+# text = study
+# sent_id = 0
+1	study	study	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	propose	propose	VERB	VB	_	_	_	_	_
+# text = propose
+# sent_id = 0
+1	propose	propose	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	diverse	diverse	ADJ	JJ	_	_	_	_	_
+# text = diverse
+# sent_id = 0
+1	diverse	diverse	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	approach	approach	NOUN	NN	_	_	_	_	_
+# text = approach
+# sent_id = 0
+1	approach	approach	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	range	range	NOUN	NN	_	_	_	_	_
+# text = range
+# sent_id = 0
+1	range	range	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	rule	rule	NOUN	NN	_	_	_	_	_
+# text = rule
+# sent_id = 0
+1	rule	rule	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	base	base	NOUN	NN	_	_	_	_	_
+# text = base
+# sent_id = 0
+1	base	base	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	architecture	architecture	NOUN	NN	_	_	_	_	_
+# text = architecture
+# sent_id = 0
+1	architecture	architecture	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	jamil	jamil	PROPN	NNP	_	_	_	_	_
+# text = jamil
+# sent_id = 0
+1	jamil	jamil	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	et	et	X	FW	_	_	_	_	_
+# text = et
+# sent_id = 0
+1	et	et	X	FW	_	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	al	al	PROPN	NNP	_	_	_	_	_
+# text = al
+# sent_id = 0
+1	al	al	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	introduce	introduce	VERB	VB	_	_	_	_	_
+# text = introduce
+# sent_id = 0
+1	introduce	introduce	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	hybrid	hybrid	NOUN	NN	_	_	_	_	_
+# text = hybrid
+# sent_id = 0
+1	hybrid	hybrid	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	con	con	NOUN	NN	_	_	_	_	_
+# text = con
+# sent_id = 0
+1	con	con	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	volutional	volutional	ADJ	JJ	_	_	_	_	_
+# text = volutional
+# sent_id = 0
+1	volutional	volutional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	cnns	cnns	NOUN	NNS	_	_	_	_	_
+# text = cnns
+# sent_id = 0
+1	cnns	cnn	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	long	long	ADJ	JJ	_	_	_	_	_
+# text = long
+# sent_id = 0
+1	long	long	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	short	short	ADJ	JJ	_	_	_	_	_
+# text = short
+# sent_id = 0
+1	short	short	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	term	term	NOUN	NN	_	_	_	_	_
+# text = term
+# sent_id = 0
+1	term	term	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	memory	memory	NOUN	NN	_	_	_	_	_
+# text = memory
+# sent_id = 0
+1	memory	memory	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	lstm	lstm	PROPN	NNP	_	_	_	_	_
+# text = lstm
+# sent_id = 0
+1	lstm	lstm	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detect	detect	VERB	VB	_	_	_	_	_
+# text = detect
+# sent_id = 0
+1	detect	detect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	multi	multi	NOUN	NN	_	_	_	_	_
+# text = multi
+# sent_id = 0
+1	multi	multi	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	domain	domain	NOUN	NN	_	_	_	_	_
+# text = domain
+# sent_id = 0
+1	domain	domain	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	dataset	dataset	NOUN	NN	_	_	_	_	_
+# text = dataset
+# sent_id = 0
+1	dataset	dataset	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	work	work	NOUN	NN	_	_	_	_	_
+# text = work
+# sent_id = 0
+1	work	work	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	emphasize	emphasize	VERB	VB	_	_	_	_	_
+# text = emphasize
+# sent_id = 0
+1	emphasize	emphasize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	combination	combination	NOUN	NN	_	_	_	_	_
+# text = combination
+# sent_id = 0
+1	combination	combination	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	spatial	spatial	ADJ	JJ	_	_	_	_	_
+# text = spatial
+# sent_id = 0
+1	spatial	spatial	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sequential	sequential	ADJ	JJ	_	_	_	_	_
+# text = sequential
+# sent_id = 0
+1	sequential	sequential	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	improve	improve	VERB	VB	_	_	_	_	_
+# text = improve
+# sent_id = 0
+1	improve	improve	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
+# text = accuracy
+# sent_id = 0
+1	accuracy	accuracy	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	razali	razali	PROPN	NNP	_	_	_	_	_
+# text = razali
+# sent_id = 0
+1	razali	razali	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	et	et	X	FW	_	_	_	_	_
+# text = et
+# sent_id = 0
+1	et	et	X	FW	_	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	al	al	PROPN	NNP	_	_	_	_	_
+# text = al
+# sent_id = 0
+1	al	al	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	explore	explore	VERB	VB	_	_	_	_	_
+# text = explore
+# sent_id = 0
+1	explore	explore	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	contextual	contextual	NOUN	NN	_	_	_	_	_
+# text = contextual
+# sent_id = 0
+1	contextual	contextual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	embed	embed	VERB	VB	_	_	_	_	_
+# text = embed
+# sent_id = 0
+1	embed	emb	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	tech	tech	NOUN	NN	_	_	_	_	_
+# text = tech
+# sent_id = 0
+1	tech	tech	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	nique	nique	PROPN	NNP	_	_	_	_	_
+# text = nique
+# sent_id = 0
+1	nique	nique	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	highlight	highlight	VERB	VB	_	_	_	_	_
+# text = highlight
+# sent_id = 0
+1	highlight	highlight	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	importance	importance	NOUN	NN	_	_	_	_	_
+# text = importance
+# sent_id = 0
+1	importance	importance	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	semantic	semantic	ADJ	JJ	_	_	_	_	_
+# text = semantic
+# sent_id = 0
+1	semantic	semantic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	domain	domain	NOUN	NN	_	_	_	_	_
+# text = domain
+# sent_id = 0
+1	domain	domain	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	knowledge	knowledge	NOUN	NN	_	_	_	_	_
+# text = knowledge
+# sent_id = 0
+1	knowledge	knowledge	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	signifi	signifi	VERB	VB	_	_	_	_	_
+# text = signifi
+# sent_id = 0
+1	signifi	signifi	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	cantly	cantly	INTJ	UH	_	_	_	_	_
+# text = cantly
+# sent_id = 0
+1	cantly	cantly	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	enhance	enhance	VERB	VB	_	_	_	_	_
+# text = enhance
+# sent_id = 0
+1	enhance	enhance	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	performance	performance	NOUN	NN	_	_	_	_	_
+# text = performance
+# sent_id = 0
+1	performance	performance	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	consider	consider	VERB	VB	_	_	_	_	_
+# text = consider
+# sent_id = 0
+1	consider	consider	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	word	word	NOUN	NN	_	_	_	_	_
+# text = word
+# sent_id = 0
+1	word	word	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	context	context	NOUN	NN	_	_	_	_	_
+# text = context
+# sent_id = 0
+1	context	context	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sentence	sentence	NOUN	NN	_	_	_	_	_
+# text = sentence
+# sent_id = 0
+1	sentence	sentence	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	level	level	NOUN	NN	_	_	_	_	_
+# text = level
+# sent_id = 0
+1	level	level	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	poria	poria	PROPN	NNP	_	_	_	_	_
+# text = poria
+# sent_id = 0
+1	poria	poria	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	et	et	X	FW	_	_	_	_	_
+# text = et
+# sent_id = 0
+1	et	et	X	FW	_	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	al	al	PROPN	NNP	_	_	_	_	_
+# text = al
+# sent_id = 0
+1	al	al	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	present	present	ADJ	JJ	_	_	_	_	_
+# text = present
+# sent_id = 0
+1	present	present	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	cnn	cnn	PROPN	NNP	_	_	_	_	_
+# text = cnn
+# sent_id = 0
+1	cnn	cnn	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	base	base	NOUN	NN	_	_	_	_	_
+# text = base
+# sent_id = 0
+1	base	base	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	architecture	architecture	NOUN	NN	_	_	_	_	_
+# text = architecture
+# sent_id = 0
+1	architecture	architecture	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
+# text = sarcastic
+# sent_id = 0
+1	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	tweet	tweet	NOUN	NN	_	_	_	_	_
+# text = tweet
+# sent_id = 0
+1	tweet	tweet	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	classification	classification	NOUN	NN	_	_	_	_	_
+# text = classification
+# sent_id = 0
+1	classification	classification	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	capture	capture	VERB	VB	_	_	_	_	_
+# text = capture
+# sent_id = 0
+1	capture	capture	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	local	local	ADJ	JJ	_	_	_	_	_
+# text = local
+# sent_id = 0
+1	local	local	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	pattern	pattern	NOUN	NN	_	_	_	_	_
+# text = pattern
+# sent_id = 0
+1	pattern	pattern	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	contribute	contribute	VERB	VB	_	_	_	_	_
+# text = contribute
+# sent_id = 0
+1	contribute	contribute	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	detect	detect	VERB	VB	_	_	_	_	_
+# text = detect
+# sent_id = 0
+1	detect	detect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
+# text = sarcastic
+# sent_id = 0
+1	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	undertone	undertone	NOUN	NN	_	_	_	_	_
+# text = undertone
+# sent_id = 0
+1	undertone	undertone	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	research	research	NOUN	NN	_	_	_	_	_
+# text = research
+# sent_id = 0
+1	research	research	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	focus	focus	VERB	VB	_	_	_	_	_
+# text = focus
+# sent_id = 0
+1	focus	focus	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	leverage	leverage	NOUN	NN	_	_	_	_	_
+# text = leverage
+# sent_id = 0
+1	leverage	leverage	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	spatial	spatial	ADJ	JJ	_	_	_	_	_
+# text = spatial
+# sent_id = 0
+1	spatial	spatial	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	hierarchy	hierarchy	NOUN	NN	_	_	_	_	_
+# text = hierarchy
+# sent_id = 0
+1	hierarchy	hierarchy	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	tweet	tweet	NOUN	NN	_	_	_	_	_
+# text = tweet
+# sent_id = 0
+1	tweet	tweet	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	liu	liu	PROPN	NNP	_	_	_	_	_
+# text = liu
+# sent_id = 0
+1	liu	liu	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	et	et	X	FW	_	_	_	_	_
+# text = et
+# sent_id = 0
+1	et	et	X	FW	_	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	al	al	PROPN	NNP	_	_	_	_	_
+# text = al
+# sent_id = 0
+1	al	al	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	design	design	NOUN	NN	_	_	_	_	_
+# text = design
+# sent_id = 0
+1	design	design	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	multitask	multitask	NOUN	NN	_	_	_	_	_
+# text = multitask
+# sent_id = 0
+1	multitask	multitask	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	general	general	ADJ	JJ	_	_	_	_	_
+# text = general
+# sent_id = 0
+1	general	general	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	language	language	NOUN	NN	_	_	_	_	_
+# text = language
+# sent_id = 0
+1	language	language	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	understand	understand	VERB	VB	_	_	_	_	_
+# text = understand
+# sent_id = 0
+1	understand	understand	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	task	task	NOUN	NN	_	_	_	_	_
+# text = task
+# sent_id = 0
+1	task	task	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	provide	provide	VERB	VB	_	_	_	_	_
+# text = provide
+# sent_id = 0
+1	provide	provide	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	foundational	foundational	ADJ	JJ	_	_	_	_	_
+# text = foundational
+# sent_id = 0
+1	foundational	foundational	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	indirectly	indirectly	ADV	RB	_	_	_	_	_
+# text = indirectly
+# sent_id = 0
+1	indirectly	indirectly	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	benefit	benefit	NOUN	NN	_	_	_	_	_
+# text = benefit
+# sent_id = 0
+1	benefit	benefit	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	share	share	NOUN	NN	_	_	_	_	_
+# text = share
+# sent_id = 0
+1	share	share	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	contextual	contextual	NOUN	NN	_	_	_	_	_
+# text = contextual
+# sent_id = 0
+1	contextual	contextual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	relate	relate	VERB	VB	_	_	_	_	_
+# text = relate
+# sent_id = 0
+1	relate	relate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	task	task	NOUN	NN	_	_	_	_	_
+# text = task
+# sent_id = 0
+1	task	task	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	zhang	zhang	PROPN	NNP	_	_	_	_	_
+# text = zhang
+# sent_id = 0
+1	zhang	zhang	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	et	et	X	FW	_	_	_	_	_
+# text = et
+# sent_id = 0
+1	et	et	X	FW	_	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	al	al	PROPN	NNP	_	_	_	_	_
+# text = al
+# sent_id = 0
+1	al	al	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	propose	propose	VERB	VB	_	_	_	_	_
+# text = propose
+# sent_id = 0
+1	propose	propose	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	approach	approach	NOUN	NN	_	_	_	_	_
+# text = approach
+# sent_id = 0
+1	approach	approach	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	specifically	specifically	ADV	RB	_	_	_	_	_
+# text = specifically
+# sent_id = 0
+1	specifically	specifically	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	tailor	tailor	NOUN	NN	_	_	_	_	_
+# text = tailor
+# sent_id = 0
+1	tailor	tailor	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	tweet	tweet	NOUN	NN	_	_	_	_	_
+# text = tweet
+# sent_id = 0
+1	tweet	tweet	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	incorpo	incorpo	PROPN	NNP	_	_	_	_	_
+# text = incorpo
+# sent_id = 0
+1	incorpo	incorpo	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	rating	rating	NOUN	NN	_	_	_	_	_
+# text = rating
+# sent_id = 0
+1	rating	rating	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	embed	embed	VERB	VB	_	_	_	_	_
+# text = embed
+# sent_id = 0
+1	embed	emb	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	layer	layer	NOUN	NN	_	_	_	_	_
+# text = layer
+# sent_id = 0
+1	layer	layer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
+# text = convolutional
+# sent_id = 0
+1	convolutional	convolutional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	filter	filter	NOUN	NN	_	_	_	_	_
+# text = filter
+# sent_id = 0
+1	filter	filter	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	capture	capture	VERB	VB	_	_	_	_	_
+# text = capture
+# sent_id = 0
+1	capture	capture	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
+# text = sarcastic
+# sent_id = 0
+1	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	phrase	phrase	NOUN	NN	_	_	_	_	_
+# text = phrase
+# sent_id = 0
+1	phrase	phrase	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sentence	sentence	NOUN	NN	_	_	_	_	_
+# text = sentence
+# sent_id = 0
+1	sentence	sentence	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	structure	structure	NOUN	NN	_	_	_	_	_
+# text = structure
+# sent_id = 0
+1	structure	structure	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	du	du	PROPN	NNP	_	_	_	_	_
+# text = du
+# sent_id = 0
+1	du	du	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	et	et	X	FW	_	_	_	_	_
+# text = et
+# sent_id = 0
+1	et	et	X	FW	_	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	al	al	PROPN	NNP	_	_	_	_	_
+# text = al
+# sent_id = 0
+1	al	al	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	propose	propose	VERB	VB	_	_	_	_	_
+# text = propose
+# sent_id = 0
+1	propose	propose	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	approach	approach	NOUN	NN	_	_	_	_	_
+# text = approach
+# sent_id = 0
+1	approach	approach	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	combine	combine	VERB	VB	_	_	_	_	_
+# text = combine
+# sent_id = 0
+1	combine	combine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sentimen	sentimen	NOUN	NN	_	_	_	_	_
+# text = sentimen
+# sent_id = 0
+1	sentimen	sentimen	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	tal	tal	INTJ	UH	_	_	_	_	_
+# text = tal
+# sent_id = 0
+1	tal	tal	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	context	context	NOUN	NN	_	_	_	_	_
+# text = context
+# sent_id = 0
+1	context	context	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	individual	individual	NOUN	NN	_	_	_	_	_
+# text = individual
+# sent_id = 0
+1	individual	individual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	expression	expression	NOUN	NN	_	_	_	_	_
+# text = expression
+# sent_id = 0
+1	expression	expression	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	pattern	pattern	NOUN	NN	_	_	_	_	_
+# text = pattern
+# sent_id = 0
+1	pattern	pattern	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detect	detect	VERB	VB	_	_	_	_	_
+# text = detect
+# sent_id = 0
+1	detect	detect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	reliably	reliably	ADV	RB	_	_	_	_	_
+# text = reliably
+# sent_id = 0
+1	reliably	reliably	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	study	study	NOUN	NN	_	_	_	_	_
+# text = study
+# sent_id = 0
+1	study	study	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	emphasize	emphasize	VERB	VB	_	_	_	_	_
+# text = emphasize
+# sent_id = 0
+1	emphasize	emphasize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	personalize	personalize	VERB	VB	_	_	_	_	_
+# text = personalize
+# sent_id = 0
+1	personalize	personalize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	modeling	modeling	NOUN	NN	_	_	_	_	_
+# text = modeling
+# sent_id = 0
+1	modeling	modeling	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	well	well	INTJ	UH	_	_	_	_	_
+# text = well
+# sent_id = 0
+1	well	well	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	generalization	generalization	NOUN	NN	_	_	_	_	_
+# text = generalization
+# sent_id = 0
+1	generalization	generalization	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	bharti	bharti	PROPN	NNP	_	_	_	_	_
+# text = bharti
+# sent_id = 0
+1	bharti	bharti	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	et	et	X	FW	_	_	_	_	_
+# text = et
+# sent_id = 0
+1	et	et	X	FW	_	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	al	al	PROPN	NNP	_	_	_	_	_
+# text = al
+# sent_id = 0
+1	al	al	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	extend	extend	VERB	VB	_	_	_	_	_
+# text = extend
+# sent_id = 0
+1	extend	extend	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	problem	problem	NOUN	NN	_	_	_	_	_
+# text = problem
+# sent_id = 0
+1	problem	problem	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	multimodal	multimodal	ADJ	JJ	_	_	_	_	_
+# text = multimodal
+# sent_id = 0
+1	multimodal	multimodal	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	domain	domain	NOUN	NN	_	_	_	_	_
+# text = domain
+# sent_id = 0
+1	domain	domain	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	integrate	integrate	VERB	VB	_	_	_	_	_
+# text = integrate
+# sent_id = 0
+1	integrate	integrate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	image	image	NOUN	NN	_	_	_	_	_
+# text = image
+# sent_id = 0
+1	image	image	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	datum	datum	NOUN	NN	_	_	_	_	_
+# text = datum
+# sent_id = 0
+1	datum	datum	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	alongside	alongside	ADP	IN	_	_	_	_	_
+# text = alongside
+# sent_id = 0
+1	alongside	alongside	ADP	IN	_	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	bert	bert	PROPN	NNP	_	_	_	_	_
+# text = bert
+# sent_id = 0
+1	bert	bert	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	embedding	embedding	NOUN	NN	_	_	_	_	_
+# text = embedding
+# sent_id = 0
+1	embedding	embed	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	dense	dense	ADJ	JJ	_	_	_	_	_
+# text = dense
+# sent_id = 0
+1	dense	dense	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	net	net	NOUN	NN	_	_	_	_	_
+# text = net
+# sent_id = 0
+1	net	net	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	visual	visual	ADJ	JJ	_	_	_	_	_
+# text = visual
+# sent_id = 0
+1	visual	visual	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	fusion	fusion	NOUN	NN	_	_	_	_	_
+# text = fusion
+# sent_id = 0
+1	fusion	fusion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	introduction	introduction	NOUN	NN	_	_	_	_	_
+# text = introduction
+# sent_id = 0
+1	introduction	introduction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	vital	vital	ADJ	JJ	_	_	_	_	_
+# text = vital
+# sent_id = 0
+1	vital	vital	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	enhance	enhance	VERB	VB	_	_	_	_	_
+# text = enhance
+# sent_id = 0
+1	enhance	enhance	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	interpretabil	interpretabil	ADJ	JJ	_	_	_	_	_
+# text = interpretabil
+# sent_id = 0
+1	interpretabil	interpretabil	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	ity	ity	NOUN	NN	_	_	_	_	_
+# text = ity
+# sent_id = 0
+1	ity	ity	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	automate	automate	VERB	VB	_	_	_	_	_
+# text = automate
+# sent_id = 0
+1	automate	automate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	like	like	INTJ	UH	_	_	_	_	_
+# text = like
+# sent_id = 0
+1	like	like	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
+# text = sentiment
+# sent_id = 0
+1	sentiment	sentiment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	analyzer	analyzer	NOUN	NN	_	_	_	_	_
+# text = analyzer
+# sent_id = 0
+1	analyzer	analyzer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	chatbot	chatbot	NOUN	NN	_	_	_	_	_
+# text = chatbot
+# sent_id = 0
+1	chatbot	chatbot	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	recommendation	recommendation	NOUN	NN	_	_	_	_	_
+# text = recommendation
+# sent_id = 0
+1	recommendation	recommendation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	engine	engine	NOUN	NN	_	_	_	_	_
+# text = engine
+# sent_id = 0
+1	engine	engine	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	human	human	ADJ	JJ	_	_	_	_	_
+# text = human
+# sent_id = 0
+1	human	human	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	rely	rely	VERB	VB	_	_	_	_	_
+# text = rely
+# sent_id = 0
+1	rely	rely	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	context	context	NOUN	NN	_	_	_	_	_
+# text = context
+# sent_id = 0
+1	context	context	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	tone	tone	NOUN	NN	_	_	_	_	_
+# text = tone
+# sent_id = 0
+1	tone	tone	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	expression	expression	NOUN	NN	_	_	_	_	_
+# text = expression
+# sent_id = 0
+1	expression	expression	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	machine	machine	NOUN	NN	_	_	_	_	_
+# text = machine
+# sent_id = 0
+1	machine	machine	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	infer	infer	VERB	VB	_	_	_	_	_
+# text = infer
+# sent_id = 0
+1	infer	infer	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	textual	textual	ADJ	JJ	_	_	_	_	_
+# text = textual
+# sent_id = 0
+1	textual	textual	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	pattern	pattern	NOUN	NN	_	_	_	_	_
+# text = pattern
+# sent_id = 0
+1	pattern	pattern	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	paper	paper	NOUN	NN	_	_	_	_	_
+# text = paper
+# sent_id = 0
+1	paper	paper	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	explore	explore	VERB	VB	_	_	_	_	_
+# text = explore
+# sent_id = 0
+1	explore	explore	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	concep	concep	NOUN	NN	_	_	_	_	_
+# text = concep
+# sent_id = 0
+1	concep	concep	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	tual	tual	INTJ	UH	_	_	_	_	_
+# text = tual
+# sent_id = 0
+1	tual	tual	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	solution	solution	NOUN	NN	_	_	_	_	_
+# text = solution
+# sent_id = 0
+1	solution	solution	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	dcnns	dcnns	PROPN	NNP	_	_	_	_	_
+# text = dcnns
+# sent_id = 0
+1	dcnns	dcnn	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	combine	combine	VERB	VB	_	_	_	_	_
+# text = combine
+# sent_id = 0
+1	combine	combine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	contextual	contextual	NOUN	NN	_	_	_	_	_
+# text = contextual
+# sent_id = 0
+1	contextual	contextual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	embed	embed	VERB	VB	_	_	_	_	_
+# text = embed
+# sent_id = 0
+1	embed	emb	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	understand	understand	VERB	VB	_	_	_	_	_
+# text = understand
+# sent_id = 0
+1	understand	understand	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	complex	complex	ADJ	JJ	_	_	_	_	_
+# text = complex
+# sent_id = 0
+1	complex	complex	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	indicator	indicator	NOUN	NN	_	_	_	_	_
+# text = indicator
+# sent_id = 0
+1	indicator	indicator	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	irony	irony	NOUN	NN	_	_	_	_	_
+# text = irony
+# sent_id = 0
+1	irony	irony	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
+# text = sentiment
+# sent_id = 0
+1	sentiment	sentiment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	contradiction	contradiction	NOUN	NN	_	_	_	_	_
+# text = contradiction
+# sent_id = 0
+1	contradiction	contradiction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	hyper	hyper	NOUN	NN	_	_	_	_	_
+# text = hyper
+# sent_id = 0
+1	hyper	hyper	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	bole	bole	INTJ	UH	_	_	_	_	_
+# text = bole
+# sent_id = 0
+1	bole	bole	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	application	application	NOUN	NN	_	_	_	_	_
+# text = application
+# sent_id = 0
+1	application	application	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	range	range	NOUN	NN	_	_	_	_	_
+# text = range
+# sent_id = 0
+1	range	range	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	content	content	NOUN	NN	_	_	_	_	_
+# text = content
+# sent_id = 0
+1	content	content	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	moderation	moderation	NOUN	NN	_	_	_	_	_
+# text = moderation
+# sent_id = 0
+1	moderation	moderation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	social	social	ADJ	JJ	_	_	_	_	_
+# text = social
+# sent_id = 0
+1	social	social	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	platform	platform	NOUN	NN	_	_	_	_	_
+# text = platform
+# sent_id = 0
+1	platform	platform	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	enhance	enhance	VERB	VB	_	_	_	_	_
+# text = enhance
+# sent_id = 0
+1	enhance	enhance	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	virtual	virtual	ADJ	JJ	_	_	_	_	_
+# text = virtual
+# sent_id = 0
+1	virtual	virtual	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	assistant	assistant	NOUN	NN	_	_	_	_	_
+# text = assistant
+# sent_id = 0
+1	assistant	assistant	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	interaction	interaction	NOUN	NN	_	_	_	_	_
+# text = interaction
+# sent_id = 0
+1	interaction	interaction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	ii	ii	INTJ	UH	_	_	_	_	_
+# text = ii
+# sent_id = 0
+1	ii	ii	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	background	background	NOUN	NN	_	_	_	_	_
+# text = background
+# sent_id = 0
+1	background	background	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	motivation	motivation	NOUN	NN	_	_	_	_	_
+# text = motivation
+# sent_id = 0
+1	motivation	motivation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	complex	complex	ADJ	JJ	_	_	_	_	_
+# text = complex
+# sent_id = 0
+1	complex	complex	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	form	form	NOUN	NN	_	_	_	_	_
+# text = form
+# sent_id = 0
+1	form	form	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	communication	communication	NOUN	NN	_	_	_	_	_
+# text = communication
+# sent_id = 0
+1	communication	communication	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	rely	rely	VERB	VB	_	_	_	_	_
+# text = rely
+# sent_id = 0
+1	rely	rely	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	heavily	heavily	ADV	RB	_	_	_	_	_
+# text = heavily
+# sent_id = 0
+1	heavily	heavily	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	tone	tone	NOUN	NN	_	_	_	_	_
+# text = tone
+# sent_id = 0
+1	tone	tone	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	context	context	NOUN	NN	_	_	_	_	_
+# text = context
+# sent_id = 0
+1	context	context	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	cultural	cultural	ADJ	JJ	_	_	_	_	_
+# text = cultural
+# sent_id = 0
+1	cultural	cultural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	cue	cue	NOUN	NN	_	_	_	_	_
+# text = cue
+# sent_id = 0
+1	cue	cue	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	human	human	ADJ	JJ	_	_	_	_	_
+# text = human
+# sent_id = 0
+1	human	human	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	detect	detect	VERB	VB	_	_	_	_	_
+# text = detect
+# sent_id = 0
+1	detect	detect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	recognize	recognize	VERB	VB	_	_	_	_	_
+# text = recognize
+# sent_id = 0
+1	recognize	recognize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	exaggerated	exaggerated	ADJ	JJ	_	_	_	_	_
+# text = exaggerated
+# sent_id = 0
+1	exaggerated	exaggerate	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	language	language	NOUN	NN	_	_	_	_	_
+# text = language
+# sent_id = 0
+1	language	language	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	contra	contra	NOUN	NN	_	_	_	_	_
+# text = contra
+# sent_id = 0
+1	contra	contra	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	diction	diction	NOUN	NN	_	_	_	_	_
+# text = diction
+# sent_id = 0
+1	diction	diction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	situational	situational	ADJ	JJ	_	_	_	_	_
+# text = situational
+# sent_id = 0
+1	situational	situational	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	irony	irony	NOUN	NN	_	_	_	_	_
+# text = irony
+# sent_id = 0
+1	irony	irony	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	difficult	difficult	ADJ	JJ	_	_	_	_	_
+# text = difficult
+# sent_id = 0
+1	difficult	difficult	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	machine	machine	NOUN	NN	_	_	_	_	_
+# text = machine
+# sent_id = 0
+1	machine	machine	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	grasp	grasp	NOUN	NN	_	_	_	_	_
+# text = grasp
+# sent_id = 0
+1	grasp	grasp	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	traditional	traditional	ADJ	JJ	_	_	_	_	_
+# text = traditional
+# sent_id = 0
+1	traditional	traditional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	processing	processing	NOUN	NN	_	_	_	_	_
+# text = processing
+# sent_id = 0
+1	processing	processing	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	tool	tool	NOUN	NN	_	_	_	_	_
+# text = tool
+# sent_id = 0
+1	tool	tool	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	typically	typically	ADV	RB	_	_	_	_	_
+# text = typically
+# sent_id = 0
+1	typically	typically	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	fail	fail	VERB	VB	_	_	_	_	_
+# text = fail
+# sent_id = 0
+1	fail	fail	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	interpret	interpret	VERB	VB	_	_	_	_	_
+# text = interpret
+# sent_id = 0
+1	interpret	interpret	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	nuanced	nuanced	ADJ	JJ	_	_	_	_	_
+# text = nuanced
+# sent_id = 0
+1	nuanced	nuanced	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	expression	expression	NOUN	NN	_	_	_	_	_
+# text = expression
+# sent_id = 0
+1	expression	expression	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	emergence	emergence	NOUN	NN	_	_	_	_	_
+# text = emergence
+# sent_id = 0
+1	emergence	emergence	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	like	like	INTJ	UH	_	_	_	_	_
+# text = like
+# sent_id = 0
+1	like	like	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	cnns	cnns	NOUN	NNS	_	_	_	_	_
+# text = cnns
+# sent_id = 0
+1	cnns	cnn	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	transformer	transformer	NOUN	NN	_	_	_	_	_
+# text = transformer
+# sent_id = 0
+1	transformer	transformer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	feasible	feasible	ADJ	JJ	_	_	_	_	_
+# text = feasible
+# sent_id = 0
+1	feasible	feasible	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	explore	explore	VERB	VB	_	_	_	_	_
+# text = explore
+# sent_id = 0
+1	explore	explore	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	machine	machine	NOUN	NN	_	_	_	_	_
+# text = machine
+# sent_id = 0
+1	machine	machine	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	paper	paper	NOUN	NN	_	_	_	_	_
+# text = paper
+# sent_id = 0
+1	paper	paper	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	propose	propose	VERB	VB	_	_	_	_	_
+# text = propose
+# sent_id = 0
+1	propose	propose	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	architecture	architecture	NOUN	NN	_	_	_	_	_
+# text = architecture
+# sent_id = 0
+1	architecture	architecture	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	mimic	mimic	VERB	VB	_	_	_	_	_
+# text = mimic
+# sent_id = 0
+1	mimic	mimic	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	human	human	ADJ	JJ	_	_	_	_	_
+# text = human
+# sent_id = 0
+1	human	human	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	like	like	INTJ	UH	_	_	_	_	_
+# text = like
+# sent_id = 0
+1	like	like	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	understand	understand	VERB	VB	_	_	_	_	_
+# text = understand
+# sent_id = 0
+1	understand	understand	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	analyze	analyze	VERB	VB	_	_	_	_	_
+# text = analyze
+# sent_id = 0
+1	analyze	analyze	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	multiple	multiple	ADJ	JJ	_	_	_	_	_
+# text = multiple
+# sent_id = 0
+1	multiple	multiple	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	achieve	achieve	VERB	VB	_	_	_	_	_
+# text = achieve
+# sent_id = 0
+1	achieve	achieve	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	superior	superior	ADJ	JJ	_	_	_	_	_
+# text = superior
+# sent_id = 0
+1	superior	superior	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	performance	performance	NOUN	NN	_	_	_	_	_
+# text = performance
+# sent_id = 0
+1	performance	performance	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	social	social	ADJ	JJ	_	_	_	_	_
+# text = social
+# sent_id = 0
+1	social	social	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	medium	medium	ADJ	JJ	_	_	_	_	_
+# text = medium
+# sent_id = 0
+1	medium	medium	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	dataset	dataset	NOUN	NN	_	_	_	_	_
+# text = dataset
+# sent_id = 0
+1	dataset	dataset	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sharma	sharma	PROPN	NNP	_	_	_	_	_
+# text = sharma
+# sent_id = 0
+1	sharma	sharma	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	et	et	X	FW	_	_	_	_	_
+# text = et
+# sent_id = 0
+1	et	et	X	FW	_	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	al	al	PROPN	NNP	_	_	_	_	_
+# text = al
+# sent_id = 0
+1	al	al	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	develop	develop	VERB	VB	_	_	_	_	_
+# text = develop
+# sent_id = 0
+1	develop	develop	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	hybrid	hybrid	NOUN	NN	_	_	_	_	_
+# text = hybrid
+# sent_id = 0
+1	hybrid	hybrid	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	autoencoder	autoencoder	PROPN	NNP	_	_	_	_	_
+# text = autoencoder
+# sent_id = 0
+1	autoencoder	autoencoder	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	capable	capable	ADJ	JJ	_	_	_	_	_
+# text = capable
+# sent_id = 0
+1	capable	capable	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	capture	capture	VERB	VB	_	_	_	_	_
+# text = capture
+# sent_id = 0
+1	capture	capture	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	shallow	shallow	ADJ	JJ	_	_	_	_	_
+# text = shallow
+# sent_id = 0
+1	shallow	shallow	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	semantic	semantic	ADJ	JJ	_	_	_	_	_
+# text = semantic
+# sent_id = 0
+1	semantic	semantic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	pattern	pattern	NOUN	NN	_	_	_	_	_
+# text = pattern
+# sent_id = 0
+1	pattern	pattern	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	contribute	contribute	VERB	VB	_	_	_	_	_
+# text = contribute
+# sent_id = 0
+1	contribute	contribute	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	accurate	accurate	ADJ	JJ	_	_	_	_	_
+# text = accurate
+# sent_id = 0
+1	accurate	accurate	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	classification	classification	NOUN	NN	_	_	_	_	_
+# text = classification
+# sent_id = 0
+1	classification	classification	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	social	social	ADJ	JJ	_	_	_	_	_
+# text = social
+# sent_id = 0
+1	social	social	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	medium	medium	ADJ	JJ	_	_	_	_	_
+# text = medium
+# sent_id = 0
+1	medium	medium	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	post	post	NOUN	NN	_	_	_	_	_
+# text = post
+# sent_id = 0
+1	post	post	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	eke	eke	NOUN	NN	_	_	_	_	_
+# text = eke
+# sent_id = 0
+1	eke	eke	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	et	et	X	FW	_	_	_	_	_
+# text = et
+# sent_id = 0
+1	et	et	X	FW	_	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	al	al	PROPN	NNP	_	_	_	_	_
+# text = al
+# sent_id = 0
+1	al	al	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	focus	focus	VERB	VB	_	_	_	_	_
+# text = focus
+# sent_id = 0
+1	focus	focus	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	context	context	NOUN	NN	_	_	_	_	_
+# text = context
+# sent_id = 0
+1	context	context	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	base	base	NOUN	NN	_	_	_	_	_
+# text = base
+# sent_id = 0
+1	base	base	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	engineering	engineering	NOUN	NN	_	_	_	_	_
+# text = engineering
+# sent_id = 0
+1	engineering	engineering	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	bert	bert	PROPN	NNP	_	_	_	_	_
+# text = bert
+# sent_id = 0
+1	bert	bert	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	propose	propose	VERB	VB	_	_	_	_	_
+# text = propose
+# sent_id = 0
+1	propose	propose	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	leverage	leverage	NOUN	NN	_	_	_	_	_
+# text = leverage
+# sent_id = 0
+1	leverage	leverage	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	sentence	sentence	NOUN	NN	_	_	_	_	_
+# text = sentence
+# sent_id = 0
+1	sentence	sentence	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	level	level	NOUN	NN	_	_	_	_	_
+# text = level
+# sent_id = 0
+1	level	level	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	embedding	embedding	NOUN	NN	_	_	_	_	_
+# text = embedding
+# sent_id = 0
+1	embedding	embed	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	fine	fine	ADJ	JJ	_	_	_	_	_
+# text = fine
+# sent_id = 0
+1	fine	fine	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	tune	tune	NOUN	NN	_	_	_	_	_
+# text = tune
+# sent_id = 0
+1	tune	tune	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	transformer	transformer	NOUN	NN	_	_	_	_	_
+# text = transformer
+# sent_id = 0
+1	transformer	transformer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	boost	boost	VERB	VB	_	_	_	_	_
+# text = boost
+# sent_id = 0
+1	boost	boost	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	classification	classification	NOUN	NN	_	_	_	_	_
+# text = classification
+# sent_id = 0
+1	classification	classification	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
+# text = accuracy
+# sent_id = 0
+1	accuracy	accuracy	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	prior	prior	ADJ	JJ	_	_	_	_	_
+# text = prior
+# sent_id = 0
+1	prior	prior	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	work	work	NOUN	NN	_	_	_	_	_
+# text = work
+# sent_id = 0
+1	work	work	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
+# text = demonstrate
+# sent_id = 0
+1	demonstrate	demonstrate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	effectiveness	effectiveness	NOUN	NN	_	_	_	_	_
+# text = effectiveness
+# sent_id = 0
+1	effectiveness	effectiveness	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	method	method	NOUN	NN	_	_	_	_	_
+# text = method
+# sent_id = 0
+1	method	method	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	lack	lack	NOUN	NN	_	_	_	_	_
+# text = lack
+# sent_id = 0
+1	lack	lack	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	scalability	scalability	NOUN	NN	_	_	_	_	_
+# text = scalability
+# sent_id = 0
+1	scalability	scalability	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	explainability	explainability	NOUN	NN	_	_	_	_	_
+# text = explainability
+# sent_id = 0
+1	explainability	explainability	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	modularity	modularity	NOUN	NN	_	_	_	_	_
+# text = modularity
+# sent_id = 0
+1	modularity	modularity	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	work	work	NOUN	NN	_	_	_	_	_
+# text = work
+# sent_id = 0
+1	work	work	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	build	build	VERB	VB	_	_	_	_	_
+# text = build
+# sent_id = 0
+1	build	build	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	foundation	foundation	NOUN	NN	_	_	_	_	_
+# text = foundation
+# sent_id = 0
+1	foundation	foundation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	propose	propose	VERB	VB	_	_	_	_	_
+# text = propose
+# sent_id = 0
+1	propose	propose	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	modular	modular	ADJ	JJ	_	_	_	_	_
+# text = modular
+# sent_id = 0
+1	modular	modular	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	framework	framework	NOUN	NN	_	_	_	_	_
+# text = framework
+# sent_id = 0
+1	framework	framework	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	uni	uni	NOUN	NN	_	_	_	_	_
+# text = uni
+# sent_id = 0
+1	uni	uni	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	fie	fie	NOUN	NN	_	_	_	_	_
+# text = fie
+# sent_id = 0
+1	fie	fie	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
+# text = sentiment
+# sent_id = 0
+1	sentiment	sentiment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	context	context	NOUN	NN	_	_	_	_	_
+# text = context
+# sent_id = 0
+1	context	context	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
+# text = linguistic
+# sent_id = 0
+1	linguistic	linguistic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	cue	cue	NOUN	NN	_	_	_	_	_
+# text = cue
+# sent_id = 0
+1	cue	cue	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	emotion	emotion	NOUN	NN	_	_	_	_	_
+# text = emotion
+# sent_id = 0
+1	emotion	emotion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	analysis	analysis	NOUN	NN	_	_	_	_	_
+# text = analysis
+# sent_id = 0
+1	analysis	analysis	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	adaptable	adaptable	ADJ	JJ	_	_	_	_	_
+# text = adaptable
+# sent_id = 0
+1	adaptable	adaptable	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	extensible	extensible	ADJ	JJ	_	_	_	_	_
+# text = extensible
+# sent_id = 0
+1	extensible	extensible	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	robust	robust	ADJ	JJ	_	_	_	_	_
+# text = robust
+# sent_id = 0
+1	robust	robust	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	fig	fig	NOUN	NN	_	_	_	_	_
+# text = fig
+# sent_id = 0
+1	fig	fig	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	2	2	NUM	LS	_	_	_	_	_
+# text = 2
+# sent_id = 0
+1	2	2	NUM	LS	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	architecture	architecture	NOUN	NN	_	_	_	_	_
+# text = architecture
+# sent_id = 0
+1	architecture	architecture	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
+# text = convolutional
+# sent_id = 0
+1	convolutional	convolutional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	iv	iv	INTJ	UH	_	_	_	_	_
+# text = iv
+# sent_id = 0
+1	iv	iv	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	technical	technical	ADJ	JJ	_	_	_	_	_
+# text = technical
+# sent_id = 0
+1	technical	technical	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	background	background	NOUN	NN	_	_	_	_	_
+# text = background
+# sent_id = 0
+1	background	background	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	machine	machine	NOUN	NN	_	_	_	_	_
+# text = machine
+# sent_id = 0
+1	machine	machine	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	inspire	inspire	VERB	VB	_	_	_	_	_
+# text = inspire
+# sent_id = 0
+1	inspire	inspire	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	human	human	ADJ	JJ	_	_	_	_	_
+# text = human
+# sent_id = 0
+1	human	human	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	brain	brain	NOUN	NN	_	_	_	_	_
+# text = brain
+# sent_id = 0
+1	brain	brain	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	consist	consist	VERB	VB	_	_	_	_	_
+# text = consist
+# sent_id = 0
+1	consist	consist	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	interconnected	interconnected	VERB	VBN	_	_	_	_	_
+# text = interconnected
+# sent_id = 0
+1	interconnected	interconnected	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	neuron	neuron	NOUN	NN	_	_	_	_	_
+# text = neuron
+# sent_id = 0
+1	neuron	neuron	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	arrange	arrange	VERB	VB	_	_	_	_	_
+# text = arrange
+# sent_id = 0
+1	arrange	arrange	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	layer	layer	NOUN	NN	_	_	_	_	_
+# text = layer
+# sent_id = 0
+1	layer	layer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	layer	layer	NOUN	NN	_	_	_	_	_
+# text = layer
+# sent_id = 0
+1	layer	layer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	process	process	NOUN	NN	_	_	_	_	_
+# text = process
+# sent_id = 0
+1	process	process	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	input	input	NOUN	NN	_	_	_	_	_
+# text = input
+# sent_id = 0
+1	input	input	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	datum	datum	NOUN	NN	_	_	_	_	_
+# text = datum
+# sent_id = 0
+1	datum	datum	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	weight	weight	NOUN	NN	_	_	_	_	_
+# text = weight
+# sent_id = 0
+1	weight	weight	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	connection	connection	NOUN	NN	_	_	_	_	_
+# text = connection
+# sent_id = 0
+1	connection	connection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	activation	activation	NOUN	NN	_	_	_	_	_
+# text = activation
+# sent_id = 0
+1	activation	activation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	function	function	NOUN	NN	_	_	_	_	_
+# text = function
+# sent_id = 0
+1	function	function	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	pattern	pattern	NOUN	NN	_	_	_	_	_
+# text = pattern
+# sent_id = 0
+1	pattern	pattern	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	decision	decision	NOUN	NN	_	_	_	_	_
+# text = decision
+# sent_id = 0
+1	decision	decision	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	fig	fig	NOUN	NN	_	_	_	_	_
+# text = fig
+# sent_id = 0
+1	fig	fig	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	3	3	NUM	LS	_	_	_	_	_
+# text = 3
+# sent_id = 0
+1	3	3	NUM	LS	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	structure	structure	NOUN	NN	_	_	_	_	_
+# text = structure
+# sent_id = 0
+1	structure	structure	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
+# text = convolutional
+# sent_id = 0
+1	convolutional	convolutional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	v	v	NUM	LS	_	_	_	_	_
+# text = v
+# sent_id = 0
+1	v	v	NUM	LS	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	propose	propose	VERB	VB	_	_	_	_	_
+# text = propose
+# sent_id = 0
+1	propose	propose	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	methodology	methodology	NOUN	NN	_	_	_	_	_
+# text = methodology
+# sent_id = 0
+1	methodology	methodology	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	propose	propose	VERB	VB	_	_	_	_	_
+# text = propose
+# sent_id = 0
+1	propose	propose	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	design	design	NOUN	NN	_	_	_	_	_
+# text = design
+# sent_id = 0
+1	design	design	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	modular	modular	ADJ	JJ	_	_	_	_	_
+# text = modular
+# sent_id = 0
+1	modular	modular	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	architecture	architecture	NOUN	NN	_	_	_	_	_
+# text = architecture
+# sent_id = 0
+1	architecture	architecture	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	compose	compose	VERB	VB	_	_	_	_	_
+# text = compose
+# sent_id = 0
+1	compose	compose	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	specialized	specialized	VERB	VBN	_	_	_	_	_
+# text = specialized
+# sent_id = 0
+1	specialized	specialize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	detec	detec	NOUN	NN	_	_	_	_	_
+# text = detec
+# sent_id = 0
+1	detec	detec	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	tion	tion	INTJ	UH	_	_	_	_	_
+# text = tion
+# sent_id = 0
+1	tion	tion	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	module	module	NOUN	NN	_	_	_	_	_
+# text = module
+# sent_id = 0
+1	module	module	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	collaboratively	collaboratively	ADV	RB	_	_	_	_	_
+# text = collaboratively
+# sent_id = 0
+1	collaboratively	collaboratively	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=15
 
 
-1	interpret	interpret	VERB	VB	_	_	_	_	_
+# text = interpret
+# sent_id = 0
+1	interpret	interpret	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	different	different	ADJ	JJ	_	_	_	_	_
+# text = different
+# sent_id = 0
+1	different	different	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
+# text = linguistic
+# sent_id = 0
+1	linguistic	linguistic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	signal	signal	VERB	VB	_	_	_	_	_
+# text = signal
+# sent_id = 0
+1	signal	signal	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	include	include	VERB	VB	_	_	_	_	_
+# text = include
+# sent_id = 0
+1	include	include	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
+# text = sentiment
+# sent_id = 0
+1	sentiment	sentiment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	analysis	analysis	NOUN	NN	_	_	_	_	_
+# text = analysis
+# sent_id = 0
+1	analysis	analysis	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	module	module	NOUN	NN	_	_	_	_	_
+# text = module
+# sent_id = 0
+1	module	module	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	employ	employ	VERB	VB	_	_	_	_	_
+# text = employ
+# sent_id = 0
+1	employ	employ	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	vader	vader	PROPN	NNP	_	_	_	_	_
+# text = vader
+# sent_id = 0
+1	vader	vader	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	bert	bert	PROPN	NNP	_	_	_	_	_
+# text = bert
+# sent_id = 0
+1	bert	bert	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	base	base	NOUN	NN	_	_	_	_	_
+# text = base
+# sent_id = 0
+1	base	base	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
+# text = sentiment
+# sent_id = 0
+1	sentiment	sentiment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	analysis	analysis	NOUN	NN	_	_	_	_	_
+# text = analysis
+# sent_id = 0
+1	analysis	analysis	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	capture	capture	VERB	VB	_	_	_	_	_
+# text = capture
+# sent_id = 0
+1	capture	capture	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	emotional	emotional	ADJ	JJ	_	_	_	_	_
+# text = emotional
+# sent_id = 0
+1	emotional	emotional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	polarity	polarity	NOUN	NN	_	_	_	_	_
+# text = polarity
+# sent_id = 0
+1	polarity	polarity	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	sentence	sentence	NOUN	NN	_	_	_	_	_
+# text = sentence
+# sent_id = 0
+1	sentence	sentence	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	involve	involve	VERB	VB	_	_	_	_	_
+# text = involve
+# sent_id = 0
+1	involve	involve	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	polarity	polarity	NOUN	NN	_	_	_	_	_
+# text = polarity
+# sent_id = 0
+1	polarity	polarity	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	flip	flip	VERB	VB	_	_	_	_	_
+# text = flip
+# sent_id = 0
+1	flip	flip	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	positive	positive	ADJ	JJ	_	_	_	_	_
+# text = positive
+# sent_id = 0
+1	positive	positive	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
+# text = sentiment
+# sent_id = 0
+1	sentiment	sentiment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	ex	ex	NOUN	NN	_	_	_	_	_
+# text = ex
+# sent_id = 0
+1	ex	ex	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	press	press	NOUN	NN	_	_	_	_	_
+# text = press
+# sent_id = 0
+1	press	press	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	negative	negative	ADJ	JJ	_	_	_	_	_
+# text = negative
+# sent_id = 0
+1	negative	negative	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	undertone	undertone	NOUN	NN	_	_	_	_	_
+# text = undertone
+# sent_id = 0
+1	undertone	undertone	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	vice	vice	NOUN	NN	_	_	_	_	_
+# text = vice
+# sent_id = 0
+1	vice	vice	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	versa	versa	INTJ	UH	_	_	_	_	_
+# text = versa
+# sent_id = 0
+1	versa	versa	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	vader	vader	PROPN	NNP	_	_	_	_	_
+# text = vader
+# sent_id = 0
+1	vader	vader	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	rule	rule	NOUN	NN	_	_	_	_	_
+# text = rule
+# sent_id = 0
+1	rule	rule	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	base	base	NOUN	NN	_	_	_	_	_
+# text = base
+# sent_id = 0
+1	base	base	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
+# text = sentiment
+# sent_id = 0
+1	sentiment	sentiment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	score	score	NOUN	NN	_	_	_	_	_
+# text = score
+# sent_id = 0
+1	score	score	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	excel	excel	PROPN	NNP	_	_	_	_	_
+# text = excel
+# sent_id = 0
+1	excel	excel	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	social	social	ADJ	JJ	_	_	_	_	_
+# text = social
+# sent_id = 0
+1	social	social	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	medium	medium	ADJ	JJ	_	_	_	_	_
+# text = medium
+# sent_id = 0
+1	medium	medium	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	bert	bert	PROPN	NNP	_	_	_	_	_
+# text = bert
+# sent_id = 0
+1	bert	bert	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	capture	capture	VERB	VB	_	_	_	_	_
+# text = capture
+# sent_id = 0
+1	capture	capture	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	contextual	contextual	NOUN	NN	_	_	_	_	_
+# text = contextual
+# sent_id = 0
+1	contextual	contextual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	sen	sen	INTJ	UH	_	_	_	_	_
+# text = sen
+# sent_id = 0
+1	sen	sen	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	timent	timent	NOUN	NN	_	_	_	_	_
+# text = timent
+# sent_id = 0
+1	timent	timent	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	shift	shift	VERB	VB	_	_	_	_	_
+# text = shift
+# sent_id = 0
+1	shift	shift	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	contextual	contextual	NOUN	NN	_	_	_	_	_
+# text = contextual
+# sent_id = 0
+1	contextual	contextual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	embed	embed	VERB	VB	_	_	_	_	_
+# text = embed
+# sent_id = 0
+1	embed	emb	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	power	power	NOUN	NN	_	_	_	_	_
+# text = power
+# sent_id = 0
+1	power	power	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	bert	bert	PROPN	NNP	_	_	_	_	_
+# text = bert
+# sent_id = 0
+1	bert	bert	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	module	module	NOUN	NN	_	_	_	_	_
+# text = module
+# sent_id = 0
+1	module	module	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	encode	encode	VERB	VB	_	_	_	_	_
+# text = encode
+# sent_id = 0
+1	encode	encode	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	input	input	NOUN	NN	_	_	_	_	_
+# text = input
+# sent_id = 0
+1	input	input	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	sentence	sentence	NOUN	NN	_	_	_	_	_
+# text = sentence
+# sent_id = 0
+1	sentence	sentence	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	high	high	ADJ	JJ	_	_	_	_	_
+# text = high
+# sent_id = 0
+1	high	high	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	dimensional	dimensional	ADJ	JJ	_	_	_	_	_
+# text = dimensional
+# sent_id = 0
+1	dimensional	dimensional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	vector	vector	NOUN	NN	_	_	_	_	_
+# text = vector
+# sent_id = 0
+1	vector	vector	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	reflect	reflect	VERB	VB	_	_	_	_	_
+# text = reflect
+# sent_id = 0
+1	reflect	reflect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	contextual	contextual	NOUN	NN	_	_	_	_	_
+# text = contextual
+# sent_id = 0
+1	contextual	contextual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	mean	mean	VERB	VB	_	_	_	_	_
+# text = mean
+# sent_id = 0
+1	mean	mean	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	unlike	unlike	ADP	IN	_	_	_	_	_
+# text = unlike
+# sent_id = 0
+1	unlike	unlike	ADP	IN	_	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	traditional	traditional	ADJ	JJ	_	_	_	_	_
+# text = traditional
+# sent_id = 0
+1	traditional	traditional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	embedding	embedding	NOUN	NN	_	_	_	_	_
+# text = embedding
+# sent_id = 0
+1	embedding	embed	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	e.g	e.g	SYM	NFP	_	_	_	_	_
+# text = e.g
+# sent_id = 0
+1	e.g	e.g	SYM	NFP	_	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	word2vec	word2vec	PROPN	ADD	_	_	_	_	_
+# text = word2vec
+# sent_id = 0
+1	word2vec	word2vec	PROPN	ADD	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	bert	bert	PROPN	NNP	_	_	_	_	_
+# text = bert
+# sent_id = 0
+1	bert	bert	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	dynamically	dynamically	ADV	RB	_	_	_	_	_
+# text = dynamically
+# sent_id = 0
+1	dynamically	dynamically	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	adjust	adjust	VERB	VB	_	_	_	_	_
+# text = adjust
+# sent_id = 0
+1	adjust	adjust	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	word	word	NOUN	NN	_	_	_	_	_
+# text = word
+# sent_id = 0
+1	word	word	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	meaning	meaning	NOUN	NN	_	_	_	_	_
+# text = meaning
+# sent_id = 0
+1	meaning	meaning	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	base	base	NOUN	NN	_	_	_	_	_
+# text = base
+# sent_id = 0
+1	base	base	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	sentence	sentence	NOUN	NN	_	_	_	_	_
+# text = sentence
+# sent_id = 0
+1	sentence	sentence	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	context	context	NOUN	NN	_	_	_	_	_
+# text = context
+# sent_id = 0
+1	context	context	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	crucial	crucial	ADJ	JJ	_	_	_	_	_
+# text = crucial
+# sent_id = 0
+1	crucial	crucial	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	understand	understand	VERB	VB	_	_	_	_	_
+# text = understand
+# sent_id = 0
+1	understand	understand	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	nuanced	nuanced	ADJ	JJ	_	_	_	_	_
+# text = nuanced
+# sent_id = 0
+1	nuanced	nuanced	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
+# text = linguistic
+# sent_id = 0
+1	linguistic	linguistic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	component	component	NOUN	NN	_	_	_	_	_
+# text = component
+# sent_id = 0
+1	component	component	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	utilize	utilize	VERB	VB	_	_	_	_	_
+# text = utilize
+# sent_id = 0
+1	utilize	utilize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	spa	spa	NOUN	NN	_	_	_	_	_
+# text = spa
+# sent_id = 0
+1	spa	spa	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	cy	cy	PROPN	NNP	_	_	_	_	_
+# text = cy
+# sent_id = 0
+1	cy	cy	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	custom	custom	NOUN	NN	_	_	_	_	_
+# text = custom
+# sent_id = 0
+1	custom	custom	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	nlp	nlp	NOUN	NN	_	_	_	_	_
+# text = nlp
+# sent_id = 0
+1	nlp	nlp	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	rule	rule	NOUN	NN	_	_	_	_	_
+# text = rule
+# sent_id = 0
+1	rule	rule	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	extract	extract	NOUN	NN	_	_	_	_	_
+# text = extract
+# sent_id = 0
+1	extract	extract	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	syntactic	syntactic	ADJ	JJ	_	_	_	_	_
+# text = syntactic
+# sent_id = 0
+1	syntactic	syntactic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	semantic	semantic	ADJ	JJ	_	_	_	_	_
+# text = semantic
+# sent_id = 0
+1	semantic	semantic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	cue	cue	NOUN	NN	_	_	_	_	_
+# text = cue
+# sent_id = 0
+1	cue	cue	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	punctuation	punctuation	NOUN	NN	_	_	_	_	_
+# text = punctuation
+# sent_id = 0
+1	punctuation	punctuation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	usage	usage	NOUN	NN	_	_	_	_	_
+# text = usage
+# sent_id = 0
+1	usage	usage	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	exaggerated	exaggerated	ADJ	JJ	_	_	_	_	_
+# text = exaggerated
+# sent_id = 0
+1	exaggerated	exaggerate	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	expression	expression	NOUN	NN	_	_	_	_	_
+# text = expression
+# sent_id = 0
+1	expression	expression	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	cap	cap	NOUN	NN	_	_	_	_	_
+# text = cap
+# sent_id = 0
+1	cap	cap	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	interjection	interjection	NOUN	NN	_	_	_	_	_
+# text = interjection
+# sent_id = 0
+1	interjection	interjection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	e.g	e.g	SYM	NFP	_	_	_	_	_
+# text = e.g
+# sent_id = 0
+1	e.g	e.g	SYM	NFP	_	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	yeah	yeah	INTJ	UH	_	_	_	_	_
+# text = yeah
+# sent_id = 0
+1	yeah	yeah	INTJ	UH	Polarity=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	right	right	ADJ	JJ	_	_	_	_	_
+# text = right
+# sent_id = 0
+1	right	right	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	fig	fig	NOUN	NN	_	_	_	_	_
+# text = fig
+# sent_id = 0
+1	fig	fig	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	1	1	NUM	LS	_	_	_	_	_
+# text = 1
+# sent_id = 0
+1	1	1	NUM	LS	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	illustration	illustration	NOUN	NN	_	_	_	_	_
+# text = illustration
+# sent_id = 0
+1	illustration	illustration	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	basic	basic	ADJ	JJ	_	_	_	_	_
+# text = basic
+# sent_id = 0
+1	basic	basic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	emotion	emotion	NOUN	NN	_	_	_	_	_
+# text = emotion
+# sent_id = 0
+1	emotion	emotion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	cnn	cnn	PROPN	NNP	_	_	_	_	_
+# text = cnn
+# sent_id = 0
+1	cnn	cnn	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	lstm	lstm	PROPN	NNP	_	_	_	_	_
+# text = lstm
+# sent_id = 0
+1	lstm	lstm	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	hybrid	hybrid	NOUN	NN	_	_	_	_	_
+# text = hybrid
+# sent_id = 0
+1	hybrid	hybrid	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	detect	detect	VERB	VB	_	_	_	_	_
+# text = detect
+# sent_id = 0
+1	detect	detect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	underlie	underlie	VERB	VB	_	_	_	_	_
+# text = underlie
+# sent_id = 0
+1	underlie	underlie	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	emotional	emotional	ADJ	JJ	_	_	_	_	_
+# text = emotional
+# sent_id = 0
+1	emotional	emotional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	tone	tone	NOUN	NN	_	_	_	_	_
+# text = tone
+# sent_id = 0
+1	tone	tone	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	frustration	frustration	NOUN	NN	_	_	_	_	_
+# text = frustration
+# sent_id = 0
+1	frustration	frustration	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	amusement	amusement	NOUN	NN	_	_	_	_	_
+# text = amusement
+# sent_id = 0
+1	amusement	amusement	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	confusion	confusion	NOUN	NN	_	_	_	_	_
+# text = confusion
+# sent_id = 0
+1	confusion	confusion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	emotion	emotion	NOUN	NN	_	_	_	_	_
+# text = emotion
+# sent_id = 0
+1	emotion	emotion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	mismatched	mismatched	VERB	VBN	_	_	_	_	_
+# text = mismatched
+# sent_id = 0
+1	mismatched	mismatch	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	surface	surface	NOUN	NN	_	_	_	_	_
+# text = surface
+# sent_id = 0
+1	surface	surface	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
+# text = sentiment
+# sent_id = 0
+1	sentiment	sentiment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	signal	signal	VERB	VB	_	_	_	_	_
+# text = signal
+# sent_id = 0
+1	signal	signal	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
+# text = sarcastic
+# sent_id = 0
+1	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	intent	intent	NOUN	NN	_	_	_	_	_
+# text = intent
+# sent_id = 0
+1	intent	intent	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	b	b	NOUN	NN	_	_	_	_	_
+# text = b
+# sent_id = 0
+1	b	benefit	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
+# text = convolutional
+# sent_id = 0
+1	convolutional	convolutional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	cnns	cnns	NOUN	NNS	_	_	_	_	_
+# text = cnns
+# sent_id = 0
+1	cnns	cnn	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	cnns	cnns	NOUN	NNS	_	_	_	_	_
+# text = cnns
+# sent_id = 0
+1	cnns	cnn	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	specialized	specialized	VERB	VBN	_	_	_	_	_
+# text = specialized
+# sent_id = 0
+1	specialized	specialize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	design	design	NOUN	NN	_	_	_	_	_
+# text = design
+# sent_id = 0
+1	design	design	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	process	process	NOUN	NN	_	_	_	_	_
+# text = process
+# sent_id = 0
+1	process	process	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	datum	datum	NOUN	NN	_	_	_	_	_
+# text = datum
+# sent_id = 0
+1	datum	datum	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	grid	grid	NOUN	NN	_	_	_	_	_
+# text = grid
+# sent_id = 0
+1	grid	grid	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	like	like	INTJ	UH	_	_	_	_	_
+# text = like
+# sent_id = 0
+1	like	like	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	topology	topology	NOUN	NN	_	_	_	_	_
+# text = topology
+# sent_id = 0
+1	topology	topology	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	image	image	NOUN	NN	_	_	_	_	_
+# text = image
+# sent_id = 0
+1	image	image	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	matrix	matrix	NOUN	NN	_	_	_	_	_
+# text = matrix
+# sent_id = 0
+1	matrix	matrix	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	use	use	VERB	VB	_	_	_	_	_
+# text = use
+# sent_id = 0
+1	use	use	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
+# text = convolutional
+# sent_id = 0
+1	convolutional	convolutional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	layer	layer	NOUN	NN	_	_	_	_	_
+# text = layer
+# sent_id = 0
+1	layer	layer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	detect	detect	VERB	VB	_	_	_	_	_
+# text = detect
+# sent_id = 0
+1	detect	detect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	pattern	pattern	NOUN	NN	_	_	_	_	_
+# text = pattern
+# sent_id = 0
+1	pattern	pattern	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	like	like	INTJ	UH	_	_	_	_	_
+# text = like
+# sent_id = 0
+1	like	like	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	edge	edge	NOUN	NN	_	_	_	_	_
+# text = edge
+# sent_id = 0
+1	edge	edge	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	textual	textual	ADJ	JJ	_	_	_	_	_
+# text = textual
+# sent_id = 0
+1	textual	textual	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	follow	follow	VERB	VB	_	_	_	_	_
+# text = follow
+# sent_id = 0
+1	follow	follow	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	pool	pool	NOUN	NN	_	_	_	_	_
+# text = pool
+# sent_id = 0
+1	pool	pool	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	layer	layer	NOUN	NN	_	_	_	_	_
+# text = layer
+# sent_id = 0
+1	layer	layer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	reduce	reduce	VERB	VB	_	_	_	_	_
+# text = reduce
+# sent_id = 0
+1	reduce	reduce	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	dimensionality	dimensionality	NOUN	NN	_	_	_	_	_
+# text = dimensionality
+# sent_id = 0
+1	dimensionality	dimensionality	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	output	output	NOUN	NN	_	_	_	_	_
+# text = output
+# sent_id = 0
+1	output	output	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	module	module	NOUN	NN	_	_	_	_	_
+# text = module
+# sent_id = 0
+1	module	module	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	concatenate	concatenate	VERB	VB	_	_	_	_	_
+# text = concatenate
+# sent_id = 0
+1	concatenate	concatenate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	unify	unify	VERB	VB	_	_	_	_	_
+# text = unify
+# sent_id = 0
+1	unify	unify	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	vector	vector	NOUN	NN	_	_	_	_	_
+# text = vector
+# sent_id = 0
+1	vector	vector	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	follow	follow	VERB	VB	_	_	_	_	_
+# text = follow
+# sent_id = 0
+1	follow	follow	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	normalization	normalization	NOUN	NN	_	_	_	_	_
+# text = normalization
+# sent_id = 0
+1	normalization	normalization	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	trans	trans	NOUN	NN	_	_	_	_	_
+# text = trans
+# sent_id = 0
+1	trans	trans	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	formation	formation	NOUN	NN	_	_	_	_	_
+# text = formation
+# sent_id = 0
+1	formation	formation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	layer	layer	NOUN	NN	_	_	_	_	_
+# text = layer
+# sent_id = 0
+1	layer	layer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	fuse	fuse	NOUN	NN	_	_	_	_	_
+# text = fuse
+# sent_id = 0
+1	fuse	fuse	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	vector	vector	NOUN	NN	_	_	_	_	_
+# text = vector
+# sent_id = 0
+1	vector	vector	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	pass	pass	VERB	VB	_	_	_	_	_
+# text = pass
+# sent_id = 0
+1	pass	pass	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	meta	meta	NOUN	NN	_	_	_	_	_
+# text = meta
+# sent_id = 0
+1	meta	meta	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	classifier	classifier	NOUN	NN	_	_	_	_	_
+# text = classifier
+# sent_id = 0
+1	classifier	classifier	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	typically	typically	ADV	RB	_	_	_	_	_
+# text = typically
+# sent_id = 0
+1	typically	typically	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	logistic	logistic	ADJ	JJ	_	_	_	_	_
+# text = logistic
+# sent_id = 0
+1	logistic	logistic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	regression	regression	NOUN	NN	_	_	_	_	_
+# text = regression
+# sent_id = 0
+1	regression	regression	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	shallow	shallow	ADJ	JJ	_	_	_	_	_
+# text = shallow
+# sent_id = 0
+1	shallow	shallow	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	output	output	NOUN	NN	_	_	_	_	_
+# text = output
+# sent_id = 0
+1	output	output	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	binary	binary	ADJ	JJ	_	_	_	_	_
+# text = binary
+# sent_id = 0
+1	binary	binary	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	classification	classification	NOUN	NN	_	_	_	_	_
+# text = classification
+# sent_id = 0
+1	classification	classification	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	sarcas	sarcas	NOUN	NNS	_	_	_	_	_
+# text = sarcas
+# sent_id = 0
+1	sarcas	sarca	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	tic	tic	INTJ	UH	_	_	_	_	_
+# text = tic
+# sent_id = 0
+1	tic	tic	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	non	non	INTJ	UH	_	_	_	_	_
+# text = non
+# sent_id = 0
+1	non	non	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
+# text = sarcastic
+# sent_id = 0
+1	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	support	support	VERB	VB	_	_	_	_	_
+# text = support
+# sent_id = 0
+1	support	support	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	flexibility	flexibility	NOUN	NN	_	_	_	_	_
+# text = flexibility
+# sent_id = 0
+1	flexibility	flexibility	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	c	c	NOUN	NN	_	_	_	_	_
+# text = c
+# sent_id = 0
+1	c	c	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	deep	deep	ADJ	JJ	_	_	_	_	_
+# text = deep
+# sent_id = 0
+1	deep	deep	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
+# text = convolutional
+# sent_id = 0
+1	convolutional	convolutional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	dcnns	dcnns	PROPN	NNP	_	_	_	_	_
+# text = dcnns
+# sent_id = 0
+1	dcnns	dcnn	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	dcnns	dcnns	PROPN	NNP	_	_	_	_	_
+# text = dcnns
+# sent_id = 0
+1	dcnns	dcnn	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	extend	extend	VERB	VB	_	_	_	_	_
+# text = extend
+# sent_id = 0
+1	extend	extend	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	cnns	cnns	NOUN	NNS	_	_	_	_	_
+# text = cnns
+# sent_id = 0
+1	cnns	cnn	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	add	add	VERB	VB	_	_	_	_	_
+# text = add
+# sent_id = 0
+1	add	add	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	multiple	multiple	ADJ	JJ	_	_	_	_	_
+# text = multiple
+# sent_id = 0
+1	multiple	multiple	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	convolutional	convolutional	ADJ	JJ	_	_	_	_	_
+# text = convolutional
+# sent_id = 0
+1	convolutional	convolutional	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	pool	pool	NOUN	NN	_	_	_	_	_
+# text = pool
+# sent_id = 0
+1	pool	pool	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	layer	layer	NOUN	NN	_	_	_	_	_
+# text = layer
+# sent_id = 0
+1	layer	layer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	enable	enable	VERB	VB	_	_	_	_	_
+# text = enable
+# sent_id = 0
+1	enable	enable	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	abstract	abstract	ADJ	JJ	_	_	_	_	_
+# text = abstract
+# sent_id = 0
+1	abstract	abstract	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	complex	complex	ADJ	JJ	_	_	_	_	_
+# text = complex
+# sent_id = 0
+1	complex	complex	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	representation	representation	NOUN	NN	_	_	_	_	_
+# text = representation
+# sent_id = 0
+1	representation	representation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	datum	datum	NOUN	NN	_	_	_	_	_
+# text = datum
+# sent_id = 0
+1	datum	datum	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	extensibility	extensibility	NOUN	NN	_	_	_	_	_
+# text = extensibility
+# sent_id = 0
+1	extensibility	extensibility	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	allow	allow	VERB	VB	_	_	_	_	_
+# text = allow
+# sent_id = 0
+1	allow	allow	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	individual	individual	NOUN	NN	_	_	_	_	_
+# text = individual
+# sent_id = 0
+1	individual	individual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	module	module	NOUN	NN	_	_	_	_	_
+# text = module
+# sent_id = 0
+1	module	module	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	improve	improve	VERB	VB	_	_	_	_	_
+# text = improve
+# sent_id = 0
+1	improve	improve	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	swap	swap	NOUN	NN	_	_	_	_	_
+# text = swap
+# sent_id = 0
+1	swap	swap	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	affect	affect	VERB	VB	_	_	_	_	_
+# text = affect
+# sent_id = 0
+1	affect	affect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	entire	entire	ADJ	JJ	_	_	_	_	_
+# text = entire
+# sent_id = 0
+1	entire	entire	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	architecture	architecture	NOUN	NN	_	_	_	_	_
+# text = architecture
+# sent_id = 0
+1	architecture	architecture	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	vii	vii	INTJ	UH	_	_	_	_	_
+# text = vii
+# sent_id = 0
+1	vii	vii	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	datum	datum	NOUN	NN	_	_	_	_	_
+# text = datum
+# sent_id = 0
+1	datum	datum	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
+# text = preprocesse
+# sent_id = 0
+1	preprocesse	preprocesse	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	ensure	ensure	VERB	VB	_	_	_	_	_
+# text = ensure
+# sent_id = 0
+1	ensure	ensure	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	fairness	fairness	NOUN	NN	_	_	_	_	_
+# text = fairness
+# sent_id = 0
+1	fairness	fairness	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	begin	begin	VERB	VB	_	_	_	_	_
+# text = begin
+# sent_id = 0
+1	begin	begin	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	curate	curate	NOUN	NN	_	_	_	_	_
+# text = curate
+# sent_id = 0
+1	curate	curate	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	diverse	diverse	ADJ	JJ	_	_	_	_	_
+# text = diverse
+# sent_id = 0
+1	diverse	diverse	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	repre	repre	NOUN	NN	_	_	_	_	_
+# text = repre
+# sent_id = 0
+1	repre	repre	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	sentative	sentative	NOUN	NN	_	_	_	_	_
+# text = sentative
+# sent_id = 0
+1	sentative	sentative	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	dataset	dataset	NOUN	NN	_	_	_	_	_
+# text = dataset
+# sent_id = 0
+1	dataset	dataset	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	heavily	heavily	ADV	RB	_	_	_	_	_
+# text = heavily
+# sent_id = 0
+1	heavily	heavily	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	culture	culture	NOUN	NN	_	_	_	_	_
+# text = culture
+# sent_id = 0
+1	culture	culture	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	dependent	dependent	ADJ	JJ	_	_	_	_	_
+# text = dependent
+# sent_id = 0
+1	dependent	dependent	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	vary	vary	VERB	VB	_	_	_	_	_
+# text = vary
+# sent_id = 0
+1	vary	vary	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	language	language	NOUN	NN	_	_	_	_	_
+# text = language
+# sent_id = 0
+1	language	language	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	dialect	dialect	NOUN	NN	_	_	_	_	_
+# text = dialect
+# sent_id = 0
+1	dialect	dialect	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	social	social	ADJ	JJ	_	_	_	_	_
+# text = social
+# sent_id = 0
+1	social	social	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	group	group	NOUN	NN	_	_	_	_	_
+# text = group
+# sent_id = 0
+1	group	group	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	train	train	NOUN	NN	_	_	_	_	_
+# text = train
+# sent_id = 0
+1	train	train	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	primarily	primarily	ADV	RB	_	_	_	_	_
+# text = primarily
+# sent_id = 0
+1	primarily	primarily	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	english	english	PROPN	NNP	_	_	_	_	_
+# text = english
+# sent_id = 0
+1	english	English	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	tweet	tweet	NOUN	NN	_	_	_	_	_
+# text = tweet
+# sent_id = 0
+1	tweet	tweet	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	specific	specific	ADJ	JJ	_	_	_	_	_
+# text = specific
+# sent_id = 0
+1	specific	specific	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	region	region	NOUN	NN	_	_	_	_	_
+# text = region
+# sent_id = 0
+1	region	region	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	generalize	generalize	VERB	VB	_	_	_	_	_
+# text = generalize
+# sent_id = 0
+1	generalize	generalize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	poorly	poorly	ADV	RB	_	_	_	_	_
+# text = poorly
+# sent_id = 0
+1	poorly	poorly	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
+# text = linguistic
+# sent_id = 0
+1	linguistic	linguistic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	context	context	NOUN	NN	_	_	_	_	_
+# text = context
+# sent_id = 0
+1	context	context	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	incorpo	incorpo	PROPN	NNP	_	_	_	_	_
+# text = incorpo
+# sent_id = 0
+1	incorpo	incorpo	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	rating	rating	NOUN	NN	_	_	_	_	_
+# text = rating
+# sent_id = 0
+1	rating	rating	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	dataset	dataset	NOUN	NN	_	_	_	_	_
+# text = dataset
+# sent_id = 0
+1	dataset	dataset	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	varied	varied	ADJ	JJ	_	_	_	_	_
+# text = varied
+# sent_id = 0
+1	varied	varied	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	cultural	cultural	ADJ	JJ	_	_	_	_	_
+# text = cultural
+# sent_id = 0
+1	cultural	cultural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	demographic	demographic	NOUN	NN	_	_	_	_	_
+# text = demographic
+# sent_id = 0
+1	demographic	demographic	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	source	source	NOUN	NN	_	_	_	_	_
+# text = source
+# sent_id = 0
+1	source	source	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	improve	improve	VERB	VB	_	_	_	_	_
+# text = improve
+# sent_id = 0
+1	improve	improve	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	fairness	fairness	NOUN	NN	_	_	_	_	_
+# text = fairness
+# sent_id = 0
+1	fairness	fairness	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	inclusivity	inclusivity	NOUN	NN	_	_	_	_	_
+# text = inclusivity
+# sent_id = 0
+1	inclusivity	inclusivity	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	transparency	transparency	NOUN	NN	_	_	_	_	_
+# text = transparency
+# sent_id = 0
+1	transparency	transparency	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	explainability	explainability	NOUN	NN	_	_	_	_	_
+# text = explainability
+# sent_id = 0
+1	explainability	explainability	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	equally	equally	ADV	RB	_	_	_	_	_
+# text = equally
+# sent_id = 0
+1	equally	equally	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	critical	critical	ADJ	JJ	_	_	_	_	_
+# text = critical
+# sent_id = 0
+1	critical	critical	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	end	end	NOUN	NN	_	_	_	_	_
+# text = end
+# sent_id = 0
+1	end	end	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	user	user	NOUN	NN	_	_	_	_	_
+# text = user
+# sent_id = 0
+1	user	user	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	developer	developer	NOUN	NN	_	_	_	_	_
+# text = developer
+# sent_id = 0
+1	developer	developer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	able	able	ADJ	JJ	_	_	_	_	_
+# text = able
+# sent_id = 0
+1	able	able	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	understand	understand	VERB	VB	_	_	_	_	_
+# text = understand
+# sent_id = 0
+1	understand	understand	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	specific	specific	ADJ	JJ	_	_	_	_	_
+# text = specific
+# sent_id = 0
+1	specific	specific	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	piece	piece	NOUN	NN	_	_	_	_	_
+# text = piece
+# sent_id = 0
+1	piece	piece	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	content	content	NOUN	NN	_	_	_	_	_
+# text = content
+# sent_id = 0
+1	content	content	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	label	label	VERB	VB	_	_	_	_	_
+# text = label
+# sent_id = 0
+1	label	label	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
+# text = sarcastic
+# sent_id = 0
+1	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	technique	technique	NOUN	NN	_	_	_	_	_
+# text = technique
+# sent_id = 0
+1	technique	technique	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	like	like	INTJ	UH	_	_	_	_	_
+# text = like
+# sent_id = 0
+1	like	like	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	lime	lime	NOUN	NN	_	_	_	_	_
+# text = lime
+# sent_id = 0
+1	lime	lime	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	shap	shap	NOUN	NN	_	_	_	_	_
+# text = shap
+# sent_id = 0
+1	shap	shap	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	help	help	VERB	VB	_	_	_	_	_
+# text = help
+# sent_id = 0
+1	help	help	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	visualize	visualize	VERB	VB	_	_	_	_	_
+# text = visualize
+# sent_id = 0
+1	visualize	visualize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	importance	importance	NOUN	NN	_	_	_	_	_
+# text = importance
+# sent_id = 0
+1	importance	importance	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	decision	decision	NOUN	NN	_	_	_	_	_
+# text = decision
+# sent_id = 0
+1	decision	decision	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	rationale	rationale	NOUN	NN	_	_	_	_	_
+# text = rationale
+# sent_id = 0
+1	rationale	rationale	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	include	include	VERB	VB	_	_	_	_	_
+# text = include
+# sent_id = 0
+1	include	include	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	feedback	feedback	NOUN	NN	_	_	_	_	_
+# text = feedback
+# sent_id = 0
+1	feedback	feedback	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	loop	loop	NOUN	NN	_	_	_	_	_
+# text = loop
+# sent_id = 0
+1	loop	loop	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	allow	allow	VERB	VB	_	_	_	_	_
+# text = allow
+# sent_id = 0
+1	allow	allow	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	user	user	NOUN	NN	_	_	_	_	_
+# text = user
+# sent_id = 0
+1	user	user	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	flag	flag	NOUN	NN	_	_	_	_	_
+# text = flag
+# sent_id = 0
+1	flag	flag	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	misclassification	misclassification	NOUN	NN	_	_	_	_	_
+# text = misclassification
+# sent_id = 0
+1	misclassification	misclassification	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=17
 
 
-1	facilitate	facilitate	VERB	VB	_	_	_	_	_
+# text = facilitate
+# sent_id = 0
+1	facilitate	facilitate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	continual	continual	ADJ	JJ	_	_	_	_	_
+# text = continual
+# sent_id = 0
+1	continual	continual	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	correction	correction	NOUN	NN	_	_	_	_	_
+# text = correction
+# sent_id = 0
+1	correction	correction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	privacy	privacy	NOUN	NN	_	_	_	_	_
+# text = privacy
+# sent_id = 0
+1	privacy	privacy	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	preservation	preservation	NOUN	NN	_	_	_	_	_
+# text = preservation
+# sent_id = 0
+1	preservation	preservation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	essential	essential	ADJ	JJ	_	_	_	_	_
+# text = essential
+# sent_id = 0
+1	essential	essential	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	scrape	scrape	VERB	VB	_	_	_	_	_
+# text = scrape
+# sent_id = 0
+1	scrape	scrape	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	social	social	ADJ	JJ	_	_	_	_	_
+# text = social
+# sent_id = 0
+1	social	social	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	medium	medium	ADJ	JJ	_	_	_	_	_
+# text = medium
+# sent_id = 0
+1	medium	medium	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	datum	datum	NOUN	NN	_	_	_	_	_
+# text = datum
+# sent_id = 0
+1	datum	datum	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	training	training	NOUN	NN	_	_	_	_	_
+# text = training
+# sent_id = 0
+1	training	training	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	proper	proper	ADJ	JJ	_	_	_	_	_
+# text = proper
+# sent_id = 0
+1	proper	proper	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	anonymization	anonymization	NOUN	NN	_	_	_	_	_
+# text = anonymization
+# sent_id = 0
+1	anonymization	anonymization	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	ethical	ethical	ADJ	JJ	_	_	_	_	_
+# text = ethical
+# sent_id = 0
+1	ethical	ethical	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	approval	approval	NOUN	NN	_	_	_	_	_
+# text = approval
+# sent_id = 0
+1	approval	approval	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	obtain	obtain	VERB	VB	_	_	_	_	_
+# text = obtain
+# sent_id = 0
+1	obtain	obtain	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	development	development	NOUN	NN	_	_	_	_	_
+# text = development
+# sent_id = 0
+1	development	development	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	finally	finally	ADV	RB	_	_	_	_	_
+# text = finally
+# sent_id = 0
+1	finally	finally	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	regular	regular	ADJ	JJ	_	_	_	_	_
+# text = regular
+# sent_id = 0
+1	regular	regular	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	audit	audit	NOUN	NN	_	_	_	_	_
+# text = audit
+# sent_id = 0
+1	audit	audit	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	bias	bias	NOUN	NN	_	_	_	_	_
+# text = bias
+# sent_id = 0
+1	bias	bias	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	drift	drift	VERB	VB	_	_	_	_	_
+# text = drift
+# sent_id = 0
+1	drift	drift	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	ethical	ethical	ADJ	JJ	_	_	_	_	_
+# text = ethical
+# sent_id = 0
+1	ethical	ethical	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	compliance	compliance	NOUN	NN	_	_	_	_	_
+# text = compliance
+# sent_id = 0
+1	compliance	compliance	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	en	en	PROPN	NNP	_	_	_	_	_
+# text = en
+# sent_id = 0
+1	en	en	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	sure	sure	ADJ	JJ	_	_	_	_	_
+# text = sure
+# sent_id = 0
+1	sure	sure	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	remain	remain	VERB	VB	_	_	_	_	_
+# text = remain
+# sent_id = 0
+1	remain	remain	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	accountable	accountable	ADJ	JJ	_	_	_	_	_
+# text = accountable
+# sent_id = 0
+1	accountable	accountable	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	socially	socially	ADV	RB	_	_	_	_	_
+# text = socially
+# sent_id = 0
+1	socially	socially	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	responsible	responsible	ADJ	JJ	_	_	_	_	_
+# text = responsible
+# sent_id = 0
+1	responsible	responsible	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	lifecycle	lifecycle	NOUN	NN	_	_	_	_	_
+# text = lifecycle
+# sent_id = 0
+1	lifecycle	lifecycle	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	vi	vi	NOUN	NN	_	_	_	_	_
+# text = vi
+# sent_id = 0
+1	vi	vil	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	architecture	architecture	NOUN	NN	_	_	_	_	_
+# text = architecture
+# sent_id = 0
+1	architecture	architecture	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	fig	fig	NOUN	NN	_	_	_	_	_
+# text = fig
+# sent_id = 0
+1	fig	fig	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	4	4	NUM	LS	_	_	_	_	_
+# text = 4
+# sent_id = 0
+1	4	4	NUM	LS	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	propose	propose	VERB	VB	_	_	_	_	_
+# text = propose
+# sent_id = 0
+1	propose	propose	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	modular	modular	ADJ	JJ	_	_	_	_	_
+# text = modular
+# sent_id = 0
+1	modular	modular	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	architecture	architecture	NOUN	NN	_	_	_	_	_
+# text = architecture
+# sent_id = 0
+1	architecture	architecture	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	viii	viii	INTJ	UH	_	_	_	_	_
+# text = viii
+# sent_id = 0
+1	viii	viii	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	case	case	NOUN	NN	_	_	_	_	_
+# text = case
+# sent_id = 0
+1	case	case	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	study	study	NOUN	NN	_	_	_	_	_
+# text = study
+# sent_id = 0
+1	study	study	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	architecture	architecture	NOUN	NN	_	_	_	_	_
+# text = architecture
+# sent_id = 0
+1	architecture	architecture	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	structure	structure	NOUN	NN	_	_	_	_	_
+# text = structure
+# sent_id = 0
+1	structure	structure	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	layer	layer	NOUN	NN	_	_	_	_	_
+# text = layer
+# sent_id = 0
+1	layer	layer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	pipeline	pipeline	NOUN	NN	_	_	_	_	_
+# text = pipeline
+# sent_id = 0
+1	pipeline	pipeline	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	start	start	VERB	VB	_	_	_	_	_
+# text = start
+# sent_id = 0
+1	start	start	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	input	input	NOUN	NN	_	_	_	_	_
+# text = input
+# sent_id = 0
+1	input	input	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	ingestion	ingestion	NOUN	NN	_	_	_	_	_
+# text = ingestion
+# sent_id = 0
+1	ingestion	ingestion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
+# text = preprocesse
+# sent_id = 0
+1	preprocesse	preprocesse	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	follow	follow	VERB	VB	_	_	_	_	_
+# text = follow
+# sent_id = 0
+1	follow	follow	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	parallel	parallel	ADJ	JJ	_	_	_	_	_
+# text = parallel
+# sent_id = 0
+1	parallel	parallel	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	extraction	extraction	NOUN	NN	_	_	_	_	_
+# text = extraction
+# sent_id = 0
+1	extraction	extraction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	stream	stream	NOUN	NN	_	_	_	_	_
+# text = stream
+# sent_id = 0
+1	stream	stream	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	final	final	ADJ	JJ	_	_	_	_	_
+# text = final
+# sent_id = 0
+1	final	final	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	aggregation	aggregation	NOUN	NN	_	_	_	_	_
+# text = aggregation
+# sent_id = 0
+1	aggregation	aggregation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	layer	layer	NOUN	NN	_	_	_	_	_
+# text = layer
+# sent_id = 0
+1	layer	layer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	1	1	NUM	LS	_	_	_	_	_
+# text = 1
+# sent_id = 0
+1	1	1	NUM	LS	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	input	input	NOUN	NN	_	_	_	_	_
+# text = input
+# sent_id = 0
+1	input	input	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
+# text = preprocesse
+# sent_id = 0
+1	preprocesse	preprocesse	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	datum	datum	NOUN	NN	_	_	_	_	_
+# text = datum
+# sent_id = 0
+1	datum	datum	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	collect	collect	VERB	VB	_	_	_	_	_
+# text = collect
+# sent_id = 0
+1	collect	collect	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	social	social	ADJ	JJ	_	_	_	_	_
+# text = social
+# sent_id = 0
+1	social	social	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	medium	medium	ADJ	JJ	_	_	_	_	_
+# text = medium
+# sent_id = 0
+1	medium	medium	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	platform	platform	NOUN	NN	_	_	_	_	_
+# text = platform
+# sent_id = 0
+1	platform	platform	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	undergo	undergo	VERB	VB	_	_	_	_	_
+# text = undergo
+# sent_id = 0
+1	undergo	undergo	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	extensive	extensive	ADJ	JJ	_	_	_	_	_
+# text = extensive
+# sent_id = 0
+1	extensive	extensive	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	clean	clean	ADJ	JJ	_	_	_	_	_
+# text = clean
+# sent_id = 0
+1	clean	clean	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	removal	removal	NOUN	NN	_	_	_	_	_
+# text = removal
+# sent_id = 0
+1	removal	removal	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	special	special	ADJ	JJ	_	_	_	_	_
+# text = special
+# sent_id = 0
+1	special	special	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	character	character	NOUN	NN	_	_	_	_	_
+# text = character
+# sent_id = 0
+1	character	character	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	hashtag	hashtag	NOUN	NN	_	_	_	_	_
+# text = hashtag
+# sent_id = 0
+1	hashtag	hashtag	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	emoji	emoji	PROPN	NNP	_	_	_	_	_
+# text = emoji
+# sent_id = 0
+1	emoji	emoji	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	link	link	NOUN	NN	_	_	_	_	_
+# text = link
+# sent_id = 0
+1	link	link	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	user	user	NOUN	NN	_	_	_	_	_
+# text = user
+# sent_id = 0
+1	user	user	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	handle	handle	NOUN	NN	_	_	_	_	_
+# text = handle
+# sent_id = 0
+1	handle	handle	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	clean	clean	ADJ	JJ	_	_	_	_	_
+# text = clean
+# sent_id = 0
+1	clean	clean	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	tokenize	tokenize	NOUN	NN	_	_	_	_	_
+# text = tokenize
+# sent_id = 0
+1	tokenize	tokenize	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	pass	pass	VERB	VB	_	_	_	_	_
+# text = pass
+# sent_id = 0
+1	pass	pass	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	lemmatiza	lemmatiza	PROPN	NNP	_	_	_	_	_
+# text = lemmatiza
+# sent_id = 0
+1	lemmatiza	lemmatiza	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	tion	tion	INTJ	UH	_	_	_	_	_
+# text = tion
+# sent_id = 0
+1	tion	tion	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	standardization	standardization	NOUN	NN	_	_	_	_	_
+# text = standardization
+# sent_id = 0
+1	standardization	standardization	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=15
 
 
-1	2	2	NUM	LS	_	_	_	_	_
+# text = 2
+# sent_id = 0
+1	2	2	NUM	LS	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	extraction	extraction	NOUN	NN	_	_	_	_	_
+# text = extraction
+# sent_id = 0
+1	extraction	extraction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	module	module	NOUN	NN	_	_	_	_	_
+# text = module
+# sent_id = 0
+1	module	module	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	input	input	NOUN	NN	_	_	_	_	_
+# text = input
+# sent_id = 0
+1	input	input	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	feed	feed	VERB	VB	_	_	_	_	_
+# text = feed
+# sent_id = 0
+1	feed	feed	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	simul	simul	INTJ	UH	_	_	_	_	_
+# text = simul
+# sent_id = 0
+1	simul	simul	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	taneously	taneously	ADV	RB	_	_	_	_	_
+# text = taneously
+# sent_id = 0
+1	taneously	taneously	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
+# text = sentiment
+# sent_id = 0
+1	sentiment	sentiment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	contextual	contextual	NOUN	NN	_	_	_	_	_
+# text = contextual
+# sent_id = 0
+1	contextual	contextual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	linguistic	linguistic	ADJ	JJ	_	_	_	_	_
+# text = linguistic
+# sent_id = 0
+1	linguistic	linguistic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	emotion	emotion	NOUN	NN	_	_	_	_	_
+# text = emotion
+# sent_id = 0
+1	emotion	emotion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	detection	detection	NOUN	NN	_	_	_	_	_
+# text = detection
+# sent_id = 0
+1	detection	detection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	module	module	NOUN	NN	_	_	_	_	_
+# text = module
+# sent_id = 0
+1	module	module	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	module	module	NOUN	NN	_	_	_	_	_
+# text = module
+# sent_id = 0
+1	module	module	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	process	process	NOUN	NN	_	_	_	_	_
+# text = process
+# sent_id = 0
+1	process	process	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	indepen	indepen	INTJ	UH	_	_	_	_	_
+# text = indepen
+# sent_id = 0
+1	indepen	indepen	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	dently	dently	ADV	RB	_	_	_	_	_
+# text = dently
+# sent_id = 0
+1	dently	dently	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	produce	produce	VERB	VB	_	_	_	_	_
+# text = produce
+# sent_id = 0
+1	produce	produce	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	output	output	NOUN	NN	_	_	_	_	_
+# text = output
+# sent_id = 0
+1	output	output	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	vector	vector	NOUN	NN	_	_	_	_	_
+# text = vector
+# sent_id = 0
+1	vector	vector	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	encapsulate	encapsulate	VERB	VB	_	_	_	_	_
+# text = encapsulate
+# sent_id = 0
+1	encapsulate	encapsulate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	specialized	specialized	VERB	VBN	_	_	_	_	_
+# text = specialized
+# sent_id = 0
+1	specialized	specialize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	analysis	analysis	NOUN	NN	_	_	_	_	_
+# text = analysis
+# sent_id = 0
+1	analysis	analysis	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	3	3	NUM	LS	_	_	_	_	_
+# text = 3
+# sent_id = 0
+1	3	3	NUM	LS	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	aggregation	aggregation	NOUN	NN	_	_	_	_	_
+# text = aggregation
+# sent_id = 0
+1	aggregation	aggregation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	fusion	fusion	NOUN	NN	_	_	_	_	_
+# text = fusion
+# sent_id = 0
+1	fusion	fusion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	vector	vector	NOUN	NN	_	_	_	_	_
+# text = vector
+# sent_id = 0
+1	vector	vector	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	mod	mod	NOUN	NN	_	_	_	_	_
+# text = mod
+# sent_id = 0
+1	mod	Mod	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	ule	ule	INTJ	UH	_	_	_	_	_
+# text = ule
+# sent_id = 0
+1	ule	ule	INTJ	UH	_	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	aggregate	aggregate	NOUN	NN	_	_	_	_	_
+# text = aggregate
+# sent_id = 0
+1	aggregate	aggregate	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	concatenation	concatenation	NOUN	NN	_	_	_	_	_
+# text = concatenation
+# sent_id = 0
+1	concatenation	concatenation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	pass	pass	VERB	VB	_	_	_	_	_
+# text = pass
+# sent_id = 0
+1	pass	pass	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	dimensionality	dimensionality	NOUN	NN	_	_	_	_	_
+# text = dimensionality
+# sent_id = 0
+1	dimensionality	dimensionality	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	reduction	reduction	NOUN	NN	_	_	_	_	_
+# text = reduction
+# sent_id = 0
+1	reduction	reduction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	e.g	e.g	SYM	NFP	_	_	_	_	_
+# text = e.g
+# sent_id = 0
+1	e.g	e.g	SYM	NFP	_	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	pca	pca	NOUN	NN	_	_	_	_	_
+# text = pca
+# sent_id = 0
+1	pca	pca	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	attention	attention	NOUN	NN	_	_	_	_	_
+# text = attention
+# sent_id = 0
+1	attention	attention	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	base	base	NOUN	NN	_	_	_	_	_
+# text = base
+# sent_id = 0
+1	base	base	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	fusion	fusion	NOUN	NN	_	_	_	_	_
+# text = fusion
+# sent_id = 0
+1	fusion	fusion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	form	form	NOUN	NN	_	_	_	_	_
+# text = form
+# sent_id = 0
+1	form	form	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	composite	composite	NOUN	NN	_	_	_	_	_
+# text = composite
+# sent_id = 0
+1	composite	composite	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	representation	representation	NOUN	NN	_	_	_	_	_
+# text = representation
+# sent_id = 0
+1	representation	representation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	vector	vector	NOUN	NN	_	_	_	_	_
+# text = vector
+# sent_id = 0
+1	vector	vector	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	process	process	NOUN	NN	_	_	_	_	_
+# text = process
+# sent_id = 0
+1	process	process	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	classification	classification	NOUN	NN	_	_	_	_	_
+# text = classification
+# sent_id = 0
+1	classification	classification	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	engine	engine	NOUN	NN	_	_	_	_	_
+# text = engine
+# sent_id = 0
+1	engine	engine	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	4	4	NUM	LS	_	_	_	_	_
+# text = 4
+# sent_id = 0
+1	4	4	NUM	LS	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	classification	classification	NOUN	NN	_	_	_	_	_
+# text = classification
+# sent_id = 0
+1	classification	classification	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	layer	layer	NOUN	NN	_	_	_	_	_
+# text = layer
+# sent_id = 0
+1	layer	layer	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	meta	meta	NOUN	NN	_	_	_	_	_
+# text = meta
+# sent_id = 0
+1	meta	meta	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	classifier	classifier	NOUN	NN	_	_	_	_	_
+# text = classifier
+# sent_id = 0
+1	classifier	classifier	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	train	train	NOUN	NN	_	_	_	_	_
+# text = train
+# sent_id = 0
+1	train	train	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	la	la	PROPN	NNP	_	_	_	_	_
+# text = la
+# sent_id = 0
+1	la	la	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	bele	bele	PROPN	NNP	_	_	_	_	_
+# text = bele
+# sent_id = 0
+1	bele	bele	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	dataset	dataset	NOUN	NN	_	_	_	_	_
+# text = dataset
+# sent_id = 0
+1	dataset	dataset	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	take	take	VERB	VB	_	_	_	_	_
+# text = take
+# sent_id = 0
+1	take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	fuse	fuse	NOUN	NN	_	_	_	_	_
+# text = fuse
+# sent_id = 0
+1	fuse	fuse	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	representation	representation	NOUN	NN	_	_	_	_	_
+# text = representation
+# sent_id = 0
+1	representation	representation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=14
 
 
-1	output	output	NOUN	NN	_	_	_	_	_
+# text = output
+# sent_id = 0
+1	output	output	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	probability	probability	NOUN	NN	_	_	_	_	_
+# text = probability
+# sent_id = 0
+1	probability	probability	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
+# text = sarcastic
+# sent_id = 0
+1	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	logistic	logistic	ADJ	JJ	_	_	_	_	_
+# text = logistic
+# sent_id = 0
+1	logistic	logistic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	gression	gression	NOUN	NN	_	_	_	_	_
+# text = gression
+# sent_id = 0
+1	gression	gression	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	shallow	shallow	ADJ	JJ	_	_	_	_	_
+# text = shallow
+# sent_id = 0
+1	shallow	shallow	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	feedforward	feedforward	ADJ	JJ	_	_	_	_	_
+# text = feedforward
+# sent_id = 0
+1	feedforward	feedforward	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	neural	neural	ADJ	JJ	_	_	_	_	_
+# text = neural
+# sent_id = 0
+1	neural	neural	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	network	network	NOUN	NN	_	_	_	_	_
+# text = network
+# sent_id = 0
+1	network	network	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	typically	typically	ADV	RB	_	_	_	_	_
+# text = typically
+# sent_id = 0
+1	typically	typically	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	stage	stage	NOUN	NN	_	_	_	_	_
+# text = stage
+# sent_id = 0
+1	stage	stage	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	5	5	NUM	LS	_	_	_	_	_
+# text = 5
+# sent_id = 0
+1	5	5	NUM	LS	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	feedback	feedback	NOUN	NN	_	_	_	_	_
+# text = feedback
+# sent_id = 0
+1	feedback	feedback	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	loop	loop	NOUN	NN	_	_	_	_	_
+# text = loop
+# sent_id = 0
+1	loop	loop	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	user	user	NOUN	NN	_	_	_	_	_
+# text = user
+# sent_id = 0
+1	user	user	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	feedback	feedback	NOUN	NN	_	_	_	_	_
+# text = feedback
+# sent_id = 0
+1	feedback	feedback	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	capture	capture	VERB	VB	_	_	_	_	_
+# text = capture
+# sent_id = 0
+1	capture	capture	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	upvote	upvote	NOUN	NN	_	_	_	_	_
+# text = upvote
+# sent_id = 0
+1	upvote	upvote	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	downvote	downvote	NOUN	NN	_	_	_	_	_
+# text = downvote
+# sent_id = 0
+1	downvote	downvote	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	flag	flag	NOUN	NN	_	_	_	_	_
+# text = flag
+# sent_id = 0
+1	flag	flag	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	enable	enable	VERB	VB	_	_	_	_	_
+# text = enable
+# sent_id = 0
+1	enable	enable	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	continuous	continuous	ADJ	JJ	_	_	_	_	_
+# text = continuous
+# sent_id = 0
+1	continuous	continuous	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	retrain	retrain	VERB	VB	_	_	_	_	_
+# text = retrain
+# sent_id = 0
+1	retrain	retrain	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	improve	improve	VERB	VB	_	_	_	_	_
+# text = improve
+# sent_id = 0
+1	improve	improve	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	precision	precision	NOUN	NN	_	_	_	_	_
+# text = precision
+# sent_id = 0
+1	precision	precision	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	time	time	NOUN	NN	_	_	_	_	_
+# text = time
+# sent_id = 0
+1	time	time	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	adaptive	adaptive	ADJ	JJ	_	_	_	_	_
+# text = adaptive
+# sent_id = 0
+1	adaptive	adaptive	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	loop	loop	NOUN	NN	_	_	_	_	_
+# text = loop
+# sent_id = 0
+1	loop	loop	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	enhance	enhance	VERB	VB	_	_	_	_	_
+# text = enhance
+# sent_id = 0
+1	enhance	enhance	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	robustness	robustness	NOUN	NN	_	_	_	_	_
+# text = robustness
+# sent_id = 0
+1	robustness	robustness	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	evolve	evolve	VERB	VB	_	_	_	_	_
+# text = evolve
+# sent_id = 0
+1	evolve	evolve	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
+# text = sarcastic
+# sent_id = 0
+1	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	trend	trend	NOUN	NN	_	_	_	_	_
+# text = trend
+# sent_id = 0
+1	trend	trend	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	modular	modular	ADJ	JJ	_	_	_	_	_
+# text = modular
+# sent_id = 0
+1	modular	modular	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	design	design	NOUN	NN	_	_	_	_	_
+# text = design
+# sent_id = 0
+1	design	design	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	support	support	VERB	VB	_	_	_	_	_
+# text = support
+# sent_id = 0
+1	support	support	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	horizontal	horizontal	ADJ	JJ	_	_	_	_	_
+# text = horizontal
+# sent_id = 0
+1	horizontal	horizontal	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	scalabil	scalabil	NOUN	NN	_	_	_	_	_
+# text = scalabil
+# sent_id = 0
+1	scalabil	scalabil	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	ity	ity	NOUN	NN	_	_	_	_	_
+# text = ity
+# sent_id = 0
+1	ity	ity	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	module	module	NOUN	NN	_	_	_	_	_
+# text = module
+# sent_id = 0
+1	module	module	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	parallelize	parallelize	VERB	VB	_	_	_	_	_
+# text = parallelize
+# sent_id = 0
+1	parallelize	parallelize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	independently	independently	ADV	RB	_	_	_	_	_
+# text = independently
+# sent_id = 0
+1	independently	independently	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	opti	opti	NOUN	NN	_	_	_	_	_
+# text = opti
+# sent_id = 0
+1	opti	opti	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	mized	mized	ADJ	JJ	_	_	_	_	_
+# text = mized
+# sent_id = 0
+1	mized	mized	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	ensure	ensure	VERB	VB	_	_	_	_	_
+# text = ensure
+# sent_id = 0
+1	ensure	ensure	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	maintainability	maintainability	NOUN	NN	_	_	_	_	_
+# text = maintainability
+# sent_id = 0
+1	maintainability	maintainability	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=15
 
 
-1	extensibility	extensibility	NOUN	NN	_	_	_	_	_
+# text = extensibility
+# sent_id = 0
+1	extensibility	extensibility	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	conceptual	conceptual	ADJ	JJ	_	_	_	_	_
+# text = conceptual
+# sent_id = 0
+1	conceptual	conceptual	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	case	case	NOUN	NN	_	_	_	_	_
+# text = case
+# sent_id = 0
+1	case	case	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	study	study	NOUN	NN	_	_	_	_	_
+# text = study
+# sent_id = 0
+1	study	study	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	evaluate	evaluate	VERB	VB	_	_	_	_	_
+# text = evaluate
+# sent_id = 0
+1	evaluate	evaluate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	framework	framework	NOUN	NN	_	_	_	_	_
+# text = framework
+# sent_id = 0
+1	framework	framework	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	multimodal	multimodal	ADJ	JJ	_	_	_	_	_
+# text = multimodal
+# sent_id = 0
+1	multimodal	multimodal	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	dataset	dataset	NOUN	NN	_	_	_	_	_
+# text = dataset
+# sent_id = 0
+1	dataset	dataset	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	comprise	comprise	VERB	VB	_	_	_	_	_
+# text = comprise
+# sent_id = 0
+1	comprise	comprise	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	image	image	NOUN	NN	_	_	_	_	_
+# text = image
+# sent_id = 0
+1	image	image	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	tweet	tweet	NOUN	NN	_	_	_	_	_
+# text = tweet
+# sent_id = 0
+1	tweet	tweet	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	pair	pair	NOUN	NN	_	_	_	_	_
+# text = pair
+# sent_id = 0
+1	pair	pair	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	encode	encode	VERB	VB	_	_	_	_	_
+# text = encode
+# sent_id = 0
+1	encode	encode	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	bert	bert	PROPN	NNP	_	_	_	_	_
+# text = bert
+# sent_id = 0
+1	bert	bert	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	image	image	NOUN	NN	_	_	_	_	_
+# text = image
+# sent_id = 0
+1	image	image	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	process	process	NOUN	NN	_	_	_	_	_
+# text = process
+# sent_id = 0
+1	process	process	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	dense	dense	ADJ	JJ	_	_	_	_	_
+# text = dense
+# sent_id = 0
+1	dense	dense	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	net	net	NOUN	NN	_	_	_	_	_
+# text = net
+# sent_id = 0
+1	net	net	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	visual	visual	ADJ	JJ	_	_	_	_	_
+# text = visual
+# sent_id = 0
+1	visual	visual	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	facial	facial	ADJ	JJ	_	_	_	_	_
+# text = facial
+# sent_id = 0
+1	facial	facial	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	expres	expres	VERB	VB	_	_	_	_	_
+# text = expres
+# sent_id = 0
+1	expres	expre	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	sion	sion	NOUN	NN	_	_	_	_	_
+# text = sion
+# sent_id = 0
+1	sion	sion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	contextual	contextual	NOUN	NN	_	_	_	_	_
+# text = contextual
+# sent_id = 0
+1	contextual	contextual	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	image	image	NOUN	NN	_	_	_	_	_
+# text = image
+# sent_id = 0
+1	image	image	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	cue	cue	NOUN	NN	_	_	_	_	_
+# text = cue
+# sent_id = 0
+1	cue	cue	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	meme	meme	NOUN	NN	_	_	_	_	_
+# text = meme
+# sent_id = 0
+1	meme	meme	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	style	style	NOUN	NN	_	_	_	_	_
+# text = style
+# sent_id = 0
+1	style	style	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	exaggeration	exaggeration	NOUN	NN	_	_	_	_	_
+# text = exaggeration
+# sent_id = 0
+1	exaggeration	exaggeration	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	method	method	NOUN	NN	_	_	_	_	_
+# text = method
+# sent_id = 0
+1	method	method	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	ensure	ensure	VERB	VB	_	_	_	_	_
+# text = ensure
+# sent_id = 0
+1	ensure	ensure	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	language	language	NOUN	NN	_	_	_	_	_
+# text = language
+# sent_id = 0
+1	language	language	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	visual	visual	ADJ	JJ	_	_	_	_	_
+# text = visual
+# sent_id = 0
+1	visual	visual	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	content	content	NOUN	NN	_	_	_	_	_
+# text = content
+# sent_id = 0
+1	content	content	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	contribute	contribute	VERB	VB	_	_	_	_	_
+# text = contribute
+# sent_id = 0
+1	contribute	contribute	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	prediction	prediction	NOUN	NN	_	_	_	_	_
+# text = prediction
+# sent_id = 0
+1	prediction	prediction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	process	process	NOUN	NN	_	_	_	_	_
+# text = process
+# sent_id = 0
+1	process	process	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	dataset	dataset	NOUN	NN	_	_	_	_	_
+# text = dataset
+# sent_id = 0
+1	dataset	dataset	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	study	study	NOUN	NN	_	_	_	_	_
+# text = study
+# sent_id = 0
+1	study	study	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	include	include	VERB	VB	_	_	_	_	_
+# text = include
+# sent_id = 0
+1	include	include	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	publicly	publicly	ADV	RB	_	_	_	_	_
+# text = publicly
+# sent_id = 0
+1	publicly	publicly	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	available	available	ADJ	JJ	_	_	_	_	_
+# text = available
+# sent_id = 0
+1	available	available	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	label	label	VERB	VB	_	_	_	_	_
+# text = label
+# sent_id = 0
+1	label	label	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	tweet	tweet	NOUN	NN	_	_	_	_	_
+# text = tweet
+# sent_id = 0
+1	tweet	tweet	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	contain	contain	VERB	VB	_	_	_	_	_
+# text = contain
+# sent_id = 0
+1	contain	contain	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
+# text = sarcastic
+# sent_id = 0
+1	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	hashtag	hashtag	NOUN	NN	_	_	_	_	_
+# text = hashtag
+# sent_id = 0
+1	hashtag	hashtag	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	irony	irony	NOUN	NN	_	_	_	_	_
+# text = irony
+# sent_id = 0
+1	irony	irony	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	tweet	tweet	NOUN	NN	_	_	_	_	_
+# text = tweet
+# sent_id = 0
+1	tweet	tweet	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	pair	pair	NOUN	NN	_	_	_	_	_
+# text = pair
+# sent_id = 0
+1	pair	pair	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	respective	respective	ADJ	JJ	_	_	_	_	_
+# text = respective
+# sent_id = 0
+1	respective	respective	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	image	image	NOUN	NN	_	_	_	_	_
+# text = image
+# sent_id = 0
+1	image	image	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	preprocesse	preprocesse	NOUN	NN	_	_	_	_	_
+# text = preprocesse
+# sent_id = 0
+1	preprocesse	preprocesse	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	text	text	NOUN	NN	_	_	_	_	_
+# text = text
+# sent_id = 0
+1	text	text	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	tokenize	tokenize	NOUN	NN	_	_	_	_	_
+# text = tokenize
+# sent_id = 0
+1	tokenize	tokenize	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	em	em	PRON	PRP	_	_	_	_	_
+# text = em
+# sent_id = 0
+1	em	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs|Style=Coll	0	root	_	SpaceAfter=No|start_char=0|end_char=2
 
 
-1	bed	bed	NOUN	NN	_	_	_	_	_
+# text = bed
+# sent_id = 0
+1	bed	bed	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	bert	bert	PROPN	NNP	_	_	_	_	_
+# text = bert
+# sent_id = 0
+1	bert	bert	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	image	image	NOUN	NN	_	_	_	_	_
+# text = image
+# sent_id = 0
+1	image	image	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	resize	resize	VERB	VB	_	_	_	_	_
+# text = resize
+# sent_id = 0
+1	resize	resize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	feed	feed	VERB	VB	_	_	_	_	_
+# text = feed
+# sent_id = 0
+1	feed	feed	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	pre	pre	NOUN	NN	_	_	_	_	_
+# text = pre
+# sent_id = 0
+1	pre	pre	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	train	train	NOUN	NN	_	_	_	_	_
+# text = train
+# sent_id = 0
+1	train	train	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	dense	dense	ADJ	JJ	_	_	_	_	_
+# text = dense
+# sent_id = 0
+1	dense	dense	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	net	net	NOUN	NN	_	_	_	_	_
+# text = net
+# sent_id = 0
+1	net	net	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	feature	feature	NOUN	NN	_	_	_	_	_
+# text = feature
+# sent_id = 0
+1	feature	feature	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	vector	vector	NOUN	NN	_	_	_	_	_
+# text = vector
+# sent_id = 0
+1	vector	vector	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	concatenate	concatenate	VERB	VB	_	_	_	_	_
+# text = concatenate
+# sent_id = 0
+1	concatenate	concatenate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	pass	pass	VERB	VB	_	_	_	_	_
+# text = pass
+# sent_id = 0
+1	pass	pass	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	fusion	fusion	NOUN	NN	_	_	_	_	_
+# text = fusion
+# sent_id = 0
+1	fusion	fusion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	classifier	classifier	NOUN	NN	_	_	_	_	_
+# text = classifier
+# sent_id = 0
+1	classifier	classifier	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	final	final	ADJ	JJ	_	_	_	_	_
+# text = final
+# sent_id = 0
+1	final	final	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	prediction	prediction	NOUN	NN	_	_	_	_	_
+# text = prediction
+# sent_id = 0
+1	prediction	prediction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	fig	fig	NOUN	NN	_	_	_	_	_
+# text = fig
+# sent_id = 0
+1	fig	fig	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	5	5	NUM	LS	_	_	_	_	_
+# text = 5
+# sent_id = 0
+1	5	5	NUM	LS	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
+# text = accuracy
+# sent_id = 0
+1	accuracy	accuracy	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	comparison	comparison	NOUN	NN	_	_	_	_	_
+# text = comparison
+# sent_id = 0
+1	comparison	comparison	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	twitter	twitter	PROPN	NNP	_	_	_	_	_
+# text = twitter
+# sent_id = 0
+1	twitter	twitter	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	dataset	dataset	NOUN	NN	_	_	_	_	_
+# text = dataset
+# sent_id = 0
+1	dataset	dataset	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	result	result	NOUN	NN	_	_	_	_	_
+# text = result
+# sent_id = 0
+1	result	result	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	demonstrate	demonstrate	VERB	VB	_	_	_	_	_
+# text = demonstrate
+# sent_id = 0
+1	demonstrate	demonstrate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	clear	clear	ADJ	JJ	_	_	_	_	_
+# text = clear
+# sent_id = 0
+1	clear	clear	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	advantage	advantage	NOUN	NN	_	_	_	_	_
+# text = advantage
+# sent_id = 0
+1	advantage	advantage	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	multimodal	multimodal	ADJ	JJ	_	_	_	_	_
+# text = multimodal
+# sent_id = 0
+1	multimodal	multimodal	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	learn	learn	VERB	VB	_	_	_	_	_
+# text = learn
+# sent_id = 0
+1	learn	learn	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	bert	bert	PROPN	NNP	_	_	_	_	_
+# text = bert
+# sent_id = 0
+1	bert	bert	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	achieve	achieve	VERB	VB	_	_	_	_	_
+# text = achieve
+# sent_id = 0
+1	achieve	achieve	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	accuracy	accuracy	NOUN	NN	_	_	_	_	_
+# text = accuracy
+# sent_id = 0
+1	accuracy	accuracy	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	88.6	88.6	NUM	CD	_	_	_	_	_
+# text = 88.6
+# sent_id = 0
+1	88.6	88.6	NUM	CD	NumForm=Digit|NumType=Frac	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	dense	dense	ADJ	JJ	_	_	_	_	_
+# text = dense
+# sent_id = 0
+1	dense	dense	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	net	net	NOUN	NN	_	_	_	_	_
+# text = net
+# sent_id = 0
+1	net	net	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	achieve	achieve	VERB	VB	_	_	_	_	_
+# text = achieve
+# sent_id = 0
+1	achieve	achieve	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	74.3	74.3	NUM	CD	_	_	_	_	_
+# text = 74.3
+# sent_id = 0
+1	74.3	74.3	NUM	CD	NumForm=Digit|NumType=Frac	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	combine	combine	VERB	VB	_	_	_	_	_
+# text = combine
+# sent_id = 0
+1	combine	combine	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	reach	reach	VERB	VB	_	_	_	_	_
+# text = reach
+# sent_id = 0
+1	reach	reach	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	93.2	93.2	NUM	CD	_	_	_	_	_
+# text = 93.2
+# sent_id = 0
+1	93.2	93.2	NUM	CD	NumForm=Digit|NumType=Frac	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	finding	finding	VERB	VBG	_	_	_	_	_
+# text = finding
+# sent_id = 0
+1	finding	find	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	confirm	confirm	VERB	VB	_	_	_	_	_
+# text = confirm
+# sent_id = 0
+1	confirm	confirm	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	visual	visual	ADJ	JJ	_	_	_	_	_
+# text = visual
+# sent_id = 0
+1	visual	visual	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	signal	signal	VERB	VB	_	_	_	_	_
+# text = signal
+# sent_id = 0
+1	signal	signal	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	add	add	VERB	VB	_	_	_	_	_
+# text = add
+# sent_id = 0
+1	add	add	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	significant	significant	ADJ	JJ	_	_	_	_	_
+# text = significant
+# sent_id = 0
+1	significant	significant	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	value	value	NOUN	NN	_	_	_	_	_
+# text = value
+# sent_id = 0
+1	value	value	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	identify	identify	VERB	VB	_	_	_	_	_
+# text = identify
+# sent_id = 0
+1	identify	identify	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	especially	especially	ADV	RB	_	_	_	_	_
+# text = especially
+# sent_id = 0
+1	especially	especially	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	textual	textual	ADJ	JJ	_	_	_	_	_
+# text = textual
+# sent_id = 0
+1	textual	textual	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	cue	cue	NOUN	NN	_	_	_	_	_
+# text = cue
+# sent_id = 0
+1	cue	cue	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	ambiguous	ambiguous	ADJ	JJ	_	_	_	_	_
+# text = ambiguous
+# sent_id = 0
+1	ambiguous	ambiguous	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	practical	practical	ADJ	JJ	_	_	_	_	_
+# text = practical
+# sent_id = 0
+1	practical	practical	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	application	application	NOUN	NN	_	_	_	_	_
+# text = application
+# sent_id = 0
+1	application	application	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	scenario	scenario	NOUN	NN	_	_	_	_	_
+# text = scenario
+# sent_id = 0
+1	scenario	scenario	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	assist	assist	NOUN	NN	_	_	_	_	_
+# text = assist
+# sent_id = 0
+1	assist	assist	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	content	content	NOUN	NN	_	_	_	_	_
+# text = content
+# sent_id = 0
+1	content	content	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	moderator	moderator	NOUN	NN	_	_	_	_	_
+# text = moderator
+# sent_id = 0
+1	moderator	moderator	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	automatically	automatically	ADV	RB	_	_	_	_	_
+# text = automatically
+# sent_id = 0
+1	automatically	automatically	ADV	RB	_	0	root	_	SpaceAfter=No|start_char=0|end_char=13
 
 
-1	flag	flag	NOUN	NN	_	_	_	_	_
+# text = flag
+# sent_id = 0
+1	flag	flag	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
+# text = sarcastic
+# sent_id = 0
+1	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	content	content	NOUN	NN	_	_	_	_	_
+# text = content
+# sent_id = 0
+1	content	content	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	enhance	enhance	VERB	VB	_	_	_	_	_
+# text = enhance
+# sent_id = 0
+1	enhance	enhance	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	sentiment	sentiment	NOUN	NN	_	_	_	_	_
+# text = sentiment
+# sent_id = 0
+1	sentiment	sentiment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	analysis	analysis	NOUN	NN	_	_	_	_	_
+# text = analysis
+# sent_id = 0
+1	analysis	analysis	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	system	system	NOUN	NN	_	_	_	_	_
+# text = system
+# sent_id = 0
+1	system	system	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	future	future	NOUN	NN	_	_	_	_	_
+# text = future
+# sent_id = 0
+1	future	future	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	study	study	NOUN	NN	_	_	_	_	_
+# text = study
+# sent_id = 0
+1	study	study	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	expand	expand	VERB	VB	_	_	_	_	_
+# text = expand
+# sent_id = 0
+1	expand	expand	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	work	work	NOUN	NN	_	_	_	_	_
+# text = work
+# sent_id = 0
+1	work	work	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	explore	explore	VERB	VB	_	_	_	_	_
+# text = explore
+# sent_id = 0
+1	explore	explore	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	multilingual	multilingual	ADJ	JJ	_	_	_	_	_
+# text = multilingual
+# sent_id = 0
+1	multilingual	multilingual	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=12
 
 
-1	sarcastic	sarcastic	ADJ	JJ	_	_	_	_	_
+# text = sarcastic
+# sent_id = 0
+1	sarcastic	sarcastic	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	tweet	tweet	NOUN	NN	_	_	_	_	_
+# text = tweet
+# sent_id = 0
+1	tweet	tweet	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	emotion	emotion	NOUN	NN	_	_	_	_	_
+# text = emotion
+# sent_id = 0
+1	emotion	emotion	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	label	label	VERB	VB	_	_	_	_	_
+# text = label
+# sent_id = 0
+1	label	label	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	image	image	NOUN	NN	_	_	_	_	_
+# text = image
+# sent_id = 0
+1	image	image	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	dataset	dataset	NOUN	NN	_	_	_	_	_
+# text = dataset
+# sent_id = 0
+1	dataset	dataset	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	integrate	integrate	VERB	VB	_	_	_	_	_
+# text = integrate
+# sent_id = 0
+1	integrate	integrate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
 
-1	audio	audio	NOUN	NN	_	_	_	_	_
+# text = audio
+# sent_id = 0
+1	audio	audio	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	cue	cue	NOUN	NN	_	_	_	_	_
+# text = cue
+# sent_id = 0
+1	cue	cue	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	tone	tone	NOUN	NN	_	_	_	_	_
+# text = tone
+# sent_id = 0
+1	tone	tone	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	inflection	inflection	NOUN	NN	_	_	_	_	_
+# text = inflection
+# sent_id = 0
+1	inflection	inflection	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	user	user	NOUN	NN	_	_	_	_	_
+# text = user
+# sent_id = 0
+1	user	user	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	center	center	NOUN	NN	_	_	_	_	_
+# text = center
+# sent_id = 0
+1	center	center	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	evaluation	evaluation	NOUN	NN	_	_	_	_	_
+# text = evaluation
+# sent_id = 0
+1	evaluation	evaluation	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	crowdsource	crowdsource	NOUN	NN	_	_	_	_	_
+# text = crowdsource
+# sent_id = 0
+1	crowdsource	crowdsource	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	platform	platform	NOUN	NN	_	_	_	_	_
+# text = platform
+# sent_id = 0
+1	platform	platform	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	e.g	e.g	SYM	NFP	_	_	_	_	_
+# text = e.g
+# sent_id = 0
+1	e.g	e.g	SYM	NFP	_	0	root	_	SpaceAfter=No|start_char=0|end_char=3
 
 
-1	amazon	amazon	PROPN	NNP	_	_	_	_	_
+# text = amazon
+# sent_id = 0
+1	amazon	amazon	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=6
 
 
-1	mechanical	mechanical	ADJ	JJ	_	_	_	_	_
+# text = mechanical
+# sent_id = 0
+1	mechanical	mechanical	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	turk	turk	PROPN	NNP	_	_	_	_	_
+# text = turk
+# sent_id = 0
+1	turk	turk	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	validate	validate	VERB	VB	_	_	_	_	_
+# text = validate
+# sent_id = 0
+1	validate	validate	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=8
 
 
-1	model	model	NOUN	NN	_	_	_	_	_
+# text = model
+# sent_id = 0
+1	model	model	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	prediction	prediction	NOUN	NN	_	_	_	_	_
+# text = prediction
+# sent_id = 0
+1	prediction	prediction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	compare	compare	VERB	VB	_	_	_	_	_
+# text = compare
+# sent_id = 0
+1	compare	compare	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	human	human	ADJ	JJ	_	_	_	_	_
+# text = human
+# sent_id = 0
+1	human	human	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	judg	judg	NOUN	NN	_	_	_	_	_
+# text = judg
+# sent_id = 0
+1	judg	judg	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	ment	ment	NOUN	NN	_	_	_	_	_
+# text = ment
+# sent_id = 0
+1	ment	ment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	process	process	NOUN	NN	_	_	_	_	_
+# text = process
+# sent_id = 0
+1	process	process	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	enhance	enhance	VERB	VB	_	_	_	_	_
+# text = enhance
+# sent_id = 0
+1	enhance	enhance	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	credibility	credibility	NOUN	NN	_	_	_	_	_
+# text = credibility
+# sent_id = 0
+1	credibility	credibility	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=11
 
 
-1	sarcasm	sarcasm	NOUN	NN	_	_	_	_	_
+# text = sarcasm
+# sent_id = 0
+1	sarcasm	sarcasm	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=7
 
 
-1	clas	clas	NOUN	NN	_	_	_	_	_
+# text = clas
+# sent_id = 0
+1	clas	cla	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	sification	sification	NOUN	NN	_	_	_	_	_
+# text = sification
+# sent_id = 0
+1	sification	sification	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	real	real	ADJ	JJ	_	_	_	_	_
+# text = real
+# sent_id = 0
+1	real	real	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|start_char=0|end_char=4
 
 
-1	world	world	NOUN	NN	_	_	_	_	_
+# text = world
+# sent_id = 0
+1	world	world	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=5
 
 
-1	deployment	deployment	NOUN	NN	_	_	_	_	_
+# text = deployment
+# sent_id = 0
+1	deployment	deployment	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=10
 
 
-1	x	x	NOUN	NN	_	_	_	_	_
+# text = x
+# sent_id = 0
+1	x	x	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=1
 
 
-1	reference	reference	NOUN	NN	_	_	_	_	_
-
+# text = reference
+# sent_id = 0
+1	reference	reference	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|start_char=0|end_char=9
 
