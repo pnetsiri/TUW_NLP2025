@@ -17,11 +17,11 @@ This project implements a Retrieval-Augmented Generation (RAG) system for academ
 
 ## Data
 
-We downloaded 20 academic papers in the field of Deep Learning written in the English language. The PDF files were manually converted to text using an online tool.
+We downloaded 20 academic papers in the field of Deep Learning written in the English language (see the folder [paper](paper/)). The PDF files were manually converted to text using an online tool, which can be found in the folder [paper_txt](paper_txt/).
 
 ## Preprocessing
 
-All preprocessing of the text files was done using the Jupyter notebook [code/text_processing.ipynb](code/text_processing.ipynb). The NLTK library was used for tokenization and stopword removal, spaCy for lemmatization, and Stanza for exporting the preprocessed texts in the CoNLL-U format. The resulting CoNLL-U files can be found in the folder [code/data](code/data/), with a CoNLL-U file for each paper.
+All preprocessing of the text files was done using the Jupyter notebook [code/text_processing.ipynb](code/text_processing.ipynb). The texts were first cleaned to remove common PDF hyphenation artifacts and then processed with the Stanza library to perform tokenization, part-of-speech tagging, lemmatization and dependency parsing. Each document was exported in the CoNLL-U format with one file per paper, which can be found in the folder [code/data](code/data/).
 
 ## Project Repository Structure
 
