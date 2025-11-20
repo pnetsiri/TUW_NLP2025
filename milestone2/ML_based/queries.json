@@ -1,102 +1,122 @@
 [
   {
     "question": "How are Transformers different from RNNs?",
-    "correct_paper": null,
+    "correct_paper_id": null,
+    "correct_paper_title": null,
     "correct_passage": null
   },
   {
     "question": "What are the advantages and drawbacks of batch normalization compared to layer normalization?",
-    "correct_paper": null,
+    "correct_paper_id": null,
+    "correct_paper_title": null,
     "correct_passage": null
   },
   {
     "question": "What regularization techniques help reduce overfitting in large language models?",
-    "correct_paper": null,
+    "correct_paper_id": null,
+    "correct_paper_title": null,
     "correct_passage": null
   },
   {
     "question": "Which learning rate schedules are most effective when training deep learning models?",
-    "correct_paper": null,
+    "correct_paper_id": null,
+    "correct_paper_title": null,
     "correct_passage": null
   },
   {
     "question": "What problems might I encounter when fine-tuning models on domain-specific data?",
-    "correct_paper": null,
+    "correct_paper_id": null,
+    "correct_paper_title": null,
     "correct_passage": null
   },
   {
     "question": "How can I assess image-text alignment in multimodal models?",
-    "correct_paper": null,
+    "correct_paper_id": null,
+    "correct_paper_title": null,
     "correct_passage": null
   },
   {
     "question": "What metrics should I use to evaluate text generation models?",
-    "correct_paper": null,
+    "correct_paper_id": null,
+    "correct_paper_title": null,
     "correct_passage": null
   },
   {
     "question": "How can we detect sarcasm using deep learning?",
-    "correct_paper": null,
+    "correct_paper_id": null,
+    "correct_paper_title": null,
     "correct_passage": null
   },
   {
     "question": "How can I detect or measure bias in deep learning models?",
-    "correct_paper": null,
+    "correct_paper_id": null,
+    "correct_paper_title": null,
     "correct_passage": null
   },
   {
     "question": "How can I reduce hallucinations in large language models?",
-    "correct_paper": null,
+    "correct_paper_id": null,
+    "correct_paper_title": null,
     "correct_passage": null
   },
   {
     "question": "What techniques improve Transformer training speed without losing performance?",
-    "correct_paper": null,
+    "correct_paper_id": null,
+    "correct_paper_title": null,
     "correct_passage": null
   },
   {
     "question": "Are deep learning methods effective for crime forecasting compared to traditional models?",
-    "correct_paper": "2509.20913v1",
+    "correct_paper_id": "2509.20913v1",
+    "correct_paper_title": "Deep Learning for Crime Forecasting: The Role of Mobility at Fine-grained Spatiotemporal Scales",
     "correct_passage": "we designed a deep learning model using ConvLSTM layers and compared its performance to three baseline models to determine whether the performance improvement of using an advanced computational method compensated for the complexity involved in building it. Lastly, we compared the results from two different LB periods to assess the impact of longer versus shorter time windows on predictive performance. The results led to several key findings. We first demonstrated that ConvLSTM consistently outperformed the three baseline models, particularly in recall, but struggled with precision, especially when using standard metrics. LSTM showed the closest performance in both recall and precision, though it remained slightly below ConvLSTM. LR, while competitive in precision, suffered from low recall, and RF failed to capture meaningful patterns across all data configurations. Therefore, on the one hand, the effort involved in building such an elaborate model was worthwhile, as the other models either struggled with high-dimensional data or, as in the case of LSTM, had to be highly complex to achieve comparable performance. Moreover, it should be noted that ConvLSTM’s high recall values suggest it can predict most instances where at least one crime is likely to occur, minimizing false negatives as intended. However, the low precision results highlight how the extremely unbalanced nature of our forecasting tasks—a byproduct of the fine-grained spatial and temporal scales of the study—makes this approach highly imperfect in terms of reducing false positives"
   },
   {
     "question": "Should I train separate models for different crime types, or combine them?",
-    "correct_paper": "509.20913v1",
+    "correct_paper_id": "2509.20913v1",
+    "correct_paper_title": "Deep Learning for Crime Forecasting: The Role of Mobility at Fine-grained Spatiotemporal Scales",
     "correct_passage": "Concerning the crime types, we found that our model performed best when using all crime types together, rather than separating them into violent and property crimes. This outcome was expected since this configuration results in a more balanced dataset, hence leading to more stable training."
   },
   {
     "question": "Which deep learning approaches work well for gamma/hadron separation?",
-    "correct_paper": "2510.05736v1",
+    "correct_paper_id": "2510.05736v1",
+    "correct_paper_title": "Convolution and Graph-based Deep Learning Approaches for Gamma/Hadron Separation in Imaging Atmospheric Cherenkov Telescopes",
     "correct_passage": "The proposed hybrid CNN-GNN models show improvements in classification over parametrized approaches and match the performance of previous deep learning models, thus establishing the technique as a viable approach."
   },
   {
     "question": "What frameworks and optimization strategies were used to train DPCformer?",
-    "correct_paper": "2510.08662v1",
+    "correct_paper_id": "2510.08662v1",
+    "correct_paper_title": "DPCformer: An Interpretable Deep Learning Model for Genomic Prediction in Crops",
     "correct_passage": "The DPCformer model was implemented using the PyTorch deep learning framework. The Mean Squared Error (MSE) loss function was utilized to quantify the discrepancy between the ground-truth labels and predicted values, and the Adam optimizer was employed for parameter optimization. During training, we integrated a learning rate scheduling strategy (ReduceLROnPlateau) and an early stopping mechanism (EarlyStopping)."
   },
   {
     "question": "How do modern architectures perform on complex video tasks compared to older methods?",
-    "correct_paper": "2510.09187v1",
+    "correct_paper_id": "2510.09187v1",
+    "correct_paper_title": "Modern Deep Learning Approaches for Cricket Shot Classification: A Comprehensive Baseline Study",
     "correct_passage": "Our results strongly suggest that modern architectures, when properly optimized, are superior for complex video tasks. The SOTA model’s success is attributable to the powerful spatial features from EfficientNet and the GRU’s ability to effectively model temporal dependencies, further enhanced by a temporal attention mechanism."
   },
   {
     "question": "How can I train models stably with limited computational resources?",
-    "correct_paper": "2510.12850v1",
+    "correct_paper_id": "2510.12850v1",
+    "correct_paper_title": "Ethic-BERT: An Enhanced Deep Learning Model for Ethical and Non-Ethical Content Classification",
     "correct_passage": "Additionally, the use of gradient accumulation allowed for stable training even with limited resources, optimizing learning efficiency."
   },
   {
     "question": "Why is preprocessing important for Ethic-BERT’s performance?",
-    "correct_paper": "2510.12850v1",
+    "correct_paper_id": "2510.12850v1",
+    "correct_paper_title": "Ethic-BERT: An Enhanced Deep Learning Model for Ethical and Non-Ethical Content Classification",
     "correct_passage": "The preprocessing pipeline was another critical factor in achieving these results. By employing advanced tokenization, consistent input formatting through truncation and padding, the pipeline enhanced the quality and diversity of the training data."
   },
   {
     "question": "What are the main strengths of using an LSTM model for real-time sign language translation?",
-    "correct_paper": "2510.13137v1",
+    "correct_paper_id": "2510.13137v1",
+    "correct_paper_title": "Real-Time Sign Language to text Translation using Deep Learning: A Comparative study of LSTM and 3D CNN",
     "correct_passage": "The LSTM model, which exploits the temporal dependencies within sequential gesture data, achieved an accuracy of 86.7% on our test dataset. It proved particularly effective in recognizing dynamic gestures that require understanding the order and flow of hand movements, a common trait in sign languages. The LSTM model is lightweight, efficient, and capable of delivering smooth real-time predictions even on low-resource devices."
   },
   {
     "question": "How does model selection affect responsiveness in real-time applications?",
-    "correct_paper": "2510.13137v1",
+    "correct_paper_id": "2510.13137v1",
+    "correct_paper_title": "Real-Time Sign Language to text Translation using Deep Learning: A Comparative study of LSTM and 3D CNN",
     "correct_passage": "User testing and qualitative observations reinforced these results: the LSTM model demonstrated higher responsiveness and robustness in live video input, making it preferable for interactive applications such as assistive communication tools. Meanwhile, the 3D CNN, although precise in controlled environments, lacked the adaptability and responsiveness required for real-time translation."
   }
 ]
