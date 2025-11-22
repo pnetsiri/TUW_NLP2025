@@ -1,0 +1,1 @@
+This folder contains the evaluation queries used for testing the retrieval and RAG systems. Each query includes the question and optional fields for the correct paper ID, paper title, and the relevant passage.
