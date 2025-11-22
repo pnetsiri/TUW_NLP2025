@@ -1,0 +1,1 @@
+This folder contains the ML-based retrieval system implemented with VerbatimRAG, in both .ipynb and .py formats (for importing functions), the RAG evaluation notebook, and the Milvus vector index (milvus_final.db).

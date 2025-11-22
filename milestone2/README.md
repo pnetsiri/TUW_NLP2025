@@ -1,1 +1,1 @@
-
+This folder contains all work related to Milestone 2, including the rule-based TF-IDF retrieval system, and the ML-based retrieval and RAG pipeline implemented with VerbatimRAG, along with their evaluation experiments.
