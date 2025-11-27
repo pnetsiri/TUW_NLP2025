@@ -1,5 +1,5 @@
 """
-Milestone 2: Comprehensive Baseline Evaluation Script
+Milestone 2: Baseline Evaluation Script
 
 This script evaluates all baseline implementations:
 - Rule-based: TF-IDF (document-level and chunk-level)
@@ -141,7 +141,7 @@ def compute_retrieval_metrics(results_df):
 
 def main():
     print("=" * 100)
-    print("MILESTONE 2: COMPREHENSIVE BASELINE EVALUATION")
+    print("MILESTONE 2: BASELINE EVALUATION")
     print("=" * 100)
 
     # Load data - UPDATED PATH: now go up two levels from evaluation/ folder
