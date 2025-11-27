@@ -4,63 +4,63 @@
     "correct_paper_id": null,
     "correct_paper_title": null,
     "correct_passage": null,
-    "reference_answer": "Transformers use self-attention mechanisms to process entire sequences in parallel, while RNNs process sequences sequentially using recurrent connections."
+    "reference_answer": null
   },
   {
     "question": "What are the advantages and drawbacks of batch normalization compared to layer normalization?",
     "correct_paper_id": null,
     "correct_paper_title": null,
     "correct_passage": null,
-    "reference_answer": "Batch normalization normalizes across the batch dimension and works well for large batches, but layer normalization normalizes across features and is more stable for small batches and sequence models."
+    "reference_answer": null
   },
   {
     "question": "What regularization techniques help reduce overfitting in large language models?",
     "correct_paper_id": null,
     "correct_paper_title": null,
     "correct_passage": null,
-    "reference_answer": "Common techniques include dropout, weight decay, gradient clipping, and early stopping."
+    "reference_answer": null
   },
   {
     "question": "Which learning rate schedules are most effective when training deep learning models?",
     "correct_paper_id": null,
     "correct_paper_title": null,
     "correct_passage": null,
-    "reference_answer": "Cosine annealing, warmup with linear or cosine decay, and adaptive schedules are commonly effective."
+    "reference_answer": null
   },
   {
     "question": "What problems might I encounter when fine-tuning models on domain-specific data?",
     "correct_paper_id": null,
     "correct_paper_title": null,
     "correct_passage": null,
-    "reference_answer": "Common problems include overfitting, catastrophic forgetting, distribution shift, and limited training data."
+    "reference_answer": null
   },
   {
     "question": "How can I assess image-text alignment in multimodal models?",
     "correct_paper_id": null,
     "correct_paper_title": null,
     "correct_passage": null,
-    "reference_answer": "Assessment methods include contrastive metrics, cross-modal retrieval accuracy, and attention visualization."
+    "reference_answer": null
   },
   {
     "question": "What metrics should I use to evaluate text generation models?",
     "correct_paper_id": null,
     "correct_paper_title": null,
     "correct_passage": null,
-    "reference_answer": "Common metrics include BLEU, ROUGE, perplexity, human evaluation, and task-specific metrics."
+    "reference_answer": null
   },
   {
     "question": "How can we detect sarcasm using deep learning?",
     "correct_paper_id": null,
     "correct_paper_title": null,
     "correct_passage": null,
-    "reference_answer": "Deep learning approaches use contextual embeddings, attention mechanisms, and multimodal features to detect sarcasm."
+    "reference_answer": null
   },
   {
     "question": "How can I detect or measure bias in deep learning models?",
     "correct_paper_id": null,
     "correct_paper_title": null,
     "correct_passage": null,
-    "reference_answer": "Bias can be measured using fairness metrics, demographic parity, equalized odds, and disparity analysis across subgroups."
+    "reference_answer": null
   },
   {
     "question": "How can I reduce hallucinations in large language models?",
