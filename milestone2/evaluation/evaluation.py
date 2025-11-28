@@ -1,560 +1,337 @@
 """
-Milestone 2: RAG Evaluation Script
+Milestone 2: Proper RAG Evaluation Script
 
-This script evaluates complete RAG systems (Retrieval + Generation):
-- Keyword retriever (baseline)
-- BM25 retriever (baseline)
-- TF-IDF document-level retriever (baseline)
-- TF-IDF chunk-level retriever (baseline)
+This script compares the TWO actual implementations built for the project:
+1. Rule-based TF-IDF retrieval (from milestone2/rule_based/)
+2. ML-based VerbatimRAG with SPLADE embeddings (from milestone2/ML_based/)
 
 Outputs:
-- Quantitative metrics: retrieval (Recall@k, MRR, nDCG) + generation (BLEU, ROUGE)
-- Answer quality metrics (Faithfulness, Relevancy, Context Precision)
-- Qualitative examples with generated answers
-- CSV results for each baseline
+- Confusion Matrix Metrics: TP, FP, FN, TN, Precision, Recall, F1 Score
+- Retrieval Metrics: Accuracy, Recall@k, MRR
+- Visualization: Bar chart comparing Precision, Recall, F1 Score
+- Side-by-side qualitative comparison
+- CSV files:
+  * confusion_matrix_metrics.csv - TP/FP/FN/TN and derived metrics
+  * comparison_metrics.csv - Retrieval metrics
+  * results_tfidf.csv - Detailed TF-IDF results
+  * results_verbatimrag.csv - Detailed VerbatimRAG results
+  * comparison_chart.png - Visualization (requires matplotlib)
 """
 
 import json
-import re
+import sys
 import pandas as pd
 import numpy as np
 from pathlib import Path
-import warnings
+from collections import defaultdict
 
-warnings.filterwarnings("ignore")
+# Add ML_based to path for imports
+ml_based_path = Path(__file__).parent.parent / "ML_based"
+sys.path.insert(0, str(ml_based_path))
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.metrics import precision_score, recall_score, f1_score
+
+# VerbatimRAG imports
+from verbatim_rag.document import Document, Chunk, ProcessedChunk, DocumentType, ChunkType
+from verbatim_rag.ingestion import DocumentProcessor
+from verbatim_rag.vector_stores import LocalMilvusStore
+from verbatim_rag import VerbatimIndex
+from verbatim_rag.embedding_providers import SpladeProvider
 
 
 # ============================================================================
-# UTILITY FUNCTIONS
+# SYSTEM 1: RULE-BASED TF-IDF RETRIEVAL
 # ============================================================================
 
-def get_reference_answers(test_queries):
-    """
-    Extract reference answers from queries.
+class TFIDFRetriever:
+    """Rule-based TF-IDF retrieval system (document-level)"""
 
-    Args:
-        test_queries: List of query dictionaries with optional 'reference_answer' field
-
-    Returns:
-        Dictionary mapping questions to reference answers
-    """
-    return {
-        q["question"]: q["reference_answer"]
-        for q in test_queries
-        if q.get("reference_answer")
-    }
-
-
-def get_doc_text(doc):
-    """
-    Extract text content from a document or chunk.
-
-    Args:
-        doc: Dictionary containing either 'text' or 'chunk' field
-
-    Returns:
-        Text content as string
-    """
-    return doc.get('text', doc.get('chunk', ''))
-
-
-def chunk_text(text, chunk_size=220, overlap=40):
-    """Split text into overlapping chunks."""
-    words = text.split()
-    if not words:
-        return []
-
-    chunks = []
-    start = 0
-    n = len(words)
-
-    while start < n:
-        end = start + chunk_size
-        chunk_words = words[start:end]
-        chunk = " ".join(chunk_words)
-        chunks.append(chunk)
-
-        if end >= n:
-            break
-
-        start = end - overlap
-
-    return chunks
-
-
-# ============================================================================
-# RETRIEVAL BASELINES
-# ============================================================================
-
-def keyword_retrieve(query, corpus, k=5):
-    """
-    Keyword-based retrieval using simple token overlap.
-    Returns top-k documents with highest keyword overlap.
-    """
-    q_tokens = set(query.lower().split())
-    scores = []
-
-    for doc in corpus:
-        d_tokens = set(doc["text"].lower().split())
-        overlap_score = len(q_tokens & d_tokens)
-        scores.append(overlap_score)
-
-    topk_indices = np.argsort(scores)[::-1][:k]
-
-    results = []
-    for rank, idx in enumerate(topk_indices, start=1):
-        results.append({
-            "rank": rank,
-            "score": float(scores[idx]),
-            "id": corpus[idx]["id"],
-            "title": corpus[idx].get("title", ""),
-            "text": corpus[idx]["text"]
-        })
-
-    return results
-
-
-class SimpleBM25:
-    """BM25 implementation for ranking documents."""
-
-    def __init__(self, corpus, k1=1.5, b=0.75):
-        self.k1 = k1
-        self.b = b
+    def __init__(self, corpus):
         self.corpus = corpus
-        self.doc_lengths = [len(doc.split()) for doc in corpus]
-        self.avgdl = sum(self.doc_lengths) / len(self.doc_lengths) if self.doc_lengths else 0
-        self.idf = {}
-        self._calc_idf()
+        self.doc_ids = [doc["id"] for doc in corpus]
+        self.doc_titles = [doc.get("title", "") for doc in corpus]
+        self.doc_texts = [doc["text"] for doc in corpus]
 
-    def _calc_idf(self):
-        """Calculate IDF for all terms."""
-        df = {}
-        for doc in self.corpus:
-            tokens = set(doc.lower().split())
-            for token in tokens:
-                df[token] = df.get(token, 0) + 1
+        # Build TF-IDF matrix
+        self.vectorizer = TfidfVectorizer(
+            stop_words="english",
+            ngram_range=(1, 2),
+            max_df=0.9,
+            min_df=1
+        )
+        self.tfidf_matrix = self.vectorizer.fit_transform(self.doc_texts)
+        print(f"TF-IDF Retriever: Indexed {len(self.corpus)} documents")
 
-        num_docs = len(self.corpus)
-        for token, freq in df.items():
-            self.idf[token] = np.log((num_docs - freq + 0.5) / (freq + 0.5) + 1)
+    def retrieve(self, query, k=5):
+        """Retrieve top-k documents for a query"""
+        if not query.strip():
+            return []
 
-    def get_scores(self, query):
-        """Get BM25 scores for query against all documents."""
-        query_tokens = query.lower().split()
-        scores = []
+        q_vec = self.vectorizer.transform([query])
+        sims = cosine_similarity(q_vec, self.tfidf_matrix)[0]
+        topk_idx = np.argsort(sims)[::-1][:k]
 
-        for doc, doc_len in zip(self.corpus, self.doc_lengths):
-            doc_tokens = doc.lower().split()
-            score = 0
-
-            for token in query_tokens:
-                if token not in self.idf:
-                    continue
-
-                tf = doc_tokens.count(token)
-                idf = self.idf[token]
-                numerator = tf * (self.k1 + 1)
-                denominator = tf + self.k1 * (1 - self.b + self.b * doc_len / self.avgdl)
-                score += idf * numerator / denominator
-
-            scores.append(score)
-
-        return scores
+        results = []
+        for rank, idx in enumerate(topk_idx, start=1):
+            results.append({
+                "rank": rank,
+                "score": float(sims[idx]),
+                "id": self.doc_ids[idx],
+                "title": self.doc_titles[idx]
+            })
+        return results
 
 
 # ============================================================================
-# ANSWER GENERATION
+# SYSTEM 2: ML-BASED VERBATIMRAG WITH SPLADE
 # ============================================================================
 
-def regex_extract_answer(text):
-    """
-    Extract answer using simple regex patterns.
-    Looks for numbers, percentages, or returns first sentence.
-    """
-    # Try to find numbers or percentages
-    match = re.findall(r"\b\d+\.?\d*%?\b", text)
-    if match:
-        return match[0]
+class VerbatimRAGRetriever:
+    """ML-based retrieval using VerbatimRAG with SPLADE embeddings"""
 
-    # Fall back to first sentence (max 150 chars)
-    first_sentence = text.split(".")[0][:150]
-    return first_sentence
+    def __init__(self, corpus, db_path):
+        self.corpus = corpus
+        self.db_path = db_path
+        self.index = None
+        self._build_index()
 
+    def _build_index(self):
+        """Build or load VerbatimRAG index"""
+        import os
 
-def generate_answer_extractive(question, retrieved_docs):
-    """
-    Generate answer by extracting relevant text from retrieved documents.
-    Uses keyword matching to find most relevant sentences.
-    """
-    if not retrieved_docs:
-        return "No relevant information found."
+        # Prepare documents
+        documents_for_index = []
+        processor = DocumentProcessor()
 
-    # Extract keywords from question
-    stop_words = {'how', 'what', 'why', 'when', 'where', 'who', 'is', 'are',
-                  'the', 'a', 'an', 'in', 'on', 'can', 'do', 'does', 'i', '?'}
-    question_keywords = set(question.lower().split()) - stop_words
+        for paper in self.corpus:
+            doc_obj = Document(
+                title=paper['title'],
+                source="json_corpus",
+                content_type=DocumentType.TXT,
+                raw_content=paper['text'],
+                metadata={
+                    "id": paper['id'],
+                    "title": paper['title']
+                }
+            )
 
-    # Collect sentences from top documents
-    all_sentences = []
-    for doc in retrieved_docs[:3]:
-        text = get_doc_text(doc)
-        sentences = text.replace('\n', ' ').split('. ')
+            # Chunk the text
+            chunk_tuples = processor.chunker_provider.chunk(paper['text'])
 
-        for sent in sentences:
-            if len(sent.strip()) > 30:
-                sent_lower = sent.lower()
-                overlap = sum(1 for kw in question_keywords if kw in sent_lower)
-                if overlap > 0:
-                    all_sentences.append((overlap, sent))
+            for i, (raw_text, struct_enhanced) in enumerate(chunk_tuples):
+                enhanced_content = self._create_enhanced_content(struct_enhanced, doc_obj)
 
-    # Sort by keyword overlap
-    all_sentences.sort(reverse=True, key=lambda x: x[0])
+                doc_chunk = Chunk(
+                    document_id=doc_obj.id,
+                    content=raw_text,
+                    chunk_number=i,
+                    chunk_type=ChunkType.PARAGRAPH,
+                )
 
-    if all_sentences:
-        # Return top 2 sentences
-        answer_parts = [sent for _, sent in all_sentences[:2]]
-        return '. '.join(answer_parts) + '.'
-    else:
-        # Use regex extraction as fallback
-        top_text = get_doc_text(retrieved_docs[0])
-        return regex_extract_answer(top_text)
+                processed_chunk = ProcessedChunk(
+                    chunk_id=doc_chunk.id,
+                    enhanced_content=enhanced_content,
+                )
+
+                doc_chunk.add_processed_chunk(processed_chunk)
+                doc_obj.add_chunk(doc_chunk)
+
+            documents_for_index.append(doc_obj)
+
+        # Setup vector store and index
+        db_exists = os.path.exists(self.db_path)
+        store = LocalMilvusStore(self.db_path, enable_sparse=True, enable_dense=False)
+
+        sparse_embedder = SpladeProvider(
+            model_name="opensearch-project/opensearch-neural-sparse-encoding-doc-v2-distill",
+            device="cpu"
+        )
+
+        self.index = VerbatimIndex(vector_store=store, sparse_provider=sparse_embedder)
+
+        if db_exists:
+            try:
+                res = store.client.query(store.collection_name, filter='id != ""', limit=1)
+                if len(res) > 0:
+                    print("VerbatimRAG: Using existing index")
+                else:
+                    print("VerbatimRAG: Database empty, indexing documents...")
+                    self.index.add_documents(documents_for_index)
+            except Exception as e:
+                print(f"VerbatimRAG: Rebuilding index due to error: {e}")
+                store.client.drop_collection(store.collection_name)
+                self.index.add_documents(documents_for_index)
+        else:
+            print("VerbatimRAG: Creating new index...")
+            self.index.add_documents(documents_for_index)
+
+    def _create_enhanced_content(self, text, doc):
+        """Create enhanced content with metadata"""
+        parts = [text, "", "---"]
+        parts.append(f"Document: {doc.title or 'Unknown'}")
+        parts.append(f"Source: {doc.source or 'Unknown'}")
+        for key, value in doc.metadata.items():
+            parts.append(f"{key}: {value}")
+        return "\n".join(parts)
+
+    def retrieve(self, query, k=5):
+        """Retrieve top-k documents for a query"""
+        if not query.strip():
+            return []
+
+        # Query the index
+        results = self.index.query(query, k=k)
+
+        if not results:
+            return []
+
+        # Aggregate scores by paper ID
+        paper_scores = defaultdict(float)
+        paper_titles = {}
+
+        for res in results:
+            meta = getattr(res, 'metadata', {}) or {}
+            if not meta and hasattr(res, 'get'):
+                meta = res.get('metadata', {})
+
+            paper_id = meta.get('id', 'Unknown')
+            title = meta.get('title', 'Unknown')
+            score = getattr(res, 'score', getattr(res, 'distance', 0.0))
+
+            paper_scores[paper_id] += score
+            paper_titles[paper_id] = title
+
+        # Sort by total score
+        sorted_papers = sorted(paper_scores.items(), key=lambda x: x[1], reverse=True)
+
+        # Return top-k papers
+        retrieved = []
+        for rank, (paper_id, score) in enumerate(sorted_papers[:k], start=1):
+            retrieved.append({
+                "rank": rank,
+                "score": float(score),
+                "id": paper_id,
+                "title": paper_titles.get(paper_id, "Unknown")
+            })
+
+        return retrieved
 
 
 # ============================================================================
 # EVALUATION METRICS
 # ============================================================================
 
-def compute_bleu_score(reference, candidate):
-    """Compute simplified BLEU score (unigram)."""
-    ref_tokens = reference.lower().split()
-    cand_tokens = candidate.lower().split()
-
-    if not cand_tokens:
-        return 0.0
-
-    # Unigram precision
-    matches = sum(1 for token in cand_tokens if token in ref_tokens)
-    precision = matches / len(cand_tokens) if cand_tokens else 0
-
-    # Brevity penalty
-    bp = 1.0 if len(cand_tokens) >= len(ref_tokens) else np.exp(1 - len(ref_tokens)/len(cand_tokens))
-
-    return bp * precision
-
-
-def compute_rouge_scores(reference, candidate):
-    """Compute ROUGE-1, ROUGE-2, ROUGE-L scores."""
-    ref_tokens = reference.lower().split()
-    cand_tokens = candidate.lower().split()
-
-    if not cand_tokens or not ref_tokens:
-        return {'rouge1': 0.0, 'rouge2': 0.0, 'rougeL': 0.0}
-
-    # ROUGE-1 (unigram overlap)
-    ref_unigrams = set(ref_tokens)
-    cand_unigrams = set(cand_tokens)
-    overlap = len(ref_unigrams & cand_unigrams)
-    rouge1_precision = overlap / len(cand_unigrams) if cand_unigrams else 0
-    rouge1_recall = overlap / len(ref_unigrams) if ref_unigrams else 0
-    rouge1_f1 = 2 * rouge1_precision * rouge1_recall / (rouge1_precision + rouge1_recall) if (rouge1_precision + rouge1_recall) > 0 else 0
-
-    # ROUGE-2 (bigram overlap)
-    def get_bigrams(tokens):
-        return set(tuple(tokens[i:i+2]) for i in range(len(tokens)-1))
-
-    ref_bigrams = get_bigrams(ref_tokens)
-    cand_bigrams = get_bigrams(cand_tokens)
-    bigram_overlap = len(ref_bigrams & cand_bigrams)
-    rouge2_precision = bigram_overlap / len(cand_bigrams) if cand_bigrams else 0
-    rouge2_recall = bigram_overlap / len(ref_bigrams) if ref_bigrams else 0
-    rouge2_f1 = 2 * rouge2_precision * rouge2_recall / (rouge2_precision + rouge2_recall) if (rouge2_precision + rouge2_recall) > 0 else 0
-
-    # ROUGE-L (longest common subsequence)
-    def lcs_length(s1, s2):
-        m, n = len(s1), len(s2)
-        dp = [[0] * (n + 1) for _ in range(m + 1)]
-        for i in range(1, m + 1):
-            for j in range(1, n + 1):
-                if s1[i-1] == s2[j-1]:
-                    dp[i][j] = dp[i-1][j-1] + 1
-                else:
-                    dp[i][j] = max(dp[i-1][j], dp[i][j-1])
-        return dp[m][n]
-
-    lcs_len = lcs_length(ref_tokens, cand_tokens)
-    rougeL_precision = lcs_len / len(cand_tokens) if cand_tokens else 0
-    rougeL_recall = lcs_len / len(ref_tokens) if ref_tokens else 0
-    rougeL_f1 = 2 * rougeL_precision * rougeL_recall / (rougeL_precision + rougeL_recall) if (rougeL_precision + rougeL_recall) > 0 else 0
-
-    return {
-        'rouge1': rouge1_f1,
-        'rouge2': rouge2_f1,
-        'rougeL': rougeL_f1
-    }
-
-
-def recall_at_k(retrieved_ids, correct_id, k):
-    """Check if correct document is in top-k retrieved documents."""
-    if correct_id is None or correct_id == "None":
+def normalize_id(paper_id):
+    """Normalize paper ID for comparison"""
+    if paper_id is None:
         return None
-    return 1 if str(correct_id) in [str(id) for id in retrieved_ids[:k]] else 0
+    return str(paper_id).strip().lower()
 
 
-def mean_reciprocal_rank(retrieved_ids, correct_id):
-    """Calculate reciprocal rank of the correct document."""
-    if correct_id is None or correct_id == "None":
-        return None
+def compute_confusion_matrix(results_df):
+    """
+    Compute confusion matrix elements for QA evaluation
 
-    correct_id_str = str(correct_id)
-    retrieved_ids_str = [str(id) for id in retrieved_ids]
+    Only evaluates queries WITH ground truth answers.
 
-    if correct_id_str in retrieved_ids_str:
-        rank = retrieved_ids_str.index(correct_id_str) + 1
-        return 1.0 / rank
-    return 0.0
+    TP: Top-1 prediction matches ground truth
+    FP: Top-1 prediction doesn't match ground truth (wrong answer)
+    FN: System failed to answer (no retrieval or empty result)
+    TN: Not applicable - only evaluating queries with ground truth
+    """
+    # Filter to only queries with ground truth
+    valid_queries = results_df[results_df['correct_paper'].notna()].copy()
 
+    # True Positives: Correct top-1 predictions
+    tp = len(valid_queries[valid_queries['is_correct'] == True])
 
-def dcg_at_k(retrieved_ids, correct_id, k):
-    """Calculate Discounted Cumulative Gain at k."""
-    if correct_id is None or correct_id == "None":
-        return None
+    # False Positives: Wrong top-1 predictions (predicted but incorrect)
+    fp = len(valid_queries[valid_queries['is_correct'] == False])
 
-    correct_id_str = str(correct_id)
-    retrieved_ids_str = [str(id) for id in retrieved_ids[:k]]
+    # False Negatives: Failed to retrieve (if predicted_paper is None/empty)
+    # Systems always return results in current implementation, so FN = 0
+    fn = len(valid_queries[valid_queries['predicted_paper'].isna()])
 
-    dcg = 0.0
-    for i, doc_id in enumerate(retrieved_ids_str):
-        if doc_id == correct_id_str:
-            dcg += 1.0 / np.log2(i + 2)
-            break
-    return dcg
+    # True Negatives: N/A - we only evaluate queries with ground truth
+    tn = 0
 
-
-def ndcg_at_k(retrieved_ids, correct_id, k):
-    """Calculate Normalized Discounted Cumulative Gain at k."""
-    dcg = dcg_at_k(retrieved_ids, correct_id, k)
-    if dcg is None:
-        return None
-
-    # Ideal DCG (correct doc at position 0)
-    idcg = 1.0 / np.log2(2)
-
-    return dcg / idcg if idcg > 0 else 0.0
+    return tp, fp, fn, tn
 
 
-def compute_faithfulness(answer, retrieved_contexts):
-    """Measure if answer is faithful to retrieved context."""
-    if not answer or not retrieved_contexts:
-        return 0.0
+def compute_precision_recall_f1(tp, fp, fn):
+    """Compute Precision, Recall, and F1 Score from confusion matrix
 
-    # Combine all contexts
-    full_context = " ".join([get_doc_text(ctx) for ctx in retrieved_contexts])
-    full_context_lower = full_context.lower()
+    Standard formulas:
+    - Precision = TP / (TP + FP) - of all predictions, how many were correct
+    - Recall = TP / (TP + FN) - of all actual positives, how many were found
+    - F1 = harmonic mean of precision and recall
 
-    # Split answer into sentences
-    answer_sentences = answer.split('. ')
+    Note: When FN=0 (system always answers), Recall=1.0 is correct!
+    This means the system attempted to answer all questions.
+    Answer quality is measured by Precision.
+    """
+    # Precision = TP / (TP + FP)
+    precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
 
-    # Check how many answer sentences have support in context
-    supported = 0
-    for sent in answer_sentences:
-        if not sent.strip():
-            continue
-        sent_tokens = set(sent.lower().split()) - {'the', 'a', 'an', 'is', 'are', 'in', 'on'}
-        if sent_tokens:
-            overlap = sum(1 for token in sent_tokens if token in full_context_lower)
-            if overlap / len(sent_tokens) > 0.5:
-                supported += 1
+    # Recall = TP / (TP + FN)
+    recall = tp / (tp + fn) if (tp + fn) > 0 else 0.0
 
-    return supported / len(answer_sentences) if answer_sentences else 0.0
+    # F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
+    f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0.0
+
+    return precision, recall, f1
 
 
-def compute_answer_relevancy(question, answer):
-    """Measure if answer is relevant to the question."""
-    if not answer or not question:
-        return 0.0
-
-    question_lower = question.lower()
-    answer_lower = answer.lower()
-
-    # Extract keywords from question
-    stop_words = {'how', 'what', 'why', 'when', 'where', 'who', 'is', 'are',
-                  'the', 'a', 'an', 'in', 'on', 'can', 'do', 'does', 'i', '?'}
-    question_keywords = set(question_lower.split()) - stop_words
-
-    if not question_keywords:
-        return 0.5
-
-    # Check overlap
-    overlap = sum(1 for kw in question_keywords if kw in answer_lower)
-    relevancy = overlap / len(question_keywords)
-
-    return min(relevancy, 1.0)
-
-
-def compute_context_precision(retrieved_contexts, correct_paper_id):
-    """Measure precision of retrieved contexts."""
-    if not correct_paper_id or not retrieved_contexts:
-        return None
-
-    correct_id_str = str(correct_paper_id)
-
-    # Check how early the correct document appears
-    for i, ctx in enumerate(retrieved_contexts):
-        doc_id = ctx.get('id', ctx.get('doc_id', ''))
-        if str(doc_id) == correct_id_str:
-            return 1.0 / (i + 1)
-
-    return 0.0
-
-
-# ============================================================================
-# METRIC AGGREGATION
-# ============================================================================
-
-def compute_retrieval_metrics(results_df):
-    """Compute all retrieval metrics from results dataframe."""
+def compute_accuracy(results_df):
+    """Compute accuracy on queries with ground truth"""
     valid_results = results_df[results_df["correct_paper"].notna()].copy()
-
     if len(valid_results) == 0:
-        return {}
-
-    metrics = {}
-
-    # Accuracy (top-1)
-    metrics["Accuracy"] = valid_results["is_correct"].mean()
-
-    # Recall@k
-    for k in [1, 3, 5]:
-        recall_k_values = []
-        for _, row in valid_results.iterrows():
-            r = recall_at_k(row["retrieved_ids"], row["correct_paper"], k)
-            if r is not None:
-                recall_k_values.append(r)
-        metrics[f"Recall@{k}"] = np.mean(recall_k_values) if recall_k_values else 0.0
-
-    # MRR
-    mrr_values = []
-    for _, row in valid_results.iterrows():
-        mrr = mean_reciprocal_rank(row["retrieved_ids"], row["correct_paper"])
-        if mrr is not None:
-            mrr_values.append(mrr)
-    metrics["MRR"] = np.mean(mrr_values) if mrr_values else 0.0
-
-    # nDCG@k
-    for k in [3, 5]:
-        ndcg_values = []
-        for _, row in valid_results.iterrows():
-            ndcg = ndcg_at_k(row["retrieved_ids"], row["correct_paper"], k)
-            if ndcg is not None:
-                ndcg_values.append(ndcg)
-        metrics[f"nDCG@{k}"] = np.mean(ndcg_values) if ndcg_values else 0.0
-
-    # Precision, Recall, F1 (using is_correct which already compares predicted vs correct)
-    y_pred = valid_results["is_correct"].astype(int)
-    y_true = np.ones(len(y_pred), dtype=int)  # All should be correct (ideal case)
-
-    metrics["Precision"] = precision_score(y_true, y_pred, zero_division=0)
-    metrics["Recall"] = recall_score(y_true, y_pred, zero_division=0)
-    metrics["F1"] = f1_score(y_true, y_pred, zero_division=0)
-
-    return metrics
+        return 0.0
+    return valid_results["is_correct"].mean()
 
 
-def compute_generation_metrics(results_df, reference_answers):
-    """Compute BLEU and ROUGE metrics for generated answers."""
-    valid_results = results_df[results_df["question"].isin(reference_answers.keys())].copy()
-
+def compute_recall_at_k(results_df, k):
+    """Compute Recall@k on queries with ground truth"""
+    valid_results = results_df[results_df["correct_paper"].notna()].copy()
     if len(valid_results) == 0:
-        return {}
+        return 0.0
 
-    bleu_scores = []
-    rouge1_scores = []
-    rouge2_scores = []
-    rougeL_scores = []
-
+    recalls = []
     for _, row in valid_results.iterrows():
-        question = row["question"]
-        generated_answer = row.get("generated_answer", "")
+        correct_id = str(row["correct_paper"])
+        retrieved_ids = [str(rid) for rid in row["retrieved_ids"][:k]]
+        recalls.append(1 if correct_id in retrieved_ids else 0)
 
-        if question in reference_answers:
-            reference = reference_answers[question]
-
-            # BLEU
-            bleu = compute_bleu_score(reference, generated_answer)
-            bleu_scores.append(bleu)
-
-            # ROUGE
-            rouge = compute_rouge_scores(reference, generated_answer)
-            rouge1_scores.append(rouge['rouge1'])
-            rouge2_scores.append(rouge['rouge2'])
-            rougeL_scores.append(rouge['rougeL'])
-
-    return {
-        "BLEU": np.mean(bleu_scores) if bleu_scores else 0.0,
-        "ROUGE-1": np.mean(rouge1_scores) if rouge1_scores else 0.0,
-        "ROUGE-2": np.mean(rouge2_scores) if rouge2_scores else 0.0,
-        "ROUGE-L": np.mean(rougeL_scores) if rougeL_scores else 0.0
-    }
+    return np.mean(recalls)
 
 
-def compute_quality_metrics(results_df):
-    """Compute answer quality metrics."""
-    valid_results = results_df.dropna(subset=["generated_answer"]).copy()
-
+def compute_mrr(results_df):
+    """Compute Mean Reciprocal Rank"""
+    valid_results = results_df[results_df["correct_paper"].notna()].copy()
     if len(valid_results) == 0:
-        return {}
+        return 0.0
 
-    faithfulness_scores = []
-    relevancy_scores = []
-    context_precision_scores = []
-
+    rrs = []
     for _, row in valid_results.iterrows():
-        question = row["question"]
-        answer = row["generated_answer"]
-        retrieved_contexts = row.get("retrieved_contexts", [])
-        correct_paper = row.get("correct_paper")
+        correct_id = str(row["correct_paper"])
+        retrieved_ids = [str(rid) for rid in row["retrieved_ids"]]
 
-        # Faithfulness
-        faith = compute_faithfulness(answer, retrieved_contexts)
-        faithfulness_scores.append(faith)
+        if correct_id in retrieved_ids:
+            rank = retrieved_ids.index(correct_id) + 1
+            rrs.append(1.0 / rank)
+        else:
+            rrs.append(0.0)
 
-        # Answer Relevancy
-        relev = compute_answer_relevancy(question, answer)
-        relevancy_scores.append(relev)
-
-        # Context Precision
-        if correct_paper:
-            ctx_prec = compute_context_precision(retrieved_contexts, correct_paper)
-            if ctx_prec is not None:
-                context_precision_scores.append(ctx_prec)
-
-    return {
-        "Faithfulness": np.mean(faithfulness_scores) if faithfulness_scores else 0.0,
-        "Answer_Relevancy": np.mean(relevancy_scores) if relevancy_scores else 0.0,
-        "Context_Precision": np.mean(context_precision_scores) if context_precision_scores else 0.0
-    }
+    return np.mean(rrs)
 
 
 # ============================================================================
-# EVALUATION LOOPS
+# EVALUATION LOOP
 # ============================================================================
 
-def evaluate_baseline(retrieve_fn, test_queries, baseline_name):
-    """
-    Generic evaluation loop for any retrieval baseline.
-
-    Args:
-        retrieve_fn: Function that takes (query, k) and returns list of retrieved docs
-        test_queries: List of test query dictionaries
-        baseline_name: Name of the baseline for logging
-
-    Returns:
-        DataFrame with results
-    """
+def evaluate_system(retriever, test_queries, system_name):
+    """Evaluate a retrieval system on test queries"""
     results = []
 
     for entry in test_queries:
@@ -562,28 +339,28 @@ def evaluate_baseline(retrieve_fn, test_queries, baseline_name):
         correct_paper = entry["correct_paper_id"]
 
         # Retrieve documents
-        retrieved = retrieve_fn(question, k=5)
+        retrieved = retriever.retrieve(question, k=5)
 
         retrieved_ids = [r["id"] for r in retrieved]
         top_pred = retrieved[0]["id"] if retrieved else None
 
-        # Generate answer
-        generated_answer = generate_answer_extractive(question, retrieved)
+        # Use normalized comparison for correctness check
+        is_correct = None
+        if correct_paper is not None:
+            is_correct = (normalize_id(correct_paper) == normalize_id(top_pred))
 
         results.append({
             "question": question,
             "predicted_paper": top_pred,
             "correct_paper": str(correct_paper) if correct_paper else None,
-            "is_correct": (str(correct_paper) == str(top_pred) if correct_paper else None),
+            "is_correct": is_correct,
             "retrieved_ids": retrieved_ids,
             "retrieved_scores": [r["score"] for r in retrieved],
-            "retrieved_titles": [r.get("title", "") for r in retrieved],
-            "retrieved_contexts": retrieved,
-            "generated_answer": generated_answer
+            "retrieved_titles": [r["title"] for r in retrieved]
         })
 
     df = pd.DataFrame(results)
-    print(f"{baseline_name}: Evaluated {len(df)} queries")
+    print(f"{system_name}: Evaluated {len(df)} queries")
 
     return df
 
@@ -594,7 +371,8 @@ def evaluate_baseline(retrieve_fn, test_queries, baseline_name):
 
 def main():
     print("=" * 80)
-    print("MILESTONE 2: RAG EVALUATION (Retrieval + Generation)")
+    print("MILESTONE 2: COMPARATIVE EVALUATION")
+    print("TF-IDF (Rule-based) vs VerbatimRAG (ML-based)")
     print("=" * 80)
 
     # Load data
@@ -612,146 +390,33 @@ def main():
     print(f"Loaded {len(test_queries)} test queries")
 
     queries_with_gt = [q for q in test_queries if q["correct_paper_id"] is not None]
+    queries_without_gt = [q for q in test_queries if q["correct_paper_id"] is None]
     print(f"Queries with ground truth: {len(queries_with_gt)}")
-
-    # Load reference answers from queries
-    reference_answers = get_reference_answers(test_queries)
-    print(f"Reference answers: {len(reference_answers)}")
-
-    # Prepare corpus data
-    doc_ids = [doc["id"] for doc in corpus]
-    doc_titles = [doc.get("title", "") for doc in corpus]
-    doc_texts = [doc["text"] for doc in corpus]
+    print(f"Queries without ground truth: {len(queries_without_gt)}")
+    print(f"\nNote: Metrics are computed only on the {len(queries_with_gt)} queries with ground truth.")
 
     # ========================================================================
-    # BASELINE 1: KEYWORD RETRIEVAL
+    # SYSTEM 1: TF-IDF (Rule-based)
     # ========================================================================
 
     print("\n" + "-" * 80)
-    print("BASELINE 1: KEYWORD RETRIEVAL")
+    print("SYSTEM 1: TF-IDF (Rule-based)")
     print("-" * 80)
 
-    def retrieve_keyword(query, k=5):
-        return keyword_retrieve(query, corpus, k)
-
-    df_keyword = evaluate_baseline(retrieve_keyword, test_queries, "Keyword")
+    tfidf_retriever = TFIDFRetriever(corpus)
+    df_tfidf = evaluate_system(tfidf_retriever, test_queries, "TF-IDF")
 
     # ========================================================================
-    # BASELINE 2: BM25 RETRIEVAL
+    # SYSTEM 2: VerbatimRAG (ML-based)
     # ========================================================================
 
     print("\n" + "-" * 80)
-    print("BASELINE 2: BM25 RETRIEVAL")
+    print("SYSTEM 2: VerbatimRAG with SPLADE (ML-based)")
     print("-" * 80)
 
-    bm25 = SimpleBM25(doc_texts)
-
-    def retrieve_bm25(query, k=5):
-        if not query.strip():
-            return []
-        scores = bm25.get_scores(query)
-        topk_idx = np.argsort(scores)[::-1][:k]
-        results = []
-        for rank, idx in enumerate(topk_idx, start=1):
-            results.append({
-                "rank": rank,
-                "score": float(scores[idx]),
-                "id": doc_ids[idx],
-                "title": doc_titles[idx],
-                "text": doc_texts[idx]
-            })
-        return results
-
-    df_bm25 = evaluate_baseline(retrieve_bm25, test_queries, "BM25")
-
-    # ========================================================================
-    # BASELINE 3: TF-IDF DOCUMENT-LEVEL
-    # ========================================================================
-
-    print("\n" + "-" * 80)
-    print("BASELINE 3: TF-IDF DOCUMENT-LEVEL")
-    print("-" * 80)
-
-    vectorizer_doc = TfidfVectorizer(
-        stop_words="english", ngram_range=(1, 2), max_df=0.9, min_df=1
-    )
-    tfidf_matrix_doc = vectorizer_doc.fit_transform(doc_texts)
-    print(f"TF-IDF matrix: {tfidf_matrix_doc.shape}")
-
-    def retrieve_tfidf_doc(query, k=5):
-        if not query.strip():
-            return []
-        q_vec = vectorizer_doc.transform([query])
-        sims = cosine_similarity(q_vec, tfidf_matrix_doc)[0]
-        topk_idx = np.argsort(sims)[::-1][:k]
-        results = []
-        for rank, idx in enumerate(topk_idx, start=1):
-            results.append({
-                "rank": rank,
-                "score": float(sims[idx]),
-                "id": doc_ids[idx],
-                "title": doc_titles[idx],
-                "text": doc_texts[idx]
-            })
-        return results
-
-    df_tfidf_doc = evaluate_baseline(retrieve_tfidf_doc, test_queries, "TF-IDF-Doc")
-
-    # ========================================================================
-    # BASELINE 4: TF-IDF CHUNK-LEVEL
-    # ========================================================================
-
-    print("\n" + "-" * 80)
-    print("BASELINE 4: TF-IDF CHUNK-LEVEL")
-    print("-" * 80)
-
-    # Create chunks
-    passage_texts = []
-    passage_meta = []
-
-    for doc in corpus:
-        doc_id = doc["id"]
-        title = doc.get("title", "")
-        text = doc["text"]
-
-        chunks = chunk_text(text, chunk_size=220, overlap=40)
-
-        for i, chunk in enumerate(chunks):
-            passage_texts.append(chunk)
-            passage_meta.append({
-                "id": doc_id,
-                "title": title,
-                "chunk_id": f"{doc_id}_chunk_{i}",
-                "text": chunk
-            })
-
-    print(f"Created {len(passage_texts)} chunks from {len(corpus)} documents")
-
-    vectorizer_chunk = TfidfVectorizer(
-        stop_words="english", ngram_range=(1, 2), max_df=0.9, min_df=1
-    )
-    tfidf_matrix_chunk = vectorizer_chunk.fit_transform(passage_texts)
-    print(f"TF-IDF matrix: {tfidf_matrix_chunk.shape}")
-
-    def retrieve_tfidf_chunk(query, k=5):
-        if not query.strip():
-            return []
-        q_vec = vectorizer_chunk.transform([query])
-        sims = cosine_similarity(q_vec, tfidf_matrix_chunk)[0]
-        topk_idx = np.argsort(sims)[::-1][:k]
-        results = []
-        for rank, idx in enumerate(topk_idx, start=1):
-            meta = passage_meta[idx]
-            results.append({
-                "rank": rank,
-                "score": float(sims[idx]),
-                "id": meta["id"],
-                "title": meta["title"],
-                "text": meta["text"]
-            })
-        return results
-
-    df_tfidf_chunk = evaluate_baseline(retrieve_tfidf_chunk, test_queries, "TF-IDF-Chunk")
+    db_path = ml_based_path / "milvus_final.db"
+    verbatim_retriever = VerbatimRAGRetriever(corpus, str(db_path))
+    df_verbatim = evaluate_system(verbatim_retriever, test_queries, "VerbatimRAG")
 
     # ========================================================================
     # COMPUTE METRICS
@@ -761,64 +426,204 @@ def main():
     print("COMPUTING METRICS")
     print("=" * 80)
 
-    # Retrieval metrics
-    metrics_keyword = compute_retrieval_metrics(df_keyword)
-    metrics_bm25 = compute_retrieval_metrics(df_bm25)
-    metrics_tfidf_doc = compute_retrieval_metrics(df_tfidf_doc)
-    metrics_tfidf_chunk = compute_retrieval_metrics(df_tfidf_chunk)
+    # Compute confusion matrix for both systems
+    tp_tfidf, fp_tfidf, fn_tfidf, tn_tfidf = compute_confusion_matrix(df_tfidf)
+    precision_tfidf, recall_tfidf, f1_tfidf = compute_precision_recall_f1(tp_tfidf, fp_tfidf, fn_tfidf)
 
-    # Generation metrics
-    gen_keyword = compute_generation_metrics(df_keyword, reference_answers)
-    gen_bm25 = compute_generation_metrics(df_bm25, reference_answers)
-    gen_tfidf_doc = compute_generation_metrics(df_tfidf_doc, reference_answers)
-    gen_tfidf_chunk = compute_generation_metrics(df_tfidf_chunk, reference_answers)
+    tp_verbatim, fp_verbatim, fn_verbatim, tn_verbatim = compute_confusion_matrix(df_verbatim)
+    precision_verbatim, recall_verbatim, f1_verbatim = compute_precision_recall_f1(tp_verbatim, fp_verbatim, fn_verbatim)
 
-    # Quality metrics
-    qual_keyword = compute_quality_metrics(df_keyword)
-    qual_bm25 = compute_quality_metrics(df_bm25)
-    qual_tfidf_doc = compute_quality_metrics(df_tfidf_doc)
-    qual_tfidf_chunk = compute_quality_metrics(df_tfidf_chunk)
+    print("\nConfusion Matrix - TF-IDF (Rule-based):")
+    print(f"  TP: {tp_tfidf}, FP: {fp_tfidf}, FN: {fn_tfidf}, TN: {tn_tfidf} (N/A - only evaluating queries with ground truth)")
+    print(f"  Precision: {precision_tfidf:.4f}, Recall: {recall_tfidf:.4f}, F1: {f1_tfidf:.4f}")
 
-    # Combine metrics
-    all_metrics = {
-        "Keyword": {**metrics_keyword, **gen_keyword, **qual_keyword},
-        "BM25": {**metrics_bm25, **gen_bm25, **qual_bm25},
-        "TF-IDF (Document)": {**metrics_tfidf_doc, **gen_tfidf_doc, **qual_tfidf_doc},
-        "TF-IDF (Chunk)": {**metrics_tfidf_chunk, **gen_tfidf_chunk, **qual_tfidf_chunk}
+    print("\nConfusion Matrix - VerbatimRAG (ML-based):")
+    print(f"  TP: {tp_verbatim}, FP: {fp_verbatim}, FN: {fn_verbatim}, TN: {tn_verbatim} (N/A - only evaluating queries with ground truth)")
+    print(f"  Precision: {precision_verbatim:.4f}, Recall: {recall_verbatim:.4f}, F1: {f1_verbatim:.4f}")
+
+    # Also compute retrieval metrics for comparison
+    metrics_tfidf = {
+        "Accuracy": compute_accuracy(df_tfidf),
+        "Recall@1": compute_recall_at_k(df_tfidf, 1),
+        "Recall@3": compute_recall_at_k(df_tfidf, 3),
+        "Recall@5": compute_recall_at_k(df_tfidf, 5),
+        "MRR": compute_mrr(df_tfidf)
     }
 
-    # Create comparison table
-    metric_names = [
-        "Accuracy", "Precision", "Recall", "F1",
-        "Recall@1", "Recall@3", "Recall@5",
-        "MRR", "nDCG@3", "nDCG@5",
-        "BLEU", "ROUGE-1", "ROUGE-2", "ROUGE-L",
-        "Faithfulness", "Answer_Relevancy", "Context_Precision"
-    ]
+    metrics_verbatim = {
+        "Accuracy": compute_accuracy(df_verbatim),
+        "Recall@1": compute_recall_at_k(df_verbatim, 1),
+        "Recall@3": compute_recall_at_k(df_verbatim, 3),
+        "Recall@5": compute_recall_at_k(df_verbatim, 5),
+        "MRR": compute_mrr(df_verbatim)
+    }
 
-    comparison_data = {"Baseline": list(all_metrics.keys())}
-    for metric in metric_names:
-        comparison_data[metric] = [all_metrics[baseline].get(metric, 0) for baseline in all_metrics.keys()]
+    # Create comparison table for retrieval metrics
+    comparison_data = {
+        "System": ["TF-IDF (Rule-based)", "VerbatimRAG (ML-based)"],
+        "Accuracy": [metrics_tfidf["Accuracy"], metrics_verbatim["Accuracy"]],
+        "Recall@1": [metrics_tfidf["Recall@1"], metrics_verbatim["Recall@1"]],
+        "Recall@3": [metrics_tfidf["Recall@3"], metrics_verbatim["Recall@3"]],
+        "Recall@5": [metrics_tfidf["Recall@5"], metrics_verbatim["Recall@5"]],
+        "MRR": [metrics_tfidf["MRR"], metrics_verbatim["MRR"]]
+    }
 
     df_comparison = pd.DataFrame(comparison_data)
+
+    # Create confusion matrix comparison table
+    confusion_matrix_data = {
+        "Metric": ["TP", "FP", "FN", "TN", "Precision", "Recall", "F1 Score"],
+        "TF-IDF (Rule-based)": [
+            tp_tfidf, fp_tfidf, fn_tfidf, tn_tfidf,
+            precision_tfidf, recall_tfidf, f1_tfidf
+        ],
+        "VerbatimRAG (ML-based)": [
+            tp_verbatim, fp_verbatim, fn_verbatim, tn_verbatim,
+            precision_verbatim, recall_verbatim, f1_verbatim
+        ]
+    }
+
+    df_confusion_matrix = pd.DataFrame(confusion_matrix_data)
 
     # ========================================================================
     # SAVE RESULTS
     # ========================================================================
 
     output_dir = Path(__file__).parent
-    df_comparison.to_csv(output_dir / "evaluation_metrics.csv", index=False)
-    df_keyword.to_csv(output_dir / "results_keyword.csv", index=False)
-    df_bm25.to_csv(output_dir / "results_bm25_rag.csv", index=False)
-    df_tfidf_doc.to_csv(output_dir / "results_tfidf_document_rag.csv", index=False)
-    df_tfidf_chunk.to_csv(output_dir / "results_tfidf_chunk_rag.csv", index=False)
+
+    # Save all CSV files
+    df_comparison.to_csv(output_dir / "comparison_metrics.csv", index=False)
+    df_confusion_matrix.to_csv(output_dir / "confusion_matrix_metrics.csv", index=False)
+    df_tfidf.to_csv(output_dir / "results_tfidf.csv", index=False)
+    df_verbatim.to_csv(output_dir / "results_verbatimrag.csv", index=False)
 
     print("\nResults saved:")
-    print(f"  {output_dir / 'evaluation_metrics.csv'}")
-    print(f"  {output_dir / 'results_keyword.csv'}")
-    print(f"  {output_dir / 'results_bm25_rag.csv'}")
-    print(f"  {output_dir / 'results_tfidf_document_rag.csv'}")
-    print(f"  {output_dir / 'results_tfidf_chunk_rag.csv'}")
+    print(f"  {output_dir / 'comparison_metrics.csv'}")
+    print(f"  {output_dir / 'confusion_matrix_metrics.csv'}")
+    print(f"  {output_dir / 'results_tfidf.csv'}")
+    print(f"  {output_dir / 'results_verbatimrag.csv'}")
+
+    # Build qualitative comparison artifact covering every labeled query
+    qualitative_rows = []
+    labeled_indices = df_tfidf[df_tfidf["correct_paper"].notna()].index
+
+    def format_prediction(row):
+        """Return a string describing the top prediction with correctness marker."""
+        pred = row["predicted_paper"] if pd.notna(row["predicted_paper"]) else "None"
+        status = row["is_correct"]
+        if status is True:
+            marker = "✓"
+        elif status is False:
+            marker = "✗"
+        else:
+            marker = "N/A"
+        return f"{pred} ({marker})"
+
+    def locate_correct_rank(row):
+        """Return 1-based rank of the ground-truth paper inside retrieved_ids."""
+        correct_id = row["correct_paper"]
+        retrieved_ids = row["retrieved_ids"]
+        if correct_id is None or not isinstance(retrieved_ids, list):
+            return None
+        retrieved_strs = [str(rid) for rid in retrieved_ids]
+        if correct_id in retrieved_strs:
+            return retrieved_strs.index(correct_id) + 1
+        return None
+
+    for idx in labeled_indices:
+        tfidf_row = df_tfidf.loc[idx]
+        verbatim_row = df_verbatim.loc[idx]
+
+        note_parts = []
+        tfidf_rank = locate_correct_rank(tfidf_row)
+        verbatim_rank = locate_correct_rank(verbatim_row)
+
+        if tfidf_row["is_correct"] is False:
+            if tfidf_rank:
+                note_parts.append(f"TF-IDF correct at rank {tfidf_rank}")
+            else:
+                note_parts.append("TF-IDF missed in top-5")
+
+        if verbatim_row["is_correct"] is False:
+            if verbatim_rank:
+                note_parts.append(f"VerbatimRAG correct at rank {verbatim_rank}")
+            else:
+                note_parts.append("VerbatimRAG missed in top-5")
+
+        qualitative_rows.append({
+            "Query": tfidf_row["question"],
+            "Ground Truth": tfidf_row["correct_paper"],
+            "TF-IDF Top-1": format_prediction(tfidf_row),
+            "VerbatimRAG Top-1": format_prediction(verbatim_row),
+            "Notes": "; ".join(note_parts)
+        })
+
+    df_qualitative = pd.DataFrame(qualitative_rows)
+    qualitative_csv = output_dir / "qualitative_comparison.csv"
+    df_qualitative.to_csv(qualitative_csv, index=False)
+
+    try:
+        qualitative_md = output_dir / "qualitative_comparison.md"
+        md_header = "# Qualitative Comparison: TF-IDF vs VerbatimRAG\n\n"
+        qualitative_md.write_text(md_header + df_qualitative.to_markdown(index=False) + "\n",
+                                  encoding="utf-8")
+        print(f"  {qualitative_csv}")
+        print(f"  {qualitative_md}")
+    except Exception as exc:
+        print(f"  {qualitative_csv}")
+        print(f"  Markdown export skipped: {exc}")
+
+    # ========================================================================
+    # GENERATE VISUALIZATION
+    # ========================================================================
+
+    try:
+        import matplotlib.pyplot as plt
+
+        print("\nGenerating visualization...")
+
+        metrics = ['Precision', 'Recall', 'F1 Score']
+        tfidf_values = [precision_tfidf, recall_tfidf, f1_tfidf]
+        verbatim_values = [precision_verbatim, recall_verbatim, f1_verbatim]
+
+        x = np.arange(len(metrics))
+        width = 0.35
+
+        fig, ax = plt.subplots(figsize=(10, 6))
+        bars1 = ax.bar(x - width/2, tfidf_values, width, label='TF-IDF (Rule-based)',
+                       color='#3498db', alpha=0.8)
+        bars2 = ax.bar(x + width/2, verbatim_values, width, label='VerbatimRAG (ML-based)',
+                       color='#e74c3c', alpha=0.8)
+
+        ax.set_ylabel('Score', fontsize=12, fontweight='bold')
+        ax.set_xlabel('Metrics', fontsize=12, fontweight='bold')
+        ax.set_title('Baseline System Comparison: Question-Answering Performance',
+                     fontsize=14, fontweight='bold', pad=20)
+        ax.set_xticks(x)
+        ax.set_xticklabels(metrics, fontsize=11)
+        ax.legend(fontsize=11, loc='lower right')
+        ax.set_ylim([0, 1.1])
+        ax.grid(axis='y', alpha=0.3, linestyle='--')
+
+        # Add value labels on bars
+        for bars in [bars1, bars2]:
+            for bar in bars:
+                height = bar.get_height()
+                ax.text(bar.get_x() + bar.get_width()/2., height,
+                        f'{height:.2%}',
+                        ha='center', va='bottom', fontsize=10, fontweight='bold')
+
+        plt.tight_layout()
+        viz_path = output_dir / 'comparison_chart.png'
+        plt.savefig(viz_path, dpi=300, bbox_inches='tight')
+        print(f"  {viz_path}")
+        plt.close()
+
+    except ImportError:
+        print("\nMatplotlib not installed. Skipping visualization.")
+        print("Install with: pip install matplotlib")
+    except Exception as e:
+        print(f"\nVisualization generation failed: {e}")
 
     # ========================================================================
     # QUALITATIVE EXAMPLES
@@ -840,43 +645,24 @@ def main():
         print(f"Query: {question}")
         print(f"Ground Truth: [{correct_paper}] {correct_title}")
 
-        if question in reference_answers:
-            print(f"Reference Answer: {reference_answers[question][:150]}...")
-
-        # Show results from each baseline
+        # Get results from both systems
         idx = test_queries.index(query)
 
         print(f"\n{'-'*80}")
-        print("Keyword Retrieval")
+        print("TF-IDF (Rule-based)")
         print(f"{'-'*80}")
-        row = df_keyword.iloc[idx]
+        row = df_tfidf.iloc[idx]
         print(f"  Predicted: {row['predicted_paper']}")
         print(f"  Correct: {'✓' if row['is_correct'] else '✗'}")
-        print(f"  Answer: {row['generated_answer'][:150]}...")
+        print(f"  Top 3: {row['retrieved_ids'][:3]}")
 
         print(f"\n{'-'*80}")
-        print("BM25 Retrieval")
+        print("VerbatimRAG (ML-based)")
         print(f"{'-'*80}")
-        row = df_bm25.iloc[idx]
+        row = df_verbatim.iloc[idx]
         print(f"  Predicted: {row['predicted_paper']}")
         print(f"  Correct: {'✓' if row['is_correct'] else '✗'}")
-        print(f"  Answer: {row['generated_answer'][:150]}...")
-
-        print(f"\n{'-'*80}")
-        print("TF-IDF Document")
-        print(f"{'-'*80}")
-        row = df_tfidf_doc.iloc[idx]
-        print(f"  Predicted: {row['predicted_paper']}")
-        print(f"  Correct: {'✓' if row['is_correct'] else '✗'}")
-        print(f"  Answer: {row['generated_answer'][:150]}...")
-
-        print(f"\n{'-'*80}")
-        print("TF-IDF Chunk")
-        print(f"{'-'*80}")
-        row = df_tfidf_chunk.iloc[idx]
-        print(f"  Predicted: {row['predicted_paper']}")
-        print(f"  Correct: {'✓' if row['is_correct'] else '✗'}")
-        print(f"  Answer: {row['generated_answer'][:150]}...")
+        print(f"  Top 3: {row['retrieved_ids'][:3]}")
 
     # ========================================================================
     # SUMMARY
@@ -886,25 +672,44 @@ def main():
     print("SUMMARY")
     print("=" * 80)
 
-    # Format for display
+    # Display confusion matrix metrics
+    print("\n--- CONFUSION MATRIX METRICS ---")
+    df_cm_display = df_confusion_matrix.copy()
+    # Format only the last 3 rows (Precision, Recall, F1)
+    for idx in range(4, 7):
+        df_cm_display.iloc[idx, 1] = f"{df_cm_display.iloc[idx, 1]:.4f} ({df_cm_display.iloc[idx, 1]*100:.2f}%)"
+        df_cm_display.iloc[idx, 2] = f"{df_cm_display.iloc[idx, 2]:.4f} ({df_cm_display.iloc[idx, 2]*100:.2f}%)"
+
+    print("\n" + df_cm_display.to_string(index=False))
+
+    # Display retrieval metrics
+    print("\n--- RETRIEVAL METRICS ---")
     df_display = df_comparison.copy()
     for col in df_display.columns:
-        if col != "Baseline":
-            df_display[col] = df_display[col].apply(lambda x: f"{x*100:.2f}%" if x <= 1 else f"{x:.4f}")
+        if col != "System":
+            df_display[col] = df_display[col].apply(lambda x: f"{x*100:.2f}%")
 
     print("\n" + df_display.to_string(index=False))
 
-    for baseline_name, metrics in all_metrics.items():
-        print(f"\n{baseline_name}:")
-        print(f"  Retrieval: Accuracy={metrics.get('Accuracy', 0)*100:.2f}%, Recall@3={metrics.get('Recall@3', 0)*100:.2f}%, MRR={metrics.get('MRR', 0):.4f}")
-        print(f"  Generation: BLEU={metrics.get('BLEU', 0):.4f}, ROUGE-1={metrics.get('ROUGE-1', 0):.4f}")
-        print(f"  Quality: Faithfulness={metrics.get('Faithfulness', 0):.4f}, Relevancy={metrics.get('Answer_Relevancy', 0):.4f}")
+    # Performance conclusion
+    print("\n--- PERFORMANCE CONCLUSION ---")
+    print(f"\nWinner: {'TF-IDF (Rule-based)' if f1_tfidf > f1_verbatim else 'VerbatimRAG (ML-based)'}")
+    print(f"TF-IDF achieves {precision_tfidf*100:.2f}% precision vs VerbatimRAG's {precision_verbatim*100:.2f}%")
+    print(f"F1 Score: TF-IDF {f1_tfidf*100:.2f}% vs VerbatimRAG {f1_verbatim*100:.2f}%")
+
+    precision_diff = abs(precision_tfidf - precision_verbatim) * 100
+    print(f"\nLargest difference is in Precision ({precision_diff:.2f}% gap)")
+
+    if precision_tfidf > precision_verbatim:
+        print("TF-IDF produces fewer false positives in document ranking.")
+    else:
+        print("VerbatimRAG produces fewer false positives in document ranking.")
 
     print("\n" + "=" * 80)
     print("EVALUATION COMPLETE")
     print("=" * 80)
 
-    return df_comparison, df_keyword, df_bm25, df_tfidf_doc, df_tfidf_chunk
+    return df_comparison, df_tfidf, df_verbatim
 
 
 if __name__ == "__main__":
