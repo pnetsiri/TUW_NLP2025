@@ -51,6 +51,8 @@ For milestone 2, we experimented with two types of retrieval systems:
 
     This system uses VerbatimRAG with SPLADE embeddings and a Milvus vector store to perform retrieval over document chunks.
 
+The [evaluation script](milestone2/evaluation/evaluation.py) compares both systems by running all queries on the prepared corpus, computing key metrics (Precision, Recall, F1, Accuracy, Recall@k, MRR), and saving CSV results, qualitative comparisons, and performance plots. All outputs are in the [evaluation directory](milestone2/evaluation/), with full metrics, visualizations, and a detailed discussion in [Results.md](milestone2/evaluation/Results.md).
+
 ## Project Repository Structure
 
 - [paper/](paper/): academic papers in original PDF format
@@ -63,12 +65,21 @@ For milestone 2, we experimented with two types of retrieval systems:
 - [queries_json/](queries_json/): JSON file with evaluation questions
 - [milestone2/](milestone2/): all files related to Milestone 2
   - [rule_based/](milestone2/rule_based/): TF-IDF–based retrieval system
-    - [MileStone2_TF_IDF.ipynb](milestone2/rule_based/MileStone2_TF_IDF.ipynb): retrieval implementation and its evaluation
+    - [MileStone2_TF_IDF.ipynb](milestone2/rule_based/MileStone2_TF_IDF.ipynb): retrieval implementation with its preliminary evaluation
   - [ML_based/](milestone2/ML_based/): ML-based retrieval and RAG pipeline using VerbatimRAG
     - [ML_based_classification.ipynb](milestone2/ML_based/ML_based_classification.ipynb): RAG implementation
-    - [ML_based_classification.py](milestone2/ML_based/ML_based_classification.py): RAG implementation in `.py` for importing functions.
+    - [ML_based_classification.py](milestone2/ML_based/ML_based_classification.py): RAG implementation in `.py` for importing functions needed for [rag_testing.ipynb](milestone2/ML_based/rag_testing.ipynb)
     - [milvus_final.db](milestone2/ML_based/milvus_final.db): Milvus database
-    - [rag_testing.ipynb](milestone2/ML_based/rag_testing.ipynb): evaluation notebook
+    - [rag_testing.ipynb](milestone2/ML_based/rag_testing.ipynb): preliminary evaluation notebook
+  - [evaluation/](milestone2/evaluation/): evaluation for milestone 2, comparing TF-IDF vs VerbatimRAG
+    - [Results.md](milestone2/evaluation/Results.md): results of the comparison, summary and findings
+    - [qualitative_comparison.md](milestone2/evaluation/qualitative_comparison.md): qualitative comparison
+    - [evaluation.py](milestone2/evaluation/evaluation.py): evaluation script
+    -  [confusion_matrix_metrics.csv](milestone2/evaluation/confusion_matrix_metrics.csv): TP/FP/FN/TN and derived metrics
+    -  [comparison_metrics.csv](milestone2/evaluation/comparison_metrics.csv): retrieval metrics
+    -  [results_tfidf.csv](milestone2/evaluation/results_tfidf.csv): detailed TF-IDF results
+    -  [results_verbatimrag.csv](milestone2/evaluation/results_verbatimrag.csv): detailed VerbatimRAG results
+    -  [comparison_chart.png](milestone2/evaluation/comparison_chart.png): visualization
 
 ## How to reproduce project
 
@@ -119,4 +130,10 @@ jupyter notebook milestone2/rule_based/MileStone2_TF_IDF.ipynb
 ```bash
 jupyter notebook milestone2/ML_based/ML_based_classification.ipynb
 jupyter notebook milestone2/ML_based/rag_testing.ipynb
+```
+
+7. Reproduce the evaluation by running:
+
+```bash
+python milestone2/evaluation/evaluation.py
 ```
